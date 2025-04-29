@@ -1,12 +1,20 @@
-- Alle Links sammeln
-- Seiten Analysieren (was wo wie extrahieren) / 
-    - pdfs auf Seiten auch downloaden
-- extrahierer schreiben
-- extrahierer durchführen
+/- Alle Links sammeln
+/- Seiten Analysieren (was wo wie extrahieren) / 
+    /- pdfs auf Seiten auch downloaden
+/- extrahierer schreiben
+/- extrahierer durchführen
 - sich am Ergebnis freuen
 
-- Recherchieren RAGAS, LibreEval, Prometheus etc?
+/- Recherchieren RAGAS, LibreEval, Prometheus etc.
 - Benchmarkings generieren
+	- linode aufsetzen
+	- recherchieren wie pip in linode funktioniert (venv?)
+	- ragas system aufsetzen
+	- use-cases erstellen
+	- files importieren
+	- ragas questions einfügen
+	- rag pipeline aufbauen
+	- rag pipeline evaluieren
 
 - Feedback in Bachelorarbeit ergänzen (auch Arbeitsverteilung)
 - An Prüfer schicken
