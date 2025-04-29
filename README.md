@@ -39,51 +39,51 @@ Nevertheless, various types of hallucinations continue to occur even with the us
 
 The scientific literature describes numerous strategies for reducing hallucinations, including specifically in RAG applications. In this section, these techniques are presented, scientifically categorized and then evaluated based on their applicability in this work.
 
-- **Optimization of embeddings by fine-tuning the models for the specific domain**
+### Optimization of embeddings by fine-tuning the models for the specific domain
 
 The models for embedding can be trained on domain-specific data (Yunianto, Permanasari, & Widyawan, 2020) . This can significantly increase the relevance of the retrieved documents. Since domain-specific data is available for this work, this method is feasible.
 
-- **Hybrid search (dense + sparse)**
+### Hybrid search (dense + sparse)
 
 The combination of sparse (e.g. BM25) and dense (e.g. Sentence-BERT) models is an effective method for improving precision and recall for document retrieval (Priyanka Mandikal, 2024) . Sparse models primarily extract documents in which the query occurs exactly word for word, but neglect documents with similar context or synonyms to the contents of the search query. Dense models, on the other hand, more easily overlook documents in which the search query occurs word for word, but pay close attention to the context of the documents. The strengths of both are therefore combined here, so that as many correct documents as possible are retrieved, but as few irrelevant documents as possible. This method is well suited for this work, as the identification of services often involves word-based searches, but the context often needs to be considered, as users may ask questions without domain-specific prior knowledge.
 
-- **Reformulation of user queries (query rewriting)**
+### Reformulation of user queries (query rewriting)
 
 By reformulating the user input, information retrieval can be significantly improved (Shengyu Mao, 2024) . This technology can also help RAG to increase the quality of the retrieved documents. As the implementation is very lightweight, this can be used well for the planned prototype.
 
-- **Data preparation through Q&A**
+### Data preparation through Q&A
 
 To increase the quality of the retrieved documents, it is also advisable to pre-process the data (Kettunen, 2025) . To do this, an LLM can create a question-and-answer list for the content of the section once for each document or each block of information that has been completed in terms of content. This list would contain answers to questions that are commonly asked. This makes it easier for the embedding model to successfully match questions to the correct documents and retrieve them. This strategy is suitable for the prototype to be built.
 
-- **Set threshold for retrieval score**
+### Set threshold for retrieval score
 
 If the RAG system finds matching documents, but their context does not match the context of the user input very closely, the system should output "I don't know" instead of trying to generate an answer, or if few more closely matching documents could be retrieved, the answer should be based only on these. As this excludes less relevant documents, the possibility of misdirection of the answer generation by them is also eliminated and the accuracy of the answers increases. We achieve this by introducing a threshold for the confidence values of the retrieved documents (Radeva, Popchev, & Dimitrova, 2024) . This is also lightweight, so it is also suitable for this work.
 
-- **Fact checking through separate models**
+### Fact checking through separate models
 
 It is possible to check the answers of the RAG system for factual correctness using another system. For example, the open source system "Poly-FEVER" (Hanzhi Zhang, 2025) was developed for this purpose. This consists of 77,973 labeled factual assumptions in over 11 languages. However, it is not of great use for the system to be developed as Poly-FEVER deals with general topics, but the present use case is in the area of government services. However, with some technical effort, custom benchmarks can be created on the available data of the use case, and hallucination detection can be performed using tools such as RAGAS (Shahul Es, 2025) .
 
-- **Prompt engineering to avoid speculation**
+### Prompt engineering to avoid speculation
 
 Certain instructions in the prompt (Pranab Sahoo, 2024) can be used to suppress speculative statements by the LLM so that the LLM always prioritizes the external knowledge of the retrieved documents higher than the intrinsic knowledge acquired through training. It makes sense to implement this in the prototype.
 
-- **Zero-Shot Chain-of-Thought Prompting (ZS CoT)**
+### Zero-Shot Chain-of-Thought Prompting (ZS CoT)
 
 The more complex the user's prompt, the more difficult it is for the LLM to provide a correct, meaningful answer. However, chain-of-thought prompting enables complex reasoning by dividing the reasoning chain into individual, less complex steps. This is particularly useful for calculations. Dividing the answer finding process into several steps increases transparency, which gives users more confidence in the answer and makes it easier to understand the content of the answer. (Takeshi Kojima, 2025) describes how this can be achieved by adding "Let's approach this step by step" to the user's prompt. This can also be integrated into the prototypes of this work.
 
-- **"Sorry, Come Again" (SCA) Prompting**
+### "Sorry, Come Again" (SCA) Prompting
 
 If the user's prompt has been formulated in a way that is somewhat incomprehensible or no content has been found, the LLM could ask the user questions and provide clarification (Vipula Rawte, 2024) . Special prompt templates can be used for this purpose. This is feasible in principle.
 
-- **Combine RAG with Knowledge Graphs**
+### Combine RAG with Knowledge Graphs
 
 The combination of a RAG system with a knowledge graph (Nicholas Matsumoto, 2024) as an additional source of knowledge significantly reduces hallucinations. However, a complex system architecture is required for implementation, which is beyond the scope of this paper.
 
-- **Use of user feedback for fine-tuning**
+### Use of user feedback for fine-tuning
 
 The model responses can be improved through user feedback (Yu Bai, 2024) . On the one hand, the model can be trained using "Reinforcement Learning from Human Feedback" (RLHF). On the other hand, it is also possible for users to mark hallucinations in the answer and for these to be transferred to a collection for cross-checking in future answers. This is feasible for this work
 
-- **Hyperparameter tuning**
+### Hyperparameter tuning
 
 The generation quality of RAG applications can also be improved by systematically tuning the retrieval and model parameters (Matthew Barker, 2025) . This can be implemented by means of an experimental approach in this work.
 
@@ -91,19 +91,19 @@ The generation quality of RAG applications can also be improved by systematicall
 
 This section presents current techniques for detecting hallucinations in RAG applications and evaluating the reduction of hallucinations. The methods are scientifically classified and then evaluated based on their applicability in this work.
 
-- **LLM-as-a-Judge**
+### LLM-as-a-Judge
 
 In order to check the generated answers for coherence, factual accuracy and consistency, a powerful language model can be used as an evaluation instance. Examples include SelfCheckGPT (Potsawee Manakul, 2023) , G-Eval, Prometheus, Lynx or Trustworthy Language Model (TLM). A comparison of the different models was carried out by (Sardana, 2025) . This approach is well suited for this project, as no ground truth answers are given and the evaluation of the answers by humans would be too time-consuming. However, the quality of the assessments depends heavily on the assessment model used.
 
-- **Comparison with ground truth / human gold standard**
+### Comparison with ground truth / human gold standard
 
 Tools such as REDEEP (Zhongxiang Sun, 2024) and LibreEval (Research, 2025) make it possible to create your own benchmarks based on domain-specific documents. The aim is to measure metrics such as faithfulness, answer correctness or precision. The generated answers can then be compared with known, verified statements for the purpose of evaluating hallucinations. Even if the creation of benchmarks is time-consuming, hallucinations can also be recognized and possibly even mitigated in a domain-specific context. This makes it suitable for this project.
 
-- **Man-in-the-loop / Feedback**
+### Man-in-the-loop / Feedback
 
 After going live, the RAG system can continue to be optimized based on user feedback (Yu Bai, 2024) . For this purpose, a functionality can be introduced that allows end users to mark hallucinations in answers or rate the answer based on its factual accuracy. In this way, the model can be trained using RLHF. This involves some technical effort, but is very practical for business applications.
 
-- **Automated metrics at retrieval level**
+### Automated metrics at retrieval level
 
 The relevance and coverage of the retrieved documents can already be assessed at the retrieval level using tools such as RAGAS (Shahul Es, 2025) , REDEEP and reranking (e.g. with BERT (Koroteev, 2021) ). This involves checking whether the respective document proves the answer and evaluating metrics such as similarity scores, coverage or faithfulness. This can be very useful for the prototype to be developed in order to optimize the retrieval process, as no manual annotations are necessary here. However, automatically generated retrieval benchmarks can also be used here for continuous evaluation.
 
