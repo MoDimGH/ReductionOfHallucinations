@@ -1,9 +1,25 @@
 import json
+import requests
+from tqdm import tqdm
+
 
 with open("website_structure.json") as f:
     data = json.load(f)
 
-for l in data:
+broken_urls = set()
+
+def try_fetch(url):
+    try:
+        response = requests.get(url, timeout=5)
+        if response.status_code != 200:
+            broken_urls.add(url)
+    except Exception as e:
+        print(f"Error scraping {url}: {e}")
+        broken_urls.add(url)
+
+for l in tqdm(data, desc="Checking links..."):
+    try_fetch(l.rstrip("/n0"))
+    continue
     if l[-3:] == "/n0":
         if l[:-3] in data:
             equal = True
@@ -17,6 +33,8 @@ for l in data:
         else:
             print("not present - " + l)
 
+with open("broken_links.json", 'w') as f:
+    json.dump(broken_urls, f)
 
 # erkenntnisse:
 # 0. nicht jede Addresse ohne /n0 hat einen parallelen Eintrag mit /n0
