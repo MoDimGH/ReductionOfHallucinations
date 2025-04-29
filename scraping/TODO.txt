@@ -1,0 +1,13 @@
+- Alle Links sammeln
+- Seiten Analysieren (was wo wie extrahieren) / 
+    - pdfs auf Seiten auch downloaden
+- extrahierer schreiben
+- extrahierer durchführen
+- sich am Ergebnis freuen
+
+- Recherchieren RAGAS, LibreEval, Prometheus etc?
+- Benchmarkings generieren
+
+- Feedback in Bachelorarbeit ergänzen (auch Arbeitsverteilung)
+- An Prüfer schicken
+- BA anmelden
