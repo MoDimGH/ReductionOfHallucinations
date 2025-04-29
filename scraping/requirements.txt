@@ -1,0 +1,3 @@
+requests
+markdownify
+beautifulsoup4
