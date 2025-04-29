@@ -94,7 +94,7 @@ def process_new_url(url, depth, new_url):
         scrape(absolute_link, depth + 1)
 
 
-def scrape(url, depth=0, max_depth=100):
+def scrape(url, depth=0, max_depth=2):
     print(f"{'  ' * depth}{url}")
     visited.add(url)
 
