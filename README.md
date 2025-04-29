@@ -9,6 +9,7 @@ Exposé for a bachelor thesis on the topic:
 How effective are various methods for reducing hallucinations in RAG-based enterprise applications?
 ====================================================================================================
 
+| --------------- | ------------------------ |
 | Study program: | Dual study program Computer Science B. Sc. |
 | Planned submission date: | 13.07.2025 |
 
