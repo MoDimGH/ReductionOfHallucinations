@@ -1,0 +1,202 @@
+[
+  {
+    "user_input":"Kannst du mir sagen, was der Hamburger Mietenspiegel ist und wie er mit dem Bürgerlichen Gesetzbuch zusammenhängt?",
+    "reference_contexts":[
+      "Ortsübliche Vergleichsmiete\n\nHamburger Mietenspiegel\n\nMit dem Hamburger Mietenspiegel erhalten Sie eine Übersicht über die\nortsüblichen Vergleichsmieten für rund 568.500 Wohnungen in Hamburg. Der\nMietenspiegel erscheint alle zwei Jahre.\n\nInteraktive Karte: Online-Mietenspiegel\n\nIn unserer interaktiven Karte können Sie die Mietenspiegel-Spannenwerte\nfür eine Wohnung ermitteln, um unter Heranziehung der Broschüre zum\nHamburger Mietenspiegel die jeweilige ortsübliche Vergleichsmiete zu\nbestimmen.\n\nOnline-Mietenspiegel\n\nWas ist der Mietenspiegel?\n\nDer Hamburger Mietenspiegel erscheint seit 1976 alle zwei Jahre. Er gibt\neinen Überblick über die ortsübliche Vergleichsmiete für Wohnungen\njeweils vergleichbarer Art, Größe, Ausstattung, Beschaffenheit und Lage,\ndie keiner Mietpreisbindung unterliegen. Der Mietenspiegel hat seine\nGrundlage im Bürgerlichen Gesetzbuch. Für die Mietenspiegelerhebung\n2023 wurden nach den gesetzlichen Vorgaben nur Mieten berücksichtigt,\ndie in den letzten sechs Jahre"
+    ],
+    "reference":"Der Hamburger Mietenspiegel erscheint seit 1976 alle zwei Jahre. Er gibt einen Überblick über die ortsübliche Vergleichsmiete für Wohnungen jeweils vergleichbarer Art, Größe, Ausstattung, Beschaffenheit und Lage, die keiner Mietpreisbindung unterliegen. Der Mietenspiegel hat seine Grundlage im Bürgerlichen Gesetzbuch.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Was is' das BGB?",
+    "reference_contexts":[
+      "Ortsübliche Vergleichsmiete\n\nHamburger Mietenspiegel\n\nMit dem Hamburger Mietenspiegel erhalten Sie eine Übersicht über die\nortsüblichen Vergleichsmieten für rund 568.500 Wohnungen in Hamburg. Der\nMietenspiegel erscheint alle zwei Jahre.\n\nInteraktive Karte: Online-Mietenspiegel\n\nIn unserer interaktiven Karte können Sie die Mietenspiegel-Spannenwerte\nfür eine Wohnung ermitteln, um unter Heranziehung der Broschüre zum\nHamburger Mietenspiegel die jeweilige ortsübliche Vergleichsmiete zu\nbestimmen.\n\nOnline-Mietenspiegel\n\nWas ist der Mietenspiegel?\n\nDer Hamburger Mietenspiegel erscheint seit 1976 alle zwei Jahre. Er gibt\neinen Überblick über die ortsübliche Vergleichsmiete für Wohnungen\njeweils vergleichbarer Art, Größe, Ausstattung, Beschaffenheit und Lage,\ndie keiner Mietpreisbindung unterliegen. Der Mietenspiegel hat seine\nGrundlage im Bürgerlichen Gesetzbuch. Für die Mietenspiegelerhebung\n2023 wurden nach den gesetzlichen Vorgaben nur Mieten berücksichtigt,\ndie in den letzten sechs Jahre"
+    ],
+    "reference":"Das Bürgerliche Gesetzbuch (BGB) ist die Grundlage für den Hamburger Mietenspiegel.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Wat is de BGB en hoe betrof dit mijn huurcontract?",
+    "reference_contexts":[
+      "Ortsübliche Vergleichsmiete\n\nHamburger Mietenspiegel\n\nMit dem Hamburger Mietenspiegel erhalten Sie eine Übersicht über die\nortsüblichen Vergleichsmieten für rund 568.500 Wohnungen in Hamburg. Der\nMietenspiegel erscheint alle zwei Jahre.\n\nInteraktive Karte: Online-Mietenspiegel\n\nIn unserer interaktiven Karte können Sie die Mietenspiegel-Spannenwerte\nfür eine Wohnung ermitteln, um unter Heranziehung der Broschüre zum\nHamburger Mietenspiegel die jeweilige ortsübliche Vergleichsmiete zu\nbestimmen.\n\nOnline-Mietenspiegel\n\nWas ist der Mietenspiegel?\n\nDer Hamburger Mietenspiegel erscheint seit 1976 alle zwei Jahre. Er gibt\neinen Überblick über die ortsübliche Vergleichsmiete für Wohnungen\njeweils vergleichbarer Art, Größe, Ausstattung, Beschaffenheit und Lage,\ndie keiner Mietpreisbindung unterliegen. Der Mietenspiegel hat seine\nGrundlage im Bürgerlichen Gesetzbuch. Für die Mietenspiegelerhebung\n2023 wurden nach den gesetzlichen Vorgaben nur Mieten berücksichtigt,\ndie in den letzten sechs Jahre"
+    ],
+    "reference":"De BGB is een wet die de basis vormt voor de Mietenspiegel. Het heeft te maken met de ortsübliche Vergleichsmiete voor woningen in Hamburg.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Wat is de 'Hamborg' Mietenspiegel en hoe kan ik hem gebruiken?",
+    "reference_contexts":[
+      "Ortsübliche Vergleichsmiete\n\nHamburger Mietenspiegel\n\nMit dem Hamburger Mietenspiegel erhalten Sie eine Übersicht über die\nortsüblichen Vergleichsmieten für rund 568.500 Wohnungen in Hamburg. Der\nMietenspiegel erscheint alle zwei Jahre.\n\nInteraktive Karte: Online-Mietenspiegel\n\nIn unserer interaktiven Karte können Sie die Mietenspiegel-Spannenwerte\nfür eine Wohnung ermitteln, um unter Heranziehung der Broschüre zum\nHamburger Mietenspiegel die jeweilige ortsübliche Vergleichsmiete zu\nbestimmen.\n\nOnline-Mietenspiegel\n\nWas ist der Mietenspiegel?\n\nDer Hamburger Mietenspiegel erscheint seit 1976 alle zwei Jahre. Er gibt\neinen Überblick über die ortsübliche Vergleichsmiete für Wohnungen\njeweils vergleichbarer Art, Größe, Ausstattung, Beschaffenheit und Lage,\ndie keiner Mietpreisbindung unterliegen. Der Mietenspiegel hat seine\nGrundlage im Bürgerlichen Gesetzbuch. Für die Mietenspiegelerhebung\n2023 wurden nach den gesetzlichen Vorgaben nur Mieten berücksichtigt,\ndie in den letzten sechs Jahre"
+    ],
+    "reference":"De Hamburger Mietenspiegel geeft een overzicht van de ortsgebruikelijke vergelijkingshuur voor ongeveer 568.500 woningen in Hamburg. Hij verschijnt elke twee jaar en bevat informatie over huurwaarden voor woningen van verschillende soorten, groottes, uitrusting, staat en locatie die niet onderworpen zijn aan een huurprijsbeperking.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Könnten Sie bitte die Schritte und Anforderungen für die Ummeldung eines Autos in Hamburg beschreiben, einschließlich der benötigten Dokumente, Dauer und anfallenden Gebühren?",
+    "reference_contexts":[
+      "Ortsübliche Vergleichsmiete\n\nHamburger Mietenspiegel\n\nMit dem Hamburger Mietenspiegel erhalten Sie eine Übersicht über die\nortsüblichen Vergleichsmieten für rund 568.500 Wohnungen in Hamburg. Der\nMietenspiegel erscheint alle zwei Jahre.\n\nInteraktive Karte: Online-Mietenspiegel\n\nIn unserer interaktiven Karte können Sie die Mietenspiegel-Spannenwerte\nfür eine Wohnung ermitteln, um unter Heranziehung der Broschüre zum\nHamburger Mietenspiegel die jeweilige ortsübliche Vergleichsmiete zu\nbestimmen.\n\nOnline-Mietenspiegel\n\nWas ist der Mietenspiegel?\n\nDer Hamburger Mietenspiegel erscheint seit 1976 alle zwei Jahre. Er gibt\neinen Überblick über die ortsübliche Vergleichsmiete für Wohnungen\njeweils vergleichbarer Art, Größe, Ausstattung, Beschaffenheit und Lage,\ndie keiner Mietpreisbindung unterliegen. Der Mietenspiegel hat seine\nGrundlage im Bürgerlichen Gesetzbuch. Für die Mietenspiegelerhebung\n2023 wurden nach den gesetzlichen Vorgaben nur Mieten berücksichtigt,\ndie in den letzten sechs Jahre"
+    ],
+    "reference":"Leider enthält der bereitgestellte Kontext keine Informationen über die Ummeldung von Fahrzeugen oder die damit verbundenen Schritte und Anforderungen in Hamburg.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Was ist der Hamburger Mietenspiegel und auf welchen Gesetzen basiert er?",
+    "reference_contexts":[
+      "Ortsübliche Vergleichsmiete\n\nHamburger Mietenspiegel\n\nMit dem Hamburger Mietenspiegel erhalten Sie eine Übersicht über die\nortsüblichen Vergleichsmieten für rund 568.500 Wohnungen in Hamburg. Der\nMietenspiegel erscheint alle zwei Jahre.\n\nInteraktive Karte: Online-Mietenspiegel\n\nIn unserer interaktiven Karte können Sie die Mietenspiegel-Spannenwerte\nfür eine Wohnung ermitteln, um unter Heranziehung der Broschüre zum\nHamburger Mietenspiegel die jeweilige ortsübliche Vergleichsmiete zu\nbestimmen.\n\nOnline-Mietenspiegel\n\nWas ist der Mietenspiegel?\n\nDer Hamburger Mietenspiegel erscheint seit 1976 alle zwei Jahre. Er gibt\neinen Überblick über die ortsübliche Vergleichsmiete für Wohnungen\njeweils vergleichbarer Art, Größe, Ausstattung, Beschaffenheit und Lage,\ndie keiner Mietpreisbindung unterliegen. Der Mietenspiegel hat seine\nGrundlage im Bürgerlichen Gesetzbuch. Für die Mietenspiegelerhebung\n2023 wurden nach den gesetzlichen Vorgaben nur Mieten berücksichtigt,\ndie in den letzten sechs Jahre"
+    ],
+    "reference":"Der Hamburger Mietenspiegel erscheint seit 1976 alle zwei Jahre. Er gibt einen Überblick über die ortsübliche Vergleichsmiete für Wohnungen jeweils vergleichbarer Art, Größe, Ausstattung, Beschaffenheit und Lage, die keiner Mietpreisbindung unterliegen. Der Mietenspiegel hat seine Grundlage im Bürgerlichen Gesetzbuch.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Könnten Sie bitte ausführlich erläutern, wie der Hamburger Mietenspiegel im Zusammenhang mit dem Bürgerlichen Gesetzbuch steht und welche Informationen er enthält?",
+    "reference_contexts":[
+      "Ortsübliche Vergleichsmiete\n\nHamburger Mietenspiegel\n\nMit dem Hamburger Mietenspiegel erhalten Sie eine Übersicht über die\nortsüblichen Vergleichsmieten für rund 568.500 Wohnungen in Hamburg. Der\nMietenspiegel erscheint alle zwei Jahre.\n\nInteraktive Karte: Online-Mietenspiegel\n\nIn unserer interaktiven Karte können Sie die Mietenspiegel-Spannenwerte\nfür eine Wohnung ermitteln, um unter Heranziehung der Broschüre zum\nHamburger Mietenspiegel die jeweilige ortsübliche Vergleichsmiete zu\nbestimmen.\n\nOnline-Mietenspiegel\n\nWas ist der Mietenspiegel?\n\nDer Hamburger Mietenspiegel erscheint seit 1976 alle zwei Jahre. Er gibt\neinen Überblick über die ortsübliche Vergleichsmiete für Wohnungen\njeweils vergleichbarer Art, Größe, Ausstattung, Beschaffenheit und Lage,\ndie keiner Mietpreisbindung unterliegen. Der Mietenspiegel hat seine\nGrundlage im Bürgerlichen Gesetzbuch. Für die Mietenspiegelerhebung\n2023 wurden nach den gesetzlichen Vorgaben nur Mieten berücksichtigt,\ndie in den letzten sechs Jahre"
+    ],
+    "reference":"Der Hamburger Mietenspiegel erscheint seit 1976 alle zwei Jahre und gibt einen Überblick über die ortsübliche Vergleichsmiete für Wohnungen vergleichbarer Art, Größe, Ausstattung, Beschaffenheit und Lage, die keiner Mietpreisbindung unterliegen. Der Mietenspiegel hat seine Grundlage im Bürgerlichen Gesetzbuch.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Was ist der Hamburger Mietenspiegel und wie kann ich ihn nutzen?",
+    "reference_contexts":[
+      "Ortsübliche Vergleichsmiete\n\nHamburger Mietenspiegel\n\nMit dem Hamburger Mietenspiegel erhalten Sie eine Übersicht über die\nortsüblichen Vergleichsmieten für rund 568.500 Wohnungen in Hamburg. Der\nMietenspiegel erscheint alle zwei Jahre.\n\nInteraktive Karte: Online-Mietenspiegel\n\nIn unserer interaktiven Karte können Sie die Mietenspiegel-Spannenwerte\nfür eine Wohnung ermitteln, um unter Heranziehung der Broschüre zum\nHamburger Mietenspiegel die jeweilige ortsübliche Vergleichsmiete zu\nbestimmen.\n\nOnline-Mietenspiegel\n\nWas ist der Mietenspiegel?\n\nDer Hamburger Mietenspiegel erscheint seit 1976 alle zwei Jahre. Er gibt\neinen Überblick über die ortsübliche Vergleichsmiete für Wohnungen\njeweils vergleichbarer Art, Größe, Ausstattung, Beschaffenheit und Lage,\ndie keiner Mietpreisbindung unterliegen. Der Mietenspiegel hat seine\nGrundlage im Bürgerlichen Gesetzbuch. Für die Mietenspiegelerhebung\n2023 wurden nach den gesetzlichen Vorgaben nur Mieten berücksichtigt,\ndie in den letzten sechs Jahre"
+    ],
+    "reference":"Der Hamburger Mietenspiegel gibt einen Überblick über die ortsübliche Vergleichsmiete für Wohnungen vergleichbarer Art, Größe, Ausstattung, Beschaffenheit und Lage, die keiner Mietpreisbindung unterliegen. Er erscheint alle zwei Jahre und hat seine Grundlage im Bürgerlichen Gesetzbuch.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Welche dokumente benotige ich fur die Ummeldung meines Autos in Hamburg und wie lange dauert es?",
+    "reference_contexts":[
+      "Ortsübliche Vergleichsmiete\n\nHamburger Mietenspiegel\n\nMit dem Hamburger Mietenspiegel erhalten Sie eine Übersicht über die\nortsüblichen Vergleichsmieten für rund 568.500 Wohnungen in Hamburg. Der\nMietenspiegel erscheint alle zwei Jahre.\n\nInteraktive Karte: Online-Mietenspiegel\n\nIn unserer interaktiven Karte können Sie die Mietenspiegel-Spannenwerte\nfür eine Wohnung ermitteln, um unter Heranziehung der Broschüre zum\nHamburger Mietenspiegel die jeweilige ortsübliche Vergleichsmiete zu\nbestimmen.\n\nOnline-Mietenspiegel\n\nWas ist der Mietenspiegel?\n\nDer Hamburger Mietenspiegel erscheint seit 1976 alle zwei Jahre. Er gibt\neinen Überblick über die ortsübliche Vergleichsmiete für Wohnungen\njeweils vergleichbarer Art, Größe, Ausstattung, Beschaffenheit und Lage,\ndie keiner Mietpreisbindung unterliegen. Der Mietenspiegel hat seine\nGrundlage im Bürgerlichen Gesetzbuch. Für die Mietenspiegelerhebung\n2023 wurden nach den gesetzlichen Vorgaben nur Mieten berücksichtigt,\ndie in den letzten sechs Jahre"
+    ],
+    "reference":"Der Hamburger Mietenspiegel gibt einen Überblick über die ortsübliche Vergleichsmiete für Wohnungen vergleichbarer Art, Größe, Ausstattung, Beschaffenheit und Lage, die keiner Mietpreisbindung unterliegen.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Was ist der Hamburger Mietenspiegel und wie kann ich ihn nutzen?",
+    "reference_contexts":[
+      "Ortsübliche Vergleichsmiete\n\nHamburger Mietenspiegel\n\nMit dem Hamburger Mietenspiegel erhalten Sie eine Übersicht über die\nortsüblichen Vergleichsmieten für rund 568.500 Wohnungen in Hamburg. Der\nMietenspiegel erscheint alle zwei Jahre.\n\nInteraktive Karte: Online-Mietenspiegel\n\nIn unserer interaktiven Karte können Sie die Mietenspiegel-Spannenwerte\nfür eine Wohnung ermitteln, um unter Heranziehung der Broschüre zum\nHamburger Mietenspiegel die jeweilige ortsübliche Vergleichsmiete zu\nbestimmen.\n\nOnline-Mietenspiegel\n\nWas ist der Mietenspiegel?\n\nDer Hamburger Mietenspiegel erscheint seit 1976 alle zwei Jahre. Er gibt\neinen Überblick über die ortsübliche Vergleichsmiete für Wohnungen\njeweils vergleichbarer Art, Größe, Ausstattung, Beschaffenheit und Lage,\ndie keiner Mietpreisbindung unterliegen. Der Mietenspiegel hat seine\nGrundlage im Bürgerlichen Gesetzbuch. Für die Mietenspiegelerhebung\n2023 wurden nach den gesetzlichen Vorgaben nur Mieten berücksichtigt,\ndie in den letzten sechs Jahre"
+    ],
+    "reference":"Der Hamburger Mietenspiegel erscheint alle zwei Jahre und gibt einen Überblick über die ortsübliche Vergleichsmiete für Wohnungen vergleichbarer Art, Größe, Ausstattung, Beschaffenheit und Lage, die keiner Mietpreisbindung unterliegen. In unserer interaktiven Karte können Sie die Mietenspiegel-Spannenwerte für eine Wohnung ermitteln, um unter Heranziehung der Broschüre zum Hamburger Mietenspiegel die jeweilige ortsübliche Vergleichsmiete zu bestimmen.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Was ist der Hamburger Mietenspiegel?",
+    "reference_contexts":[
+      "Ortsübliche Vergleichsmiete\n\nHamburger Mietenspiegel\n\nMit dem Hamburger Mietenspiegel erhalten Sie eine Übersicht über die\nortsüblichen Vergleichsmieten für rund 568.500 Wohnungen in Hamburg. Der\nMietenspiegel erscheint alle zwei Jahre.\n\nInteraktive Karte: Online-Mietenspiegel\n\nIn unserer interaktiven Karte können Sie die Mietenspiegel-Spannenwerte\nfür eine Wohnung ermitteln, um unter Heranziehung der Broschüre zum\nHamburger Mietenspiegel die jeweilige ortsübliche Vergleichsmiete zu\nbestimmen.\n\nOnline-Mietenspiegel\n\nWas ist der Mietenspiegel?\n\nDer Hamburger Mietenspiegel erscheint seit 1976 alle zwei Jahre. Er gibt\neinen Überblick über die ortsübliche Vergleichsmiete für Wohnungen\njeweils vergleichbarer Art, Größe, Ausstattung, Beschaffenheit und Lage,\ndie keiner Mietpreisbindung unterliegen. Der Mietenspiegel hat seine\nGrundlage im Bürgerlichen Gesetzbuch. Für die Mietenspiegelerhebung\n2023 wurden nach den gesetzlichen Vorgaben nur Mieten berücksichtigt,\ndie in den letzten sechs Jahre"
+    ],
+    "reference":"Der Hamburger Mietenspiegel erscheint seit 1976 alle zwei Jahre und gibt einen Überblick über die ortsübliche Vergleichsmiete für Wohnungen vergleichbarer Art, Größe, Ausstattung, Beschaffenheit und Lage, die keiner Mietpreisbindung unterliegen.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Könnten Sie bitte ausführlich beschreiben, was der Hamburger Mietenspiegel ist und welche Informationen er enthält?",
+    "reference_contexts":[
+      "Ortsübliche Vergleichsmiete\n\nHamburger Mietenspiegel\n\nMit dem Hamburger Mietenspiegel erhalten Sie eine Übersicht über die\nortsüblichen Vergleichsmieten für rund 568.500 Wohnungen in Hamburg. Der\nMietenspiegel erscheint alle zwei Jahre.\n\nInteraktive Karte: Online-Mietenspiegel\n\nIn unserer interaktiven Karte können Sie die Mietenspiegel-Spannenwerte\nfür eine Wohnung ermitteln, um unter Heranziehung der Broschüre zum\nHamburger Mietenspiegel die jeweilige ortsübliche Vergleichsmiete zu\nbestimmen.\n\nOnline-Mietenspiegel\n\nWas ist der Mietenspiegel?\n\nDer Hamburger Mietenspiegel erscheint seit 1976 alle zwei Jahre. Er gibt\neinen Überblick über die ortsübliche Vergleichsmiete für Wohnungen\njeweils vergleichbarer Art, Größe, Ausstattung, Beschaffenheit und Lage,\ndie keiner Mietpreisbindung unterliegen. Der Mietenspiegel hat seine\nGrundlage im Bürgerlichen Gesetzbuch. Für die Mietenspiegelerhebung\n2023 wurden nach den gesetzlichen Vorgaben nur Mieten berücksichtigt,\ndie in den letzten sechs Jahre"
+    ],
+    "reference":"Der Hamburger Mietenspiegel ist eine alle zwei Jahre erscheinende Übersicht über die ortsüblichen Vergleichsmieten für rund 568.500 Wohnungen in Hamburg. Er gibt einen Überblick über die ortsübliche Vergleichsmiete für Wohnungen jeweils vergleichbarer Art, Größe, Ausstattung, Beschaffenheit und Lage, die keiner Mietpreisbindung unterliegen.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Wat is de Mietenspiegel en hoe kan ik hem gebruiken om de ortsübliche Vergleichsmiete te bepalen?",
+    "reference_contexts":[
+      "Ortsübliche Vergleichsmiete\n\nHamburger Mietenspiegel\n\nMit dem Hamburger Mietenspiegel erhalten Sie eine Übersicht über die\nortsüblichen Vergleichsmieten für rund 568.500 Wohnungen in Hamburg. Der\nMietenspiegel erscheint alle zwei Jahre.\n\nInteraktive Karte: Online-Mietenspiegel\n\nIn unserer interaktiven Karte können Sie die Mietenspiegel-Spannenwerte\nfür eine Wohnung ermitteln, um unter Heranziehung der Broschüre zum\nHamburger Mietenspiegel die jeweilige ortsübliche Vergleichsmiete zu\nbestimmen.\n\nOnline-Mietenspiegel\n\nWas ist der Mietenspiegel?\n\nDer Hamburger Mietenspiegel erscheint seit 1976 alle zwei Jahre. Er gibt\neinen Überblick über die ortsübliche Vergleichsmiete für Wohnungen\njeweils vergleichbarer Art, Größe, Ausstattung, Beschaffenheit und Lage,\ndie keiner Mietpreisbindung unterliegen. Der Mietenspiegel hat seine\nGrundlage im Bürgerlichen Gesetzbuch. Für die Mietenspiegelerhebung\n2023 wurden nach den gesetzlichen Vorgaben nur Mieten berücksichtigt,\ndie in den letzten sechs Jahre"
+    ],
+    "reference":"De Hamburger Mietenspiegel geeft een overzicht van de ortsübliche Vergleichsmieten voor ongeveer 568.500 woningen in Hamburg. Hij verschijnt elke twee jaar en bevat informatie over de gemiddelde huurprijs voor woningen van vergelijkbare soort, grootte, uitrusting, staat en locatie die niet onderworpen zijn aan een huurprijsbeperking.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Was ist der Hamburger Mietenspiegel?",
+    "reference_contexts":[
+      "Ortsübliche Vergleichsmiete\n\nHamburger Mietenspiegel\n\nMit dem Hamburger Mietenspiegel erhalten Sie eine Übersicht über die\nortsüblichen Vergleichsmieten für rund 568.500 Wohnungen in Hamburg. Der\nMietenspiegel erscheint alle zwei Jahre.\n\nInteraktive Karte: Online-Mietenspiegel\n\nIn unserer interaktiven Karte können Sie die Mietenspiegel-Spannenwerte\nfür eine Wohnung ermitteln, um unter Heranziehung der Broschüre zum\nHamburger Mietenspiegel die jeweilige ortsübliche Vergleichsmiete zu\nbestimmen.\n\nOnline-Mietenspiegel\n\nWas ist der Mietenspiegel?\n\nDer Hamburger Mietenspiegel erscheint seit 1976 alle zwei Jahre. Er gibt\neinen Überblick über die ortsübliche Vergleichsmiete für Wohnungen\njeweils vergleichbarer Art, Größe, Ausstattung, Beschaffenheit und Lage,\ndie keiner Mietpreisbindung unterliegen. Der Mietenspiegel hat seine\nGrundlage im Bürgerlichen Gesetzbuch. Für die Mietenspiegelerhebung\n2023 wurden nach den gesetzlichen Vorgaben nur Mieten berücksichtigt,\ndie in den letzten sechs Jahre"
+    ],
+    "reference":"Der Hamburger Mietenspiegel erscheint seit 1976 alle zwei Jahre und gibt einen Überblick über die ortsübliche Vergleichsmiete für Wohnungen vergleichbarer Art, Größe, Ausstattung, Beschaffenheit und Lage, die keiner Mietpreisbindung unterliegen.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Kannst du mir mehr über den Hamburger Mietenspiegel erzählen und wie ich ihn verwenden kann, um die ortsübliche Vergleichsmiete für eine Wohnung zu bestimmen?",
+    "reference_contexts":[
+      "Ortsübliche Vergleichsmiete\n\nHamburger Mietenspiegel\n\nMit dem Hamburger Mietenspiegel erhalten Sie eine Übersicht über die\nortsüblichen Vergleichsmieten für rund 568.500 Wohnungen in Hamburg. Der\nMietenspiegel erscheint alle zwei Jahre.\n\nInteraktive Karte: Online-Mietenspiegel\n\nIn unserer interaktiven Karte können Sie die Mietenspiegel-Spannenwerte\nfür eine Wohnung ermitteln, um unter Heranziehung der Broschüre zum\nHamburger Mietenspiegel die jeweilige ortsübliche Vergleichsmiete zu\nbestimmen.\n\nOnline-Mietenspiegel\n\nWas ist der Mietenspiegel?\n\nDer Hamburger Mietenspiegel erscheint seit 1976 alle zwei Jahre. Er gibt\neinen Überblick über die ortsübliche Vergleichsmiete für Wohnungen\njeweils vergleichbarer Art, Größe, Ausstattung, Beschaffenheit und Lage,\ndie keiner Mietpreisbindung unterliegen. Der Mietenspiegel hat seine\nGrundlage im Bürgerlichen Gesetzbuch. Für die Mietenspiegelerhebung\n2023 wurden nach den gesetzlichen Vorgaben nur Mieten berücksichtigt,\ndie in den letzten sechs Jahre"
+    ],
+    "reference":"Der Hamburger Mietenspiegel ist ein alle zwei Jahre erscheinender Überblick über die ortsüblichen Vergleichsmieten für rund 568.500 Wohnungen in Hamburg. Er gibt einen Einblick in die Mieten vergleichbarer Art, Größe, Ausstattung, Beschaffenheit und Lage, die keiner Mietpreisbindung unterliegen. Der Mietenspiegel hat seine Grundlage im Bürgerlichen Gesetzbuch. Um die ortsübliche Vergleichsmiete für eine Wohnung zu bestimmen, können Sie unsere interaktive Karte verwenden.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Was brauch ich fürs Auto ummelden in Hamburg?",
+    "reference_contexts":[
+      "Ortsübliche Vergleichsmiete\n\nHamburger Mietenspiegel\n\nMit dem Hamburger Mietenspiegel erhalten Sie eine Übersicht über die\nortsüblichen Vergleichsmieten für rund 568.500 Wohnungen in Hamburg. Der\nMietenspiegel erscheint alle zwei Jahre.\n\nInteraktive Karte: Online-Mietenspiegel\n\nIn unserer interaktiven Karte können Sie die Mietenspiegel-Spannenwerte\nfür eine Wohnung ermitteln, um unter Heranziehung der Broschüre zum\nHamburger Mietenspiegel die jeweilige ortsübliche Vergleichsmiete zu\nbestimmen.\n\nOnline-Mietenspiegel\n\nWas ist der Mietenspiegel?\n\nDer Hamburger Mietenspiegel erscheint seit 1976 alle zwei Jahre. Er gibt\neinen Überblick über die ortsübliche Vergleichsmiete für Wohnungen\njeweils vergleichbarer Art, Größe, Ausstattung, Beschaffenheit und Lage,\ndie keiner Mietpreisbindung unterliegen. Der Mietenspiegel hat seine\nGrundlage im Bürgerlichen Gesetzbuch. Für die Mietenspiegelerhebung\n2023 wurden nach den gesetzlichen Vorgaben nur Mieten berücksichtigt,\ndie in den letzten sechs Jahre"
+    ],
+    "reference":"Für die Ummeldung eines Autos in Hamburg benötigst du den Fahrzeugschein, eine gültige Versicherungsbescheinigung und deinen Personalausweis oder Reisepass.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Was ist der Hamburger Mietenspiegel und auf welchen Gesetzen basiert er?",
+    "reference_contexts":[
+      "Ortsübliche Vergleichsmiete\n\nHamburger Mietenspiegel\n\nMit dem Hamburger Mietenspiegel erhalten Sie eine Übersicht über die\nortsüblichen Vergleichsmieten für rund 568.500 Wohnungen in Hamburg. Der\nMietenspiegel erscheint alle zwei Jahre.\n\nInteraktive Karte: Online-Mietenspiegel\n\nIn unserer interaktiven Karte können Sie die Mietenspiegel-Spannenwerte\nfür eine Wohnung ermitteln, um unter Heranziehung der Broschüre zum\nHamburger Mietenspiegel die jeweilige ortsübliche Vergleichsmiete zu\nbestimmen.\n\nOnline-Mietenspiegel\n\nWas ist der Mietenspiegel?\n\nDer Hamburger Mietenspiegel erscheint seit 1976 alle zwei Jahre. Er gibt\neinen Überblick über die ortsübliche Vergleichsmiete für Wohnungen\njeweils vergleichbarer Art, Größe, Ausstattung, Beschaffenheit und Lage,\ndie keiner Mietpreisbindung unterliegen. Der Mietenspiegel hat seine\nGrundlage im Bürgerlichen Gesetzbuch. Für die Mietenspiegelerhebung\n2023 wurden nach den gesetzlichen Vorgaben nur Mieten berücksichtigt,\ndie in den letzten sechs Jahre"
+    ],
+    "reference":"Der Hamburger Mietenspiegel erscheint seit 1976 alle zwei Jahre. Er gibt einen Überblick über die ortsübliche Vergleichsmiete für Wohnungen jeweils vergleichbarer Art, Größe, Ausstattung, Beschaffenheit und Lage, die keiner Mietpreisbindung unterliegen. Der Mietenspiegel hat seine Grundlage im Bürgerlichen Gesetzbuch.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Kannst du mir detailliert erklären, wie ich die ortsübliche Vergleichsmiete mit dem Hamburger Mietenspiegel bestimmen kann?",
+    "reference_contexts":[
+      "Ortsübliche Vergleichsmiete\n\nHamburger Mietenspiegel\n\nMit dem Hamburger Mietenspiegel erhalten Sie eine Übersicht über die\nortsüblichen Vergleichsmieten für rund 568.500 Wohnungen in Hamburg. Der\nMietenspiegel erscheint alle zwei Jahre.\n\nInteraktive Karte: Online-Mietenspiegel\n\nIn unserer interaktiven Karte können Sie die Mietenspiegel-Spannenwerte\nfür eine Wohnung ermitteln, um unter Heranziehung der Broschüre zum\nHamburger Mietenspiegel die jeweilige ortsübliche Vergleichsmiete zu\nbestimmen.\n\nOnline-Mietenspiegel\n\nWas ist der Mietenspiegel?\n\nDer Hamburger Mietenspiegel erscheint seit 1976 alle zwei Jahre. Er gibt\neinen Überblick über die ortsübliche Vergleichsmiete für Wohnungen\njeweils vergleichbarer Art, Größe, Ausstattung, Beschaffenheit und Lage,\ndie keiner Mietpreisbindung unterliegen. Der Mietenspiegel hat seine\nGrundlage im Bürgerlichen Gesetzbuch. Für die Mietenspiegelerhebung\n2023 wurden nach den gesetzlichen Vorgaben nur Mieten berücksichtigt,\ndie in den letzten sechs Jahre"
+    ],
+    "reference":"Der Hamburger Mietenspiegel gibt einen Überblick über die ortsübliche Vergleichsmiete für Wohnungen vergleichbarer Art, Größe, Ausstattung, Beschaffenheit und Lage, die keiner Mietpreisbindung unterliegen. Um die ortsübliche Vergleichsmiete zu bestimmen, können Sie die Mietenspiegel-Spannenwerte in unserer interaktiven Karte ermitteln und diese mit der Broschüre zum Hamburger Mietenspiegel vergleichen.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Wat is 'm mit Hamborg?",
+    "reference_contexts":[
+      "Ortsübliche Vergleichsmiete\n\nHamburger Mietenspiegel\n\nMit dem Hamburger Mietenspiegel erhalten Sie eine Übersicht über die\nortsüblichen Vergleichsmieten für rund 568.500 Wohnungen in Hamburg. Der\nMietenspiegel erscheint alle zwei Jahre.\n\nInteraktive Karte: Online-Mietenspiegel\n\nIn unserer interaktiven Karte können Sie die Mietenspiegel-Spannenwerte\nfür eine Wohnung ermitteln, um unter Heranziehung der Broschüre zum\nHamburger Mietenspiegel die jeweilige ortsübliche Vergleichsmiete zu\nbestimmen.\n\nOnline-Mietenspiegel\n\nWas ist der Mietenspiegel?\n\nDer Hamburger Mietenspiegel erscheint seit 1976 alle zwei Jahre. Er gibt\neinen Überblick über die ortsübliche Vergleichsmiete für Wohnungen\njeweils vergleichbarer Art, Größe, Ausstattung, Beschaffenheit und Lage,\ndie keiner Mietpreisbindung unterliegen. Der Mietenspiegel hat seine\nGrundlage im Bürgerlichen Gesetzbuch. Für die Mietenspiegelerhebung\n2023 wurden nach den gesetzlichen Vorgaben nur Mieten berücksichtigt,\ndie in den letzten sechs Jahre"
+    ],
+    "reference":"Hamburg is a city in Germany.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Was sind die notwendigen Schritte und Dokumente für die Ummeldung eines Autos in Hamburg?",
+    "reference_contexts":[
+      "Ortsübliche Vergleichsmiete\n\nHamburger Mietenspiegel\n\nMit dem Hamburger Mietenspiegel erhalten Sie eine Übersicht über die\nortsüblichen Vergleichsmieten für rund 568.500 Wohnungen in Hamburg. Der\nMietenspiegel erscheint alle zwei Jahre.\n\nInteraktive Karte: Online-Mietenspiegel\n\nIn unserer interaktiven Karte können Sie die Mietenspiegel-Spannenwerte\nfür eine Wohnung ermitteln, um unter Heranziehung der Broschüre zum\nHamburger Mietenspiegel die jeweilige ortsübliche Vergleichsmiete zu\nbestimmen.\n\nOnline-Mietenspiegel\n\nWas ist der Mietenspiegel?\n\nDer Hamburger Mietenspiegel erscheint seit 1976 alle zwei Jahre. Er gibt\neinen Überblick über die ortsübliche Vergleichsmiete für Wohnungen\njeweils vergleichbarer Art, Größe, Ausstattung, Beschaffenheit und Lage,\ndie keiner Mietpreisbindung unterliegen. Der Mietenspiegel hat seine\nGrundlage im Bürgerlichen Gesetzbuch. Für die Mietenspiegelerhebung\n2023 wurden nach den gesetzlichen Vorgaben nur Mieten berücksichtigt,\ndie in den letzten sechs Jahre"
+    ],
+    "reference":"Die Ummeldung eines Autos in Hamburg erfordert die Überprüfung der ortsüblichen Vergleichsmieten für Wohnungen, was durch den Hamburger Mietenspiegel ermöglicht wird. Der Mietenspiegel erscheint alle zwei Jahre und gibt einen Überblick über die ortsübliche Vergleichsmiete für Wohnungen vergleichbarer Art, Größe, Ausstattung, Beschaffenheit und Lage, die keiner Mietpreisbindung unterliegen.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Wat is de Buergerliche Gesetzzbuch?",
+    "reference_contexts":[
+      "Ortsübliche Vergleichsmiete\n\nHamburger Mietenspiegel\n\nMit dem Hamburger Mietenspiegel erhalten Sie eine Übersicht über die\nortsüblichen Vergleichsmieten für rund 568.500 Wohnungen in Hamburg. Der\nMietenspiegel erscheint alle zwei Jahre.\n\nInteraktive Karte: Online-Mietenspiegel\n\nIn unserer interaktiven Karte können Sie die Mietenspiegel-Spannenwerte\nfür eine Wohnung ermitteln, um unter Heranziehung der Broschüre zum\nHamburger Mietenspiegel die jeweilige ortsübliche Vergleichsmiete zu\nbestimmen.\n\nOnline-Mietenspiegel\n\nWas ist der Mietenspiegel?\n\nDer Hamburger Mietenspiegel erscheint seit 1976 alle zwei Jahre. Er gibt\neinen Überblick über die ortsübliche Vergleichsmiete für Wohnungen\njeweils vergleichbarer Art, Größe, Ausstattung, Beschaffenheit und Lage,\ndie keiner Mietpreisbindung unterliegen. Der Mietenspiegel hat seine\nGrundlage im Bürgerlichen Gesetzbuch. Für die Mietenspiegelerhebung\n2023 wurden nach den gesetzlichen Vorgaben nur Mieten berücksichtigt,\ndie in den letzten sechs Jahre"
+    ],
+    "reference":"De Hamburger Mietenspiegel heeft zijn basis in het Burgerlijke Gesetzzbuch. Het geeft een overzicht van de ortsgewone vergelijkingshuur voor woningen.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Was ist der Hamburger Mietenspiegel?",
+    "reference_contexts":[
+      "Ortsübliche Vergleichsmiete\n\nHamburger Mietenspiegel\n\nMit dem Hamburger Mietenspiegel erhalten Sie eine Übersicht über die\nortsüblichen Vergleichsmieten für rund 568.500 Wohnungen in Hamburg. Der\nMietenspiegel erscheint alle zwei Jahre.\n\nInteraktive Karte: Online-Mietenspiegel\n\nIn unserer interaktiven Karte können Sie die Mietenspiegel-Spannenwerte\nfür eine Wohnung ermitteln, um unter Heranziehung der Broschüre zum\nHamburger Mietenspiegel die jeweilige ortsübliche Vergleichsmiete zu\nbestimmen.\n\nOnline-Mietenspiegel\n\nWas ist der Mietenspiegel?\n\nDer Hamburger Mietenspiegel erscheint seit 1976 alle zwei Jahre. Er gibt\neinen Überblick über die ortsübliche Vergleichsmiete für Wohnungen\njeweils vergleichbarer Art, Größe, Ausstattung, Beschaffenheit und Lage,\ndie keiner Mietpreisbindung unterliegen. Der Mietenspiegel hat seine\nGrundlage im Bürgerlichen Gesetzbuch. Für die Mietenspiegelerhebung\n2023 wurden nach den gesetzlichen Vorgaben nur Mieten berücksichtigt,\ndie in den letzten sechs Jahre"
+    ],
+    "reference":"Der Hamburger Mietenspiegel erscheint seit 1976 alle zwei Jahre und gibt einen Überblick über die ortsübliche Vergleichsmiete für Wohnungen vergleichbarer Art, Größe, Ausstattung, Beschaffenheit und Lage, die keiner Mietpreisbindung unterliegen.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Wat is de Mietenspiegel?",
+    "reference_contexts":[
+      "Ortsübliche Vergleichsmiete\n\nHamburger Mietenspiegel\n\nMit dem Hamburger Mietenspiegel erhalten Sie eine Übersicht über die\nortsüblichen Vergleichsmieten für rund 568.500 Wohnungen in Hamburg. Der\nMietenspiegel erscheint alle zwei Jahre.\n\nInteraktive Karte: Online-Mietenspiegel\n\nIn unserer interaktiven Karte können Sie die Mietenspiegel-Spannenwerte\nfür eine Wohnung ermitteln, um unter Heranziehung der Broschüre zum\nHamburger Mietenspiegel die jeweilige ortsübliche Vergleichsmiete zu\nbestimmen.\n\nOnline-Mietenspiegel\n\nWas ist der Mietenspiegel?\n\nDer Hamburger Mietenspiegel erscheint seit 1976 alle zwei Jahre. Er gibt\neinen Überblick über die ortsübliche Vergleichsmiete für Wohnungen\njeweils vergleichbarer Art, Größe, Ausstattung, Beschaffenheit und Lage,\ndie keiner Mietpreisbindung unterliegen. Der Mietenspiegel hat seine\nGrundlage im Bürgerlichen Gesetzbuch. Für die Mietenspiegelerhebung\n2023 wurden nach den gesetzlichen Vorgaben nur Mieten berücksichtigt,\ndie in den letzten sechs Jahre"
+    ],
+    "reference":"De Hamburger Mietenspiegel geeft een overzicht van de ortsgewone vergelijkbare huurwaarden voor ongeveer 568.500 woningen in Hamburg en verschijnt elke twee jaar.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Was ist der Hamburger Mietenspiegel und wie wird er im Bürgerlichen Gesetzbuch berücksichtigt?",
+    "reference_contexts":[
+      "Ortsübliche Vergleichsmiete\n\nHamburger Mietenspiegel\n\nMit dem Hamburger Mietenspiegel erhalten Sie eine Übersicht über die\nortsüblichen Vergleichsmieten für rund 568.500 Wohnungen in Hamburg. Der\nMietenspiegel erscheint alle zwei Jahre.\n\nInteraktive Karte: Online-Mietenspiegel\n\nIn unserer interaktiven Karte können Sie die Mietenspiegel-Spannenwerte\nfür eine Wohnung ermitteln, um unter Heranziehung der Broschüre zum\nHamburger Mietenspiegel die jeweilige ortsübliche Vergleichsmiete zu\nbestimmen.\n\nOnline-Mietenspiegel\n\nWas ist der Mietenspiegel?\n\nDer Hamburger Mietenspiegel erscheint seit 1976 alle zwei Jahre. Er gibt\neinen Überblick über die ortsübliche Vergleichsmiete für Wohnungen\njeweils vergleichbarer Art, Größe, Ausstattung, Beschaffenheit und Lage,\ndie keiner Mietpreisbindung unterliegen. Der Mietenspiegel hat seine\nGrundlage im Bürgerlichen Gesetzbuch. Für die Mietenspiegelerhebung\n2023 wurden nach den gesetzlichen Vorgaben nur Mieten berücksichtigt,\ndie in den letzten sechs Jahre"
+    ],
+    "reference":"Der Hamburger Mietenspiegel gibt einen Überblick über die ortsübliche Vergleichsmiete für Wohnungen vergleichbarer Art, Größe, Ausstattung, Beschaffenheit und Lage, die keiner Mietpreisbindung unterliegen. Der Mietenspiegel hat seine Grundlage im Bürgerlichen Gesetzbuch.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Kannst du mir sagen, was der Hamburger Mietenspiegel ist und wie er mit dem Bürgerlichen Gesetzbuch verbunden ist?",
+    "reference_contexts":[
+      "Ortsübliche Vergleichsmiete\n\nHamburger Mietenspiegel\n\nMit dem Hamburger Mietenspiegel erhalten Sie eine Übersicht über die\nortsüblichen Vergleichsmieten für rund 568.500 Wohnungen in Hamburg. Der\nMietenspiegel erscheint alle zwei Jahre.\n\nInteraktive Karte: Online-Mietenspiegel\n\nIn unserer interaktiven Karte können Sie die Mietenspiegel-Spannenwerte\nfür eine Wohnung ermitteln, um unter Heranziehung der Broschüre zum\nHamburger Mietenspiegel die jeweilige ortsübliche Vergleichsmiete zu\nbestimmen.\n\nOnline-Mietenspiegel\n\nWas ist der Mietenspiegel?\n\nDer Hamburger Mietenspiegel erscheint seit 1976 alle zwei Jahre. Er gibt\neinen Überblick über die ortsübliche Vergleichsmiete für Wohnungen\njeweils vergleichbarer Art, Größe, Ausstattung, Beschaffenheit und Lage,\ndie keiner Mietpreisbindung unterliegen. Der Mietenspiegel hat seine\nGrundlage im Bürgerlichen Gesetzbuch. Für die Mietenspiegelerhebung\n2023 wurden nach den gesetzlichen Vorgaben nur Mieten berücksichtigt,\ndie in den letzten sechs Jahre"
+    ],
+    "reference":"Der Hamburger Mietenspiegel gibt einen Überblick über die ortsübliche Vergleichsmiete für Wohnungen vergleichbarer Art, Größe, Ausstattung, Beschaffenheit und Lage, die keiner Mietpreisbindung unterliegen. Er erscheint alle zwei Jahre und hat seine Grundlage im Bürgerlichen Gesetzbuch.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  }
+]

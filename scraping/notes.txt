@@ -15,5 +15,10 @@ Telefon: 115 (Mo-Fr 7-19 Uhr)
 /- teaser-service items listen auch als listen darstellen
 /- script text entfernen
 /- barrierefreiheit entfernen
-- pdf files extrahieren und alle subsites ebenfalls extrahieren wenn nicht schon existiert
--> sammlung von allen links, pdfs und sublinks zur extraktion.
+/- pdf files extrahieren und alle subsites ebenfalls extrahieren wenn nicht schon existiert
+/-> sammlung von allen links, pdfs und sublinks zur extraktion.
+
+----------------------------------------------------------
+
+
+RAGAS: benchmarking generation + RAG evaluation tools

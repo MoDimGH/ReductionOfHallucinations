@@ -1,0 +1,434 @@
+[
+  {
+    "user_input":"Wat is de verplichtingen voor een Duitser om 'n persoonlijke identiteitsbewijs te beantrage in Germany?",
+    "reference_contexts":[
+      "Einsicht in den elektronischen Identitätsnachweis\n\nSie können die gespeicherten und auslesbaren Daten im Chip des\nPersonalausweises einsehen.\n\nOnline-Service nutzen\n\nJetzt einen Termin buchen\n\nBeschreibung der Leistung\n\nSie können auf Wunsch in jedem Hamburger Hamburg Service Standort ihre\ngespeicherten und auslesbaren Daten im elektronischen Speicher- und\nVerarbeitungsmedium (Chip) des Personalausweises einsehen.\n\nHierfür müssen Sie persönlich in einem Hamburger Hamburg Service\nStandort Ihrer Wahl erscheinen.\n\nInformationen\n\nWichtige Hinweise\n\nVoraussetzungen\n\n-   Sie sind Deutsche(r) im Sinne des Art. 116 Abs. 1 Grundgesetz (GG)\n\nBenötigte Unterlagen\n\n-   Personalausweis\n\nZu Beachten\n\nkeine\n\nFristen\n\nkeine\n\nAblauf, Dauer & Gebühren\n\nVerfahrensablauf\n\n-   Sie vereinbaren einen Termin im Hamburg Service Ihrer Wahl.\n-   Sie kommen persönlich zum Hamburg Service mit Ihrem\n    Personalausweises.\n\nDauer\n\n-   Die Bearbeitungsdauer beträgt ungefähr fünf Minuten.\n\nGebühren\n\nkeine\n\nRechtliche "
+    ],
+    "reference":"Om 'n persoonlike identiteitsbewys te beantrage as 'n Duitser, moet jy 'n termyn by 'n Hamburg Service afmaak en persoonlik daar verskyn met jou persoonlike identiteitsbewys.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Als eine Person, deren Personalausweis bald abläuft und die einen neuen Ausweis beantragen muss, welche Schritte müssen unternommen werden?",
+    "reference_contexts":[
+      "Einsicht in den elektronischen Identitätsnachweis\n\nSie können die gespeicherten und auslesbaren Daten im Chip des\nPersonalausweises einsehen.\n\nOnline-Service nutzen\n\nJetzt einen Termin buchen\n\nBeschreibung der Leistung\n\nSie können auf Wunsch in jedem Hamburger Hamburg Service Standort ihre\ngespeicherten und auslesbaren Daten im elektronischen Speicher- und\nVerarbeitungsmedium (Chip) des Personalausweises einsehen.\n\nHierfür müssen Sie persönlich in einem Hamburger Hamburg Service\nStandort Ihrer Wahl erscheinen.\n\nInformationen\n\nWichtige Hinweise\n\nVoraussetzungen\n\n-   Sie sind Deutsche(r) im Sinne des Art. 116 Abs. 1 Grundgesetz (GG)\n\nBenötigte Unterlagen\n\n-   Personalausweis\n\nZu Beachten\n\nkeine\n\nFristen\n\nkeine\n\nAblauf, Dauer & Gebühren\n\nVerfahrensablauf\n\n-   Sie vereinbaren einen Termin im Hamburg Service Ihrer Wahl.\n-   Sie kommen persönlich zum Hamburg Service mit Ihrem\n    Personalausweises.\n\nDauer\n\n-   Die Bearbeitungsdauer beträgt ungefähr fünf Minuten.\n\nGebühren\n\nkeine\n\nRechtliche "
+    ],
+    "reference":"Um einen neuen Personalausweis zu beantragen, müssen Sie zunächst einen Termin in einem Hamburger Hamburg Service Standort vereinbaren. Dann müssen Sie persönlich mit Ihrem aktuellen Personalausweis zum vereinbarten Termin erscheinen. Die Bearbeitungsdauer beträgt ungefähr fünf Minuten.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Wo kann ich in Hamburg meine Personalausweis-Daten einsehen?",
+    "reference_contexts":[
+      "Einsicht in den elektronischen Identitätsnachweis\n\nSie können die gespeicherten und auslesbaren Daten im Chip des\nPersonalausweises einsehen.\n\nOnline-Service nutzen\n\nJetzt einen Termin buchen\n\nBeschreibung der Leistung\n\nSie können auf Wunsch in jedem Hamburger Hamburg Service Standort ihre\ngespeicherten und auslesbaren Daten im elektronischen Speicher- und\nVerarbeitungsmedium (Chip) des Personalausweises einsehen.\n\nHierfür müssen Sie persönlich in einem Hamburger Hamburg Service\nStandort Ihrer Wahl erscheinen.\n\nInformationen\n\nWichtige Hinweise\n\nVoraussetzungen\n\n-   Sie sind Deutsche(r) im Sinne des Art. 116 Abs. 1 Grundgesetz (GG)\n\nBenötigte Unterlagen\n\n-   Personalausweis\n\nZu Beachten\n\nkeine\n\nFristen\n\nkeine\n\nAblauf, Dauer & Gebühren\n\nVerfahrensablauf\n\n-   Sie vereinbaren einen Termin im Hamburg Service Ihrer Wahl.\n-   Sie kommen persönlich zum Hamburg Service mit Ihrem\n    Personalausweises.\n\nDauer\n\n-   Die Bearbeitungsdauer beträgt ungefähr fünf Minuten.\n\nGebühren\n\nkeine\n\nRechtliche "
+    ],
+    "reference":"Sie können auf Wunsch in jedem Hamburger Hamburg Service Standort Ihre gespeicherten und auslesbaren Daten im elektronischen Speicher- und Verarbeitungsmedium (Chip) des Personalausweises einsehen.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Watt muss ich machen um mein Persenalausweis zu erneuern?",
+    "reference_contexts":[
+      "Einsicht in den elektronischen Identitätsnachweis\n\nSie können die gespeicherten und auslesbaren Daten im Chip des\nPersonalausweises einsehen.\n\nOnline-Service nutzen\n\nJetzt einen Termin buchen\n\nBeschreibung der Leistung\n\nSie können auf Wunsch in jedem Hamburger Hamburg Service Standort ihre\ngespeicherten und auslesbaren Daten im elektronischen Speicher- und\nVerarbeitungsmedium (Chip) des Personalausweises einsehen.\n\nHierfür müssen Sie persönlich in einem Hamburger Hamburg Service\nStandort Ihrer Wahl erscheinen.\n\nInformationen\n\nWichtige Hinweise\n\nVoraussetzungen\n\n-   Sie sind Deutsche(r) im Sinne des Art. 116 Abs. 1 Grundgesetz (GG)\n\nBenötigte Unterlagen\n\n-   Personalausweis\n\nZu Beachten\n\nkeine\n\nFristen\n\nkeine\n\nAblauf, Dauer & Gebühren\n\nVerfahrensablauf\n\n-   Sie vereinbaren einen Termin im Hamburg Service Ihrer Wahl.\n-   Sie kommen persönlich zum Hamburg Service mit Ihrem\n    Personalausweises.\n\nDauer\n\n-   Die Bearbeitungsdauer beträgt ungefähr fünf Minuten.\n\nGebühren\n\nkeine\n\nRechtliche "
+    ],
+    "reference":"Um deinen Personalausweis zu erneuern, musst du einen Termin in einem Hamburger Hamburg Service Standort vereinbaren und persönlich mit deinem aktuellen Personalausweis dort erscheinen. Die Bearbeitungsdauer beträgt ungefähr fünf Minuten.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Wie lange dauert es, meinen Personalausweis in Deutschland zu erneuern?",
+    "reference_contexts":[
+      "Einsicht in den elektronischen Identitätsnachweis\n\nSie können die gespeicherten und auslesbaren Daten im Chip des\nPersonalausweises einsehen.\n\nOnline-Service nutzen\n\nJetzt einen Termin buchen\n\nBeschreibung der Leistung\n\nSie können auf Wunsch in jedem Hamburger Hamburg Service Standort ihre\ngespeicherten und auslesbaren Daten im elektronischen Speicher- und\nVerarbeitungsmedium (Chip) des Personalausweises einsehen.\n\nHierfür müssen Sie persönlich in einem Hamburger Hamburg Service\nStandort Ihrer Wahl erscheinen.\n\nInformationen\n\nWichtige Hinweise\n\nVoraussetzungen\n\n-   Sie sind Deutsche(r) im Sinne des Art. 116 Abs. 1 Grundgesetz (GG)\n\nBenötigte Unterlagen\n\n-   Personalausweis\n\nZu Beachten\n\nkeine\n\nFristen\n\nkeine\n\nAblauf, Dauer & Gebühren\n\nVerfahrensablauf\n\n-   Sie vereinbaren einen Termin im Hamburg Service Ihrer Wahl.\n-   Sie kommen persönlich zum Hamburg Service mit Ihrem\n    Personalausweises.\n\nDauer\n\n-   Die Bearbeitungsdauer beträgt ungefähr fünf Minuten.\n\nGebühren\n\nkeine\n\nRechtliche "
+    ],
+    "reference":"Die Bearbeitungsdauer beträgt ungefähr fünf Minuten.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Wie lange dauert es, meinen Personalausweis zu erneuern?",
+    "reference_contexts":[
+      "Einsicht in den elektronischen Identitätsnachweis\n\nSie können die gespeicherten und auslesbaren Daten im Chip des\nPersonalausweises einsehen.\n\nOnline-Service nutzen\n\nJetzt einen Termin buchen\n\nBeschreibung der Leistung\n\nSie können auf Wunsch in jedem Hamburger Hamburg Service Standort ihre\ngespeicherten und auslesbaren Daten im elektronischen Speicher- und\nVerarbeitungsmedium (Chip) des Personalausweises einsehen.\n\nHierfür müssen Sie persönlich in einem Hamburger Hamburg Service\nStandort Ihrer Wahl erscheinen.\n\nInformationen\n\nWichtige Hinweise\n\nVoraussetzungen\n\n-   Sie sind Deutsche(r) im Sinne des Art. 116 Abs. 1 Grundgesetz (GG)\n\nBenötigte Unterlagen\n\n-   Personalausweis\n\nZu Beachten\n\nkeine\n\nFristen\n\nkeine\n\nAblauf, Dauer & Gebühren\n\nVerfahrensablauf\n\n-   Sie vereinbaren einen Termin im Hamburg Service Ihrer Wahl.\n-   Sie kommen persönlich zum Hamburg Service mit Ihrem\n    Personalausweises.\n\nDauer\n\n-   Die Bearbeitungsdauer beträgt ungefähr fünf Minuten.\n\nGebühren\n\nkeine\n\nRechtliche "
+    ],
+    "reference":"Die Bearbeitungsdauer beträgt ungefähr fünf Minuten.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Als eine Person, deren Personalausweis bald abläuft und die einen neuen Ausweis in Hamburg beantragen muss, welche Schritte müssen unternommen werden und wie lange dauert der Prozess?",
+    "reference_contexts":[
+      "Einsicht in den elektronischen Identitätsnachweis\n\nSie können die gespeicherten und auslesbaren Daten im Chip des\nPersonalausweises einsehen.\n\nOnline-Service nutzen\n\nJetzt einen Termin buchen\n\nBeschreibung der Leistung\n\nSie können auf Wunsch in jedem Hamburger Hamburg Service Standort ihre\ngespeicherten und auslesbaren Daten im elektronischen Speicher- und\nVerarbeitungsmedium (Chip) des Personalausweises einsehen.\n\nHierfür müssen Sie persönlich in einem Hamburger Hamburg Service\nStandort Ihrer Wahl erscheinen.\n\nInformationen\n\nWichtige Hinweise\n\nVoraussetzungen\n\n-   Sie sind Deutsche(r) im Sinne des Art. 116 Abs. 1 Grundgesetz (GG)\n\nBenötigte Unterlagen\n\n-   Personalausweis\n\nZu Beachten\n\nkeine\n\nFristen\n\nkeine\n\nAblauf, Dauer & Gebühren\n\nVerfahrensablauf\n\n-   Sie vereinbaren einen Termin im Hamburg Service Ihrer Wahl.\n-   Sie kommen persönlich zum Hamburg Service mit Ihrem\n    Personalausweises.\n\nDauer\n\n-   Die Bearbeitungsdauer beträgt ungefähr fünf Minuten.\n\nGebühren\n\nkeine\n\nRechtliche "
+    ],
+    "reference":"Um den elektronischen Identitätsnachweis einzusehen oder einen neuen Personalausweis in Hamburg zu beantragen, müssen Sie persönlich in einem Hamburger Hamburg Service Standort erscheinen. Die Bearbeitungsdauer beträgt ungefähr fünf Minuten.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Wie bekomm ich neuen Personalausweis?",
+    "reference_contexts":[
+      "Einsicht in den elektronischen Identitätsnachweis\n\nSie können die gespeicherten und auslesbaren Daten im Chip des\nPersonalausweises einsehen.\n\nOnline-Service nutzen\n\nJetzt einen Termin buchen\n\nBeschreibung der Leistung\n\nSie können auf Wunsch in jedem Hamburger Hamburg Service Standort ihre\ngespeicherten und auslesbaren Daten im elektronischen Speicher- und\nVerarbeitungsmedium (Chip) des Personalausweises einsehen.\n\nHierfür müssen Sie persönlich in einem Hamburger Hamburg Service\nStandort Ihrer Wahl erscheinen.\n\nInformationen\n\nWichtige Hinweise\n\nVoraussetzungen\n\n-   Sie sind Deutsche(r) im Sinne des Art. 116 Abs. 1 Grundgesetz (GG)\n\nBenötigte Unterlagen\n\n-   Personalausweis\n\nZu Beachten\n\nkeine\n\nFristen\n\nkeine\n\nAblauf, Dauer & Gebühren\n\nVerfahrensablauf\n\n-   Sie vereinbaren einen Termin im Hamburg Service Ihrer Wahl.\n-   Sie kommen persönlich zum Hamburg Service mit Ihrem\n    Personalausweises.\n\nDauer\n\n-   Die Bearbeitungsdauer beträgt ungefähr fünf Minuten.\n\nGebühren\n\nkeine\n\nRechtliche "
+    ],
+    "reference":"Um einen neuen Personalausweis zu beantragen, müssen Sie persönlich in einem Hamburger Hamburg Service Standort erscheinen. Sie benötigen Ihren aktuellen Personalausweis und es gibt keine Gebühren für diesen Dienst.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Okay, wie is' denn nu mit dem Antrag für'n neuen Personalausweis? Was muss ich machen und wie lange dauert det Ganze?",
+    "reference_contexts":[
+      "Einsicht in den elektronischen Identitätsnachweis\n\nSie können die gespeicherten und auslesbaren Daten im Chip des\nPersonalausweises einsehen.\n\nOnline-Service nutzen\n\nJetzt einen Termin buchen\n\nBeschreibung der Leistung\n\nSie können auf Wunsch in jedem Hamburger Hamburg Service Standort ihre\ngespeicherten und auslesbaren Daten im elektronischen Speicher- und\nVerarbeitungsmedium (Chip) des Personalausweises einsehen.\n\nHierfür müssen Sie persönlich in einem Hamburger Hamburg Service\nStandort Ihrer Wahl erscheinen.\n\nInformationen\n\nWichtige Hinweise\n\nVoraussetzungen\n\n-   Sie sind Deutsche(r) im Sinne des Art. 116 Abs. 1 Grundgesetz (GG)\n\nBenötigte Unterlagen\n\n-   Personalausweis\n\nZu Beachten\n\nkeine\n\nFristen\n\nkeine\n\nAblauf, Dauer & Gebühren\n\nVerfahrensablauf\n\n-   Sie vereinbaren einen Termin im Hamburg Service Ihrer Wahl.\n-   Sie kommen persönlich zum Hamburg Service mit Ihrem\n    Personalausweises.\n\nDauer\n\n-   Die Bearbeitungsdauer beträgt ungefähr fünf Minuten.\n\nGebühren\n\nkeine\n\nRechtliche "
+    ],
+    "reference":"Na ja, erstmal brauchen Se 'nen Termin im Hamburg Service. Dann gehn Se da hin mit'm alten Ausweis und die sehn sich Ihre Daten auf'm Chip an. Dauert nur fünf Minuten und kostet auch nix.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Was sind die wichtigsten Unterlagen, die für die Anmeldung einer Geburt beim Standesamt benötigt werden?",
+    "reference_contexts":[
+      "Standesamt\n\nRund um die Geburt\n\nDie Geburt Ihres Kindes ist eine aufregende Zeit. Wichtige Unterlagen,\ndie das Standesamt unter anderem für die Ausstellung der Geburtsurkunde\nIhres Kindes benötigt, stellen Sie deshalb am besten schon vorher\nzusammen. Hier finden Sie Informationen zu wichtigen Services und eine\nCheckliste für die Dokumente.\n\nGut zu wissen\n\nAnzeige der Geburt & Geburtsurkunde ### Welches Standesamt ist\nzuständig?\n\nDie Zuständigkeit ergibt sich aus dem Geburtsort Ihres Kindes. Ist ihr\nKind beispielsweise in einem Krankenhaus…\n\n------------------------------------------------------------------------\n\nFür werdende Eltern ### Fallbeispiele rund um die Geburt\n\nWas muss gegebenenfalls bedacht werden? Hier werden zwei Fallbeispiele\nfür werdende Eltern beschrieben, die der…\n\n------------------------------------------------------------------------\n\nWichtige Informationen auf einen Blick\n\nAnzeige der Geburt ### So erfährt das Standesamt von der Geburt Ihres\nKindes\n\nDem Standesamt "
+    ],
+    "reference":"Das Standesamt benötigt wichtige Unterlagen wie beispielsweise den Geburtsort Ihres Kindes.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Was sind die wichtigsten Unterlagen, die für die Anmeldung meiner Kinder beim Standesamt benötigt werden?",
+    "reference_contexts":[
+      "Standesamt\n\nRund um die Geburt\n\nDie Geburt Ihres Kindes ist eine aufregende Zeit. Wichtige Unterlagen,\ndie das Standesamt unter anderem für die Ausstellung der Geburtsurkunde\nIhres Kindes benötigt, stellen Sie deshalb am besten schon vorher\nzusammen. Hier finden Sie Informationen zu wichtigen Services und eine\nCheckliste für die Dokumente.\n\nGut zu wissen\n\nAnzeige der Geburt & Geburtsurkunde ### Welches Standesamt ist\nzuständig?\n\nDie Zuständigkeit ergibt sich aus dem Geburtsort Ihres Kindes. Ist ihr\nKind beispielsweise in einem Krankenhaus…\n\n------------------------------------------------------------------------\n\nFür werdende Eltern ### Fallbeispiele rund um die Geburt\n\nWas muss gegebenenfalls bedacht werden? Hier werden zwei Fallbeispiele\nfür werdende Eltern beschrieben, die der…\n\n------------------------------------------------------------------------\n\nWichtige Informationen auf einen Blick\n\nAnzeige der Geburt ### So erfährt das Standesamt von der Geburt Ihres\nKindes\n\nDem Standesamt "
+    ],
+    "reference":"Das Standesamt benötigt wichtige Unterlagen wie beispielsweise die Geburtsurkunde Ihres Kindes.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Okay, wie is' denn nu mit dem Antrag für den neuen Personalausweis? Was brauch ich da alles und wie lange dauert det?",
+    "reference_contexts":[
+      "Standesamt\n\nRund um die Geburt\n\nDie Geburt Ihres Kindes ist eine aufregende Zeit. Wichtige Unterlagen,\ndie das Standesamt unter anderem für die Ausstellung der Geburtsurkunde\nIhres Kindes benötigt, stellen Sie deshalb am besten schon vorher\nzusammen. Hier finden Sie Informationen zu wichtigen Services und eine\nCheckliste für die Dokumente.\n\nGut zu wissen\n\nAnzeige der Geburt & Geburtsurkunde ### Welches Standesamt ist\nzuständig?\n\nDie Zuständigkeit ergibt sich aus dem Geburtsort Ihres Kindes. Ist ihr\nKind beispielsweise in einem Krankenhaus…\n\n------------------------------------------------------------------------\n\nFür werdende Eltern ### Fallbeispiele rund um die Geburt\n\nWas muss gegebenenfalls bedacht werden? Hier werden zwei Fallbeispiele\nfür werdende Eltern beschrieben, die der…\n\n------------------------------------------------------------------------\n\nWichtige Informationen auf einen Blick\n\nAnzeige der Geburt ### So erfährt das Standesamt von der Geburt Ihres\nKindes\n\nDem Standesamt "
+    ],
+    "reference":"Für den neuen Personalausweis musst du einen Antrag stellen. Welche Unterlagen genau benötigt werden, hängt von deinem Wohnort ab. Du solltest dich also bei deinem zuständigen Bürgeramt oder der Stadtverwaltung informieren. Der genaue Ablauf und die Dauer des Verfahrens variieren je nach Behörde.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Wat is de verplichting van ouders bij het aanmelden van de geboorte van hun kind?",
+    "reference_contexts":[
+      "Standesamt\n\nRund um die Geburt\n\nDie Geburt Ihres Kindes ist eine aufregende Zeit. Wichtige Unterlagen,\ndie das Standesamt unter anderem für die Ausstellung der Geburtsurkunde\nIhres Kindes benötigt, stellen Sie deshalb am besten schon vorher\nzusammen. Hier finden Sie Informationen zu wichtigen Services und eine\nCheckliste für die Dokumente.\n\nGut zu wissen\n\nAnzeige der Geburt & Geburtsurkunde ### Welches Standesamt ist\nzuständig?\n\nDie Zuständigkeit ergibt sich aus dem Geburtsort Ihres Kindes. Ist ihr\nKind beispielsweise in einem Krankenhaus…\n\n------------------------------------------------------------------------\n\nFür werdende Eltern ### Fallbeispiele rund um die Geburt\n\nWas muss gegebenenfalls bedacht werden? Hier werden zwei Fallbeispiele\nfür werdende Eltern beschrieben, die der…\n\n------------------------------------------------------------------------\n\nWichtige Informationen auf einen Blick\n\nAnzeige der Geburt ### So erfährt das Standesamt von der Geburt Ihres\nKindes\n\nDem Standesamt "
+    ],
+    "reference":"De verplichting van ouders bij het aanmelden van de geboorte van hun kind is om het Standesamt te informeren over de geboorte.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Was sind die wichtigsten Unterlagen, die für die Anmeldung meiner Kinder beim Standesamt benötigt werden?",
+    "reference_contexts":[
+      "Standesamt\n\nRund um die Geburt\n\nDie Geburt Ihres Kindes ist eine aufregende Zeit. Wichtige Unterlagen,\ndie das Standesamt unter anderem für die Ausstellung der Geburtsurkunde\nIhres Kindes benötigt, stellen Sie deshalb am besten schon vorher\nzusammen. Hier finden Sie Informationen zu wichtigen Services und eine\nCheckliste für die Dokumente.\n\nGut zu wissen\n\nAnzeige der Geburt & Geburtsurkunde ### Welches Standesamt ist\nzuständig?\n\nDie Zuständigkeit ergibt sich aus dem Geburtsort Ihres Kindes. Ist ihr\nKind beispielsweise in einem Krankenhaus…\n\n------------------------------------------------------------------------\n\nFür werdende Eltern ### Fallbeispiele rund um die Geburt\n\nWas muss gegebenenfalls bedacht werden? Hier werden zwei Fallbeispiele\nfür werdende Eltern beschrieben, die der…\n\n------------------------------------------------------------------------\n\nWichtige Informationen auf einen Blick\n\nAnzeige der Geburt ### So erfährt das Standesamt von der Geburt Ihres\nKindes\n\nDem Standesamt "
+    ],
+    "reference":"Das Standesamt benötigt wichtige Unterlagen wie beispielsweise die Geburtsurkunden Ihrer Kinder.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Was brauch ich für Kinder bei Personalausweis beantragen?",
+    "reference_contexts":[
+      "Standesamt\n\nRund um die Geburt\n\nDie Geburt Ihres Kindes ist eine aufregende Zeit. Wichtige Unterlagen,\ndie das Standesamt unter anderem für die Ausstellung der Geburtsurkunde\nIhres Kindes benötigt, stellen Sie deshalb am besten schon vorher\nzusammen. Hier finden Sie Informationen zu wichtigen Services und eine\nCheckliste für die Dokumente.\n\nGut zu wissen\n\nAnzeige der Geburt & Geburtsurkunde ### Welches Standesamt ist\nzuständig?\n\nDie Zuständigkeit ergibt sich aus dem Geburtsort Ihres Kindes. Ist ihr\nKind beispielsweise in einem Krankenhaus…\n\n------------------------------------------------------------------------\n\nFür werdende Eltern ### Fallbeispiele rund um die Geburt\n\nWas muss gegebenenfalls bedacht werden? Hier werden zwei Fallbeispiele\nfür werdende Eltern beschrieben, die der…\n\n------------------------------------------------------------------------\n\nWichtige Informationen auf einen Blick\n\nAnzeige der Geburt ### So erfährt das Standesamt von der Geburt Ihres\nKindes\n\nDem Standesamt "
+    ],
+    "reference":"Das Standesamt benötigt wichtige Unterlagen für die Ausstellung der Geburtsurkunde Ihres Kindes.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Als jemand, dessen Personalausweis bald abläuft und der einen neuen beantragen muss, möchte ich wissen, wie ich den Antrag beim zuständigen Standesamt stellen kann und welche Schritte ich dabei einhalten muss.",
+    "reference_contexts":[
+      "Standesamt\n\nRund um die Geburt\n\nDie Geburt Ihres Kindes ist eine aufregende Zeit. Wichtige Unterlagen,\ndie das Standesamt unter anderem für die Ausstellung der Geburtsurkunde\nIhres Kindes benötigt, stellen Sie deshalb am besten schon vorher\nzusammen. Hier finden Sie Informationen zu wichtigen Services und eine\nCheckliste für die Dokumente.\n\nGut zu wissen\n\nAnzeige der Geburt & Geburtsurkunde ### Welches Standesamt ist\nzuständig?\n\nDie Zuständigkeit ergibt sich aus dem Geburtsort Ihres Kindes. Ist ihr\nKind beispielsweise in einem Krankenhaus…\n\n------------------------------------------------------------------------\n\nFür werdende Eltern ### Fallbeispiele rund um die Geburt\n\nWas muss gegebenenfalls bedacht werden? Hier werden zwei Fallbeispiele\nfür werdende Eltern beschrieben, die der…\n\n------------------------------------------------------------------------\n\nWichtige Informationen auf einen Blick\n\nAnzeige der Geburt ### So erfährt das Standesamt von der Geburt Ihres\nKindes\n\nDem Standesamt "
+    ],
+    "reference":"Die Zuständigkeit des Standesamts ergibt sich aus dem Geburtsort Ihres Kindes. Um den Antrag auf Ausstellung einer Geburtsurkunde zu stellen, müssen Sie wichtige Unterlagen vorbereiten, wie es in der Checkliste für die Dokumente beschrieben ist.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Wie kann ich sicherstellen, dass das Standesamt alle notwendigen Informationen für die Ausstellung der Geburtsurkunde meines Kindes hat?",
+    "reference_contexts":[
+      "Standesamt\n\nRund um die Geburt\n\nDie Geburt Ihres Kindes ist eine aufregende Zeit. Wichtige Unterlagen,\ndie das Standesamt unter anderem für die Ausstellung der Geburtsurkunde\nIhres Kindes benötigt, stellen Sie deshalb am besten schon vorher\nzusammen. Hier finden Sie Informationen zu wichtigen Services und eine\nCheckliste für die Dokumente.\n\nGut zu wissen\n\nAnzeige der Geburt & Geburtsurkunde ### Welches Standesamt ist\nzuständig?\n\nDie Zuständigkeit ergibt sich aus dem Geburtsort Ihres Kindes. Ist ihr\nKind beispielsweise in einem Krankenhaus…\n\n------------------------------------------------------------------------\n\nFür werdende Eltern ### Fallbeispiele rund um die Geburt\n\nWas muss gegebenenfalls bedacht werden? Hier werden zwei Fallbeispiele\nfür werdende Eltern beschrieben, die der…\n\n------------------------------------------------------------------------\n\nWichtige Informationen auf einen Blick\n\nAnzeige der Geburt ### So erfährt das Standesamt von der Geburt Ihres\nKindes\n\nDem Standesamt "
+    ],
+    "reference":"Das Standesamt benötigt wichtige Unterlagen wie beispielsweise die Geburtsbescheinigung des Krankenhauses oder eine eidesstattliche Versicherung, wenn das Kind zu Hause geboren wurde. Es ist wichtig, diese Dokumente rechtzeitig bereitzustellen.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Okay, was is' da mit dem Standesamt? Ich muss meinen Personalausweis erneuern und will wissen, wie det läuft, welche Papiere ich brauch' und wie lange det dauert.",
+    "reference_contexts":[
+      "Standesamt\n\nRund um die Geburt\n\nDie Geburt Ihres Kindes ist eine aufregende Zeit. Wichtige Unterlagen,\ndie das Standesamt unter anderem für die Ausstellung der Geburtsurkunde\nIhres Kindes benötigt, stellen Sie deshalb am besten schon vorher\nzusammen. Hier finden Sie Informationen zu wichtigen Services und eine\nCheckliste für die Dokumente.\n\nGut zu wissen\n\nAnzeige der Geburt & Geburtsurkunde ### Welches Standesamt ist\nzuständig?\n\nDie Zuständigkeit ergibt sich aus dem Geburtsort Ihres Kindes. Ist ihr\nKind beispielsweise in einem Krankenhaus…\n\n------------------------------------------------------------------------\n\nFür werdende Eltern ### Fallbeispiele rund um die Geburt\n\nWas muss gegebenenfalls bedacht werden? Hier werden zwei Fallbeispiele\nfür werdende Eltern beschrieben, die der…\n\n------------------------------------------------------------------------\n\nWichtige Informationen auf einen Blick\n\nAnzeige der Geburt ### So erfährt das Standesamt von der Geburt Ihres\nKindes\n\nDem Standesamt "
+    ],
+    "reference":"Das Standesamt ist zuständig für die Ausstellung der Geburtsurkunde Ihres Kindes. Die Zuständigkeit ergibt sich aus dem Geburtsort Ihres Kindes.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Kannst du mir detailliert beschreiben, wie ich einen neuen Personalausweis beantragen kann und welche Schritte ich unternehmen muss, insbesondere in Bezug auf die Beglaubigung von Dokumenten für privatrechtliche Zwecke?",
+    "reference_contexts":[
+      "Beglaubigungen von Kopien behördlicher Dokumente zur Vorlage bei einer Behörde und für privatrechtliche Zwecke\n\nOnline-Service nutzen\n\nJetzt einen Termin buchen\n\nBeschreibung der Leistung\n\nJede Behörde kann Abschriften\/Ablichtungen von Schriftstücken, die sie\nselbst ausgestellt hat, oder die für ihren eigenen Bedarf bestimmt sind,\namtlich beglaubigen.\n\nDarüber hinaus ist die für die Wohnung des\/der Betroffenen zuständige\nMeldebehörde befugt, Schriftstücke, die von einer deutschen Behörde\nausgestellt worden sind oder deren Abschriften zur Vorlage bei einer\nBehörde benötigt werden, amtlich zu beglaubigen.\n\nAmtliche Beglaubigungen sind nicht möglich für private Schriftstücke,\ndie privat verwendet werden sollen. Unterschriftsbeglaubigungen für\nandere Zwecke oder öffentliche Beglaubigungen (§ 129 BGB), sowie\nUnterschriften ohne zugehörigen Text können bei einem Notar beantragt\nwerden.\n\nPersonenstandsurkunden oder Abschriften aus Personenstandsbüchern dürfen\nnur von dem Standesamt beglaubigt"
+    ],
+    "reference":"Um einen neuen Personalausweis zu beantragen, musst du zunächst einen Termin bei der zuständigen Behörde buchen. Wenn du Dokumente beglaubigen lassen möchtest, um sie für privatrechtliche Zwecke zu verwenden, solltest du sicherstellen, dass es sich dabei um behördliche Dokumente handelt, die von einer deutschen Behörde ausgestellt wurden oder deren Abschriften zur Vorlage bei einer Behörde benötigt werden. Die Beglaubigung kann online beantragt werden und wird von der für deine Wohnung zuständigen Meldebehörde durchgeführt.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Watt sind 'Schriftsticke'?",
+    "reference_contexts":[
+      "Beglaubigungen von Kopien behördlicher Dokumente zur Vorlage bei einer Behörde und für privatrechtliche Zwecke\n\nOnline-Service nutzen\n\nJetzt einen Termin buchen\n\nBeschreibung der Leistung\n\nJede Behörde kann Abschriften\/Ablichtungen von Schriftstücken, die sie\nselbst ausgestellt hat, oder die für ihren eigenen Bedarf bestimmt sind,\namtlich beglaubigen.\n\nDarüber hinaus ist die für die Wohnung des\/der Betroffenen zuständige\nMeldebehörde befugt, Schriftstücke, die von einer deutschen Behörde\nausgestellt worden sind oder deren Abschriften zur Vorlage bei einer\nBehörde benötigt werden, amtlich zu beglaubigen.\n\nAmtliche Beglaubigungen sind nicht möglich für private Schriftstücke,\ndie privat verwendet werden sollen. Unterschriftsbeglaubigungen für\nandere Zwecke oder öffentliche Beglaubigungen (§ 129 BGB), sowie\nUnterschriften ohne zugehörigen Text können bei einem Notar beantragt\nwerden.\n\nPersonenstandsurkunden oder Abschriften aus Personenstandsbüchern dürfen\nnur von dem Standesamt beglaubigt"
+    ],
+    "reference":"Schriftstücke beziehen sich auf behördliche Dokumente, die für private Zwecke oder zur Vorlage bei einer Behörde benötigt werden.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Welche Art von Dokumenten kann die Meldebehörde für 'privatrechtliche Zwecke' beglaubigen?",
+    "reference_contexts":[
+      "Beglaubigungen von Kopien behördlicher Dokumente zur Vorlage bei einer Behörde und für privatrechtliche Zwecke\n\nOnline-Service nutzen\n\nJetzt einen Termin buchen\n\nBeschreibung der Leistung\n\nJede Behörde kann Abschriften\/Ablichtungen von Schriftstücken, die sie\nselbst ausgestellt hat, oder die für ihren eigenen Bedarf bestimmt sind,\namtlich beglaubigen.\n\nDarüber hinaus ist die für die Wohnung des\/der Betroffenen zuständige\nMeldebehörde befugt, Schriftstücke, die von einer deutschen Behörde\nausgestellt worden sind oder deren Abschriften zur Vorlage bei einer\nBehörde benötigt werden, amtlich zu beglaubigen.\n\nAmtliche Beglaubigungen sind nicht möglich für private Schriftstücke,\ndie privat verwendet werden sollen. Unterschriftsbeglaubigungen für\nandere Zwecke oder öffentliche Beglaubigungen (§ 129 BGB), sowie\nUnterschriften ohne zugehörigen Text können bei einem Notar beantragt\nwerden.\n\nPersonenstandsurkunden oder Abschriften aus Personenstandsbüchern dürfen\nnur von dem Standesamt beglaubigt"
+    ],
+    "reference":"Die Meldebehörde ist befugt, Schriftstücke, die von einer deutschen Behörde ausgestellt worden sind oder deren Abschriften zur Vorlage bei einer Behörde benötigt werden, amtlich zu beglaubigen.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Was sind behördliche Dokumente?",
+    "reference_contexts":[
+      "Beglaubigungen von Kopien behördlicher Dokumente zur Vorlage bei einer Behörde und für privatrechtliche Zwecke\n\nOnline-Service nutzen\n\nJetzt einen Termin buchen\n\nBeschreibung der Leistung\n\nJede Behörde kann Abschriften\/Ablichtungen von Schriftstücken, die sie\nselbst ausgestellt hat, oder die für ihren eigenen Bedarf bestimmt sind,\namtlich beglaubigen.\n\nDarüber hinaus ist die für die Wohnung des\/der Betroffenen zuständige\nMeldebehörde befugt, Schriftstücke, die von einer deutschen Behörde\nausgestellt worden sind oder deren Abschriften zur Vorlage bei einer\nBehörde benötigt werden, amtlich zu beglaubigen.\n\nAmtliche Beglaubigungen sind nicht möglich für private Schriftstücke,\ndie privat verwendet werden sollen. Unterschriftsbeglaubigungen für\nandere Zwecke oder öffentliche Beglaubigungen (§ 129 BGB), sowie\nUnterschriften ohne zugehörigen Text können bei einem Notar beantragt\nwerden.\n\nPersonenstandsurkunden oder Abschriften aus Personenstandsbüchern dürfen\nnur von dem Standesamt beglaubigt"
+    ],
+    "reference":"Behördliche Dokumente sind Schriftstücke, die von einer Behörde ausgestellt wurden oder deren Abschriften zur Vorlage bei einer Behörde benötigt werden.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Wie kann ich online einen Termin für die Beglaubigung von Kopien behördlicher Dokumente buchen?",
+    "reference_contexts":[
+      "Beglaubigungen von Kopien behördlicher Dokumente zur Vorlage bei einer Behörde und für privatrechtliche Zwecke\n\nOnline-Service nutzen\n\nJetzt einen Termin buchen\n\nBeschreibung der Leistung\n\nJede Behörde kann Abschriften\/Ablichtungen von Schriftstücken, die sie\nselbst ausgestellt hat, oder die für ihren eigenen Bedarf bestimmt sind,\namtlich beglaubigen.\n\nDarüber hinaus ist die für die Wohnung des\/der Betroffenen zuständige\nMeldebehörde befugt, Schriftstücke, die von einer deutschen Behörde\nausgestellt worden sind oder deren Abschriften zur Vorlage bei einer\nBehörde benötigt werden, amtlich zu beglaubigen.\n\nAmtliche Beglaubigungen sind nicht möglich für private Schriftstücke,\ndie privat verwendet werden sollen. Unterschriftsbeglaubigungen für\nandere Zwecke oder öffentliche Beglaubigungen (§ 129 BGB), sowie\nUnterschriften ohne zugehörigen Text können bei einem Notar beantragt\nwerden.\n\nPersonenstandsurkunden oder Abschriften aus Personenstandsbüchern dürfen\nnur von dem Standesamt beglaubigt"
+    ],
+    "reference":"Um online einen Termin für die Beglaubigung von Kopien behördlicher Dokumente zu buchen, nutzen Sie den Online-Service und klicken Sie auf 'Jetzt einen Termin buchen'.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Was sind die Voraussetzungen für eine amtliche Beglaubigung einer Kopie eines Schriftstücks durch eine deutsche Behörde?",
+    "reference_contexts":[
+      "Beglaubigungen von Kopien behördlicher Dokumente zur Vorlage bei einer Behörde und für privatrechtliche Zwecke\n\nOnline-Service nutzen\n\nJetzt einen Termin buchen\n\nBeschreibung der Leistung\n\nJede Behörde kann Abschriften\/Ablichtungen von Schriftstücken, die sie\nselbst ausgestellt hat, oder die für ihren eigenen Bedarf bestimmt sind,\namtlich beglaubigen.\n\nDarüber hinaus ist die für die Wohnung des\/der Betroffenen zuständige\nMeldebehörde befugt, Schriftstücke, die von einer deutschen Behörde\nausgestellt worden sind oder deren Abschriften zur Vorlage bei einer\nBehörde benötigt werden, amtlich zu beglaubigen.\n\nAmtliche Beglaubigungen sind nicht möglich für private Schriftstücke,\ndie privat verwendet werden sollen. Unterschriftsbeglaubigungen für\nandere Zwecke oder öffentliche Beglaubigungen (§ 129 BGB), sowie\nUnterschriften ohne zugehörigen Text können bei einem Notar beantragt\nwerden.\n\nPersonenstandsurkunden oder Abschriften aus Personenstandsbüchern dürfen\nnur von dem Standesamt beglaubigt"
+    ],
+    "reference":"Jede Behörde kann Abschriften\/Ablichtungen von Schriftstücken, die sie selbst ausgestellt hat oder die für ihren eigenen Bedarf bestimmt sind, beglaubigen. Darüber hinaus ist die für die Wohnung des\/der Betroffenen zuständige Meldebehörde befugt, Schriftstücke, die von einer deutschen Behörde ausgestellt worden sind oder deren Abschriften zur Vorlage bei einer Behörde benötigt werden, amtlich zu beglaubigen.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Wo kann ich einen Termin für die Beglaubigung meiner Dokumente bei der Behörde buchen?",
+    "reference_contexts":[
+      "Beglaubigungen von Kopien behördlicher Dokumente zur Vorlage bei einer Behörde und für privatrechtliche Zwecke\n\nOnline-Service nutzen\n\nJetzt einen Termin buchen\n\nBeschreibung der Leistung\n\nJede Behörde kann Abschriften\/Ablichtungen von Schriftstücken, die sie\nselbst ausgestellt hat, oder die für ihren eigenen Bedarf bestimmt sind,\namtlich beglaubigen.\n\nDarüber hinaus ist die für die Wohnung des\/der Betroffenen zuständige\nMeldebehörde befugt, Schriftstücke, die von einer deutschen Behörde\nausgestellt worden sind oder deren Abschriften zur Vorlage bei einer\nBehörde benötigt werden, amtlich zu beglaubigen.\n\nAmtliche Beglaubigungen sind nicht möglich für private Schriftstücke,\ndie privat verwendet werden sollen. Unterschriftsbeglaubigungen für\nandere Zwecke oder öffentliche Beglaubigungen (§ 129 BGB), sowie\nUnterschriften ohne zugehörigen Text können bei einem Notar beantragt\nwerden.\n\nPersonenstandsurkunden oder Abschriften aus Personenstandsbüchern dürfen\nnur von dem Standesamt beglaubigt"
+    ],
+    "reference":"Jetzt einen Termin buchen",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Watt is de online servis?",
+    "reference_contexts":[
+      "Beglaubigungen von Kopien behördlicher Dokumente zur Vorlage bei einer Behörde und für privatrechtliche Zwecke\n\nOnline-Service nutzen\n\nJetzt einen Termin buchen\n\nBeschreibung der Leistung\n\nJede Behörde kann Abschriften\/Ablichtungen von Schriftstücken, die sie\nselbst ausgestellt hat, oder die für ihren eigenen Bedarf bestimmt sind,\namtlich beglaubigen.\n\nDarüber hinaus ist die für die Wohnung des\/der Betroffenen zuständige\nMeldebehörde befugt, Schriftstücke, die von einer deutschen Behörde\nausgestellt worden sind oder deren Abschriften zur Vorlage bei einer\nBehörde benötigt werden, amtlich zu beglaubigen.\n\nAmtliche Beglaubigungen sind nicht möglich für private Schriftstücke,\ndie privat verwendet werden sollen. Unterschriftsbeglaubigungen für\nandere Zwecke oder öffentliche Beglaubigungen (§ 129 BGB), sowie\nUnterschriften ohne zugehörigen Text können bei einem Notar beantragt\nwerden.\n\nPersonenstandsurkunden oder Abschriften aus Personenstandsbüchern dürfen\nnur von dem Standesamt beglaubigt"
+    ],
+    "reference":"De online servis is nutzbar fir Termin buchen.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Wie nutze Online-Service?",
+    "reference_contexts":[
+      "Beglaubigungen von Kopien behördlicher Dokumente zur Vorlage bei einer Behörde und für privatrechtliche Zwecke\n\nOnline-Service nutzen\n\nJetzt einen Termin buchen\n\nBeschreibung der Leistung\n\nJede Behörde kann Abschriften\/Ablichtungen von Schriftstücken, die sie\nselbst ausgestellt hat, oder die für ihren eigenen Bedarf bestimmt sind,\namtlich beglaubigen.\n\nDarüber hinaus ist die für die Wohnung des\/der Betroffenen zuständige\nMeldebehörde befugt, Schriftstücke, die von einer deutschen Behörde\nausgestellt worden sind oder deren Abschriften zur Vorlage bei einer\nBehörde benötigt werden, amtlich zu beglaubigen.\n\nAmtliche Beglaubigungen sind nicht möglich für private Schriftstücke,\ndie privat verwendet werden sollen. Unterschriftsbeglaubigungen für\nandere Zwecke oder öffentliche Beglaubigungen (§ 129 BGB), sowie\nUnterschriften ohne zugehörigen Text können bei einem Notar beantragt\nwerden.\n\nPersonenstandsurkunden oder Abschriften aus Personenstandsbüchern dürfen\nnur von dem Standesamt beglaubigt"
+    ],
+    "reference":"Online-Service nutzen",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Wo finde ich eine Liste aller Länder mit ihren konsularischen Vertretungen in Hamburg?",
+    "reference_contexts":[
+      "Konsulate in Hamburg\n\nInformationen\n\nWichtige Hinweise\n\nZu Beachten\n\nIn Hamburg sind rund einhundert Staaten konsularisch vertreten. Weitere\nInformationen und die Kontaktdaten des von Ihnen gewünschten Konsulates\nentnehmen Sie bitte den weiterführenden Links.\n\nFormulare, Services & Links\n\nLinks auf hamburg.de\n\n-   Konsulate in Hamburg, Informationen der Senatskanzlei\n\nLinks im Internet\n\n-   Länderübersicht der Auslandsvertretungen\n\nNoch nicht das passende gefunden?\n\nZur Hamburg Service Startseite\n\nSuchwörter: Generalkonsulate in Hamburg Honorarkonsulate in Hamburg\nHonorargeneralkonsulate in Hamburg Konsularkorps in der Freien und\nHansestadt Hamburg Botschaften in Deutschland Honorarkonsulate in\nDeutschland Konsulate in Deutschland Konsulatsdatenbank Vertretungen\nanderer Staaten in Deutschland Reisepass für Ausländer Pass für\nAusländer Ausweis für Ausländer\n\nLetzte Aktualisierung: 28.04.2025\n"
+    ],
+    "reference":"Die 'Länderübersicht der Auslandsvertretungen' enthält Informationen über die konsularischen Vertretungen in Hamburg.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Können Sie mir sagen, welche Honorarkonsulate in Hamburg vertreten sind und wie ich ihre Kontaktdaten finde?",
+    "reference_contexts":[
+      "Konsulate in Hamburg\n\nInformationen\n\nWichtige Hinweise\n\nZu Beachten\n\nIn Hamburg sind rund einhundert Staaten konsularisch vertreten. Weitere\nInformationen und die Kontaktdaten des von Ihnen gewünschten Konsulates\nentnehmen Sie bitte den weiterführenden Links.\n\nFormulare, Services & Links\n\nLinks auf hamburg.de\n\n-   Konsulate in Hamburg, Informationen der Senatskanzlei\n\nLinks im Internet\n\n-   Länderübersicht der Auslandsvertretungen\n\nNoch nicht das passende gefunden?\n\nZur Hamburg Service Startseite\n\nSuchwörter: Generalkonsulate in Hamburg Honorarkonsulate in Hamburg\nHonorargeneralkonsulate in Hamburg Konsularkorps in der Freien und\nHansestadt Hamburg Botschaften in Deutschland Honorarkonsulate in\nDeutschland Konsulate in Deutschland Konsulatsdatenbank Vertretungen\nanderer Staaten in Deutschland Reisepass für Ausländer Pass für\nAusländer Ausweis für Ausländer\n\nLetzte Aktualisierung: 28.04.2025\n"
+    ],
+    "reference":"In Hamburg sind rund einhundert Staaten konsularisch vertreten, darunter auch Honorarkonsulate. Um die Kontaktdaten des von Ihnen gewünschten Konsulates zu finden, können Sie auf den weiterführenden Links unter 'Konsulate in Hamburg' oder 'Länderübersicht der Auslandsvertretungen' nachschauen.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Was sind die Konsulate in Hamburg?",
+    "reference_contexts":[
+      "Konsulate in Hamburg\n\nInformationen\n\nWichtige Hinweise\n\nZu Beachten\n\nIn Hamburg sind rund einhundert Staaten konsularisch vertreten. Weitere\nInformationen und die Kontaktdaten des von Ihnen gewünschten Konsulates\nentnehmen Sie bitte den weiterführenden Links.\n\nFormulare, Services & Links\n\nLinks auf hamburg.de\n\n-   Konsulate in Hamburg, Informationen der Senatskanzlei\n\nLinks im Internet\n\n-   Länderübersicht der Auslandsvertretungen\n\nNoch nicht das passende gefunden?\n\nZur Hamburg Service Startseite\n\nSuchwörter: Generalkonsulate in Hamburg Honorarkonsulate in Hamburg\nHonorargeneralkonsulate in Hamburg Konsularkorps in der Freien und\nHansestadt Hamburg Botschaften in Deutschland Honorarkonsulate in\nDeutschland Konsulate in Deutschland Konsulatsdatenbank Vertretungen\nanderer Staaten in Deutschland Reisepass für Ausländer Pass für\nAusländer Ausweis für Ausländer\n\nLetzte Aktualisierung: 28.04.2025\n"
+    ],
+    "reference":"In Hamburg sind rund einhundert Staaten konsularisch vertreten.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Watt muss ich f├╝r mein reisepass applikashun tun?",
+    "reference_contexts":[
+      "Konsulate in Hamburg\n\nInformationen\n\nWichtige Hinweise\n\nZu Beachten\n\nIn Hamburg sind rund einhundert Staaten konsularisch vertreten. Weitere\nInformationen und die Kontaktdaten des von Ihnen gewünschten Konsulates\nentnehmen Sie bitte den weiterführenden Links.\n\nFormulare, Services & Links\n\nLinks auf hamburg.de\n\n-   Konsulate in Hamburg, Informationen der Senatskanzlei\n\nLinks im Internet\n\n-   Länderübersicht der Auslandsvertretungen\n\nNoch nicht das passende gefunden?\n\nZur Hamburg Service Startseite\n\nSuchwörter: Generalkonsulate in Hamburg Honorarkonsulate in Hamburg\nHonorargeneralkonsulate in Hamburg Konsularkorps in der Freien und\nHansestadt Hamburg Botschaften in Deutschland Honorarkonsulate in\nDeutschland Konsulate in Deutschland Konsulatsdatenbank Vertretungen\nanderer Staaten in Deutschland Reisepass für Ausländer Pass für\nAusländer Ausweis für Ausländer\n\nLetzte Aktualisierung: 28.04.2025\n"
+    ],
+    "reference":"Um einen Reisepass zu beantragen, m├╝ssen Sie die Kontaktdaten des von Ihnen gew├╝nschten Konsulates ├╝berpr├╝fen und eventuell erforderliche Formulare ausf├╝llen.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Können Sie mir sagen, wo ich eine Länderübersicht der Auslandsvertretungen finden kann?",
+    "reference_contexts":[
+      "Konsulate in Hamburg\n\nInformationen\n\nWichtige Hinweise\n\nZu Beachten\n\nIn Hamburg sind rund einhundert Staaten konsularisch vertreten. Weitere\nInformationen und die Kontaktdaten des von Ihnen gewünschten Konsulates\nentnehmen Sie bitte den weiterführenden Links.\n\nFormulare, Services & Links\n\nLinks auf hamburg.de\n\n-   Konsulate in Hamburg, Informationen der Senatskanzlei\n\nLinks im Internet\n\n-   Länderübersicht der Auslandsvertretungen\n\nNoch nicht das passende gefunden?\n\nZur Hamburg Service Startseite\n\nSuchwörter: Generalkonsulate in Hamburg Honorarkonsulate in Hamburg\nHonorargeneralkonsulate in Hamburg Konsularkorps in der Freien und\nHansestadt Hamburg Botschaften in Deutschland Honorarkonsulate in\nDeutschland Konsulate in Deutschland Konsulatsdatenbank Vertretungen\nanderer Staaten in Deutschland Reisepass für Ausländer Pass für\nAusländer Ausweis für Ausländer\n\nLetzte Aktualisierung: 28.04.2025\n"
+    ],
+    "reference":"Sie können die Länderübersicht auf dem Link 'Länderübersicht der Auslandsvertretungen' finden.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Wat is de informatie over Botschaften?",
+    "reference_contexts":[
+      "Konsulate in Hamburg\n\nInformationen\n\nWichtige Hinweise\n\nZu Beachten\n\nIn Hamburg sind rund einhundert Staaten konsularisch vertreten. Weitere\nInformationen und die Kontaktdaten des von Ihnen gewünschten Konsulates\nentnehmen Sie bitte den weiterführenden Links.\n\nFormulare, Services & Links\n\nLinks auf hamburg.de\n\n-   Konsulate in Hamburg, Informationen der Senatskanzlei\n\nLinks im Internet\n\n-   Länderübersicht der Auslandsvertretungen\n\nNoch nicht das passende gefunden?\n\nZur Hamburg Service Startseite\n\nSuchwörter: Generalkonsulate in Hamburg Honorarkonsulate in Hamburg\nHonorargeneralkonsulate in Hamburg Konsularkorps in der Freien und\nHansestadt Hamburg Botschaften in Deutschland Honorarkonsulate in\nDeutschland Konsulate in Deutschland Konsulatsdatenbank Vertretungen\nanderer Staaten in Deutschland Reisepass für Ausländer Pass für\nAusländer Ausweis für Ausländer\n\nLetzte Aktualisierung: 28.04.2025\n"
+    ],
+    "reference":"De context bevat geen informatie over Botschaften.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Wat is 'Vertretungen' bei Konsulate?",
+    "reference_contexts":[
+      "Konsulate in Hamburg\n\nInformationen\n\nWichtige Hinweise\n\nZu Beachten\n\nIn Hamburg sind rund einhundert Staaten konsularisch vertreten. Weitere\nInformationen und die Kontaktdaten des von Ihnen gewünschten Konsulates\nentnehmen Sie bitte den weiterführenden Links.\n\nFormulare, Services & Links\n\nLinks auf hamburg.de\n\n-   Konsulate in Hamburg, Informationen der Senatskanzlei\n\nLinks im Internet\n\n-   Länderübersicht der Auslandsvertretungen\n\nNoch nicht das passende gefunden?\n\nZur Hamburg Service Startseite\n\nSuchwörter: Generalkonsulate in Hamburg Honorarkonsulate in Hamburg\nHonorargeneralkonsulate in Hamburg Konsularkorps in der Freien und\nHansestadt Hamburg Botschaften in Deutschland Honorarkonsulate in\nDeutschland Konsulate in Deutschland Konsulatsdatenbank Vertretungen\nanderer Staaten in Deutschland Reisepass für Ausländer Pass für\nAusländer Ausweis für Ausländer\n\nLetzte Aktualisierung: 28.04.2025\n"
+    ],
+    "reference":"'Vertretungen' bezieht sich auf die konsularischen Vertretungen von Staaten in Hamburg, wie Generalkonsulate und Honorarkonsulate.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Kannst du mir detailliert beschreiben, wie ich einen neuen Personalausweis beantragen kann und welche Generalkonsulate in Hamburg für diesen Prozess zuständig sind?",
+    "reference_contexts":[
+      "Konsulate in Hamburg\n\nInformationen\n\nWichtige Hinweise\n\nZu Beachten\n\nIn Hamburg sind rund einhundert Staaten konsularisch vertreten. Weitere\nInformationen und die Kontaktdaten des von Ihnen gewünschten Konsulates\nentnehmen Sie bitte den weiterführenden Links.\n\nFormulare, Services & Links\n\nLinks auf hamburg.de\n\n-   Konsulate in Hamburg, Informationen der Senatskanzlei\n\nLinks im Internet\n\n-   Länderübersicht der Auslandsvertretungen\n\nNoch nicht das passende gefunden?\n\nZur Hamburg Service Startseite\n\nSuchwörter: Generalkonsulate in Hamburg Honorarkonsulate in Hamburg\nHonorargeneralkonsulate in Hamburg Konsularkorps in der Freien und\nHansestadt Hamburg Botschaften in Deutschland Honorarkonsulate in\nDeutschland Konsulate in Deutschland Konsulatsdatenbank Vertretungen\nanderer Staaten in Deutschland Reisepass für Ausländer Pass für\nAusländer Ausweis für Ausländer\n\nLetzte Aktualisierung: 28.04.2025\n"
+    ],
+    "reference":"In Hamburg sind rund einhundert Staaten konsularisch vertreten. Weitere Informationen und die Kontaktdaten des von Ihnen gewünschten Konsulates entnehmen Sie bitte den weiterführenden Links auf hamburg.de oder der Länderübersicht der Auslandsvertretungen.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Kannst du mir detailliert beschreiben, wie ich einen neuen Personalausweis beantragen kann und welche Vertretungen in Hamburg dafür zuständig sind?",
+    "reference_contexts":[
+      "Konsulate in Hamburg\n\nInformationen\n\nWichtige Hinweise\n\nZu Beachten\n\nIn Hamburg sind rund einhundert Staaten konsularisch vertreten. Weitere\nInformationen und die Kontaktdaten des von Ihnen gewünschten Konsulates\nentnehmen Sie bitte den weiterführenden Links.\n\nFormulare, Services & Links\n\nLinks auf hamburg.de\n\n-   Konsulate in Hamburg, Informationen der Senatskanzlei\n\nLinks im Internet\n\n-   Länderübersicht der Auslandsvertretungen\n\nNoch nicht das passende gefunden?\n\nZur Hamburg Service Startseite\n\nSuchwörter: Generalkonsulate in Hamburg Honorarkonsulate in Hamburg\nHonorargeneralkonsulate in Hamburg Konsularkorps in der Freien und\nHansestadt Hamburg Botschaften in Deutschland Honorarkonsulate in\nDeutschland Konsulate in Deutschland Konsulatsdatenbank Vertretungen\nanderer Staaten in Deutschland Reisepass für Ausländer Pass für\nAusländer Ausweis für Ausländer\n\nLetzte Aktualisierung: 28.04.2025\n"
+    ],
+    "reference":"In Hamburg sind rund einhundert Staaten konsularisch vertreten. Weitere Informationen und die Kontaktdaten des von Ihnen gewünschten Konsulates entnehmen Sie bitte den weiterführenden Links auf hamburg.de oder der Länderübersicht der Auslandsvertretungen.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Wat is de procedure voor het aanvragen van een nieuwe Personalausweis?",
+    "reference_contexts":[
+      "Speicherung von Signaturzertifikaten auf Ihrem elektronischen Identitätsnachweis\n\nSie können mit der elektronischen Signatur können ein digitales Dokument\n(Verträge, Anträge und Urkunden), das sonst nur in Schriftform\nrechtsverbindlich wäre, rechtsverbindlich unterzeichnen.\n\nBeschreibung der Leistung\n\nDer Personalausweis mit Online-Ausweisfunktion ist für die Nutzung der\nelektronischen Unterschrift vorbereitet. Sie können diese Funktion\nnutzen, indem Sie ein Signaturzertifikat eines zertifizierten Anbieters\nerwerben und auf dem Personalausweis speichern.\n\nInformationen\n\nWichtige Hinweise\n\nVoraussetzungen\n\n-   Deutsche(r) im Sinne des Art. 116 Abs. 1 Grundgesetz (GG)\n\nBenötigte Unterlagen\n\n-   Personalausweis\n\nZu Beachten\n\n-   Die Funktion zur Nutzung der elektronischen Signatur steht nach\n    Aushändigung des Personalausweises automatisch zur Verfügung\n\nFristen\n\nkeine\n\nAblauf, Dauer & Gebühren\n\nVerfahrensablauf\n\n-   Ihr Personalausweis wird automatisch mit der Online Ausweisfunktion\n  "
+    ],
+    "reference":"Om een nieuwe Personalausweis met online functie te aanvragen, moet je een Duitse burger zijn en je huidige Personalausweis meenemen. Na uitgifte van je nieuwe Personalausweis staat de elektronische handtekeningfunctie automatisch ter beschikking.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Kannst du mir detailliert erklären wie ich meinen Personalausweis beantragen kann und welche Schritte ich dabei unternehmen muss?",
+    "reference_contexts":[
+      "Speicherung von Signaturzertifikaten auf Ihrem elektronischen Identitätsnachweis\n\nSie können mit der elektronischen Signatur können ein digitales Dokument\n(Verträge, Anträge und Urkunden), das sonst nur in Schriftform\nrechtsverbindlich wäre, rechtsverbindlich unterzeichnen.\n\nBeschreibung der Leistung\n\nDer Personalausweis mit Online-Ausweisfunktion ist für die Nutzung der\nelektronischen Unterschrift vorbereitet. Sie können diese Funktion\nnutzen, indem Sie ein Signaturzertifikat eines zertifizierten Anbieters\nerwerben und auf dem Personalausweis speichern.\n\nInformationen\n\nWichtige Hinweise\n\nVoraussetzungen\n\n-   Deutsche(r) im Sinne des Art. 116 Abs. 1 Grundgesetz (GG)\n\nBenötigte Unterlagen\n\n-   Personalausweis\n\nZu Beachten\n\n-   Die Funktion zur Nutzung der elektronischen Signatur steht nach\n    Aushändigung des Personalausweises automatisch zur Verfügung\n\nFristen\n\nkeine\n\nAblauf, Dauer & Gebühren\n\nVerfahrensablauf\n\n-   Ihr Personalausweis wird automatisch mit der Online Ausweisfunktion\n  "
+    ],
+    "reference":"Um deinen Personalausweis zu beantragen, musst du zunächst sicherstellen, dass du Deutsche(r) im Sinne des Art. 116 Abs. 1 Grundgesetz (GG) bist. Du benötigst deinen aktuellen Personalausweis als Unterlage. Sobald du diese Voraussetzungen erfüllst, kannst du den Antrag stellen und dein Signaturzertifikat eines zertifizierten Anbieters erwerben und auf dem Personalausweis speichern. Die Funktion zur Nutzung der elektronischen Signatur steht nach Aushändigung des Personalausweises automatisch zur Verfügung.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Was sind Verträge?",
+    "reference_contexts":[
+      "Speicherung von Signaturzertifikaten auf Ihrem elektronischen Identitätsnachweis\n\nSie können mit der elektronischen Signatur können ein digitales Dokument\n(Verträge, Anträge und Urkunden), das sonst nur in Schriftform\nrechtsverbindlich wäre, rechtsverbindlich unterzeichnen.\n\nBeschreibung der Leistung\n\nDer Personalausweis mit Online-Ausweisfunktion ist für die Nutzung der\nelektronischen Unterschrift vorbereitet. Sie können diese Funktion\nnutzen, indem Sie ein Signaturzertifikat eines zertifizierten Anbieters\nerwerben und auf dem Personalausweis speichern.\n\nInformationen\n\nWichtige Hinweise\n\nVoraussetzungen\n\n-   Deutsche(r) im Sinne des Art. 116 Abs. 1 Grundgesetz (GG)\n\nBenötigte Unterlagen\n\n-   Personalausweis\n\nZu Beachten\n\n-   Die Funktion zur Nutzung der elektronischen Signatur steht nach\n    Aushändigung des Personalausweises automatisch zur Verfügung\n\nFristen\n\nkeine\n\nAblauf, Dauer & Gebühren\n\nVerfahrensablauf\n\n-   Ihr Personalausweis wird automatisch mit der Online Ausweisfunktion\n  "
+    ],
+    "reference":"Verträge sind digitale Dokumente (wie z.B. Anträge und Urkunden), die normalerweise in Schriftform rechtsverbindlich sein müssen, aber durch eine elektronische Signatur rechtsverbindlich unterzeichnet werden können.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Watt sin 'Vertrage' bei'm Personalausweis?",
+    "reference_contexts":[
+      "Speicherung von Signaturzertifikaten auf Ihrem elektronischen Identitätsnachweis\n\nSie können mit der elektronischen Signatur können ein digitales Dokument\n(Verträge, Anträge und Urkunden), das sonst nur in Schriftform\nrechtsverbindlich wäre, rechtsverbindlich unterzeichnen.\n\nBeschreibung der Leistung\n\nDer Personalausweis mit Online-Ausweisfunktion ist für die Nutzung der\nelektronischen Unterschrift vorbereitet. Sie können diese Funktion\nnutzen, indem Sie ein Signaturzertifikat eines zertifizierten Anbieters\nerwerben und auf dem Personalausweis speichern.\n\nInformationen\n\nWichtige Hinweise\n\nVoraussetzungen\n\n-   Deutsche(r) im Sinne des Art. 116 Abs. 1 Grundgesetz (GG)\n\nBenötigte Unterlagen\n\n-   Personalausweis\n\nZu Beachten\n\n-   Die Funktion zur Nutzung der elektronischen Signatur steht nach\n    Aushändigung des Personalausweises automatisch zur Verfügung\n\nFristen\n\nkeine\n\nAblauf, Dauer & Gebühren\n\nVerfahrensablauf\n\n-   Ihr Personalausweis wird automatisch mit der Online Ausweisfunktion\n  "
+    ],
+    "reference":"Mit der elektronischen Signatur können Sie ein digitales Dokument wie Verträge, Anträge und Urkunden rechtsverbindlich unterzeichnen.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Watt is 'Signaturzertifikat'?",
+    "reference_contexts":[
+      "Speicherung von Signaturzertifikaten auf Ihrem elektronischen Identitätsnachweis\n\nSie können mit der elektronischen Signatur können ein digitales Dokument\n(Verträge, Anträge und Urkunden), das sonst nur in Schriftform\nrechtsverbindlich wäre, rechtsverbindlich unterzeichnen.\n\nBeschreibung der Leistung\n\nDer Personalausweis mit Online-Ausweisfunktion ist für die Nutzung der\nelektronischen Unterschrift vorbereitet. Sie können diese Funktion\nnutzen, indem Sie ein Signaturzertifikat eines zertifizierten Anbieters\nerwerben und auf dem Personalausweis speichern.\n\nInformationen\n\nWichtige Hinweise\n\nVoraussetzungen\n\n-   Deutsche(r) im Sinne des Art. 116 Abs. 1 Grundgesetz (GG)\n\nBenötigte Unterlagen\n\n-   Personalausweis\n\nZu Beachten\n\n-   Die Funktion zur Nutzung der elektronischen Signatur steht nach\n    Aushändigung des Personalausweises automatisch zur Verfügung\n\nFristen\n\nkeine\n\nAblauf, Dauer & Gebühren\n\nVerfahrensablauf\n\n-   Ihr Personalausweis wird automatisch mit der Online Ausweisfunktion\n  "
+    ],
+    "reference":"Signaturzertifikat ist ein digitales Zertifikat, das auf Ihrem elektronischen Identitätsnachweis gespeichert wird und die Nutzung der elektronischen Signatur ermöglicht.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Okay, wie is' denn nu mit den Urkunden bei dem neuen Personalausweis? Muss ich da was speichern oder so?",
+    "reference_contexts":[
+      "Speicherung von Signaturzertifikaten auf Ihrem elektronischen Identitätsnachweis\n\nSie können mit der elektronischen Signatur können ein digitales Dokument\n(Verträge, Anträge und Urkunden), das sonst nur in Schriftform\nrechtsverbindlich wäre, rechtsverbindlich unterzeichnen.\n\nBeschreibung der Leistung\n\nDer Personalausweis mit Online-Ausweisfunktion ist für die Nutzung der\nelektronischen Unterschrift vorbereitet. Sie können diese Funktion\nnutzen, indem Sie ein Signaturzertifikat eines zertifizierten Anbieters\nerwerben und auf dem Personalausweis speichern.\n\nInformationen\n\nWichtige Hinweise\n\nVoraussetzungen\n\n-   Deutsche(r) im Sinne des Art. 116 Abs. 1 Grundgesetz (GG)\n\nBenötigte Unterlagen\n\n-   Personalausweis\n\nZu Beachten\n\n-   Die Funktion zur Nutzung der elektronischen Signatur steht nach\n    Aushändigung des Personalausweises automatisch zur Verfügung\n\nFristen\n\nkeine\n\nAblauf, Dauer & Gebühren\n\nVerfahrensablauf\n\n-   Ihr Personalausweis wird automatisch mit der Online Ausweisfunktion\n  "
+    ],
+    "reference":"Ja, du kannst deine Signaturzertifikate auf deinem elektronischen Identitätsnachweis speichern. Das ermöglicht dir, digitale Dokumente wie Verträge, Anträge und Urkunden rechtsverbindlich zu unterzeichnen.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Als eine Person, deren Personalausweis bald abläuft und die einen neuen Ausweis beantragen muss, welche Schritte sind im Verfahrensablauf für den Antrag auf einen elektronischen Identitätsnachweis erforderlich?",
+    "reference_contexts":[
+      "Speicherung von Signaturzertifikaten auf Ihrem elektronischen Identitätsnachweis\n\nSie können mit der elektronischen Signatur können ein digitales Dokument\n(Verträge, Anträge und Urkunden), das sonst nur in Schriftform\nrechtsverbindlich wäre, rechtsverbindlich unterzeichnen.\n\nBeschreibung der Leistung\n\nDer Personalausweis mit Online-Ausweisfunktion ist für die Nutzung der\nelektronischen Unterschrift vorbereitet. Sie können diese Funktion\nnutzen, indem Sie ein Signaturzertifikat eines zertifizierten Anbieters\nerwerben und auf dem Personalausweis speichern.\n\nInformationen\n\nWichtige Hinweise\n\nVoraussetzungen\n\n-   Deutsche(r) im Sinne des Art. 116 Abs. 1 Grundgesetz (GG)\n\nBenötigte Unterlagen\n\n-   Personalausweis\n\nZu Beachten\n\n-   Die Funktion zur Nutzung der elektronischen Signatur steht nach\n    Aushändigung des Personalausweises automatisch zur Verfügung\n\nFristen\n\nkeine\n\nAblauf, Dauer & Gebühren\n\nVerfahrensablauf\n\n-   Ihr Personalausweis wird automatisch mit der Online Ausweisfunktion\n  "
+    ],
+    "reference":"Der Personalausweis mit Online-Ausweisfunktion ist für die Nutzung der elektronischen Unterschrift vorbereitet. Sie können diese Funktion nutzen, indem Sie ein Signaturzertifikat eines zertifizierten Anbieters erwerben und auf dem Personalausweis speichern.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Kannst du mir detailliert erklären wie ich die Online-Ausweisfunktion auf meinem neuen Personalausweis nutze und welche Schritte ich dafür machen muss?",
+    "reference_contexts":[
+      "Speicherung von Signaturzertifikaten auf Ihrem elektronischen Identitätsnachweis\n\nSie können mit der elektronischen Signatur können ein digitales Dokument\n(Verträge, Anträge und Urkunden), das sonst nur in Schriftform\nrechtsverbindlich wäre, rechtsverbindlich unterzeichnen.\n\nBeschreibung der Leistung\n\nDer Personalausweis mit Online-Ausweisfunktion ist für die Nutzung der\nelektronischen Unterschrift vorbereitet. Sie können diese Funktion\nnutzen, indem Sie ein Signaturzertifikat eines zertifizierten Anbieters\nerwerben und auf dem Personalausweis speichern.\n\nInformationen\n\nWichtige Hinweise\n\nVoraussetzungen\n\n-   Deutsche(r) im Sinne des Art. 116 Abs. 1 Grundgesetz (GG)\n\nBenötigte Unterlagen\n\n-   Personalausweis\n\nZu Beachten\n\n-   Die Funktion zur Nutzung der elektronischen Signatur steht nach\n    Aushändigung des Personalausweises automatisch zur Verfügung\n\nFristen\n\nkeine\n\nAblauf, Dauer & Gebühren\n\nVerfahrensablauf\n\n-   Ihr Personalausweis wird automatisch mit der Online Ausweisfunktion\n  "
+    ],
+    "reference":"Um die elektronische Signatur zu nutzen, musst du ein Signaturzertifikat eines zertifizierten Anbieters erwerben und es auf deinem Personalausweis speichern. Die Funktion steht nach Aushändigung des Personalausweises automatisch zur Verfügung.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Watt is de Signaturzertifikat fir meen Persenalausweis?",
+    "reference_contexts":[
+      "Speicherung von Signaturzertifikaten auf Ihrem elektronischen Identitätsnachweis\n\nSie können mit der elektronischen Signatur können ein digitales Dokument\n(Verträge, Anträge und Urkunden), das sonst nur in Schriftform\nrechtsverbindlich wäre, rechtsverbindlich unterzeichnen.\n\nBeschreibung der Leistung\n\nDer Personalausweis mit Online-Ausweisfunktion ist für die Nutzung der\nelektronischen Unterschrift vorbereitet. Sie können diese Funktion\nnutzen, indem Sie ein Signaturzertifikat eines zertifizierten Anbieters\nerwerben und auf dem Personalausweis speichern.\n\nInformationen\n\nWichtige Hinweise\n\nVoraussetzungen\n\n-   Deutsche(r) im Sinne des Art. 116 Abs. 1 Grundgesetz (GG)\n\nBenötigte Unterlagen\n\n-   Personalausweis\n\nZu Beachten\n\n-   Die Funktion zur Nutzung der elektronischen Signatur steht nach\n    Aushändigung des Personalausweises automatisch zur Verfügung\n\nFristen\n\nkeine\n\nAblauf, Dauer & Gebühren\n\nVerfahrensablauf\n\n-   Ihr Personalausweis wird automatisch mit der Online Ausweisfunktion\n  "
+    ],
+    "reference":"De Signaturzertifikat is 'ne Leistung fir de elektronische Unterschrift. De Personalausweis mit Online-Ausweisfunktion is dafür vorbereitet, aber du musst 'ne Signaturzertifikat von 'nem zertifizierten Anbieter kaufen und auf de Ausweis speichern.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Was sind die Voraussetzungen für eine Neubestimmung des Familiennamens meines Kindes?",
+    "reference_contexts":[
+      "Neubestimmung des Geburtsnamens für ein Kind erklären\n\nWenn Sie erst nach der Geburt die gemeinsame Sorge für ein Kind erklären\n(Sorgeerklärung), können Sie den Familiennamen des Kindes binnen 3\nMonaten nach Abgabe der Erklärung neu bestimmen.\n\nBeschreibung der Leistung\n\nSie können den Familiennamen Ihres Kindes neu bestimmen, wenn Sie erst\nnach der Geburt die gemeinsame Sorge mit dem anderen Elternteil erlangen\nin dem Sie eine Sorgeerklärung abgeben.\n\nInformationen\n\nWichtige Hinweise\n\nVoraussetzungen\n\n-   Ihr Kind führt bereits einen Namen.\n-   Sie begründen die gemeinsame elterliche Sorge mit dem anderen\n    Elternteil erst nach der Geburt des Kindes.\n-   Wenn Ihr Kind 5 Jahre oder älter ist, muss es der Änderung seines\n    Familiennamens zustimmen.\n-   Ist das Kind bereits 14 Jahre oder älter muss es die Erklärung\n    selber abgeben. Die Eltern müssen in diesem Fall der Erklärung des\n    Kindes zustimmen.\n\nBenötigte Unterlagen\n\n-   Geburtsurkunde Kind (gegebenenfalls mit amtlicher Ü"
+    ],
+    "reference":"Um den Familiennamen Ihres Kindes neu zu bestimmen, müssen Sie bereits gemeinsame elterliche Sorge mit dem anderen Elternteil haben und diese erst nach der Geburt des Kindes begründen. Wenn das Kind bereits fünf Jahre oder älter ist, muss es der Änderung seines Familiennamens zustimmen.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Wie lange dauert es, bis ich den Familiennamen meines Kindes neu bestimmen kann nach Abgabe der Sorgeerklärung?",
+    "reference_contexts":[
+      "Neubestimmung des Geburtsnamens für ein Kind erklären\n\nWenn Sie erst nach der Geburt die gemeinsame Sorge für ein Kind erklären\n(Sorgeerklärung), können Sie den Familiennamen des Kindes binnen 3\nMonaten nach Abgabe der Erklärung neu bestimmen.\n\nBeschreibung der Leistung\n\nSie können den Familiennamen Ihres Kindes neu bestimmen, wenn Sie erst\nnach der Geburt die gemeinsame Sorge mit dem anderen Elternteil erlangen\nin dem Sie eine Sorgeerklärung abgeben.\n\nInformationen\n\nWichtige Hinweise\n\nVoraussetzungen\n\n-   Ihr Kind führt bereits einen Namen.\n-   Sie begründen die gemeinsame elterliche Sorge mit dem anderen\n    Elternteil erst nach der Geburt des Kindes.\n-   Wenn Ihr Kind 5 Jahre oder älter ist, muss es der Änderung seines\n    Familiennamens zustimmen.\n-   Ist das Kind bereits 14 Jahre oder älter muss es die Erklärung\n    selber abgeben. Die Eltern müssen in diesem Fall der Erklärung des\n    Kindes zustimmen.\n\nBenötigte Unterlagen\n\n-   Geburtsurkunde Kind (gegebenenfalls mit amtlicher Ü"
+    ],
+    "reference":"Es dauert 3 Monate nach Abgabe der Erklärung.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Als Personalausweis erneuerer, welche Schritte muss ich einleiten und welche Dokumente benötige ich, um die Leistung der Neubestimmung des Geburtsnamens für mein Kind zu beantragen?",
+    "reference_contexts":[
+      "Neubestimmung des Geburtsnamens für ein Kind erklären\n\nWenn Sie erst nach der Geburt die gemeinsame Sorge für ein Kind erklären\n(Sorgeerklärung), können Sie den Familiennamen des Kindes binnen 3\nMonaten nach Abgabe der Erklärung neu bestimmen.\n\nBeschreibung der Leistung\n\nSie können den Familiennamen Ihres Kindes neu bestimmen, wenn Sie erst\nnach der Geburt die gemeinsame Sorge mit dem anderen Elternteil erlangen\nin dem Sie eine Sorgeerklärung abgeben.\n\nInformationen\n\nWichtige Hinweise\n\nVoraussetzungen\n\n-   Ihr Kind führt bereits einen Namen.\n-   Sie begründen die gemeinsame elterliche Sorge mit dem anderen\n    Elternteil erst nach der Geburt des Kindes.\n-   Wenn Ihr Kind 5 Jahre oder älter ist, muss es der Änderung seines\n    Familiennamens zustimmen.\n-   Ist das Kind bereits 14 Jahre oder älter muss es die Erklärung\n    selber abgeben. Die Eltern müssen in diesem Fall der Erklärung des\n    Kindes zustimmen.\n\nBenötigte Unterlagen\n\n-   Geburtsurkunde Kind (gegebenenfalls mit amtlicher Ü"
+    ],
+    "reference":"Um die Leistung der Neubestimmung des Geburtsnamens für Ihr Kind zu beantragen, müssen Sie erst nach der Geburt die gemeinsame Sorge mit dem anderen Elternteil erklären (Sorgeerklärung). Innerhalb von drei Monaten nach Abgabe dieser Erklärung können Sie den Familiennamen Ihres Kindes neu bestimmen. Um diese Leistung in Anspruch zu nehmen, benötigen Sie die Geburtsurkunde Ihres Kindes.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Was sind die Voraussetzungen für die Änderung des Familiennamens meines Kindes?",
+    "reference_contexts":[
+      "Neubestimmung des Geburtsnamens für ein Kind erklären\n\nWenn Sie erst nach der Geburt die gemeinsame Sorge für ein Kind erklären\n(Sorgeerklärung), können Sie den Familiennamen des Kindes binnen 3\nMonaten nach Abgabe der Erklärung neu bestimmen.\n\nBeschreibung der Leistung\n\nSie können den Familiennamen Ihres Kindes neu bestimmen, wenn Sie erst\nnach der Geburt die gemeinsame Sorge mit dem anderen Elternteil erlangen\nin dem Sie eine Sorgeerklärung abgeben.\n\nInformationen\n\nWichtige Hinweise\n\nVoraussetzungen\n\n-   Ihr Kind führt bereits einen Namen.\n-   Sie begründen die gemeinsame elterliche Sorge mit dem anderen\n    Elternteil erst nach der Geburt des Kindes.\n-   Wenn Ihr Kind 5 Jahre oder älter ist, muss es der Änderung seines\n    Familiennamens zustimmen.\n-   Ist das Kind bereits 14 Jahre oder älter muss es die Erklärung\n    selber abgeben. Die Eltern müssen in diesem Fall der Erklärung des\n    Kindes zustimmen.\n\nBenötigte Unterlagen\n\n-   Geburtsurkunde Kind (gegebenenfalls mit amtlicher Ü"
+    ],
+    "reference":"Um den Familiennamen Ihres Kindes neu zu bestimmen, müssen Sie erst nach der Geburt die gemeinsame elterliche Sorge mit dem anderen Elternteil erlangen und eine Sorgeerklärung abgeben. Ihr Kind muss bereits einen Namen führen.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Als Personalausweis erneuerer, welche Schritte muss ich einleiten, um den Geburtsnamen meines Kindes neu zu bestimmen?",
+    "reference_contexts":[
+      "Neubestimmung des Geburtsnamens für ein Kind erklären\n\nWenn Sie erst nach der Geburt die gemeinsame Sorge für ein Kind erklären\n(Sorgeerklärung), können Sie den Familiennamen des Kindes binnen 3\nMonaten nach Abgabe der Erklärung neu bestimmen.\n\nBeschreibung der Leistung\n\nSie können den Familiennamen Ihres Kindes neu bestimmen, wenn Sie erst\nnach der Geburt die gemeinsame Sorge mit dem anderen Elternteil erlangen\nin dem Sie eine Sorgeerklärung abgeben.\n\nInformationen\n\nWichtige Hinweise\n\nVoraussetzungen\n\n-   Ihr Kind führt bereits einen Namen.\n-   Sie begründen die gemeinsame elterliche Sorge mit dem anderen\n    Elternteil erst nach der Geburt des Kindes.\n-   Wenn Ihr Kind 5 Jahre oder älter ist, muss es der Änderung seines\n    Familiennamens zustimmen.\n-   Ist das Kind bereits 14 Jahre oder älter muss es die Erklärung\n    selber abgeben. Die Eltern müssen in diesem Fall der Erklärung des\n    Kindes zustimmen.\n\nBenötigte Unterlagen\n\n-   Geburtsurkunde Kind (gegebenenfalls mit amtlicher Ü"
+    ],
+    "reference":"Um den Geburtsnamen Ihres Kindes neu zu bestimmen, müssen Sie die gemeinsame elterliche Sorge mit dem anderen Elternteil erst nach der Geburt des Kindes erklären (Sorgeerklärung). Innerhalb von drei Monaten nach Abgabe dieser Erklärung können Sie den Familiennamen Ihres Kindes neu bestimmen.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Kannst du mir sagen, was ich alles brauch um den Namen meines Kindes zu ändern? Und welche Regeln gibt's da?",
+    "reference_contexts":[
+      "Neubestimmung des Geburtsnamens für ein Kind erklären\n\nWenn Sie erst nach der Geburt die gemeinsame Sorge für ein Kind erklären\n(Sorgeerklärung), können Sie den Familiennamen des Kindes binnen 3\nMonaten nach Abgabe der Erklärung neu bestimmen.\n\nBeschreibung der Leistung\n\nSie können den Familiennamen Ihres Kindes neu bestimmen, wenn Sie erst\nnach der Geburt die gemeinsame Sorge mit dem anderen Elternteil erlangen\nin dem Sie eine Sorgeerklärung abgeben.\n\nInformationen\n\nWichtige Hinweise\n\nVoraussetzungen\n\n-   Ihr Kind führt bereits einen Namen.\n-   Sie begründen die gemeinsame elterliche Sorge mit dem anderen\n    Elternteil erst nach der Geburt des Kindes.\n-   Wenn Ihr Kind 5 Jahre oder älter ist, muss es der Änderung seines\n    Familiennamens zustimmen.\n-   Ist das Kind bereits 14 Jahre oder älter muss es die Erklärung\n    selber abgeben. Die Eltern müssen in diesem Fall der Erklärung des\n    Kindes zustimmen.\n\nBenötigte Unterlagen\n\n-   Geburtsurkunde Kind (gegebenenfalls mit amtlicher Ü"
+    ],
+    "reference":"Um den Familiennamen Ihres Kindes neu zu bestimmen, müssen Sie bestimmte Voraussetzungen erfüllen. Ihr Kind muss bereits einen Namen führen und Sie müssen die gemeinsame elterliche Sorge mit dem anderen Elternteil erst nach der Geburt des Kindes begründen. Wenn das Kind fünf Jahre oder älter ist, muss es der Änderung seines Familiennamens zustimmen. Ist das Kind bereits vierzehn Jahre oder älter, muss es die Erklärung selbst abgeben und die Eltern müssen in diesem Fall der Erklärung des Kindes zustimmen.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Wat is de 'leistun' bij het vernieuwen van mijn paspoort?",
+    "reference_contexts":[
+      "Neubestimmung des Geburtsnamens für ein Kind erklären\n\nWenn Sie erst nach der Geburt die gemeinsame Sorge für ein Kind erklären\n(Sorgeerklärung), können Sie den Familiennamen des Kindes binnen 3\nMonaten nach Abgabe der Erklärung neu bestimmen.\n\nBeschreibung der Leistung\n\nSie können den Familiennamen Ihres Kindes neu bestimmen, wenn Sie erst\nnach der Geburt die gemeinsame Sorge mit dem anderen Elternteil erlangen\nin dem Sie eine Sorgeerklärung abgeben.\n\nInformationen\n\nWichtige Hinweise\n\nVoraussetzungen\n\n-   Ihr Kind führt bereits einen Namen.\n-   Sie begründen die gemeinsame elterliche Sorge mit dem anderen\n    Elternteil erst nach der Geburt des Kindes.\n-   Wenn Ihr Kind 5 Jahre oder älter ist, muss es der Änderung seines\n    Familiennamens zustimmen.\n-   Ist das Kind bereits 14 Jahre oder älter muss es die Erklärung\n    selber abgeben. Die Eltern müssen in diesem Fall der Erklärung des\n    Kindes zustimmen.\n\nBenötigte Unterlagen\n\n-   Geburtsurkunde Kind (gegebenenfalls mit amtlicher Ü"
+    ],
+    "reference":"De 'leistun' bij het vernieuwen van je paspoort is het veranderen van de achternaam van je kind, als je de gezamenlijke voogdij met de andere ouderspartner verklaren na de geboorte.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Kannst du mir detailliert beschreiben, wie ich den Familiennamen meines Kindes neu bestimme, wenn ich erst nach der Geburt die gemeinsame Sorge mit dem anderen Elternteil erlangen?",
+    "reference_contexts":[
+      "Neubestimmung des Geburtsnamens für ein Kind erklären\n\nWenn Sie erst nach der Geburt die gemeinsame Sorge für ein Kind erklären\n(Sorgeerklärung), können Sie den Familiennamen des Kindes binnen 3\nMonaten nach Abgabe der Erklärung neu bestimmen.\n\nBeschreibung der Leistung\n\nSie können den Familiennamen Ihres Kindes neu bestimmen, wenn Sie erst\nnach der Geburt die gemeinsame Sorge mit dem anderen Elternteil erlangen\nin dem Sie eine Sorgeerklärung abgeben.\n\nInformationen\n\nWichtige Hinweise\n\nVoraussetzungen\n\n-   Ihr Kind führt bereits einen Namen.\n-   Sie begründen die gemeinsame elterliche Sorge mit dem anderen\n    Elternteil erst nach der Geburt des Kindes.\n-   Wenn Ihr Kind 5 Jahre oder älter ist, muss es der Änderung seines\n    Familiennamens zustimmen.\n-   Ist das Kind bereits 14 Jahre oder älter muss es die Erklärung\n    selber abgeben. Die Eltern müssen in diesem Fall der Erklärung des\n    Kindes zustimmen.\n\nBenötigte Unterlagen\n\n-   Geburtsurkunde Kind (gegebenenfalls mit amtlicher Ü"
+    ],
+    "reference":"Wenn Sie erst nach der Geburt die gemeinsame Sorge für ein Kind erklären (Sorgeerklärung), können Sie den Familiennamen des Kindes binnen drei Monaten nach Abgabe der Erklärung neu bestimmen. Um dies zu tun, müssen Sie bestimmte Voraussetzungen erfüllen und einige Unterlagen bereitstellen.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Wass sind de Voraussetzungen fir de Neudefinition vun de Familjennaam vum Kanner?",
+    "reference_contexts":[
+      "Neubestimmung des Geburtsnamens für ein Kind erklären\n\nWenn Sie erst nach der Geburt die gemeinsame Sorge für ein Kind erklären\n(Sorgeerklärung), können Sie den Familiennamen des Kindes binnen 3\nMonaten nach Abgabe der Erklärung neu bestimmen.\n\nBeschreibung der Leistung\n\nSie können den Familiennamen Ihres Kindes neu bestimmen, wenn Sie erst\nnach der Geburt die gemeinsame Sorge mit dem anderen Elternteil erlangen\nin dem Sie eine Sorgeerklärung abgeben.\n\nInformationen\n\nWichtige Hinweise\n\nVoraussetzungen\n\n-   Ihr Kind führt bereits einen Namen.\n-   Sie begründen die gemeinsame elterliche Sorge mit dem anderen\n    Elternteil erst nach der Geburt des Kindes.\n-   Wenn Ihr Kind 5 Jahre oder älter ist, muss es der Änderung seines\n    Familiennamens zustimmen.\n-   Ist das Kind bereits 14 Jahre oder älter muss es die Erklärung\n    selber abgeben. Die Eltern müssen in diesem Fall der Erklärung des\n    Kindes zustimmen.\n\nBenötigte Unterlagen\n\n-   Geburtsurkunde Kind (gegebenenfalls mit amtlicher Ü"
+    ],
+    "reference":"De Voraussetzungen fir de Neudefinition vun de Familjennaam vum Kanner sinn:\n- Et Kind fuert already en Naam.\n- Eech bestäigt d'Gemeinsame Elterlech Sorge met dem aneren Elterlech nach der Gebuerts vun dem Kanner.\n- Wenn et Kanner 5 Johr oder älder is, muss eet der Ändering vum Familjennaam zustimme.\n- Wenn et Kanner 14 Johr oder älder is, muss eet de Erkläerung selwer abgeben. De Elteren mussen in dem Fall d'Erkläerung vun dem Kanner zustimme.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  }
+]

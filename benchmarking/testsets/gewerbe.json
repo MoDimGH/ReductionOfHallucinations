@@ -1,0 +1,162 @@
+[
+  {
+    "user_input":"Wo is de Gorch-Fock-Wall?",
+    "reference_contexts":[
+      "Kontaktinformationen\n\nFinanzamt für Verkehrsteuern und Grundbesitz\n\nInhaltsverzeichnis\n\n-   Anschrift\n-   Grundsteuer ab 2025\n-   Bankverbindung\n-   Datenschutzhinweis:\n    -   Datenschutzbeauftragter\n\nAnschrift\n\nFinanzamt  für Verkehrsteuern und Grundbesitz\nGorch-Fock-Wall 11\n20355 Hamburg\nTelefon: 040 115 (HamburgService)\nTelefax: 040 4279-22650\nE-Mail: favug@finanzamt.hamburg.de\n\nBitte beachten Sie auch die „Hinweise zur unverschlüsselten\nelektronischen Kommunikation“\n\nEin Besuch des Finanzamtes für Verkehrsteuern und Grundbesitz ist nur\nnach telefonischer Vereinbarung möglich.\n\nZeiten, in denen Sie das Finanzamt telefonisch erreichen:\n\nMontag bis Freitag: 08:00 - 12:00 Uhr\n\nDarüber hinaus können Sie Ihre Anliegen und Anträge auch über Mein\nELSTER, per Brief, Telefax oder E-Mail (favug@finanzamt.hamburg.de) an\nIhr Finanzamt richten.\n\nAufgrund der besonderen Gegebenheiten im Zusammenhang mit der\nGebäudeschließung sind die öffentlichen Zustellungen des Finanzamts für\nVerkehrsteuern un"
+    ],
+    "reference":"Die Gorch-Fock-Wall ist in Hamburg, genauer gesagt bei der Adresse Finanzamt für Verkehrsteuern und Grundbesitz, Gorch-Fock-Wall 11, 20355 Hamburg.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Was ist die Telefonnummer des Finanzamtes für Verkehrsteuern und Grundbesitz in Hamburg?",
+    "reference_contexts":[
+      "Kontaktinformationen\n\nFinanzamt für Verkehrsteuern und Grundbesitz\n\nInhaltsverzeichnis\n\n-   Anschrift\n-   Grundsteuer ab 2025\n-   Bankverbindung\n-   Datenschutzhinweis:\n    -   Datenschutzbeauftragter\n\nAnschrift\n\nFinanzamt  für Verkehrsteuern und Grundbesitz\nGorch-Fock-Wall 11\n20355 Hamburg\nTelefon: 040 115 (HamburgService)\nTelefax: 040 4279-22650\nE-Mail: favug@finanzamt.hamburg.de\n\nBitte beachten Sie auch die „Hinweise zur unverschlüsselten\nelektronischen Kommunikation“\n\nEin Besuch des Finanzamtes für Verkehrsteuern und Grundbesitz ist nur\nnach telefonischer Vereinbarung möglich.\n\nZeiten, in denen Sie das Finanzamt telefonisch erreichen:\n\nMontag bis Freitag: 08:00 - 12:00 Uhr\n\nDarüber hinaus können Sie Ihre Anliegen und Anträge auch über Mein\nELSTER, per Brief, Telefax oder E-Mail (favug@finanzamt.hamburg.de) an\nIhr Finanzamt richten.\n\nAufgrund der besonderen Gegebenheiten im Zusammenhang mit der\nGebäudeschließung sind die öffentlichen Zustellungen des Finanzamts für\nVerkehrsteuern un"
+    ],
+    "reference":"Die Telefonnummer des Finanzamtes für Verkehrsteuern und Grundbesitz in Hamburg ist 040 115 (HamburgService).",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Wo befindet sich das Finanzamt für Verkehrsteuern und Grundbesitz in Hamburg?",
+    "reference_contexts":[
+      "Kontaktinformationen\n\nFinanzamt für Verkehrsteuern und Grundbesitz\n\nInhaltsverzeichnis\n\n-   Anschrift\n-   Grundsteuer ab 2025\n-   Bankverbindung\n-   Datenschutzhinweis:\n    -   Datenschutzbeauftragter\n\nAnschrift\n\nFinanzamt  für Verkehrsteuern und Grundbesitz\nGorch-Fock-Wall 11\n20355 Hamburg\nTelefon: 040 115 (HamburgService)\nTelefax: 040 4279-22650\nE-Mail: favug@finanzamt.hamburg.de\n\nBitte beachten Sie auch die „Hinweise zur unverschlüsselten\nelektronischen Kommunikation“\n\nEin Besuch des Finanzamtes für Verkehrsteuern und Grundbesitz ist nur\nnach telefonischer Vereinbarung möglich.\n\nZeiten, in denen Sie das Finanzamt telefonisch erreichen:\n\nMontag bis Freitag: 08:00 - 12:00 Uhr\n\nDarüber hinaus können Sie Ihre Anliegen und Anträge auch über Mein\nELSTER, per Brief, Telefax oder E-Mail (favug@finanzamt.hamburg.de) an\nIhr Finanzamt richten.\n\nAufgrund der besonderen Gegebenheiten im Zusammenhang mit der\nGebäudeschließung sind die öffentlichen Zustellungen des Finanzamts für\nVerkehrsteuern un"
+    ],
+    "reference":"Das Finanzamt für Verkehrsteuern und Grundbesitz befindet sich an der Gorch-Fock-Wall 11, 20355 Hamburg.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Wie lautet die E-Mail-Adresse des Finanzamtes für Verkehrsteuern und Grundbesitz in Hamburg?",
+    "reference_contexts":[
+      "Kontaktinformationen\n\nFinanzamt für Verkehrsteuern und Grundbesitz\n\nInhaltsverzeichnis\n\n-   Anschrift\n-   Grundsteuer ab 2025\n-   Bankverbindung\n-   Datenschutzhinweis:\n    -   Datenschutzbeauftragter\n\nAnschrift\n\nFinanzamt  für Verkehrsteuern und Grundbesitz\nGorch-Fock-Wall 11\n20355 Hamburg\nTelefon: 040 115 (HamburgService)\nTelefax: 040 4279-22650\nE-Mail: favug@finanzamt.hamburg.de\n\nBitte beachten Sie auch die „Hinweise zur unverschlüsselten\nelektronischen Kommunikation“\n\nEin Besuch des Finanzamtes für Verkehrsteuern und Grundbesitz ist nur\nnach telefonischer Vereinbarung möglich.\n\nZeiten, in denen Sie das Finanzamt telefonisch erreichen:\n\nMontag bis Freitag: 08:00 - 12:00 Uhr\n\nDarüber hinaus können Sie Ihre Anliegen und Anträge auch über Mein\nELSTER, per Brief, Telefax oder E-Mail (favug@finanzamt.hamburg.de) an\nIhr Finanzamt richten.\n\nAufgrund der besonderen Gegebenheiten im Zusammenhang mit der\nGebäudeschließung sind die öffentlichen Zustellungen des Finanzamts für\nVerkehrsteuern un"
+    ],
+    "reference":"Die E-Mail-Adresse des Finanzamtes für Verkehrsteuern und Grundbesitz in Hamburg ist favug@finanzamt.hamburg.de.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Wie lautet die E-Mail-Adresse des Finanzamtes für Verkehrsteuern und Grundbesitz in Hamburg?",
+    "reference_contexts":[
+      "Kontaktinformationen\n\nFinanzamt für Verkehrsteuern und Grundbesitz\n\nInhaltsverzeichnis\n\n-   Anschrift\n-   Grundsteuer ab 2025\n-   Bankverbindung\n-   Datenschutzhinweis:\n    -   Datenschutzbeauftragter\n\nAnschrift\n\nFinanzamt  für Verkehrsteuern und Grundbesitz\nGorch-Fock-Wall 11\n20355 Hamburg\nTelefon: 040 115 (HamburgService)\nTelefax: 040 4279-22650\nE-Mail: favug@finanzamt.hamburg.de\n\nBitte beachten Sie auch die „Hinweise zur unverschlüsselten\nelektronischen Kommunikation“\n\nEin Besuch des Finanzamtes für Verkehrsteuern und Grundbesitz ist nur\nnach telefonischer Vereinbarung möglich.\n\nZeiten, in denen Sie das Finanzamt telefonisch erreichen:\n\nMontag bis Freitag: 08:00 - 12:00 Uhr\n\nDarüber hinaus können Sie Ihre Anliegen und Anträge auch über Mein\nELSTER, per Brief, Telefax oder E-Mail (favug@finanzamt.hamburg.de) an\nIhr Finanzamt richten.\n\nAufgrund der besonderen Gegebenheiten im Zusammenhang mit der\nGebäudeschließung sind die öffentlichen Zustellungen des Finanzamts für\nVerkehrsteuern un"
+    ],
+    "reference":"Die E-Mail-Adresse des Finanzamtes für Verkehrsteuern und Grundbesitz in Hamburg ist favug@finanzamt.hamburg.de.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Wa ist Adr von Finazamt f\"r Verkehsteuern?",
+    "reference_contexts":[
+      "Kontaktinformationen\n\nFinanzamt für Verkehrsteuern und Grundbesitz\n\nInhaltsverzeichnis\n\n-   Anschrift\n-   Grundsteuer ab 2025\n-   Bankverbindung\n-   Datenschutzhinweis:\n    -   Datenschutzbeauftragter\n\nAnschrift\n\nFinanzamt  für Verkehrsteuern und Grundbesitz\nGorch-Fock-Wall 11\n20355 Hamburg\nTelefon: 040 115 (HamburgService)\nTelefax: 040 4279-22650\nE-Mail: favug@finanzamt.hamburg.de\n\nBitte beachten Sie auch die „Hinweise zur unverschlüsselten\nelektronischen Kommunikation“\n\nEin Besuch des Finanzamtes für Verkehrsteuern und Grundbesitz ist nur\nnach telefonischer Vereinbarung möglich.\n\nZeiten, in denen Sie das Finanzamt telefonisch erreichen:\n\nMontag bis Freitag: 08:00 - 12:00 Uhr\n\nDarüber hinaus können Sie Ihre Anliegen und Anträge auch über Mein\nELSTER, per Brief, Telefax oder E-Mail (favug@finanzamt.hamburg.de) an\nIhr Finanzamt richten.\n\nAufgrund der besonderen Gegebenheiten im Zusammenhang mit der\nGebäudeschließung sind die öffentlichen Zustellungen des Finanzamts für\nVerkehrsteuern un"
+    ],
+    "reference":"Finanzamt für Verkehrsteuern und Grundbesitz, Gorch-Fock-Wall 11, 20355 Hamburg.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Kannst du mir detailliert beschreiben, wie ich mein Kleingewerbe beim Finanzamt für Verkehrsteuern und Grundbesitz per E-Mail abmelden kann?",
+    "reference_contexts":[
+      "Kontaktinformationen\n\nFinanzamt für Verkehrsteuern und Grundbesitz\n\nInhaltsverzeichnis\n\n-   Anschrift\n-   Grundsteuer ab 2025\n-   Bankverbindung\n-   Datenschutzhinweis:\n    -   Datenschutzbeauftragter\n\nAnschrift\n\nFinanzamt  für Verkehrsteuern und Grundbesitz\nGorch-Fock-Wall 11\n20355 Hamburg\nTelefon: 040 115 (HamburgService)\nTelefax: 040 4279-22650\nE-Mail: favug@finanzamt.hamburg.de\n\nBitte beachten Sie auch die „Hinweise zur unverschlüsselten\nelektronischen Kommunikation“\n\nEin Besuch des Finanzamtes für Verkehrsteuern und Grundbesitz ist nur\nnach telefonischer Vereinbarung möglich.\n\nZeiten, in denen Sie das Finanzamt telefonisch erreichen:\n\nMontag bis Freitag: 08:00 - 12:00 Uhr\n\nDarüber hinaus können Sie Ihre Anliegen und Anträge auch über Mein\nELSTER, per Brief, Telefax oder E-Mail (favug@finanzamt.hamburg.de) an\nIhr Finanzamt richten.\n\nAufgrund der besonderen Gegebenheiten im Zusammenhang mit der\nGebäudeschließung sind die öffentlichen Zustellungen des Finanzamts für\nVerkehrsteuern un"
+    ],
+    "reference":"Um Ihr Kleingewerbe beim Finanzamt für Verkehrsteuern und Grundbesitz per E-Mail abzumelden, müssen Sie eine E-Mail an favug@finanzamt.hamburg.de senden. Bitte beachten Sie auch die \"Hinweise zur unverschlüsselten elektronischen Kommunikation\" bei der Verwendung dieser Kontaktmöglichkeit.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Kannst du mir detailliert erklären, wie ich mein Kleingewerbe über Mein ELSTER anmelden oder abmelden kann?",
+    "reference_contexts":[
+      "Kontaktinformationen\n\nFinanzamt für Verkehrsteuern und Grundbesitz\n\nInhaltsverzeichnis\n\n-   Anschrift\n-   Grundsteuer ab 2025\n-   Bankverbindung\n-   Datenschutzhinweis:\n    -   Datenschutzbeauftragter\n\nAnschrift\n\nFinanzamt  für Verkehrsteuern und Grundbesitz\nGorch-Fock-Wall 11\n20355 Hamburg\nTelefon: 040 115 (HamburgService)\nTelefax: 040 4279-22650\nE-Mail: favug@finanzamt.hamburg.de\n\nBitte beachten Sie auch die „Hinweise zur unverschlüsselten\nelektronischen Kommunikation“\n\nEin Besuch des Finanzamtes für Verkehrsteuern und Grundbesitz ist nur\nnach telefonischer Vereinbarung möglich.\n\nZeiten, in denen Sie das Finanzamt telefonisch erreichen:\n\nMontag bis Freitag: 08:00 - 12:00 Uhr\n\nDarüber hinaus können Sie Ihre Anliegen und Anträge auch über Mein\nELSTER, per Brief, Telefax oder E-Mail (favug@finanzamt.hamburg.de) an\nIhr Finanzamt richten.\n\nAufgrund der besonderen Gegebenheiten im Zusammenhang mit der\nGebäudeschließung sind die öffentlichen Zustellungen des Finanzamts für\nVerkehrsteuern un"
+    ],
+    "reference":"Um dein Kleingewerbe über Mein ELSTER anzumelden oder abzumelden, kannst du deine Anliegen und Anträge auch über diesen Dienst an dein Finanzamt richten. Alternativ kannst du deine Anträge auch per Brief, Telefax oder E-Mail (favug@finanzamt.hamburg.de) an dein Finanzamt senden.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Watt is de Adress von dat Finanzamt in Hamborg?",
+    "reference_contexts":[
+      "Kontaktinformationen\n\nFinanzamt für Verkehrsteuern und Grundbesitz\n\nInhaltsverzeichnis\n\n-   Anschrift\n-   Grundsteuer ab 2025\n-   Bankverbindung\n-   Datenschutzhinweis:\n    -   Datenschutzbeauftragter\n\nAnschrift\n\nFinanzamt  für Verkehrsteuern und Grundbesitz\nGorch-Fock-Wall 11\n20355 Hamburg\nTelefon: 040 115 (HamburgService)\nTelefax: 040 4279-22650\nE-Mail: favug@finanzamt.hamburg.de\n\nBitte beachten Sie auch die „Hinweise zur unverschlüsselten\nelektronischen Kommunikation“\n\nEin Besuch des Finanzamtes für Verkehrsteuern und Grundbesitz ist nur\nnach telefonischer Vereinbarung möglich.\n\nZeiten, in denen Sie das Finanzamt telefonisch erreichen:\n\nMontag bis Freitag: 08:00 - 12:00 Uhr\n\nDarüber hinaus können Sie Ihre Anliegen und Anträge auch über Mein\nELSTER, per Brief, Telefax oder E-Mail (favug@finanzamt.hamburg.de) an\nIhr Finanzamt richten.\n\nAufgrund der besonderen Gegebenheiten im Zusammenhang mit der\nGebäudeschließung sind die öffentlichen Zustellungen des Finanzamts für\nVerkehrsteuern un"
+    ],
+    "reference":"De Adress von dat Finanzamt für Verkehrsteuern und Grundbesitz in Hamburg is Gorch-Fock-Wall 11, 20355 Hamburg.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Wo kann ich Brief schicken?",
+    "reference_contexts":[
+      "Kontaktinformationen\n\nFinanzamt für Verkehrsteuern und Grundbesitz\n\nInhaltsverzeichnis\n\n-   Anschrift\n-   Grundsteuer ab 2025\n-   Bankverbindung\n-   Datenschutzhinweis:\n    -   Datenschutzbeauftragter\n\nAnschrift\n\nFinanzamt  für Verkehrsteuern und Grundbesitz\nGorch-Fock-Wall 11\n20355 Hamburg\nTelefon: 040 115 (HamburgService)\nTelefax: 040 4279-22650\nE-Mail: favug@finanzamt.hamburg.de\n\nBitte beachten Sie auch die „Hinweise zur unverschlüsselten\nelektronischen Kommunikation“\n\nEin Besuch des Finanzamtes für Verkehrsteuern und Grundbesitz ist nur\nnach telefonischer Vereinbarung möglich.\n\nZeiten, in denen Sie das Finanzamt telefonisch erreichen:\n\nMontag bis Freitag: 08:00 - 12:00 Uhr\n\nDarüber hinaus können Sie Ihre Anliegen und Anträge auch über Mein\nELSTER, per Brief, Telefax oder E-Mail (favug@finanzamt.hamburg.de) an\nIhr Finanzamt richten.\n\nAufgrund der besonderen Gegebenheiten im Zusammenhang mit der\nGebäudeschließung sind die öffentlichen Zustellungen des Finanzamts für\nVerkehrsteuern un"
+    ],
+    "reference":"Sie können Ihren Brief an das Finanzamt für Verkehrsteuern und Grundbesitz senden. Die Adresse ist Gorch-Fock-Wall 11, 20355 Hamburg.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Wat is de betekenis van het Familiensiegel voor kleine en middelgrote ondernemingen?",
+    "reference_contexts":[
+      "Familie und Beruf\n\nHier finden Unternehmen und Beschäftigte Informationen und praktische\nTipps, um Familie und Berufsleben bestmöglich miteinander zu\nvereinbaren.\n\nFamilie und Beruf Kinderbetreuung in Hamburg - Ein Ratgeber für\nUnternehmen ———————————————————\n\nDiese Broschüre enthält Anregungen und Praxisbeispiele zur betrieblich\nunterstützten Kinderbetreuung.\n\n------------------------------------------------------------------------\n\nFamilie und Beruf Familienfreundliches Handwerk in Hamburg\n—————————————-\n\nDiese Broschüre zeigt ausgezeichnete Beispiele aus der Praxis des\nHamburger Familiensiegels.\n\n------------------------------------------------------------------------\n\n1 \/\n\nFamilienfreundliche Unternehmen\n\n### Familiensiegel\n\nDas Familiensiegel ist eine Auszeichnung für kleine und mittlere\nUnternehmen. Es bietet Unternehmen viele…\n\n------------------------------------------------------------------------\n\n### Hamburger Allianz für Familien\n\nDie Hamburger Allianz für Familien setzt si"
+    ],
+    "reference":"Het Familiensiegel is een onderscheiding voor kleine en middelgrote ondernemingen. Het biedt ondernemingen veel voordelen, zoals betere kinderbetoeling en familiegezinde werktijden.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Kannst du mir mehr über die 'Hamburger Allianz für Familien' erzählen?",
+    "reference_contexts":[
+      "Familie und Beruf\n\nHier finden Unternehmen und Beschäftigte Informationen und praktische\nTipps, um Familie und Berufsleben bestmöglich miteinander zu\nvereinbaren.\n\nFamilie und Beruf Kinderbetreuung in Hamburg - Ein Ratgeber für\nUnternehmen ———————————————————\n\nDiese Broschüre enthält Anregungen und Praxisbeispiele zur betrieblich\nunterstützten Kinderbetreuung.\n\n------------------------------------------------------------------------\n\nFamilie und Beruf Familienfreundliches Handwerk in Hamburg\n—————————————-\n\nDiese Broschüre zeigt ausgezeichnete Beispiele aus der Praxis des\nHamburger Familiensiegels.\n\n------------------------------------------------------------------------\n\n1 \/\n\nFamilienfreundliche Unternehmen\n\n### Familiensiegel\n\nDas Familiensiegel ist eine Auszeichnung für kleine und mittlere\nUnternehmen. Es bietet Unternehmen viele…\n\n------------------------------------------------------------------------\n\n### Hamburger Allianz für Familien\n\nDie Hamburger Allianz für Familien setzt si"
+    ],
+    "reference":"Die Hamburger Allianz für Familien ist Teil des Familiensiegels, einer Auszeichnung für kleine und mittlere Unternehmen. Sie bietet Unternehmen viele Vorteile wie beispielsweise eine bessere Vereinbarkeit von Familie und Beruf.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Können Sie mir bitte die genauen rechtlichen Anforderungen, Formulare und Antragsverfahren für die Anmeldung oder Abmeldung meines Gewerbes als Kleingewerbebetreiber erläutern?",
+    "reference_contexts":[
+      "Familie und Beruf\n\nHier finden Unternehmen und Beschäftigte Informationen und praktische\nTipps, um Familie und Berufsleben bestmöglich miteinander zu\nvereinbaren.\n\nFamilie und Beruf Kinderbetreuung in Hamburg - Ein Ratgeber für\nUnternehmen ———————————————————\n\nDiese Broschüre enthält Anregungen und Praxisbeispiele zur betrieblich\nunterstützten Kinderbetreuung.\n\n------------------------------------------------------------------------\n\nFamilie und Beruf Familienfreundliches Handwerk in Hamburg\n—————————————-\n\nDiese Broschüre zeigt ausgezeichnete Beispiele aus der Praxis des\nHamburger Familiensiegels.\n\n------------------------------------------------------------------------\n\n1 \/\n\nFamilienfreundliche Unternehmen\n\n### Familiensiegel\n\nDas Familiensiegel ist eine Auszeichnung für kleine und mittlere\nUnternehmen. Es bietet Unternehmen viele…\n\n------------------------------------------------------------------------\n\n### Hamburger Allianz für Familien\n\nDie Hamburger Allianz für Familien setzt si"
+    ],
+    "reference":"Als Kleingewerbebetreiber müssen Sie sich an die allgemeinen rechtlichen Anforderungen halten, um Ihr Gewerbe anzumelden oder abzumelden. Die genauen Schritte und benötigten Formulare hängen von Ihrer spezifischen Situation und den geltenden Gesetzen in Ihrem Land ab.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Wat is 'Familie' in betrff van gewerbe?",
+    "reference_contexts":[
+      "Familie und Beruf\n\nHier finden Unternehmen und Beschäftigte Informationen und praktische\nTipps, um Familie und Berufsleben bestmöglich miteinander zu\nvereinbaren.\n\nFamilie und Beruf Kinderbetreuung in Hamburg - Ein Ratgeber für\nUnternehmen ———————————————————\n\nDiese Broschüre enthält Anregungen und Praxisbeispiele zur betrieblich\nunterstützten Kinderbetreuung.\n\n------------------------------------------------------------------------\n\nFamilie und Beruf Familienfreundliches Handwerk in Hamburg\n—————————————-\n\nDiese Broschüre zeigt ausgezeichnete Beispiele aus der Praxis des\nHamburger Familiensiegels.\n\n------------------------------------------------------------------------\n\n1 \/\n\nFamilienfreundliche Unternehmen\n\n### Familiensiegel\n\nDas Familiensiegel ist eine Auszeichnung für kleine und mittlere\nUnternehmen. Es bietet Unternehmen viele…\n\n------------------------------------------------------------------------\n\n### Hamburger Allianz für Familien\n\nDie Hamburger Allianz für Familien setzt si"
+    ],
+    "reference":"'Familie' bezieht sich auf Informationen und praktische Tipps zur Vereinbarkeit von Familie und Berufsleben.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Wat is de doele van 'Hamburg' inzake familie en werk?",
+    "reference_contexts":[
+      "Familie und Beruf\n\nHier finden Unternehmen und Beschäftigte Informationen und praktische\nTipps, um Familie und Berufsleben bestmöglich miteinander zu\nvereinbaren.\n\nFamilie und Beruf Kinderbetreuung in Hamburg - Ein Ratgeber für\nUnternehmen ———————————————————\n\nDiese Broschüre enthält Anregungen und Praxisbeispiele zur betrieblich\nunterstützten Kinderbetreuung.\n\n------------------------------------------------------------------------\n\nFamilie und Beruf Familienfreundliches Handwerk in Hamburg\n—————————————-\n\nDiese Broschüre zeigt ausgezeichnete Beispiele aus der Praxis des\nHamburger Familiensiegels.\n\n------------------------------------------------------------------------\n\n1 \/\n\nFamilienfreundliche Unternehmen\n\n### Familiensiegel\n\nDas Familiensiegel ist eine Auszeichnung für kleine und mittlere\nUnternehmen. Es bietet Unternehmen viele…\n\n------------------------------------------------------------------------\n\n### Hamburger Allianz für Familien\n\nDie Hamburger Allianz für Familien setzt si"
+    ],
+    "reference":"'Hamburg' biedt informatie en praktische tips voor ondernemers en werknemers om familie en werkleven zo goed mogelijk te combineren.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Was sind die Anforderungen an ein Unternehmen, um das Familiensiegel in Hamburg zu erhalten?",
+    "reference_contexts":[
+      "Familie und Beruf\n\nHier finden Unternehmen und Beschäftigte Informationen und praktische\nTipps, um Familie und Berufsleben bestmöglich miteinander zu\nvereinbaren.\n\nFamilie und Beruf Kinderbetreuung in Hamburg - Ein Ratgeber für\nUnternehmen ———————————————————\n\nDiese Broschüre enthält Anregungen und Praxisbeispiele zur betrieblich\nunterstützten Kinderbetreuung.\n\n------------------------------------------------------------------------\n\nFamilie und Beruf Familienfreundliches Handwerk in Hamburg\n—————————————-\n\nDiese Broschüre zeigt ausgezeichnete Beispiele aus der Praxis des\nHamburger Familiensiegels.\n\n------------------------------------------------------------------------\n\n1 \/\n\nFamilienfreundliche Unternehmen\n\n### Familiensiegel\n\nDas Familiensiegel ist eine Auszeichnung für kleine und mittlere\nUnternehmen. Es bietet Unternehmen viele…\n\n------------------------------------------------------------------------\n\n### Hamburger Allianz für Familien\n\nDie Hamburger Allianz für Familien setzt si"
+    ],
+    "reference":"Das Familiensiegel ist eine Auszeichnung für kleine und mittlere Unternehmen. Es bietet Unternehmen viele Vorteile wie beispielsweise mehr Sichtbarkeit und Attraktivität als Arbeitgeber.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Was sind die Anforderungen an ein Unternehmen, um das Familiensiegel in Hamburg zu erhalten?",
+    "reference_contexts":[
+      "Familie und Beruf\n\nHier finden Unternehmen und Beschäftigte Informationen und praktische\nTipps, um Familie und Berufsleben bestmöglich miteinander zu\nvereinbaren.\n\nFamilie und Beruf Kinderbetreuung in Hamburg - Ein Ratgeber für\nUnternehmen ———————————————————\n\nDiese Broschüre enthält Anregungen und Praxisbeispiele zur betrieblich\nunterstützten Kinderbetreuung.\n\n------------------------------------------------------------------------\n\nFamilie und Beruf Familienfreundliches Handwerk in Hamburg\n—————————————-\n\nDiese Broschüre zeigt ausgezeichnete Beispiele aus der Praxis des\nHamburger Familiensiegels.\n\n------------------------------------------------------------------------\n\n1 \/\n\nFamilienfreundliche Unternehmen\n\n### Familiensiegel\n\nDas Familiensiegel ist eine Auszeichnung für kleine und mittlere\nUnternehmen. Es bietet Unternehmen viele…\n\n------------------------------------------------------------------------\n\n### Hamburger Allianz für Familien\n\nDie Hamburger Allianz für Familien setzt si"
+    ],
+    "reference":"Das Familiensiegel ist eine Auszeichnung für kleine und mittlere Unternehmen. Es bietet Unternehmen viele Vorteile wie beispielsweise mehr Sichtbarkeit und Attraktivität als Arbeitgeber.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Wat is de 'Beruf' van familie en beroep?",
+    "reference_contexts":[
+      "Familie und Beruf\n\nHier finden Unternehmen und Beschäftigte Informationen und praktische\nTipps, um Familie und Berufsleben bestmöglich miteinander zu\nvereinbaren.\n\nFamilie und Beruf Kinderbetreuung in Hamburg - Ein Ratgeber für\nUnternehmen ———————————————————\n\nDiese Broschüre enthält Anregungen und Praxisbeispiele zur betrieblich\nunterstützten Kinderbetreuung.\n\n------------------------------------------------------------------------\n\nFamilie und Beruf Familienfreundliches Handwerk in Hamburg\n—————————————-\n\nDiese Broschüre zeigt ausgezeichnete Beispiele aus der Praxis des\nHamburger Familiensiegels.\n\n------------------------------------------------------------------------\n\n1 \/\n\nFamilienfreundliche Unternehmen\n\n### Familiensiegel\n\nDas Familiensiegel ist eine Auszeichnung für kleine und mittlere\nUnternehmen. Es bietet Unternehmen viele…\n\n------------------------------------------------------------------------\n\n### Hamburger Allianz für Familien\n\nDie Hamburger Allianz für Familien setzt si"
+    ],
+    "reference":"De context bevat geen informatie over een 'Beruf' in verband met familie en beroep.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Was sind die Ziele der Hamburger Allianz für Familien?",
+    "reference_contexts":[
+      "Familie und Beruf\n\nHier finden Unternehmen und Beschäftigte Informationen und praktische\nTipps, um Familie und Berufsleben bestmöglich miteinander zu\nvereinbaren.\n\nFamilie und Beruf Kinderbetreuung in Hamburg - Ein Ratgeber für\nUnternehmen ———————————————————\n\nDiese Broschüre enthält Anregungen und Praxisbeispiele zur betrieblich\nunterstützten Kinderbetreuung.\n\n------------------------------------------------------------------------\n\nFamilie und Beruf Familienfreundliches Handwerk in Hamburg\n—————————————-\n\nDiese Broschüre zeigt ausgezeichnete Beispiele aus der Praxis des\nHamburger Familiensiegels.\n\n------------------------------------------------------------------------\n\n1 \/\n\nFamilienfreundliche Unternehmen\n\n### Familiensiegel\n\nDas Familiensiegel ist eine Auszeichnung für kleine und mittlere\nUnternehmen. Es bietet Unternehmen viele…\n\n------------------------------------------------------------------------\n\n### Hamburger Allianz für Familien\n\nDie Hamburger Allianz für Familien setzt si"
+    ],
+    "reference":"Die Hamburger Allianz für Familien hat das Ziel, kleine und mittlere Unternehmen zu unterstützen und ihnen eine Auszeichnung namens Familiensiegel zu bieten.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Welche Informationen enthält die Broschüre \"Familienfreundliches Handwerk in Hamburg\"?",
+    "reference_contexts":[
+      "Familie und Beruf\n\nHier finden Unternehmen und Beschäftigte Informationen und praktische\nTipps, um Familie und Berufsleben bestmöglich miteinander zu\nvereinbaren.\n\nFamilie und Beruf Kinderbetreuung in Hamburg - Ein Ratgeber für\nUnternehmen ———————————————————\n\nDiese Broschüre enthält Anregungen und Praxisbeispiele zur betrieblich\nunterstützten Kinderbetreuung.\n\n------------------------------------------------------------------------\n\nFamilie und Beruf Familienfreundliches Handwerk in Hamburg\n—————————————-\n\nDiese Broschüre zeigt ausgezeichnete Beispiele aus der Praxis des\nHamburger Familiensiegels.\n\n------------------------------------------------------------------------\n\n1 \/\n\nFamilienfreundliche Unternehmen\n\n### Familiensiegel\n\nDas Familiensiegel ist eine Auszeichnung für kleine und mittlere\nUnternehmen. Es bietet Unternehmen viele…\n\n------------------------------------------------------------------------\n\n### Hamburger Allianz für Familien\n\nDie Hamburger Allianz für Familien setzt si"
+    ],
+    "reference":"Die Broschüre zeigt ausgezeichnete Beispiele aus der Praxis des Hamburger Familiensiegels.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  }
+]

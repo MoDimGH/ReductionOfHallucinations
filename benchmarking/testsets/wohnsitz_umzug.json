@@ -1,0 +1,434 @@
+[
+  {
+    "user_input":"Was muss ich tun, um 'nen vorläufigen Reisepass in Lurup zu beantragen?",
+    "reference_contexts":[
+      "Lurup Einwohnerangelegenheiten Vorläufigen Reisepass beantragen\n\nWenn Sie einen vorläufigen Reisepass benötigen können Sie diesen unter\nbestimmten Voraussetzungen beantragen.\n\nOnline-Service nutzen\n\nJetzt einen Termin buchen\n\nBeschreibung der Leistung\n\nSie können einen vorläufigen maschinenlesbarer Reisepass beantragen.\nDieser wird Ihnen jedoch nur ausgestellt, wenn die Zeit für die\nAusstellung eines Expresspasses (Herstellungsdauer max. 72 Stunden) zu\nknapp ist, und dieser nicht mehr rechtzeitig vor dem ersten Gebrauch\nausgehändigt werden kann.\n\nAb dem 01.05.2025 gibt es neue Vorschriften zum benötigten Foto:\nSie dürfen ab diesem Datum keine papierbasierten Fotos mehr einreichen.\nSie benötigen stattdessen ein Foto in elektronischer Form. Sie können\ndies vor Ort erstellen oder müssen den von einem Fotografen oder einer\nFotografin ausgehändigten QR Code mitbringen. Weitere Informationen\nfinden Sie in der Rubrik „Links“.\n\nInformationen\n\nWichtige Hinweise\n\nVoraussetzungen\n\n-   Deutsche St"
+    ],
+    "reference":"Um einen vorläufigen maschinenlesbaren Reisepass in Lurup zu beantragen, musst du bestimmte Voraussetzungen erfüllen. Du kannst den Service online nutzen und einen Termin buchen. Beachte jedoch, dass ab dem 01.05.2025 nur noch elektronische Fotos akzeptiert werden.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Wie funktiohniert die Ummeldung in Berlin?",
+    "reference_contexts":[
+      "Lurup Einwohnerangelegenheiten Vorläufigen Reisepass beantragen\n\nWenn Sie einen vorläufigen Reisepass benötigen können Sie diesen unter\nbestimmten Voraussetzungen beantragen.\n\nOnline-Service nutzen\n\nJetzt einen Termin buchen\n\nBeschreibung der Leistung\n\nSie können einen vorläufigen maschinenlesbarer Reisepass beantragen.\nDieser wird Ihnen jedoch nur ausgestellt, wenn die Zeit für die\nAusstellung eines Expresspasses (Herstellungsdauer max. 72 Stunden) zu\nknapp ist, und dieser nicht mehr rechtzeitig vor dem ersten Gebrauch\nausgehändigt werden kann.\n\nAb dem 01.05.2025 gibt es neue Vorschriften zum benötigten Foto:\nSie dürfen ab diesem Datum keine papierbasierten Fotos mehr einreichen.\nSie benötigen stattdessen ein Foto in elektronischer Form. Sie können\ndies vor Ort erstellen oder müssen den von einem Fotografen oder einer\nFotografin ausgehändigten QR Code mitbringen. Weitere Informationen\nfinden Sie in der Rubrik „Links“.\n\nInformationen\n\nWichtige Hinweise\n\nVoraussetzungen\n\n-   Deutsche St"
+    ],
+    "reference":"Um eine vorläufigen Reisepass in Berlin zu beantragen, müssen bestimmte Voraussetzungen erfüllt sein. Du kannst den Pass online beantragen und einen Termin buchen. Bitte beachte, dass ab dem 01.05.2025 neue Vorschriften zum benötigten Foto gelten: Papierbasierte Fotos werden nicht mehr akzeptiert, stattdessen wird ein elektronisches Foto benötigt.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Kannst du mir detailliert erklären, wie ich als neuer Bewohner von Lurup einen vorläufigen Reisepass beantragen kann und welche Anforderungen dafür erfüllt sein müssen?",
+    "reference_contexts":[
+      "Lurup Einwohnerangelegenheiten Vorläufigen Reisepass beantragen\n\nWenn Sie einen vorläufigen Reisepass benötigen können Sie diesen unter\nbestimmten Voraussetzungen beantragen.\n\nOnline-Service nutzen\n\nJetzt einen Termin buchen\n\nBeschreibung der Leistung\n\nSie können einen vorläufigen maschinenlesbarer Reisepass beantragen.\nDieser wird Ihnen jedoch nur ausgestellt, wenn die Zeit für die\nAusstellung eines Expresspasses (Herstellungsdauer max. 72 Stunden) zu\nknapp ist, und dieser nicht mehr rechtzeitig vor dem ersten Gebrauch\nausgehändigt werden kann.\n\nAb dem 01.05.2025 gibt es neue Vorschriften zum benötigten Foto:\nSie dürfen ab diesem Datum keine papierbasierten Fotos mehr einreichen.\nSie benötigen stattdessen ein Foto in elektronischer Form. Sie können\ndies vor Ort erstellen oder müssen den von einem Fotografen oder einer\nFotografin ausgehändigten QR Code mitbringen. Weitere Informationen\nfinden Sie in der Rubrik „Links“.\n\nInformationen\n\nWichtige Hinweise\n\nVoraussetzungen\n\n-   Deutsche St"
+    ],
+    "reference":"Als neuer Bewohner von Lurup können Sie einen vorläufigen maschinenlesbaren Reisepass beantragen, wenn die Zeit für die Ausstellung eines Expresspasses (Herstellungsdauer max. 72 Stunden) zu knapp ist und dieser nicht mehr rechtzeitig vor dem ersten Gebrauch ausgehändigt werden kann. Ab dem 01.05.2025 gibt es neue Vorschriften zum benötigten Foto: Sie dürfen ab diesem Datum keine papierbasierten Fotos mehr einreichen. Sie benötigen stattdessen ein Foto in elektronischer Form, das Sie vor Ort erstellen können oder indem Sie den von einem Fotografen oder einer Fotografin ausgehändigten QR Code mitbringen.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Wie kann ich als neuer Bewohner von Berlin die Ummeldung durchführen und welche Fristen muss ich dabei beachten?",
+    "reference_contexts":[
+      "Lurup Einwohnerangelegenheiten Vorläufigen Reisepass beantragen\n\nWenn Sie einen vorläufigen Reisepass benötigen können Sie diesen unter\nbestimmten Voraussetzungen beantragen.\n\nOnline-Service nutzen\n\nJetzt einen Termin buchen\n\nBeschreibung der Leistung\n\nSie können einen vorläufigen maschinenlesbarer Reisepass beantragen.\nDieser wird Ihnen jedoch nur ausgestellt, wenn die Zeit für die\nAusstellung eines Expresspasses (Herstellungsdauer max. 72 Stunden) zu\nknapp ist, und dieser nicht mehr rechtzeitig vor dem ersten Gebrauch\nausgehändigt werden kann.\n\nAb dem 01.05.2025 gibt es neue Vorschriften zum benötigten Foto:\nSie dürfen ab diesem Datum keine papierbasierten Fotos mehr einreichen.\nSie benötigen stattdessen ein Foto in elektronischer Form. Sie können\ndies vor Ort erstellen oder müssen den von einem Fotografen oder einer\nFotografin ausgehändigten QR Code mitbringen. Weitere Informationen\nfinden Sie in der Rubrik „Links“.\n\nInformationen\n\nWichtige Hinweise\n\nVoraussetzungen\n\n-   Deutsche St"
+    ],
+    "reference":"Als neuer Bewohner von Berlin können Sie die Ummeldung durchführen, indem Sie einen vorläufigen maschinenlesbaren Reisepass beantragen. Dieser wird ausgestellt, wenn die Zeit für die Ausstellung eines Expresspasses zu knapp ist. Bitte beachten Sie auch, dass ab dem 01.05.2025 neue Vorschriften zum benötigten Foto gelten: Sie dürfen keine papierbasierten Fotos mehr einreichen und müssen stattdessen ein Foto in elektronischer Form vor Ort erstellen oder den QR Code eines Fotografen mitbringen.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Kann mir jemand erklären, wie ich meinen vorläufigen Reisepass in Lurup beantragen kann und welche Anforderungen dafür erfüllt sein müssen?",
+    "reference_contexts":[
+      "Lurup Einwohnerangelegenheiten Vorläufigen Reisepass beantragen\n\nWenn Sie einen vorläufigen Reisepass benötigen können Sie diesen unter\nbestimmten Voraussetzungen beantragen.\n\nOnline-Service nutzen\n\nJetzt einen Termin buchen\n\nBeschreibung der Leistung\n\nSie können einen vorläufigen maschinenlesbarer Reisepass beantragen.\nDieser wird Ihnen jedoch nur ausgestellt, wenn die Zeit für die\nAusstellung eines Expresspasses (Herstellungsdauer max. 72 Stunden) zu\nknapp ist, und dieser nicht mehr rechtzeitig vor dem ersten Gebrauch\nausgehändigt werden kann.\n\nAb dem 01.05.2025 gibt es neue Vorschriften zum benötigten Foto:\nSie dürfen ab diesem Datum keine papierbasierten Fotos mehr einreichen.\nSie benötigen stattdessen ein Foto in elektronischer Form. Sie können\ndies vor Ort erstellen oder müssen den von einem Fotografen oder einer\nFotografin ausgehändigten QR Code mitbringen. Weitere Informationen\nfinden Sie in der Rubrik „Links“.\n\nInformationen\n\nWichtige Hinweise\n\nVoraussetzungen\n\n-   Deutsche St"
+    ],
+    "reference":"Um einen vorläufigen maschinenlesbaren Reisepass in Lurup zu beantragen, müssen Sie bestimmte Voraussetzungen erfüllen. Der Pass wird nur ausgestellt, wenn die Zeit für die Ausstellung eines Expresspasses (Herstellungsdauer max. 72 Stunden) zu knapp ist und dieser nicht mehr rechtzeitig vor dem ersten Gebrauch ausgehändigt werden kann.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Als neuer Bewohner von Lurup, wie kann ich einen vorläufigen Reisepass beantragen und welche Voraussetzungen müssen erfüllt sein?",
+    "reference_contexts":[
+      "Lurup Einwohnerangelegenheiten Vorläufigen Reisepass beantragen\n\nWenn Sie einen vorläufigen Reisepass benötigen können Sie diesen unter\nbestimmten Voraussetzungen beantragen.\n\nOnline-Service nutzen\n\nJetzt einen Termin buchen\n\nBeschreibung der Leistung\n\nSie können einen vorläufigen maschinenlesbarer Reisepass beantragen.\nDieser wird Ihnen jedoch nur ausgestellt, wenn die Zeit für die\nAusstellung eines Expresspasses (Herstellungsdauer max. 72 Stunden) zu\nknapp ist, und dieser nicht mehr rechtzeitig vor dem ersten Gebrauch\nausgehändigt werden kann.\n\nAb dem 01.05.2025 gibt es neue Vorschriften zum benötigten Foto:\nSie dürfen ab diesem Datum keine papierbasierten Fotos mehr einreichen.\nSie benötigen stattdessen ein Foto in elektronischer Form. Sie können\ndies vor Ort erstellen oder müssen den von einem Fotografen oder einer\nFotografin ausgehändigten QR Code mitbringen. Weitere Informationen\nfinden Sie in der Rubrik „Links“.\n\nInformationen\n\nWichtige Hinweise\n\nVoraussetzungen\n\n-   Deutsche St"
+    ],
+    "reference":"Um als Einwohner von Lurup einen vorläufigen maschinenlesbaren Reisepass zu beantragen, müssen Sie bestimmte Voraussetzungen erfüllen. Der Pass wird nur ausgestellt, wenn die Zeit für die Ausstellung eines Expresspasses (Herstellungsdauer max. 72 Stunden) zu knapp ist und dieser nicht mehr rechtzeitig vor dem ersten Gebrauch ausgehändigt werden kann.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Könnten Sie bitte die Schritte und Anforderungen für das Beantragen eines vorläufigen Reisepasses in Berlin erläutern, insbesondere unter Berücksichtigung der neuen Vorschriften ab dem 01.05.2025?",
+    "reference_contexts":[
+      "Lurup Einwohnerangelegenheiten Vorläufigen Reisepass beantragen\n\nWenn Sie einen vorläufigen Reisepass benötigen können Sie diesen unter\nbestimmten Voraussetzungen beantragen.\n\nOnline-Service nutzen\n\nJetzt einen Termin buchen\n\nBeschreibung der Leistung\n\nSie können einen vorläufigen maschinenlesbarer Reisepass beantragen.\nDieser wird Ihnen jedoch nur ausgestellt, wenn die Zeit für die\nAusstellung eines Expresspasses (Herstellungsdauer max. 72 Stunden) zu\nknapp ist, und dieser nicht mehr rechtzeitig vor dem ersten Gebrauch\nausgehändigt werden kann.\n\nAb dem 01.05.2025 gibt es neue Vorschriften zum benötigten Foto:\nSie dürfen ab diesem Datum keine papierbasierten Fotos mehr einreichen.\nSie benötigen stattdessen ein Foto in elektronischer Form. Sie können\ndies vor Ort erstellen oder müssen den von einem Fotografen oder einer\nFotografin ausgehändigten QR Code mitbringen. Weitere Informationen\nfinden Sie in der Rubrik „Links“.\n\nInformationen\n\nWichtige Hinweise\n\nVoraussetzungen\n\n-   Deutsche St"
+    ],
+    "reference":"Um einen vorläufigen maschinenlesbaren Reisepass in Berlin zu beantragen, müssen Sie bestimmte Voraussetzungen erfüllen. Ab dem 01.05.2025 gibt es neue Vorschriften zum benötigten Foto: Sie dürfen ab diesem Datum keine papierbasierten Fotos mehr einreichen. Stattdessen ist ein Foto in elektronischer Form erforderlich, das vor Ort erstellt werden kann oder mithilfe eines von einem Fotografen oder einer Fotografin ausgehändigten QR Codes bereitgestellt wird.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Wie kann ich einen vorläufigen Reisepass in Berlin beantragen?",
+    "reference_contexts":[
+      "Lurup Einwohnerangelegenheiten Vorläufigen Reisepass beantragen\n\nWenn Sie einen vorläufigen Reisepass benötigen können Sie diesen unter\nbestimmten Voraussetzungen beantragen.\n\nOnline-Service nutzen\n\nJetzt einen Termin buchen\n\nBeschreibung der Leistung\n\nSie können einen vorläufigen maschinenlesbarer Reisepass beantragen.\nDieser wird Ihnen jedoch nur ausgestellt, wenn die Zeit für die\nAusstellung eines Expresspasses (Herstellungsdauer max. 72 Stunden) zu\nknapp ist, und dieser nicht mehr rechtzeitig vor dem ersten Gebrauch\nausgehändigt werden kann.\n\nAb dem 01.05.2025 gibt es neue Vorschriften zum benötigten Foto:\nSie dürfen ab diesem Datum keine papierbasierten Fotos mehr einreichen.\nSie benötigen stattdessen ein Foto in elektronischer Form. Sie können\ndies vor Ort erstellen oder müssen den von einem Fotografen oder einer\nFotografin ausgehändigten QR Code mitbringen. Weitere Informationen\nfinden Sie in der Rubrik „Links“.\n\nInformationen\n\nWichtige Hinweise\n\nVoraussetzungen\n\n-   Deutsche St"
+    ],
+    "reference":"Um einen vorläufigen maschinenlesbaren Reisepass in Berlin zu beantragen, müssen Sie bestimmte Voraussetzungen erfüllen. Der Pass wird nur ausgestellt, wenn die Zeit für die Ausstellung eines Expresspasses (Herstellungsdauer max. 72 Stunden) zu knapp ist und dieser nicht mehr rechtzeitig vor dem ersten Gebrauch ausgehändigt werden kann.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Wie kann ich einen vorläufigen Reisepass in Lurup beantragen?",
+    "reference_contexts":[
+      "Lurup Einwohnerangelegenheiten Vorläufigen Reisepass beantragen\n\nWenn Sie einen vorläufigen Reisepass benötigen können Sie diesen unter\nbestimmten Voraussetzungen beantragen.\n\nOnline-Service nutzen\n\nJetzt einen Termin buchen\n\nBeschreibung der Leistung\n\nSie können einen vorläufigen maschinenlesbarer Reisepass beantragen.\nDieser wird Ihnen jedoch nur ausgestellt, wenn die Zeit für die\nAusstellung eines Expresspasses (Herstellungsdauer max. 72 Stunden) zu\nknapp ist, und dieser nicht mehr rechtzeitig vor dem ersten Gebrauch\nausgehändigt werden kann.\n\nAb dem 01.05.2025 gibt es neue Vorschriften zum benötigten Foto:\nSie dürfen ab diesem Datum keine papierbasierten Fotos mehr einreichen.\nSie benötigen stattdessen ein Foto in elektronischer Form. Sie können\ndies vor Ort erstellen oder müssen den von einem Fotografen oder einer\nFotografin ausgehändigten QR Code mitbringen. Weitere Informationen\nfinden Sie in der Rubrik „Links“.\n\nInformationen\n\nWichtige Hinweise\n\nVoraussetzungen\n\n-   Deutsche St"
+    ],
+    "reference":"Sie können einen vorläufigen maschinenlesbaren Reisepass in Lurup beantragen, indem Sie den Online-Service nutzen und einen Termin buchen. Bitte beachten Sie die neuen Vorschriften zum benötigten Foto ab dem 01.05.2025.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Als neuer Stadtteilbewohner, wie kann ich ein Führungszeugnis beantragen?",
+    "reference_contexts":[
+      "Wandsbek Einwohnerangelegenheiten Führungszeugnis beantragen\n\nEin Führungszeugnis ist ein Dokument, aus dem ersichtlich ist, ob Sie\nvorbestraft sind oder nicht. Das Führungszeugnis gibt in der Regel den\nInhalt des deutschen Bundeszentralregisters wieder.\n\nOnline-Service nutzen\n\nJetzt einen Termin buchen\n\nBeschreibung der Leistung\n\nEin Führungszeugnis kann in unterschiedlichen Konstellationen notwendig\nsein:\nSie treten eine neue Arbeitsstelle an, beantragen bestimmte behördliche\nGenehmigungen, zum Beispiel einen Fahrgastbeförderungsschein oder Sie\nnehmen eine ehrenamtliche Tätigkeit mit Minderjährigen wahr.\n\nJe nach Konstellation beantragen Sie ein einfaches, ein erweitertes oder\nein behördliches Führungszeugnis.\n\nWenn Sie zusätzlich zur deutschen Staatsbürgerschaft weitere\nStaatsbürgerschaften innerhalb der Europäischen Union (EU) haben,\nerhalten Sie ein Europäisches Führungszeugnis. Darin sind die\nEintragungen aus allen EU-Ländern, deren Staatsbürgerschaft Sie haben,\nzusammengefasst.\n"
+    ],
+    "reference":"Sie können ein Führungszeugnis online über den Service 'Wandsbek Einwohnerangelegenheiten' beantragen. Es gibt verschiedene Arten von Führungszeugnissen, je nach Konstellation benötigen Sie ein einfaches, erweitertes oder behördliches Führungszeugnis.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Ich bin neu hier und möchte wissen, wie ich ein Führungszeugnis beantragen kann, wenn ich eine ehrenamtliche Tätigkeit mit Minderjährigen aufnehmen will? Was ist der Unterschied zwischen einem einfachen und erweiterten Führungszeugnis?",
+    "reference_contexts":[
+      "Wandsbek Einwohnerangelegenheiten Führungszeugnis beantragen\n\nEin Führungszeugnis ist ein Dokument, aus dem ersichtlich ist, ob Sie\nvorbestraft sind oder nicht. Das Führungszeugnis gibt in der Regel den\nInhalt des deutschen Bundeszentralregisters wieder.\n\nOnline-Service nutzen\n\nJetzt einen Termin buchen\n\nBeschreibung der Leistung\n\nEin Führungszeugnis kann in unterschiedlichen Konstellationen notwendig\nsein:\nSie treten eine neue Arbeitsstelle an, beantragen bestimmte behördliche\nGenehmigungen, zum Beispiel einen Fahrgastbeförderungsschein oder Sie\nnehmen eine ehrenamtliche Tätigkeit mit Minderjährigen wahr.\n\nJe nach Konstellation beantragen Sie ein einfaches, ein erweitertes oder\nein behördliches Führungszeugnis.\n\nWenn Sie zusätzlich zur deutschen Staatsbürgerschaft weitere\nStaatsbürgerschaften innerhalb der Europäischen Union (EU) haben,\nerhalten Sie ein Europäisches Führungszeugnis. Darin sind die\nEintragungen aus allen EU-Ländern, deren Staatsbürgerschaft Sie haben,\nzusammengefasst.\n"
+    ],
+    "reference":"Ein Führungszeugnis gibt an, ob Sie vorbestraft sind oder nicht. Wenn Sie eine ehrenamtliche Tätigkeit mit Minderjährigen aufnehmen möchten, benötigen Sie in der Regel ein erweitertes Führungszeugnis. Ein einfaches Führungszeugnis reicht hingegen aus, wenn Sie beispielsweise eine neue Arbeitsstelle antreten.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Als neuer Stadtteilbewohner möchte ich wissen, welche Art von Führungszeugnis ich benötige, wenn ich eine ehrenamtliche Tätigkeit mit Minderjährigen aufnehme?",
+    "reference_contexts":[
+      "Wandsbek Einwohnerangelegenheiten Führungszeugnis beantragen\n\nEin Führungszeugnis ist ein Dokument, aus dem ersichtlich ist, ob Sie\nvorbestraft sind oder nicht. Das Führungszeugnis gibt in der Regel den\nInhalt des deutschen Bundeszentralregisters wieder.\n\nOnline-Service nutzen\n\nJetzt einen Termin buchen\n\nBeschreibung der Leistung\n\nEin Führungszeugnis kann in unterschiedlichen Konstellationen notwendig\nsein:\nSie treten eine neue Arbeitsstelle an, beantragen bestimmte behördliche\nGenehmigungen, zum Beispiel einen Fahrgastbeförderungsschein oder Sie\nnehmen eine ehrenamtliche Tätigkeit mit Minderjährigen wahr.\n\nJe nach Konstellation beantragen Sie ein einfaches, ein erweitertes oder\nein behördliches Führungszeugnis.\n\nWenn Sie zusätzlich zur deutschen Staatsbürgerschaft weitere\nStaatsbürgerschaften innerhalb der Europäischen Union (EU) haben,\nerhalten Sie ein Europäisches Führungszeugnis. Darin sind die\nEintragungen aus allen EU-Ländern, deren Staatsbürgerschaft Sie haben,\nzusammengefasst.\n"
+    ],
+    "reference":"Wenn Sie eine ehrenamtliche Tätigkeit mit Minderjährigen aufnehmen möchten, benötigen Sie ein erweitertes Führungszeugnis.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Was ist das Bundeszentralregister?",
+    "reference_contexts":[
+      "Wandsbek Einwohnerangelegenheiten Führungszeugnis beantragen\n\nEin Führungszeugnis ist ein Dokument, aus dem ersichtlich ist, ob Sie\nvorbestraft sind oder nicht. Das Führungszeugnis gibt in der Regel den\nInhalt des deutschen Bundeszentralregisters wieder.\n\nOnline-Service nutzen\n\nJetzt einen Termin buchen\n\nBeschreibung der Leistung\n\nEin Führungszeugnis kann in unterschiedlichen Konstellationen notwendig\nsein:\nSie treten eine neue Arbeitsstelle an, beantragen bestimmte behördliche\nGenehmigungen, zum Beispiel einen Fahrgastbeförderungsschein oder Sie\nnehmen eine ehrenamtliche Tätigkeit mit Minderjährigen wahr.\n\nJe nach Konstellation beantragen Sie ein einfaches, ein erweitertes oder\nein behördliches Führungszeugnis.\n\nWenn Sie zusätzlich zur deutschen Staatsbürgerschaft weitere\nStaatsbürgerschaften innerhalb der Europäischen Union (EU) haben,\nerhalten Sie ein Europäisches Führungszeugnis. Darin sind die\nEintragungen aus allen EU-Ländern, deren Staatsbürgerschaft Sie haben,\nzusammengefasst.\n"
+    ],
+    "reference":"Das Bundeszentralregister ist ein Register, in dem alle Vorstrafen einer Person erfasst sind. Es gibt Auskunft darüber, ob eine Person vorbestraft ist oder nicht.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Was is' Europäisches Führungszeugnis?",
+    "reference_contexts":[
+      "Wandsbek Einwohnerangelegenheiten Führungszeugnis beantragen\n\nEin Führungszeugnis ist ein Dokument, aus dem ersichtlich ist, ob Sie\nvorbestraft sind oder nicht. Das Führungszeugnis gibt in der Regel den\nInhalt des deutschen Bundeszentralregisters wieder.\n\nOnline-Service nutzen\n\nJetzt einen Termin buchen\n\nBeschreibung der Leistung\n\nEin Führungszeugnis kann in unterschiedlichen Konstellationen notwendig\nsein:\nSie treten eine neue Arbeitsstelle an, beantragen bestimmte behördliche\nGenehmigungen, zum Beispiel einen Fahrgastbeförderungsschein oder Sie\nnehmen eine ehrenamtliche Tätigkeit mit Minderjährigen wahr.\n\nJe nach Konstellation beantragen Sie ein einfaches, ein erweitertes oder\nein behördliches Führungszeugnis.\n\nWenn Sie zusätzlich zur deutschen Staatsbürgerschaft weitere\nStaatsbürgerschaften innerhalb der Europäischen Union (EU) haben,\nerhalten Sie ein Europäisches Führungszeugnis. Darin sind die\nEintragungen aus allen EU-Ländern, deren Staatsbürgerschaft Sie haben,\nzusammengefasst.\n"
+    ],
+    "reference":"Ein Europäisches Führungszeugnis ist ein Dokument, das die Eintragungen aus allen EU-Ländern, deren Staatsbürgerschaft Sie haben, zusammenfasst.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Was is Fahrgastbeförderungsschein?",
+    "reference_contexts":[
+      "Wandsbek Einwohnerangelegenheiten Führungszeugnis beantragen\n\nEin Führungszeugnis ist ein Dokument, aus dem ersichtlich ist, ob Sie\nvorbestraft sind oder nicht. Das Führungszeugnis gibt in der Regel den\nInhalt des deutschen Bundeszentralregisters wieder.\n\nOnline-Service nutzen\n\nJetzt einen Termin buchen\n\nBeschreibung der Leistung\n\nEin Führungszeugnis kann in unterschiedlichen Konstellationen notwendig\nsein:\nSie treten eine neue Arbeitsstelle an, beantragen bestimmte behördliche\nGenehmigungen, zum Beispiel einen Fahrgastbeförderungsschein oder Sie\nnehmen eine ehrenamtliche Tätigkeit mit Minderjährigen wahr.\n\nJe nach Konstellation beantragen Sie ein einfaches, ein erweitertes oder\nein behördliches Führungszeugnis.\n\nWenn Sie zusätzlich zur deutschen Staatsbürgerschaft weitere\nStaatsbürgerschaften innerhalb der Europäischen Union (EU) haben,\nerhalten Sie ein Europäisches Führungszeugnis. Darin sind die\nEintragungen aus allen EU-Ländern, deren Staatsbürgerschaft Sie haben,\nzusammengefasst.\n"
+    ],
+    "reference":"Ein Führungszeugnis kann in unterschiedlichen Konstellationen notwendig sein. Zum Beispiel wenn Sie einen Fahrgastbeförderungsschein beantragen.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Welche Art von Führungszeugnis benötige ich für meine neue ehrenamtliche Tätigkeit?",
+    "reference_contexts":[
+      "Wandsbek Einwohnerangelegenheiten Führungszeugnis beantragen\n\nEin Führungszeugnis ist ein Dokument, aus dem ersichtlich ist, ob Sie\nvorbestraft sind oder nicht. Das Führungszeugnis gibt in der Regel den\nInhalt des deutschen Bundeszentralregisters wieder.\n\nOnline-Service nutzen\n\nJetzt einen Termin buchen\n\nBeschreibung der Leistung\n\nEin Führungszeugnis kann in unterschiedlichen Konstellationen notwendig\nsein:\nSie treten eine neue Arbeitsstelle an, beantragen bestimmte behördliche\nGenehmigungen, zum Beispiel einen Fahrgastbeförderungsschein oder Sie\nnehmen eine ehrenamtliche Tätigkeit mit Minderjährigen wahr.\n\nJe nach Konstellation beantragen Sie ein einfaches, ein erweitertes oder\nein behördliches Führungszeugnis.\n\nWenn Sie zusätzlich zur deutschen Staatsbürgerschaft weitere\nStaatsbürgerschaften innerhalb der Europäischen Union (EU) haben,\nerhalten Sie ein Europäisches Führungszeugnis. Darin sind die\nEintragungen aus allen EU-Ländern, deren Staatsbürgerschaft Sie haben,\nzusammengefasst.\n"
+    ],
+    "reference":"Für eine neue ehrenamtliche Tätigkeit mit Minderjährigen benötigen Sie ein erweitertes Führungszeugnis.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Was ist das Bundeszentralregister und wie bekomme ich ein Führungszeugnis?",
+    "reference_contexts":[
+      "Wandsbek Einwohnerangelegenheiten Führungszeugnis beantragen\n\nEin Führungszeugnis ist ein Dokument, aus dem ersichtlich ist, ob Sie\nvorbestraft sind oder nicht. Das Führungszeugnis gibt in der Regel den\nInhalt des deutschen Bundeszentralregisters wieder.\n\nOnline-Service nutzen\n\nJetzt einen Termin buchen\n\nBeschreibung der Leistung\n\nEin Führungszeugnis kann in unterschiedlichen Konstellationen notwendig\nsein:\nSie treten eine neue Arbeitsstelle an, beantragen bestimmte behördliche\nGenehmigungen, zum Beispiel einen Fahrgastbeförderungsschein oder Sie\nnehmen eine ehrenamtliche Tätigkeit mit Minderjährigen wahr.\n\nJe nach Konstellation beantragen Sie ein einfaches, ein erweitertes oder\nein behördliches Führungszeugnis.\n\nWenn Sie zusätzlich zur deutschen Staatsbürgerschaft weitere\nStaatsbürgerschaften innerhalb der Europäischen Union (EU) haben,\nerhalten Sie ein Europäisches Führungszeugnis. Darin sind die\nEintragungen aus allen EU-Ländern, deren Staatsbürgerschaft Sie haben,\nzusammengefasst.\n"
+    ],
+    "reference":"Das Bundeszentralregister ist eine Datenbank, die Informationen über Vorstrafen enthält. Um ein Führungszeugnis zu erhalten, das den Inhalt des Bundeszentralregisters wiedergibt, können Sie den Online-Service nutzen und einen Termin buchen.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Was is' mit Führungszeugnis in Wandsbek?",
+    "reference_contexts":[
+      "Wandsbek Einwohnerangelegenheiten Führungszeugnis beantragen\n\nEin Führungszeugnis ist ein Dokument, aus dem ersichtlich ist, ob Sie\nvorbestraft sind oder nicht. Das Führungszeugnis gibt in der Regel den\nInhalt des deutschen Bundeszentralregisters wieder.\n\nOnline-Service nutzen\n\nJetzt einen Termin buchen\n\nBeschreibung der Leistung\n\nEin Führungszeugnis kann in unterschiedlichen Konstellationen notwendig\nsein:\nSie treten eine neue Arbeitsstelle an, beantragen bestimmte behördliche\nGenehmigungen, zum Beispiel einen Fahrgastbeförderungsschein oder Sie\nnehmen eine ehrenamtliche Tätigkeit mit Minderjährigen wahr.\n\nJe nach Konstellation beantragen Sie ein einfaches, ein erweitertes oder\nein behördliches Führungszeugnis.\n\nWenn Sie zusätzlich zur deutschen Staatsbürgerschaft weitere\nStaatsbürgerschaften innerhalb der Europäischen Union (EU) haben,\nerhalten Sie ein Europäisches Führungszeugnis. Darin sind die\nEintragungen aus allen EU-Ländern, deren Staatsbürgerschaft Sie haben,\nzusammengefasst.\n"
+    ],
+    "reference":"Ein Führungszeugnis zeigt auf, ob jemand vorbestraft ist oder nicht. Es kann online beantragt werden und ist für verschiedene Zwecke wie neue Arbeitsstellen oder ehrenamtliche Tätigkeiten notwendig.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Watt is de Online-Serviss?",
+    "reference_contexts":[
+      "Alstertal Einwohnerangelegenheiten Beglaubigungen von Kopien behördlicher Dokumente zur Vorlage bei einer Behörde und für privatrechtliche Zwecke\n\nOnline-Service nutzen\n\nJetzt einen Termin buchen\n\nBeschreibung der Leistung\n\nJede Behörde kann Abschriften\/Ablichtungen von Schriftstücken, die sie\nselbst ausgestellt hat, oder die für ihren eigenen Bedarf bestimmt sind,\namtlich beglaubigen.\n\nDarüber hinaus ist die für die Wohnung des\/der Betroffenen zuständige\nMeldebehörde befugt, Schriftstücke, die von einer deutschen Behörde\nausgestellt worden sind oder deren Abschriften zur Vorlage bei einer\nBehörde benötigt werden, amtlich zu beglaubigen.\n\nAmtliche Beglaubigungen sind nicht möglich für private Schriftstücke,\ndie privat verwendet werden sollen. Unterschriftsbeglaubigungen für\nandere Zwecke oder öffentliche Beglaubigungen (§ 129 BGB), sowie\nUnterschriften ohne zugehörigen Text können bei einem Notar beantragt\nwerden.\n\nPersonenstandsurkunden oder Abschriften aus Personenstandsbüchern dürfe"
+    ],
+    "reference":"De Online-Service is nutzbar um en Termin fir beglaubigun vun Schriftsticke te buchen.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Kannst du mir detailliert erklären, wie ich Kopien von meinen Dokumenten für meine Umzugsmeldung beglaubigen lassen kann? Was sind die Schritte und welche Dokumente brauche ich dafür?",
+    "reference_contexts":[
+      "Alstertal Einwohnerangelegenheiten Beglaubigungen von Kopien behördlicher Dokumente zur Vorlage bei einer Behörde und für privatrechtliche Zwecke\n\nOnline-Service nutzen\n\nJetzt einen Termin buchen\n\nBeschreibung der Leistung\n\nJede Behörde kann Abschriften\/Ablichtungen von Schriftstücken, die sie\nselbst ausgestellt hat, oder die für ihren eigenen Bedarf bestimmt sind,\namtlich beglaubigen.\n\nDarüber hinaus ist die für die Wohnung des\/der Betroffenen zuständige\nMeldebehörde befugt, Schriftstücke, die von einer deutschen Behörde\nausgestellt worden sind oder deren Abschriften zur Vorlage bei einer\nBehörde benötigt werden, amtlich zu beglaubigen.\n\nAmtliche Beglaubigungen sind nicht möglich für private Schriftstücke,\ndie privat verwendet werden sollen. Unterschriftsbeglaubigungen für\nandere Zwecke oder öffentliche Beglaubigungen (§ 129 BGB), sowie\nUnterschriften ohne zugehörigen Text können bei einem Notar beantragt\nwerden.\n\nPersonenstandsurkunden oder Abschriften aus Personenstandsbüchern dürfe"
+    ],
+    "reference":"Du kannst den Online-Service der Alstertal Einwohnerangelegenheiten nutzen. Jede Behörde kann Abschriften\/Ablichtungen von Schriftstücken, die sie selbst ausgestellt hat oder für ihren eigenen Bedarf bestimmt sind, beglaubigen. Die für deine Wohnung zuständige Meldebehörde ist befugt, Schriftstücke, die von einer deutschen Behörde ausgestellt worden sind oder deren Abschriften zur Vorlage bei einer Behörde benötigt werden, amtlich zu beglaubigen.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Können Sie mir bitte detailliert erklären, wie ich den Online-Service der Meldebehörde nutzen kann, um meine Ummeldung durchzuführen?",
+    "reference_contexts":[
+      "Alstertal Einwohnerangelegenheiten Beglaubigungen von Kopien behördlicher Dokumente zur Vorlage bei einer Behörde und für privatrechtliche Zwecke\n\nOnline-Service nutzen\n\nJetzt einen Termin buchen\n\nBeschreibung der Leistung\n\nJede Behörde kann Abschriften\/Ablichtungen von Schriftstücken, die sie\nselbst ausgestellt hat, oder die für ihren eigenen Bedarf bestimmt sind,\namtlich beglaubigen.\n\nDarüber hinaus ist die für die Wohnung des\/der Betroffenen zuständige\nMeldebehörde befugt, Schriftstücke, die von einer deutschen Behörde\nausgestellt worden sind oder deren Abschriften zur Vorlage bei einer\nBehörde benötigt werden, amtlich zu beglaubigen.\n\nAmtliche Beglaubigungen sind nicht möglich für private Schriftstücke,\ndie privat verwendet werden sollen. Unterschriftsbeglaubigungen für\nandere Zwecke oder öffentliche Beglaubigungen (§ 129 BGB), sowie\nUnterschriften ohne zugehörigen Text können bei einem Notar beantragt\nwerden.\n\nPersonenstandsurkunden oder Abschriften aus Personenstandsbüchern dürfe"
+    ],
+    "reference":"Um den Online-Service der Meldebehörde zu nutzen, müssen Sie zunächst einen Termin buchen. Der Service ermöglicht es Ihnen, Abschriften oder Ablichtungen von Schriftstücken, die für Ihren eigenen Bedarf bestimmt sind oder von einer deutschen Behörde ausgestellt wurden, amtlich beglaubigen zu lassen. Bitte beachten Sie jedoch, dass private Schriftstücke, die privat verwendet werden sollen, nicht beglaubigt werden können.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Wofür kann ich die beglaubigten Kopien von behördlichen Dokumenten verwenden?",
+    "reference_contexts":[
+      "Alstertal Einwohnerangelegenheiten Beglaubigungen von Kopien behördlicher Dokumente zur Vorlage bei einer Behörde und für privatrechtliche Zwecke\n\nOnline-Service nutzen\n\nJetzt einen Termin buchen\n\nBeschreibung der Leistung\n\nJede Behörde kann Abschriften\/Ablichtungen von Schriftstücken, die sie\nselbst ausgestellt hat, oder die für ihren eigenen Bedarf bestimmt sind,\namtlich beglaubigen.\n\nDarüber hinaus ist die für die Wohnung des\/der Betroffenen zuständige\nMeldebehörde befugt, Schriftstücke, die von einer deutschen Behörde\nausgestellt worden sind oder deren Abschriften zur Vorlage bei einer\nBehörde benötigt werden, amtlich zu beglaubigen.\n\nAmtliche Beglaubigungen sind nicht möglich für private Schriftstücke,\ndie privat verwendet werden sollen. Unterschriftsbeglaubigungen für\nandere Zwecke oder öffentliche Beglaubigungen (§ 129 BGB), sowie\nUnterschriften ohne zugehörigen Text können bei einem Notar beantragt\nwerden.\n\nPersonenstandsurkunden oder Abschriften aus Personenstandsbüchern dürfe"
+    ],
+    "reference":"Die beglaubigten Kopien können für privatrechtliche Zwecke verwendet werden.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Wann brauch ich Kopien von Schriftstücken?",
+    "reference_contexts":[
+      "Alstertal Einwohnerangelegenheiten Beglaubigungen von Kopien behördlicher Dokumente zur Vorlage bei einer Behörde und für privatrechtliche Zwecke\n\nOnline-Service nutzen\n\nJetzt einen Termin buchen\n\nBeschreibung der Leistung\n\nJede Behörde kann Abschriften\/Ablichtungen von Schriftstücken, die sie\nselbst ausgestellt hat, oder die für ihren eigenen Bedarf bestimmt sind,\namtlich beglaubigen.\n\nDarüber hinaus ist die für die Wohnung des\/der Betroffenen zuständige\nMeldebehörde befugt, Schriftstücke, die von einer deutschen Behörde\nausgestellt worden sind oder deren Abschriften zur Vorlage bei einer\nBehörde benötigt werden, amtlich zu beglaubigen.\n\nAmtliche Beglaubigungen sind nicht möglich für private Schriftstücke,\ndie privat verwendet werden sollen. Unterschriftsbeglaubigungen für\nandere Zwecke oder öffentliche Beglaubigungen (§ 129 BGB), sowie\nUnterschriften ohne zugehörigen Text können bei einem Notar beantragt\nwerden.\n\nPersonenstandsurkunden oder Abschriften aus Personenstandsbüchern dürfe"
+    ],
+    "reference":"Kopien von Schriftstücken werden benötigt, wenn sie zur Vorlage bei einer Behörde oder für privatrechtliche Zwecke verwendet werden sollen.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Als neuer Stadtteilbewohner, wie kann ich die Leistung der Amtlichen Beglaubigung von Kopien behördlicher Dokumente in Anspruch nehmen?",
+    "reference_contexts":[
+      "Alstertal Einwohnerangelegenheiten Beglaubigungen von Kopien behördlicher Dokumente zur Vorlage bei einer Behörde und für privatrechtliche Zwecke\n\nOnline-Service nutzen\n\nJetzt einen Termin buchen\n\nBeschreibung der Leistung\n\nJede Behörde kann Abschriften\/Ablichtungen von Schriftstücken, die sie\nselbst ausgestellt hat, oder die für ihren eigenen Bedarf bestimmt sind,\namtlich beglaubigen.\n\nDarüber hinaus ist die für die Wohnung des\/der Betroffenen zuständige\nMeldebehörde befugt, Schriftstücke, die von einer deutschen Behörde\nausgestellt worden sind oder deren Abschriften zur Vorlage bei einer\nBehörde benötigt werden, amtlich zu beglaubigen.\n\nAmtliche Beglaubigungen sind nicht möglich für private Schriftstücke,\ndie privat verwendet werden sollen. Unterschriftsbeglaubigungen für\nandere Zwecke oder öffentliche Beglaubigungen (§ 129 BGB), sowie\nUnterschriften ohne zugehörigen Text können bei einem Notar beantragt\nwerden.\n\nPersonenstandsurkunden oder Abschriften aus Personenstandsbüchern dürfe"
+    ],
+    "reference":"Um die Leistung der Amtlichen Beglaubigung von Kopien behördlicher Dokumente in Anspruch zu nehmen, müssen Sie den Online-Service nutzen und einen Termin buchen. Die für Ihre Wohnung zuständige Meldebehörde kann Abschriften oder Ablichtungen von Schriftstücken, die von einer deutschen Behörde ausgestellt worden sind oder deren Abschriften zur Vorlage bei einer Behörde benötigt werden, amtlich beglaubigen.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Kannst du mir erklären, wie ich einen Termin für die Beglaubigung von Kopien behördlicher Dokumente buchen kann?",
+    "reference_contexts":[
+      "Alstertal Einwohnerangelegenheiten Beglaubigungen von Kopien behördlicher Dokumente zur Vorlage bei einer Behörde und für privatrechtliche Zwecke\n\nOnline-Service nutzen\n\nJetzt einen Termin buchen\n\nBeschreibung der Leistung\n\nJede Behörde kann Abschriften\/Ablichtungen von Schriftstücken, die sie\nselbst ausgestellt hat, oder die für ihren eigenen Bedarf bestimmt sind,\namtlich beglaubigen.\n\nDarüber hinaus ist die für die Wohnung des\/der Betroffenen zuständige\nMeldebehörde befugt, Schriftstücke, die von einer deutschen Behörde\nausgestellt worden sind oder deren Abschriften zur Vorlage bei einer\nBehörde benötigt werden, amtlich zu beglaubigen.\n\nAmtliche Beglaubigungen sind nicht möglich für private Schriftstücke,\ndie privat verwendet werden sollen. Unterschriftsbeglaubigungen für\nandere Zwecke oder öffentliche Beglaubigungen (§ 129 BGB), sowie\nUnterschriften ohne zugehörigen Text können bei einem Notar beantragt\nwerden.\n\nPersonenstandsurkunden oder Abschriften aus Personenstandsbüchern dürfe"
+    ],
+    "reference":"Um einen Termin für die Beglaubigung von Kopien behördlicher Dokumente zu buchen, musst du den Online-Service nutzen und dann auf 'Jetzt einen Termin buchen' klicken.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Als neuer Stadtteilbewohner, der kürzlich umgezogen ist und die Ummeldung durchführen muss, möchte ich wissen, welche Arten von Dokumenten beglaubigt werden können und welche nicht bei den Einwohnerangelegenheiten des Alstertals?",
+    "reference_contexts":[
+      "Alstertal Einwohnerangelegenheiten Beglaubigungen von Kopien behördlicher Dokumente zur Vorlage bei einer Behörde und für privatrechtliche Zwecke\n\nOnline-Service nutzen\n\nJetzt einen Termin buchen\n\nBeschreibung der Leistung\n\nJede Behörde kann Abschriften\/Ablichtungen von Schriftstücken, die sie\nselbst ausgestellt hat, oder die für ihren eigenen Bedarf bestimmt sind,\namtlich beglaubigen.\n\nDarüber hinaus ist die für die Wohnung des\/der Betroffenen zuständige\nMeldebehörde befugt, Schriftstücke, die von einer deutschen Behörde\nausgestellt worden sind oder deren Abschriften zur Vorlage bei einer\nBehörde benötigt werden, amtlich zu beglaubigen.\n\nAmtliche Beglaubigungen sind nicht möglich für private Schriftstücke,\ndie privat verwendet werden sollen. Unterschriftsbeglaubigungen für\nandere Zwecke oder öffentliche Beglaubigungen (§ 129 BGB), sowie\nUnterschriften ohne zugehörigen Text können bei einem Notar beantragt\nwerden.\n\nPersonenstandsurkunden oder Abschriften aus Personenstandsbüchern dürfe"
+    ],
+    "reference":"Die Mitarbeiter der Einwohnerangelegenheiten im Alstertal können Abschriften\/Ablichtungen von Schriftstücken, die sie selbst ausgestellt haben oder für ihren eigenen Bedarf bestimmt sind, beglaubigen. Darüber hinaus ist die für die Wohnung des\/der Betroffenen zuständige Meldebehörde befugt, Schriftstücke, die von einer deutschen Behörde ausgestellt worden sind oder deren Abschriften zur Vorlage bei einer Behörde benötigt werden, amtlich zu beglaubigen. Amtliche Beglaubigungen sind nicht möglich für private Schriftstücke, die privat verwendet werden sollen.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Wo kann ich einen Termin für die Beglaubigung von Dokumenten bei der Behörde buchen?",
+    "reference_contexts":[
+      "Alstertal Einwohnerangelegenheiten Beglaubigungen von Kopien behördlicher Dokumente zur Vorlage bei einer Behörde und für privatrechtliche Zwecke\n\nOnline-Service nutzen\n\nJetzt einen Termin buchen\n\nBeschreibung der Leistung\n\nJede Behörde kann Abschriften\/Ablichtungen von Schriftstücken, die sie\nselbst ausgestellt hat, oder die für ihren eigenen Bedarf bestimmt sind,\namtlich beglaubigen.\n\nDarüber hinaus ist die für die Wohnung des\/der Betroffenen zuständige\nMeldebehörde befugt, Schriftstücke, die von einer deutschen Behörde\nausgestellt worden sind oder deren Abschriften zur Vorlage bei einer\nBehörde benötigt werden, amtlich zu beglaubigen.\n\nAmtliche Beglaubigungen sind nicht möglich für private Schriftstücke,\ndie privat verwendet werden sollen. Unterschriftsbeglaubigungen für\nandere Zwecke oder öffentliche Beglaubigungen (§ 129 BGB), sowie\nUnterschriften ohne zugehörigen Text können bei einem Notar beantragt\nwerden.\n\nPersonenstandsurkunden oder Abschriften aus Personenstandsbüchern dürfe"
+    ],
+    "reference":"Du kannst einen Termin für die Beglaubigung von Dokumenten bei der Alstertal Einwohnerangelegenheiten buchen.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Als neuer Bewohner meines Stadtteils möchte ich wissen, unter welchen Umständen ein vorläufiger Reisepass beantragt werden kann und wie der Prozess für die Beantragung eines Expresspasses abläuft.",
+    "reference_contexts":[
+      "Bergedorf Einwohnerangelegenheiten Vorläufigen Reisepass beantragen\n\nWenn Sie einen vorläufigen Reisepass benötigen können Sie diesen unter\nbestimmten Voraussetzungen beantragen.\n\nOnline-Service nutzen\n\nJetzt einen Termin buchen\n\nBeschreibung der Leistung\n\nSie können einen vorläufigen maschinenlesbarer Reisepass beantragen.\nDieser wird Ihnen jedoch nur ausgestellt, wenn die Zeit für die\nAusstellung eines Expresspasses (Herstellungsdauer max. 72 Stunden) zu\nknapp ist, und dieser nicht mehr rechtzeitig vor dem ersten Gebrauch\nausgehändigt werden kann.\n\nAb dem 01.05.2025 gibt es neue Vorschriften zum benötigten Foto:\nSie dürfen ab diesem Datum keine papierbasierten Fotos mehr einreichen.\nSie benötigen stattdessen ein Foto in elektronischer Form. Sie können\ndies vor Ort erstellen oder müssen den von einem Fotografen oder einer\nFotografin ausgehändigten QR Code mitbringen. Weitere Informationen\nfinden Sie in der Rubrik „Links“.\n\nInformationen\n\nWichtige Hinweise\n\nVoraussetzungen\n\n-   Deutsch"
+    ],
+    "reference":"Ein vorläufiger maschinenlesbarer Reisepass kann beantragt werden, wenn die Zeit für die Ausstellung eines Expresspasses (Herstellungsdauer max. 72 Stunden) zu knapp ist und dieser nicht mehr rechtzeitig vor dem ersten Gebrauch ausgehändigt werden kann.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Wie beantrage ich einen vorläufigen Reisepass in Bergedorf?",
+    "reference_contexts":[
+      "Bergedorf Einwohnerangelegenheiten Vorläufigen Reisepass beantragen\n\nWenn Sie einen vorläufigen Reisepass benötigen können Sie diesen unter\nbestimmten Voraussetzungen beantragen.\n\nOnline-Service nutzen\n\nJetzt einen Termin buchen\n\nBeschreibung der Leistung\n\nSie können einen vorläufigen maschinenlesbarer Reisepass beantragen.\nDieser wird Ihnen jedoch nur ausgestellt, wenn die Zeit für die\nAusstellung eines Expresspasses (Herstellungsdauer max. 72 Stunden) zu\nknapp ist, und dieser nicht mehr rechtzeitig vor dem ersten Gebrauch\nausgehändigt werden kann.\n\nAb dem 01.05.2025 gibt es neue Vorschriften zum benötigten Foto:\nSie dürfen ab diesem Datum keine papierbasierten Fotos mehr einreichen.\nSie benötigen stattdessen ein Foto in elektronischer Form. Sie können\ndies vor Ort erstellen oder müssen den von einem Fotografen oder einer\nFotografin ausgehändigten QR Code mitbringen. Weitere Informationen\nfinden Sie in der Rubrik „Links“.\n\nInformationen\n\nWichtige Hinweise\n\nVoraussetzungen\n\n-   Deutsch"
+    ],
+    "reference":"Sie können einen vorläufigen maschinenlesbaren Reisepass beantragen, wenn die Zeit für die Ausstellung eines Expresspasses zu knapp ist.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Ich brauch Reisepass, wie mach ich das?",
+    "reference_contexts":[
+      "Bergedorf Einwohnerangelegenheiten Vorläufigen Reisepass beantragen\n\nWenn Sie einen vorläufigen Reisepass benötigen können Sie diesen unter\nbestimmten Voraussetzungen beantragen.\n\nOnline-Service nutzen\n\nJetzt einen Termin buchen\n\nBeschreibung der Leistung\n\nSie können einen vorläufigen maschinenlesbarer Reisepass beantragen.\nDieser wird Ihnen jedoch nur ausgestellt, wenn die Zeit für die\nAusstellung eines Expresspasses (Herstellungsdauer max. 72 Stunden) zu\nknapp ist, und dieser nicht mehr rechtzeitig vor dem ersten Gebrauch\nausgehändigt werden kann.\n\nAb dem 01.05.2025 gibt es neue Vorschriften zum benötigten Foto:\nSie dürfen ab diesem Datum keine papierbasierten Fotos mehr einreichen.\nSie benötigen stattdessen ein Foto in elektronischer Form. Sie können\ndies vor Ort erstellen oder müssen den von einem Fotografen oder einer\nFotografin ausgehändigten QR Code mitbringen. Weitere Informationen\nfinden Sie in der Rubrik „Links“.\n\nInformationen\n\nWichtige Hinweise\n\nVoraussetzungen\n\n-   Deutsch"
+    ],
+    "reference":"Du kannst einen vorläufigen maschinenlesbaren Reisepass beantragen. Aber den kriegst du nur, wenn der Expresspass nicht mehr rechtzeitig ausgehändigt werden kann.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Kannst du mir detailliert erklären, wie ich einen vorläufigen Reisepass in Bergedorf beantragen kann und welche Anforderungen dafür erfüllt sein müssen?",
+    "reference_contexts":[
+      "Bergedorf Einwohnerangelegenheiten Vorläufigen Reisepass beantragen\n\nWenn Sie einen vorläufigen Reisepass benötigen können Sie diesen unter\nbestimmten Voraussetzungen beantragen.\n\nOnline-Service nutzen\n\nJetzt einen Termin buchen\n\nBeschreibung der Leistung\n\nSie können einen vorläufigen maschinenlesbarer Reisepass beantragen.\nDieser wird Ihnen jedoch nur ausgestellt, wenn die Zeit für die\nAusstellung eines Expresspasses (Herstellungsdauer max. 72 Stunden) zu\nknapp ist, und dieser nicht mehr rechtzeitig vor dem ersten Gebrauch\nausgehändigt werden kann.\n\nAb dem 01.05.2025 gibt es neue Vorschriften zum benötigten Foto:\nSie dürfen ab diesem Datum keine papierbasierten Fotos mehr einreichen.\nSie benötigen stattdessen ein Foto in elektronischer Form. Sie können\ndies vor Ort erstellen oder müssen den von einem Fotografen oder einer\nFotografin ausgehändigten QR Code mitbringen. Weitere Informationen\nfinden Sie in der Rubrik „Links“.\n\nInformationen\n\nWichtige Hinweise\n\nVoraussetzungen\n\n-   Deutsch"
+    ],
+    "reference":"In Bergedorf können Sie einen vorläufigen maschinenlesbaren Reisepass beantragen, wenn die Zeit für die Ausstellung eines Expresspasses (Herstellungsdauer max. 72 Stunden) zu knapp ist und dieser nicht mehr rechtzeitig vor dem ersten Gebrauch ausgehändigt werden kann. Ab dem 01.05.2025 gibt es neue Vorschriften zum benötigten Foto: Sie dürfen ab diesem Datum keine papierbasierten Fotos mehr einreichen. Sie benötigen stattdessen ein Foto in elektronischer Form, das Sie vor Ort erstellen können oder indem Sie den von einem Fotografen oder einer Fotografin ausgehändigten QR Code mitbringen. Bitte beachten Sie, dass für den Antrag die deutsche Staatsangehörigkeit erforderlich ist.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Kann ich einen vorläufigen Reisepass für Bergedorf beantragen, wenn ich innerhalb von drei Tagen abreise?",
+    "reference_contexts":[
+      "Bergedorf Einwohnerangelegenheiten Vorläufigen Reisepass beantragen\n\nWenn Sie einen vorläufigen Reisepass benötigen können Sie diesen unter\nbestimmten Voraussetzungen beantragen.\n\nOnline-Service nutzen\n\nJetzt einen Termin buchen\n\nBeschreibung der Leistung\n\nSie können einen vorläufigen maschinenlesbarer Reisepass beantragen.\nDieser wird Ihnen jedoch nur ausgestellt, wenn die Zeit für die\nAusstellung eines Expresspasses (Herstellungsdauer max. 72 Stunden) zu\nknapp ist, und dieser nicht mehr rechtzeitig vor dem ersten Gebrauch\nausgehändigt werden kann.\n\nAb dem 01.05.2025 gibt es neue Vorschriften zum benötigten Foto:\nSie dürfen ab diesem Datum keine papierbasierten Fotos mehr einreichen.\nSie benötigen stattdessen ein Foto in elektronischer Form. Sie können\ndies vor Ort erstellen oder müssen den von einem Fotografen oder einer\nFotografin ausgehändigten QR Code mitbringen. Weitere Informationen\nfinden Sie in der Rubrik „Links“.\n\nInformationen\n\nWichtige Hinweise\n\nVoraussetzungen\n\n-   Deutsch"
+    ],
+    "reference":"Ja, Sie können einen vorläufigen maschinenlesbaren Reisepass in Bergedorf beantragen, wenn die Zeit für die Ausstellung eines Expresspasses (Herstellungsdauer max. 72 Stunden) zu knapp ist und dieser nicht mehr rechtzeitig vor dem ersten Gebrauch ausgehändigt werden kann.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Wat is 'Expresspass' und wann braucht man den?",
+    "reference_contexts":[
+      "Bergedorf Einwohnerangelegenheiten Vorläufigen Reisepass beantragen\n\nWenn Sie einen vorläufigen Reisepass benötigen können Sie diesen unter\nbestimmten Voraussetzungen beantragen.\n\nOnline-Service nutzen\n\nJetzt einen Termin buchen\n\nBeschreibung der Leistung\n\nSie können einen vorläufigen maschinenlesbarer Reisepass beantragen.\nDieser wird Ihnen jedoch nur ausgestellt, wenn die Zeit für die\nAusstellung eines Expresspasses (Herstellungsdauer max. 72 Stunden) zu\nknapp ist, und dieser nicht mehr rechtzeitig vor dem ersten Gebrauch\nausgehändigt werden kann.\n\nAb dem 01.05.2025 gibt es neue Vorschriften zum benötigten Foto:\nSie dürfen ab diesem Datum keine papierbasierten Fotos mehr einreichen.\nSie benötigen stattdessen ein Foto in elektronischer Form. Sie können\ndies vor Ort erstellen oder müssen den von einem Fotografen oder einer\nFotografin ausgehändigten QR Code mitbringen. Weitere Informationen\nfinden Sie in der Rubrik „Links“.\n\nInformationen\n\nWichtige Hinweise\n\nVoraussetzungen\n\n-   Deutsch"
+    ],
+    "reference":"Ein Expresspass ist ein vorläufiger maschinenlesbarer Reisepass, der nur ausgestellt wird, wenn die Zeit für die Ausstellung eines regulären Passes zu knapp ist. Er wird benötigt, wenn dieser nicht mehr rechtzeitig vor dem ersten Gebrauch ausgehändigt werden kann.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Was muss ich tun um 'nen vorläufigen Reisepass zu beantragen?",
+    "reference_contexts":[
+      "Bergedorf Einwohnerangelegenheiten Vorläufigen Reisepass beantragen\n\nWenn Sie einen vorläufigen Reisepass benötigen können Sie diesen unter\nbestimmten Voraussetzungen beantragen.\n\nOnline-Service nutzen\n\nJetzt einen Termin buchen\n\nBeschreibung der Leistung\n\nSie können einen vorläufigen maschinenlesbarer Reisepass beantragen.\nDieser wird Ihnen jedoch nur ausgestellt, wenn die Zeit für die\nAusstellung eines Expresspasses (Herstellungsdauer max. 72 Stunden) zu\nknapp ist, und dieser nicht mehr rechtzeitig vor dem ersten Gebrauch\nausgehändigt werden kann.\n\nAb dem 01.05.2025 gibt es neue Vorschriften zum benötigten Foto:\nSie dürfen ab diesem Datum keine papierbasierten Fotos mehr einreichen.\nSie benötigen stattdessen ein Foto in elektronischer Form. Sie können\ndies vor Ort erstellen oder müssen den von einem Fotografen oder einer\nFotografin ausgehändigten QR Code mitbringen. Weitere Informationen\nfinden Sie in der Rubrik „Links“.\n\nInformationen\n\nWichtige Hinweise\n\nVoraussetzungen\n\n-   Deutsch"
+    ],
+    "reference":"Um einen vorläufigen maschinenlesbaren Reisepass zu beantragen, müssen Sie bestimmte Voraussetzungen erfüllen. Sie können diesen Service online buchen und ein Termin vereinbart werden.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Kannst mir sagen wie ich einen vorläufigen Reisepass beantragen kann und wann ein Expresspass ausgestellt wird?",
+    "reference_contexts":[
+      "Bergedorf Einwohnerangelegenheiten Vorläufigen Reisepass beantragen\n\nWenn Sie einen vorläufigen Reisepass benötigen können Sie diesen unter\nbestimmten Voraussetzungen beantragen.\n\nOnline-Service nutzen\n\nJetzt einen Termin buchen\n\nBeschreibung der Leistung\n\nSie können einen vorläufigen maschinenlesbarer Reisepass beantragen.\nDieser wird Ihnen jedoch nur ausgestellt, wenn die Zeit für die\nAusstellung eines Expresspasses (Herstellungsdauer max. 72 Stunden) zu\nknapp ist, und dieser nicht mehr rechtzeitig vor dem ersten Gebrauch\nausgehändigt werden kann.\n\nAb dem 01.05.2025 gibt es neue Vorschriften zum benötigten Foto:\nSie dürfen ab diesem Datum keine papierbasierten Fotos mehr einreichen.\nSie benötigen stattdessen ein Foto in elektronischer Form. Sie können\ndies vor Ort erstellen oder müssen den von einem Fotografen oder einer\nFotografin ausgehändigten QR Code mitbringen. Weitere Informationen\nfinden Sie in der Rubrik „Links“.\n\nInformationen\n\nWichtige Hinweise\n\nVoraussetzungen\n\n-   Deutsch"
+    ],
+    "reference":"Wenn du einen vorläufigen maschinenlesbaren Reisepass benötigst, kann dieser unter bestimmten Voraussetzungen beantragt werden. Ein Expresspass wird jedoch nur ausgestellt, wenn die Zeit für dessen Ausstellung zu knapp ist und er nicht mehr rechtzeitig vor dem ersten Gebrauch ausgehändigt werden kann.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Wat is Expresspass?",
+    "reference_contexts":[
+      "Bergedorf Einwohnerangelegenheiten Vorläufigen Reisepass beantragen\n\nWenn Sie einen vorläufigen Reisepass benötigen können Sie diesen unter\nbestimmten Voraussetzungen beantragen.\n\nOnline-Service nutzen\n\nJetzt einen Termin buchen\n\nBeschreibung der Leistung\n\nSie können einen vorläufigen maschinenlesbarer Reisepass beantragen.\nDieser wird Ihnen jedoch nur ausgestellt, wenn die Zeit für die\nAusstellung eines Expresspasses (Herstellungsdauer max. 72 Stunden) zu\nknapp ist, und dieser nicht mehr rechtzeitig vor dem ersten Gebrauch\nausgehändigt werden kann.\n\nAb dem 01.05.2025 gibt es neue Vorschriften zum benötigten Foto:\nSie dürfen ab diesem Datum keine papierbasierten Fotos mehr einreichen.\nSie benötigen stattdessen ein Foto in elektronischer Form. Sie können\ndies vor Ort erstellen oder müssen den von einem Fotografen oder einer\nFotografin ausgehändigten QR Code mitbringen. Weitere Informationen\nfinden Sie in der Rubrik „Links“.\n\nInformationen\n\nWichtige Hinweise\n\nVoraussetzungen\n\n-   Deutsch"
+    ],
+    "reference":"Expresspass is a type of maschinenlesbarer Reisepass that can be issued if the time for its creation is too short.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Wie seh ich mein Daten auf Chip von Personalausweis in Hamburg?",
+    "reference_contexts":[
+      "Volksdorf Einwohnerangelegenheiten Einsicht in den elektronischen Identitätsnachweis\n\nSie können die gespeicherten und auslesbaren Daten im Chip des\nPersonalausweises einsehen.\n\nOnline-Service nutzen\n\nJetzt einen Termin buchen\n\nBeschreibung der Leistung\n\nSie können auf Wunsch in jedem Hamburger Hamburg Service Standort ihre\ngespeicherten und auslesbaren Daten im elektronischen Speicher- und\nVerarbeitungsmedium (Chip) des Personalausweises einsehen.\n\nHierfür müssen Sie persönlich in einem Hamburger Hamburg Service\nStandort Ihrer Wahl erscheinen.\n\nInformationen\n\nWichtige Hinweise\n\nVoraussetzungen\n\n-   Sie sind Deutsche(r) im Sinne des Art. 116 Abs. 1 Grundgesetz (GG)\n\nBenötigte Unterlagen\n\n-   Personalausweis\n\nZu Beachten\n\nkeine\n\nFristen\n\nkeine\n\nAblauf, Dauer & Gebühren\n\nVerfahrensablauf\n\n-   Sie vereinbaren einen Termin im Hamburg Service Ihrer Wahl.\n-   Sie kommen persönlich zum Hamburg Service mit Ihrem\n    Personalausweises.\n\nDauer\n\n-   Die Bearbeitungsdauer beträgt ungefähr fünf Min"
+    ],
+    "reference":"Du kannst deine gespeicherten und auslesbaren Daten im Chip deines Personalausweises einsehen, indem du einen Termin in einem Hamburger Hamburg Service Standort vereinbarst und persönlich mit deinem Personalausweis erscheinst.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Watt muss ich machen um mein Personalausweis zu sehen?",
+    "reference_contexts":[
+      "Volksdorf Einwohnerangelegenheiten Einsicht in den elektronischen Identitätsnachweis\n\nSie können die gespeicherten und auslesbaren Daten im Chip des\nPersonalausweises einsehen.\n\nOnline-Service nutzen\n\nJetzt einen Termin buchen\n\nBeschreibung der Leistung\n\nSie können auf Wunsch in jedem Hamburger Hamburg Service Standort ihre\ngespeicherten und auslesbaren Daten im elektronischen Speicher- und\nVerarbeitungsmedium (Chip) des Personalausweises einsehen.\n\nHierfür müssen Sie persönlich in einem Hamburger Hamburg Service\nStandort Ihrer Wahl erscheinen.\n\nInformationen\n\nWichtige Hinweise\n\nVoraussetzungen\n\n-   Sie sind Deutsche(r) im Sinne des Art. 116 Abs. 1 Grundgesetz (GG)\n\nBenötigte Unterlagen\n\n-   Personalausweis\n\nZu Beachten\n\nkeine\n\nFristen\n\nkeine\n\nAblauf, Dauer & Gebühren\n\nVerfahrensablauf\n\n-   Sie vereinbaren einen Termin im Hamburg Service Ihrer Wahl.\n-   Sie kommen persönlich zum Hamburg Service mit Ihrem\n    Personalausweises.\n\nDauer\n\n-   Die Bearbeitungsdauer beträgt ungefähr fünf Min"
+    ],
+    "reference":"Du musst einen Termin in einem Hamburger Hamburg Service Standort vereinbaren und persönlich mit deinem Personalausweis dort erscheinen.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Als neuer Stadtteilbewohner, was sind die Voraussetzungen und benötigten Unterlagen für die Einsicht in meine elektronischen Identitätsnachweise auf meinem Personalausweis?",
+    "reference_contexts":[
+      "Volksdorf Einwohnerangelegenheiten Einsicht in den elektronischen Identitätsnachweis\n\nSie können die gespeicherten und auslesbaren Daten im Chip des\nPersonalausweises einsehen.\n\nOnline-Service nutzen\n\nJetzt einen Termin buchen\n\nBeschreibung der Leistung\n\nSie können auf Wunsch in jedem Hamburger Hamburg Service Standort ihre\ngespeicherten und auslesbaren Daten im elektronischen Speicher- und\nVerarbeitungsmedium (Chip) des Personalausweises einsehen.\n\nHierfür müssen Sie persönlich in einem Hamburger Hamburg Service\nStandort Ihrer Wahl erscheinen.\n\nInformationen\n\nWichtige Hinweise\n\nVoraussetzungen\n\n-   Sie sind Deutsche(r) im Sinne des Art. 116 Abs. 1 Grundgesetz (GG)\n\nBenötigte Unterlagen\n\n-   Personalausweis\n\nZu Beachten\n\nkeine\n\nFristen\n\nkeine\n\nAblauf, Dauer & Gebühren\n\nVerfahrensablauf\n\n-   Sie vereinbaren einen Termin im Hamburg Service Ihrer Wahl.\n-   Sie kommen persönlich zum Hamburg Service mit Ihrem\n    Personalausweises.\n\nDauer\n\n-   Die Bearbeitungsdauer beträgt ungefähr fünf Min"
+    ],
+    "reference":"Um Ihre gespeicherten und auslesbaren Daten im Chip Ihres Personalausweises einzusehen, müssen Sie Deutsche(r) im Sinne des Art. 116 Abs. 1 Grundgesetz (GG) sein und Ihren Personalausweis mitbringen.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Wie kann ich meine Daten im elektronischen Identitätsnachweis in Volksdorf einsehen?",
+    "reference_contexts":[
+      "Volksdorf Einwohnerangelegenheiten Einsicht in den elektronischen Identitätsnachweis\n\nSie können die gespeicherten und auslesbaren Daten im Chip des\nPersonalausweises einsehen.\n\nOnline-Service nutzen\n\nJetzt einen Termin buchen\n\nBeschreibung der Leistung\n\nSie können auf Wunsch in jedem Hamburger Hamburg Service Standort ihre\ngespeicherten und auslesbaren Daten im elektronischen Speicher- und\nVerarbeitungsmedium (Chip) des Personalausweises einsehen.\n\nHierfür müssen Sie persönlich in einem Hamburger Hamburg Service\nStandort Ihrer Wahl erscheinen.\n\nInformationen\n\nWichtige Hinweise\n\nVoraussetzungen\n\n-   Sie sind Deutsche(r) im Sinne des Art. 116 Abs. 1 Grundgesetz (GG)\n\nBenötigte Unterlagen\n\n-   Personalausweis\n\nZu Beachten\n\nkeine\n\nFristen\n\nkeine\n\nAblauf, Dauer & Gebühren\n\nVerfahrensablauf\n\n-   Sie vereinbaren einen Termin im Hamburg Service Ihrer Wahl.\n-   Sie kommen persönlich zum Hamburg Service mit Ihrem\n    Personalausweises.\n\nDauer\n\n-   Die Bearbeitungsdauer beträgt ungefähr fünf Min"
+    ],
+    "reference":"Sie können die gespeicherten und auslesbaren Daten im Chip Ihres Personalausweises in Volksdorf einsehen, indem Sie einen Termin im Hamburger Hamburg Service Standort vereinbaren und persönlich mit Ihrem Personalausweis erscheinen.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Wo kann ich meinen Personalausweis einsehen?",
+    "reference_contexts":[
+      "Volksdorf Einwohnerangelegenheiten Einsicht in den elektronischen Identitätsnachweis\n\nSie können die gespeicherten und auslesbaren Daten im Chip des\nPersonalausweises einsehen.\n\nOnline-Service nutzen\n\nJetzt einen Termin buchen\n\nBeschreibung der Leistung\n\nSie können auf Wunsch in jedem Hamburger Hamburg Service Standort ihre\ngespeicherten und auslesbaren Daten im elektronischen Speicher- und\nVerarbeitungsmedium (Chip) des Personalausweises einsehen.\n\nHierfür müssen Sie persönlich in einem Hamburger Hamburg Service\nStandort Ihrer Wahl erscheinen.\n\nInformationen\n\nWichtige Hinweise\n\nVoraussetzungen\n\n-   Sie sind Deutsche(r) im Sinne des Art. 116 Abs. 1 Grundgesetz (GG)\n\nBenötigte Unterlagen\n\n-   Personalausweis\n\nZu Beachten\n\nkeine\n\nFristen\n\nkeine\n\nAblauf, Dauer & Gebühren\n\nVerfahrensablauf\n\n-   Sie vereinbaren einen Termin im Hamburg Service Ihrer Wahl.\n-   Sie kommen persönlich zum Hamburg Service mit Ihrem\n    Personalausweises.\n\nDauer\n\n-   Die Bearbeitungsdauer beträgt ungefähr fünf Min"
+    ],
+    "reference":"Sie können Ihre gespeicherten und auslesbaren Daten im Chip des Personalausweises in jedem Hamburger Hamburg Service Standort einsehen.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Als neuer Stadtteilbewohner, wie kann ich meine Daten im elektronischen Identitätsnachweis meines Personalausweises einsehen?",
+    "reference_contexts":[
+      "Volksdorf Einwohnerangelegenheiten Einsicht in den elektronischen Identitätsnachweis\n\nSie können die gespeicherten und auslesbaren Daten im Chip des\nPersonalausweises einsehen.\n\nOnline-Service nutzen\n\nJetzt einen Termin buchen\n\nBeschreibung der Leistung\n\nSie können auf Wunsch in jedem Hamburger Hamburg Service Standort ihre\ngespeicherten und auslesbaren Daten im elektronischen Speicher- und\nVerarbeitungsmedium (Chip) des Personalausweises einsehen.\n\nHierfür müssen Sie persönlich in einem Hamburger Hamburg Service\nStandort Ihrer Wahl erscheinen.\n\nInformationen\n\nWichtige Hinweise\n\nVoraussetzungen\n\n-   Sie sind Deutsche(r) im Sinne des Art. 116 Abs. 1 Grundgesetz (GG)\n\nBenötigte Unterlagen\n\n-   Personalausweis\n\nZu Beachten\n\nkeine\n\nFristen\n\nkeine\n\nAblauf, Dauer & Gebühren\n\nVerfahrensablauf\n\n-   Sie vereinbaren einen Termin im Hamburg Service Ihrer Wahl.\n-   Sie kommen persönlich zum Hamburg Service mit Ihrem\n    Personalausweises.\n\nDauer\n\n-   Die Bearbeitungsdauer beträgt ungefähr fünf Min"
+    ],
+    "reference":"Sie können die gespeicherten und auslesbaren Daten im Chip Ihres Personalausweises in jedem Hamburger Hamburg Service Standort einsehen. Hierfür müssen Sie persönlich mit Ihrem Personalausweis in einem Hamburg Service Standort Ihrer Wahl erscheinen.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Als neuer Bewohner von Volksdorf, wie kann ich meine elektronischen Identitätsnachweise einsehen und welche Schritte sind dafür notwendig?",
+    "reference_contexts":[
+      "Volksdorf Einwohnerangelegenheiten Einsicht in den elektronischen Identitätsnachweis\n\nSie können die gespeicherten und auslesbaren Daten im Chip des\nPersonalausweises einsehen.\n\nOnline-Service nutzen\n\nJetzt einen Termin buchen\n\nBeschreibung der Leistung\n\nSie können auf Wunsch in jedem Hamburger Hamburg Service Standort ihre\ngespeicherten und auslesbaren Daten im elektronischen Speicher- und\nVerarbeitungsmedium (Chip) des Personalausweises einsehen.\n\nHierfür müssen Sie persönlich in einem Hamburger Hamburg Service\nStandort Ihrer Wahl erscheinen.\n\nInformationen\n\nWichtige Hinweise\n\nVoraussetzungen\n\n-   Sie sind Deutsche(r) im Sinne des Art. 116 Abs. 1 Grundgesetz (GG)\n\nBenötigte Unterlagen\n\n-   Personalausweis\n\nZu Beachten\n\nkeine\n\nFristen\n\nkeine\n\nAblauf, Dauer & Gebühren\n\nVerfahrensablauf\n\n-   Sie vereinbaren einen Termin im Hamburg Service Ihrer Wahl.\n-   Sie kommen persönlich zum Hamburg Service mit Ihrem\n    Personalausweises.\n\nDauer\n\n-   Die Bearbeitungsdauer beträgt ungefähr fünf Min"
+    ],
+    "reference":"Um Ihre elektronischen Identitätsnachweise in Volksdorf einzusehen, müssen Sie persönlich in einem Hamburger Hamburg Service Standort erscheinen. Sie benötigen Ihren Personalausweis und es gibt keine zu beachtenden Fristen für diesen Prozess.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Wie seh ich mein Daten in Volksdorf?",
+    "reference_contexts":[
+      "Volksdorf Einwohnerangelegenheiten Einsicht in den elektronischen Identitätsnachweis\n\nSie können die gespeicherten und auslesbaren Daten im Chip des\nPersonalausweises einsehen.\n\nOnline-Service nutzen\n\nJetzt einen Termin buchen\n\nBeschreibung der Leistung\n\nSie können auf Wunsch in jedem Hamburger Hamburg Service Standort ihre\ngespeicherten und auslesbaren Daten im elektronischen Speicher- und\nVerarbeitungsmedium (Chip) des Personalausweises einsehen.\n\nHierfür müssen Sie persönlich in einem Hamburger Hamburg Service\nStandort Ihrer Wahl erscheinen.\n\nInformationen\n\nWichtige Hinweise\n\nVoraussetzungen\n\n-   Sie sind Deutsche(r) im Sinne des Art. 116 Abs. 1 Grundgesetz (GG)\n\nBenötigte Unterlagen\n\n-   Personalausweis\n\nZu Beachten\n\nkeine\n\nFristen\n\nkeine\n\nAblauf, Dauer & Gebühren\n\nVerfahrensablauf\n\n-   Sie vereinbaren einen Termin im Hamburg Service Ihrer Wahl.\n-   Sie kommen persönlich zum Hamburg Service mit Ihrem\n    Personalausweises.\n\nDauer\n\n-   Die Bearbeitungsdauer beträgt ungefähr fünf Min"
+    ],
+    "reference":"Du kannst die gespeicherten und auslesbaren Daten im Chip des Personalausweises einsehen.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Wann muss ich meinen Personalausweis vorzeigen?",
+    "reference_contexts":[
+      "Volksdorf Einwohnerangelegenheiten Einsicht in den elektronischen Identitätsnachweis\n\nSie können die gespeicherten und auslesbaren Daten im Chip des\nPersonalausweises einsehen.\n\nOnline-Service nutzen\n\nJetzt einen Termin buchen\n\nBeschreibung der Leistung\n\nSie können auf Wunsch in jedem Hamburger Hamburg Service Standort ihre\ngespeicherten und auslesbaren Daten im elektronischen Speicher- und\nVerarbeitungsmedium (Chip) des Personalausweises einsehen.\n\nHierfür müssen Sie persönlich in einem Hamburger Hamburg Service\nStandort Ihrer Wahl erscheinen.\n\nInformationen\n\nWichtige Hinweise\n\nVoraussetzungen\n\n-   Sie sind Deutsche(r) im Sinne des Art. 116 Abs. 1 Grundgesetz (GG)\n\nBenötigte Unterlagen\n\n-   Personalausweis\n\nZu Beachten\n\nkeine\n\nFristen\n\nkeine\n\nAblauf, Dauer & Gebühren\n\nVerfahrensablauf\n\n-   Sie vereinbaren einen Termin im Hamburg Service Ihrer Wahl.\n-   Sie kommen persönlich zum Hamburg Service mit Ihrem\n    Personalausweises.\n\nDauer\n\n-   Die Bearbeitungsdauer beträgt ungefähr fünf Min"
+    ],
+    "reference":"Sie müssen Ihren Personalausweis vorzeigen, wenn Sie einen Termin im Hamburg Service vereinbaren und persönlich zum Hamburg Service kommen.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Kannst du mir bitte erklären, wie ich meine gesperrte Online-Ausweisfunktion im Hamburg Service - Fachbereich Einwohnerdaten wieder entsperren lassen kann?",
+    "reference_contexts":[
+      "Mitte Einwohnerangelegenheiten Entsperrung elektronischer Identitätsnachweis\n\nSie können Ihren gesperrten elektronischen Identitätsnachweis\n(Online-Ausweisfunktion) wieder entsperren lassen.\n\nOnline-Service nutzen\n\nJetzt einen Termin buchen\n\nBeschreibung der Leistung\n\nWenn der elektronische Identitätsnachweis (Online-Ausweisfunktion) bei\nIhrem Personalausweis gesperrt wurde, können Sie die Sperrung nur im\nHamburg Service - Fachbereich Einwohnerdaten wieder aufheben lassen.\n\nInformationen\n\nWichtige Hinweise\n\nVoraussetzungen\n\n-   Deutsche(r) im Sinne des Art. 116 Abs. 1 Grundgesetz (GG)\n-   Online-Ausweisfunktion wurde gesperrt\n-   Personalausweis wurde wiederaufgefunden\n\nBenötigte Unterlagen\n\n-   Personalausweis\n\nZu Beachten\n\n-   Seit 2017 wird der Personalausweis nur noch mit eingeschalteter eID\n    ausgeliefert.\n-   Die Sperr-Hotline 116 116 ist immer erreichbar. Sie ist gebührenfrei\n    aus dem deutschen Festnetz.\n    Aus dem Mobilfunknetz und aus dem Ausland können Gebühren anfallen"
+    ],
+    "reference":"Wenn der elektronische Identitätsnachweis (Online-Ausweisfunktion) bei Ihrem Personalausweis gesperrt wurde, können Sie die Sperrung nur im Hamburg Service - Fachbereich Einwohnerdaten wieder aufheben lassen.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Was is' Art. 116 Abs. 1 GG?",
+    "reference_contexts":[
+      "Mitte Einwohnerangelegenheiten Entsperrung elektronischer Identitätsnachweis\n\nSie können Ihren gesperrten elektronischen Identitätsnachweis\n(Online-Ausweisfunktion) wieder entsperren lassen.\n\nOnline-Service nutzen\n\nJetzt einen Termin buchen\n\nBeschreibung der Leistung\n\nWenn der elektronische Identitätsnachweis (Online-Ausweisfunktion) bei\nIhrem Personalausweis gesperrt wurde, können Sie die Sperrung nur im\nHamburg Service - Fachbereich Einwohnerdaten wieder aufheben lassen.\n\nInformationen\n\nWichtige Hinweise\n\nVoraussetzungen\n\n-   Deutsche(r) im Sinne des Art. 116 Abs. 1 Grundgesetz (GG)\n-   Online-Ausweisfunktion wurde gesperrt\n-   Personalausweis wurde wiederaufgefunden\n\nBenötigte Unterlagen\n\n-   Personalausweis\n\nZu Beachten\n\n-   Seit 2017 wird der Personalausweis nur noch mit eingeschalteter eID\n    ausgeliefert.\n-   Die Sperr-Hotline 116 116 ist immer erreichbar. Sie ist gebührenfrei\n    aus dem deutschen Festnetz.\n    Aus dem Mobilfunknetz und aus dem Ausland können Gebühren anfallen"
+    ],
+    "reference":"Art. 116 Abs. 1 GG bezieht sich auf Deutsche im Sinne des Grundgesetzes.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Kann ich als Deutscher im Sinne des Art. 116 Abs. 1 GG meine gesperrte Online-Ausweisfunktion wieder entsperren lassen?",
+    "reference_contexts":[
+      "Mitte Einwohnerangelegenheiten Entsperrung elektronischer Identitätsnachweis\n\nSie können Ihren gesperrten elektronischen Identitätsnachweis\n(Online-Ausweisfunktion) wieder entsperren lassen.\n\nOnline-Service nutzen\n\nJetzt einen Termin buchen\n\nBeschreibung der Leistung\n\nWenn der elektronische Identitätsnachweis (Online-Ausweisfunktion) bei\nIhrem Personalausweis gesperrt wurde, können Sie die Sperrung nur im\nHamburg Service - Fachbereich Einwohnerdaten wieder aufheben lassen.\n\nInformationen\n\nWichtige Hinweise\n\nVoraussetzungen\n\n-   Deutsche(r) im Sinne des Art. 116 Abs. 1 Grundgesetz (GG)\n-   Online-Ausweisfunktion wurde gesperrt\n-   Personalausweis wurde wiederaufgefunden\n\nBenötigte Unterlagen\n\n-   Personalausweis\n\nZu Beachten\n\n-   Seit 2017 wird der Personalausweis nur noch mit eingeschalteter eID\n    ausgeliefert.\n-   Die Sperr-Hotline 116 116 ist immer erreichbar. Sie ist gebührenfrei\n    aus dem deutschen Festnetz.\n    Aus dem Mobilfunknetz und aus dem Ausland können Gebühren anfallen"
+    ],
+    "reference":"Ja, Sie können Ihre gesperrte elektronische Identitätsnachweis-Funktion (Online-Ausweisfunktion) wieder entsperren lassen, wenn Sie Deutscher im Sinne des Art. 116 Abs. 1 GG sind und Ihren Personalausweis wiedergefunden haben.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Als neuer Stadtteilbewohner, der kürzlich in den Stadtteil gezogen ist, möchte ich wissen, welche Voraussetzungen für die Entsperrung meines elektronischen Identitätsnachweises erfüllt sein müssen, insbesondere im Hinblick auf den Art. 116 Abs. 1 Grundgesetz (GG)?",
+    "reference_contexts":[
+      "Mitte Einwohnerangelegenheiten Entsperrung elektronischer Identitätsnachweis\n\nSie können Ihren gesperrten elektronischen Identitätsnachweis\n(Online-Ausweisfunktion) wieder entsperren lassen.\n\nOnline-Service nutzen\n\nJetzt einen Termin buchen\n\nBeschreibung der Leistung\n\nWenn der elektronische Identitätsnachweis (Online-Ausweisfunktion) bei\nIhrem Personalausweis gesperrt wurde, können Sie die Sperrung nur im\nHamburg Service - Fachbereich Einwohnerdaten wieder aufheben lassen.\n\nInformationen\n\nWichtige Hinweise\n\nVoraussetzungen\n\n-   Deutsche(r) im Sinne des Art. 116 Abs. 1 Grundgesetz (GG)\n-   Online-Ausweisfunktion wurde gesperrt\n-   Personalausweis wurde wiederaufgefunden\n\nBenötigte Unterlagen\n\n-   Personalausweis\n\nZu Beachten\n\n-   Seit 2017 wird der Personalausweis nur noch mit eingeschalteter eID\n    ausgeliefert.\n-   Die Sperr-Hotline 116 116 ist immer erreichbar. Sie ist gebührenfrei\n    aus dem deutschen Festnetz.\n    Aus dem Mobilfunknetz und aus dem Ausland können Gebühren anfallen"
+    ],
+    "reference":"Um Ihren gesperrten elektronischen Identitätsnachweis wieder zu entsperren, müssen Sie Deutsche(r) im Sinne des Art. 116 Abs. 1 Grundgesetz (GG) sein und der Personalausweis mit der Online-Ausweisfunktion muss wiedergefunden worden sein.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Okay, also ich bin neu hier und muss meine Ummeldung machen, aber ich hab gehört was is das mit diesem eID Ding? Wie funktioniert das alles genau und was brauch ich dafür?",
+    "reference_contexts":[
+      "Mitte Einwohnerangelegenheiten Entsperrung elektronischer Identitätsnachweis\n\nSie können Ihren gesperrten elektronischen Identitätsnachweis\n(Online-Ausweisfunktion) wieder entsperren lassen.\n\nOnline-Service nutzen\n\nJetzt einen Termin buchen\n\nBeschreibung der Leistung\n\nWenn der elektronische Identitätsnachweis (Online-Ausweisfunktion) bei\nIhrem Personalausweis gesperrt wurde, können Sie die Sperrung nur im\nHamburg Service - Fachbereich Einwohnerdaten wieder aufheben lassen.\n\nInformationen\n\nWichtige Hinweise\n\nVoraussetzungen\n\n-   Deutsche(r) im Sinne des Art. 116 Abs. 1 Grundgesetz (GG)\n-   Online-Ausweisfunktion wurde gesperrt\n-   Personalausweis wurde wiederaufgefunden\n\nBenötigte Unterlagen\n\n-   Personalausweis\n\nZu Beachten\n\n-   Seit 2017 wird der Personalausweis nur noch mit eingeschalteter eID\n    ausgeliefert.\n-   Die Sperr-Hotline 116 116 ist immer erreichbar. Sie ist gebührenfrei\n    aus dem deutschen Festnetz.\n    Aus dem Mobilfunknetz und aus dem Ausland können Gebühren anfallen"
+    ],
+    "reference":"Mitte Einwohnerangelegenheiten Entsperrung elektronischer Identitätsnachweis\n\nSie können Ihren gesperrten elektronischen Identitätsnachweis\n(Online-Ausweisfunktion) wieder entsperren lassen.\n\nOnline-Service nutzen\n\nJetzt einen Termin buchen\n\nBeschreibung der Leistung\n\nWenn der elektronische Identitätsnachweis (Online-Ausweisfunktion) bei\nIhrem Personalausweis gesperrt wurde, können Sie die Sperrung nur im\nHamburg Service - Fachbereich Einwohnerdaten wieder aufheben lassen.\n\nInformationen\n\nWichtige Hinweise\n\nVoraussetzungen\n\n-   Deutsche(r) im Sinne des Art. 116 Abs. 1 Grundgesetz (GG)\n-   Online-Ausweisfunktion wurde gesperrt\n-   Personalausweis wurde wiederaufgefunden\n\nBenötigte Unterlagen\n\n-   Personalausweis\n\nZu Beachten\n\n-   Seit 2017 wird der Personalausweis nur noch mit eingeschalteter eID\n    ausgeliefert.\n-   Die Sperr-Hotline 116 116 ist immer erreichbar. Sie ist gebührenfrei\n    aus dem deutschen Festnetz.\n    Aus dem Mobilfunknetz und aus dem Ausland können Gebühren anfallen",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Wie kann ich meine gesperrte Online-Ausweisfunktion wieder entsperren lassen?",
+    "reference_contexts":[
+      "Mitte Einwohnerangelegenheiten Entsperrung elektronischer Identitätsnachweis\n\nSie können Ihren gesperrten elektronischen Identitätsnachweis\n(Online-Ausweisfunktion) wieder entsperren lassen.\n\nOnline-Service nutzen\n\nJetzt einen Termin buchen\n\nBeschreibung der Leistung\n\nWenn der elektronische Identitätsnachweis (Online-Ausweisfunktion) bei\nIhrem Personalausweis gesperrt wurde, können Sie die Sperrung nur im\nHamburg Service - Fachbereich Einwohnerdaten wieder aufheben lassen.\n\nInformationen\n\nWichtige Hinweise\n\nVoraussetzungen\n\n-   Deutsche(r) im Sinne des Art. 116 Abs. 1 Grundgesetz (GG)\n-   Online-Ausweisfunktion wurde gesperrt\n-   Personalausweis wurde wiederaufgefunden\n\nBenötigte Unterlagen\n\n-   Personalausweis\n\nZu Beachten\n\n-   Seit 2017 wird der Personalausweis nur noch mit eingeschalteter eID\n    ausgeliefert.\n-   Die Sperr-Hotline 116 116 ist immer erreichbar. Sie ist gebührenfrei\n    aus dem deutschen Festnetz.\n    Aus dem Mobilfunknetz und aus dem Ausland können Gebühren anfallen"
+    ],
+    "reference":"Sie können Ihre gesperrte elektronische Identitätsnachweis (Online-Ausweisfunktion) wieder entsperren lassen, indem Sie den Hamburg Service - Fachbereich Einwohnerdaten nutzen.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Was muss ich machen, um meinen gesperrten eID wieder zu entsperren?",
+    "reference_contexts":[
+      "Mitte Einwohnerangelegenheiten Entsperrung elektronischer Identitätsnachweis\n\nSie können Ihren gesperrten elektronischen Identitätsnachweis\n(Online-Ausweisfunktion) wieder entsperren lassen.\n\nOnline-Service nutzen\n\nJetzt einen Termin buchen\n\nBeschreibung der Leistung\n\nWenn der elektronische Identitätsnachweis (Online-Ausweisfunktion) bei\nIhrem Personalausweis gesperrt wurde, können Sie die Sperrung nur im\nHamburg Service - Fachbereich Einwohnerdaten wieder aufheben lassen.\n\nInformationen\n\nWichtige Hinweise\n\nVoraussetzungen\n\n-   Deutsche(r) im Sinne des Art. 116 Abs. 1 Grundgesetz (GG)\n-   Online-Ausweisfunktion wurde gesperrt\n-   Personalausweis wurde wiederaufgefunden\n\nBenötigte Unterlagen\n\n-   Personalausweis\n\nZu Beachten\n\n-   Seit 2017 wird der Personalausweis nur noch mit eingeschalteter eID\n    ausgeliefert.\n-   Die Sperr-Hotline 116 116 ist immer erreichbar. Sie ist gebührenfrei\n    aus dem deutschen Festnetz.\n    Aus dem Mobilfunknetz und aus dem Ausland können Gebühren anfallen"
+    ],
+    "reference":"Um Ihren gesperrten elektronischen Identitätsnachweis (Online-Ausweisfunktion) wieder zu entsperren, müssen Sie den Online-Service des Hamburg Service - Fachbereich Einwohnerdaten nutzen und einen Termin buchen. Es gibt wichtige Hinweise und Voraussetzungen, die Sie beachten sollten.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Wie kann ich meinen gesperrten elektronischen Identitätsnachweis (eID) wieder entsperren lassen?",
+    "reference_contexts":[
+      "Mitte Einwohnerangelegenheiten Entsperrung elektronischer Identitätsnachweis\n\nSie können Ihren gesperrten elektronischen Identitätsnachweis\n(Online-Ausweisfunktion) wieder entsperren lassen.\n\nOnline-Service nutzen\n\nJetzt einen Termin buchen\n\nBeschreibung der Leistung\n\nWenn der elektronische Identitätsnachweis (Online-Ausweisfunktion) bei\nIhrem Personalausweis gesperrt wurde, können Sie die Sperrung nur im\nHamburg Service - Fachbereich Einwohnerdaten wieder aufheben lassen.\n\nInformationen\n\nWichtige Hinweise\n\nVoraussetzungen\n\n-   Deutsche(r) im Sinne des Art. 116 Abs. 1 Grundgesetz (GG)\n-   Online-Ausweisfunktion wurde gesperrt\n-   Personalausweis wurde wiederaufgefunden\n\nBenötigte Unterlagen\n\n-   Personalausweis\n\nZu Beachten\n\n-   Seit 2017 wird der Personalausweis nur noch mit eingeschalteter eID\n    ausgeliefert.\n-   Die Sperr-Hotline 116 116 ist immer erreichbar. Sie ist gebührenfrei\n    aus dem deutschen Festnetz.\n    Aus dem Mobilfunknetz und aus dem Ausland können Gebühren anfallen"
+    ],
+    "reference":"Sie können Ihren gesperrten elektronischen Identitätsnachweis (Online-Ausweisfunktion) wieder entsperren lassen, indem Sie den Online-Service des Hamburg Service - Fachbereich Einwohnerdaten nutzen und einen Termin buchen.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Wie kann ich meinen gesperrten elektronischen Identitätsnachweis wieder entsperren lassen?",
+    "reference_contexts":[
+      "Mitte Einwohnerangelegenheiten Entsperrung elektronischer Identitätsnachweis\n\nSie können Ihren gesperrten elektronischen Identitätsnachweis\n(Online-Ausweisfunktion) wieder entsperren lassen.\n\nOnline-Service nutzen\n\nJetzt einen Termin buchen\n\nBeschreibung der Leistung\n\nWenn der elektronische Identitätsnachweis (Online-Ausweisfunktion) bei\nIhrem Personalausweis gesperrt wurde, können Sie die Sperrung nur im\nHamburg Service - Fachbereich Einwohnerdaten wieder aufheben lassen.\n\nInformationen\n\nWichtige Hinweise\n\nVoraussetzungen\n\n-   Deutsche(r) im Sinne des Art. 116 Abs. 1 Grundgesetz (GG)\n-   Online-Ausweisfunktion wurde gesperrt\n-   Personalausweis wurde wiederaufgefunden\n\nBenötigte Unterlagen\n\n-   Personalausweis\n\nZu Beachten\n\n-   Seit 2017 wird der Personalausweis nur noch mit eingeschalteter eID\n    ausgeliefert.\n-   Die Sperr-Hotline 116 116 ist immer erreichbar. Sie ist gebührenfrei\n    aus dem deutschen Festnetz.\n    Aus dem Mobilfunknetz und aus dem Ausland können Gebühren anfallen"
+    ],
+    "reference":"Sie können Ihren gesperrten elektronischen Identitätsnachweis (Online-Ausweisfunktion) wieder entsperren lassen, indem Sie den Online-Service des Hamburg Service - Fachbereich Einwohnerdaten nutzen.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  }
+]

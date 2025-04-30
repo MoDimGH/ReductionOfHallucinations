@@ -1,0 +1,434 @@
+[
+  {
+    "user_input":"Könnten Sie bitte ausführlich beschreiben, wie ich als Arbeitnehmer die eID-Funktion meines Personalausweises nutzen kann, um mich sicher im Internet anzumelden?",
+    "reference_contexts":[
+      "Wilhelmsburg Einwohnerangelegenheiten Personalausweis, elektronischer Identitätsnachweis\n\nOnline-Service nutzen\n\nJetzt einen Termin buchen\n\nBeschreibung der Leistung\n\nDer neue Personalausweis ist weiterhin der Nachweis über die Identität.\n\nFolgende Daten werden auf dem Chip im Ausweis gespeichert:\n\n-   Lichtbild\n-   Vor- und Zuname, ggf. Ordens- und Künstlername\n-   Geburtsdatum\n-   Anschrift\n-   Staatsangehörigkeit\n-   letzter Tag der Gültigkeit\n-   ausstellende Behörde\n-   Seriennummer\n-   Zugangsnummer\n-   Fingerabdrücke\n\nDie maschinenlesbare Zone enthält keine zusätzlichen Angaben zur Person.\n\nAb einem Alter von 16 Jahren ist diese Funktion automatisch\neingeschaltet. Bei Personen unter 16 Jahren ist sie automatisch\nabgeschaltet. Eine spätere Aktivierung ist ab 16 Jahren persönlich durch\nden Inhaber möglich.\n\nDer Personalausweis kann mit eingeschaltetem, elektronischen\nIdentitätsnachweis (eID-Funktion) zur sicheren Anmeldung im Internet\ngenutzt werden. Es werden nur die Daten übermi"
+    ],
+    "reference":"Der Personalausweis kann mit eingeschalteter, elektronischer Identitätsnachweis (eID-Funktion) zur sicheren Anmeldung im Internet genutzt werden. Es werden nur die Daten übertragen, die für den jeweiligen Dienst notwendig sind.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Was sind die Funktionen des neuen Personalausweises und welche Informationen werden auf seinem Chip gespeichert?",
+    "reference_contexts":[
+      "Wilhelmsburg Einwohnerangelegenheiten Personalausweis, elektronischer Identitätsnachweis\n\nOnline-Service nutzen\n\nJetzt einen Termin buchen\n\nBeschreibung der Leistung\n\nDer neue Personalausweis ist weiterhin der Nachweis über die Identität.\n\nFolgende Daten werden auf dem Chip im Ausweis gespeichert:\n\n-   Lichtbild\n-   Vor- und Zuname, ggf. Ordens- und Künstlername\n-   Geburtsdatum\n-   Anschrift\n-   Staatsangehörigkeit\n-   letzter Tag der Gültigkeit\n-   ausstellende Behörde\n-   Seriennummer\n-   Zugangsnummer\n-   Fingerabdrücke\n\nDie maschinenlesbare Zone enthält keine zusätzlichen Angaben zur Person.\n\nAb einem Alter von 16 Jahren ist diese Funktion automatisch\neingeschaltet. Bei Personen unter 16 Jahren ist sie automatisch\nabgeschaltet. Eine spätere Aktivierung ist ab 16 Jahren persönlich durch\nden Inhaber möglich.\n\nDer Personalausweis kann mit eingeschaltetem, elektronischen\nIdentitätsnachweis (eID-Funktion) zur sicheren Anmeldung im Internet\ngenutzt werden. Es werden nur die Daten übermi"
+    ],
+    "reference":"Der neue Personalausweis ist weiterhin der Nachweis über die Identität. Auf dem Chip im Ausweis werden folgende Daten gespeichert: Lichtbild, Vor- und Zuname, Geburtsdatum, Anschrift, Staatsangehörigkeit, letzter Tag der Gültigkeit, ausstellende Behörde, Seriennummer, Zugangsnummer und Fingerabdrücke.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Kannst du mir bitte detailliert erklären, wie ich als Arbeitnehmer meine eID-Funktion auf meinem Personalausweis aktivieren kann, damit ich sie für meine Online-Geschäfte nutzen kann? Ich bin sehr interessiert daran, diesen Prozess schnell und korrekt durchzuführen.",
+    "reference_contexts":[
+      "Wilhelmsburg Einwohnerangelegenheiten Personalausweis, elektronischer Identitätsnachweis\n\nOnline-Service nutzen\n\nJetzt einen Termin buchen\n\nBeschreibung der Leistung\n\nDer neue Personalausweis ist weiterhin der Nachweis über die Identität.\n\nFolgende Daten werden auf dem Chip im Ausweis gespeichert:\n\n-   Lichtbild\n-   Vor- und Zuname, ggf. Ordens- und Künstlername\n-   Geburtsdatum\n-   Anschrift\n-   Staatsangehörigkeit\n-   letzter Tag der Gültigkeit\n-   ausstellende Behörde\n-   Seriennummer\n-   Zugangsnummer\n-   Fingerabdrücke\n\nDie maschinenlesbare Zone enthält keine zusätzlichen Angaben zur Person.\n\nAb einem Alter von 16 Jahren ist diese Funktion automatisch\neingeschaltet. Bei Personen unter 16 Jahren ist sie automatisch\nabgeschaltet. Eine spätere Aktivierung ist ab 16 Jahren persönlich durch\nden Inhaber möglich.\n\nDer Personalausweis kann mit eingeschaltetem, elektronischen\nIdentitätsnachweis (eID-Funktion) zur sicheren Anmeldung im Internet\ngenutzt werden. Es werden nur die Daten übermi"
+    ],
+    "reference":"Die eID-Funktion ist standardmäßig bei Personen unter 16 Jahren deaktiviert. Um diese Funktion zu aktivieren, musst du persönlich als Inhaber des Personalausweises ab einem Alter von 16 Jahren zur zuständigen Ausweisbehörde gehen und die Aktivierung beantragen.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Wilhelmsburg wo buchen Termin?",
+    "reference_contexts":[
+      "Wilhelmsburg Einwohnerangelegenheiten Personalausweis, elektronischer Identitätsnachweis\n\nOnline-Service nutzen\n\nJetzt einen Termin buchen\n\nBeschreibung der Leistung\n\nDer neue Personalausweis ist weiterhin der Nachweis über die Identität.\n\nFolgende Daten werden auf dem Chip im Ausweis gespeichert:\n\n-   Lichtbild\n-   Vor- und Zuname, ggf. Ordens- und Künstlername\n-   Geburtsdatum\n-   Anschrift\n-   Staatsangehörigkeit\n-   letzter Tag der Gültigkeit\n-   ausstellende Behörde\n-   Seriennummer\n-   Zugangsnummer\n-   Fingerabdrücke\n\nDie maschinenlesbare Zone enthält keine zusätzlichen Angaben zur Person.\n\nAb einem Alter von 16 Jahren ist diese Funktion automatisch\neingeschaltet. Bei Personen unter 16 Jahren ist sie automatisch\nabgeschaltet. Eine spätere Aktivierung ist ab 16 Jahren persönlich durch\nden Inhaber möglich.\n\nDer Personalausweis kann mit eingeschaltetem, elektronischen\nIdentitätsnachweis (eID-Funktion) zur sicheren Anmeldung im Internet\ngenutzt werden. Es werden nur die Daten übermi"
+    ],
+    "reference":"Online-Service nutzenJetzt einen Termin buchen",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Kannst du mir detailliert erklären wie die eID-Funktion auf meinem Personalausweis funktioniert und welche Informationen darauf gespeichert sind?",
+    "reference_contexts":[
+      "Wilhelmsburg Einwohnerangelegenheiten Personalausweis, elektronischer Identitätsnachweis\n\nOnline-Service nutzen\n\nJetzt einen Termin buchen\n\nBeschreibung der Leistung\n\nDer neue Personalausweis ist weiterhin der Nachweis über die Identität.\n\nFolgende Daten werden auf dem Chip im Ausweis gespeichert:\n\n-   Lichtbild\n-   Vor- und Zuname, ggf. Ordens- und Künstlername\n-   Geburtsdatum\n-   Anschrift\n-   Staatsangehörigkeit\n-   letzter Tag der Gültigkeit\n-   ausstellende Behörde\n-   Seriennummer\n-   Zugangsnummer\n-   Fingerabdrücke\n\nDie maschinenlesbare Zone enthält keine zusätzlichen Angaben zur Person.\n\nAb einem Alter von 16 Jahren ist diese Funktion automatisch\neingeschaltet. Bei Personen unter 16 Jahren ist sie automatisch\nabgeschaltet. Eine spätere Aktivierung ist ab 16 Jahren persönlich durch\nden Inhaber möglich.\n\nDer Personalausweis kann mit eingeschaltetem, elektronischen\nIdentitätsnachweis (eID-Funktion) zur sicheren Anmeldung im Internet\ngenutzt werden. Es werden nur die Daten übermi"
+    ],
+    "reference":"Die eID-Funktion ist eine sichere Anmeldeoption für das Internet, die auf dem neuen Personalausweis aktiviert werden kann. Ab einem Alter von 16 Jahren ist diese Funktion automatisch eingeschaltet. Sie ermöglicht es, dass nur die Daten übermittelt werden, die für den jeweiligen Dienst notwendig sind.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Kann ich den neuen Personalausweis in Wilhelmsburg beantragen?",
+    "reference_contexts":[
+      "Wilhelmsburg Einwohnerangelegenheiten Personalausweis, elektronischer Identitätsnachweis\n\nOnline-Service nutzen\n\nJetzt einen Termin buchen\n\nBeschreibung der Leistung\n\nDer neue Personalausweis ist weiterhin der Nachweis über die Identität.\n\nFolgende Daten werden auf dem Chip im Ausweis gespeichert:\n\n-   Lichtbild\n-   Vor- und Zuname, ggf. Ordens- und Künstlername\n-   Geburtsdatum\n-   Anschrift\n-   Staatsangehörigkeit\n-   letzter Tag der Gültigkeit\n-   ausstellende Behörde\n-   Seriennummer\n-   Zugangsnummer\n-   Fingerabdrücke\n\nDie maschinenlesbare Zone enthält keine zusätzlichen Angaben zur Person.\n\nAb einem Alter von 16 Jahren ist diese Funktion automatisch\neingeschaltet. Bei Personen unter 16 Jahren ist sie automatisch\nabgeschaltet. Eine spätere Aktivierung ist ab 16 Jahren persönlich durch\nden Inhaber möglich.\n\nDer Personalausweis kann mit eingeschaltetem, elektronischen\nIdentitätsnachweis (eID-Funktion) zur sicheren Anmeldung im Internet\ngenutzt werden. Es werden nur die Daten übermi"
+    ],
+    "reference":"Ja, der neue Personalausweis kann in Wilhelmsburg beantragt werden.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Kann ich den Personalausweis für eine sichere Anmeldung im Internet nutzen?",
+    "reference_contexts":[
+      "Wilhelmsburg Einwohnerangelegenheiten Personalausweis, elektronischer Identitätsnachweis\n\nOnline-Service nutzen\n\nJetzt einen Termin buchen\n\nBeschreibung der Leistung\n\nDer neue Personalausweis ist weiterhin der Nachweis über die Identität.\n\nFolgende Daten werden auf dem Chip im Ausweis gespeichert:\n\n-   Lichtbild\n-   Vor- und Zuname, ggf. Ordens- und Künstlername\n-   Geburtsdatum\n-   Anschrift\n-   Staatsangehörigkeit\n-   letzter Tag der Gültigkeit\n-   ausstellende Behörde\n-   Seriennummer\n-   Zugangsnummer\n-   Fingerabdrücke\n\nDie maschinenlesbare Zone enthält keine zusätzlichen Angaben zur Person.\n\nAb einem Alter von 16 Jahren ist diese Funktion automatisch\neingeschaltet. Bei Personen unter 16 Jahren ist sie automatisch\nabgeschaltet. Eine spätere Aktivierung ist ab 16 Jahren persönlich durch\nden Inhaber möglich.\n\nDer Personalausweis kann mit eingeschaltetem, elektronischen\nIdentitätsnachweis (eID-Funktion) zur sicheren Anmeldung im Internet\ngenutzt werden. Es werden nur die Daten übermi"
+    ],
+    "reference":"Ja, der Personalausweis kann mit eingeschalteter eID-Funktion zur sicheren Anmeldung im Internet genutzt werden.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Kannst du mir detailliert erklären, wie ich als Einwohner von Wilhelmsburg einen neuen Personalausweis mit eID-Funktion beantragen kann?",
+    "reference_contexts":[
+      "Wilhelmsburg Einwohnerangelegenheiten Personalausweis, elektronischer Identitätsnachweis\n\nOnline-Service nutzen\n\nJetzt einen Termin buchen\n\nBeschreibung der Leistung\n\nDer neue Personalausweis ist weiterhin der Nachweis über die Identität.\n\nFolgende Daten werden auf dem Chip im Ausweis gespeichert:\n\n-   Lichtbild\n-   Vor- und Zuname, ggf. Ordens- und Künstlername\n-   Geburtsdatum\n-   Anschrift\n-   Staatsangehörigkeit\n-   letzter Tag der Gültigkeit\n-   ausstellende Behörde\n-   Seriennummer\n-   Zugangsnummer\n-   Fingerabdrücke\n\nDie maschinenlesbare Zone enthält keine zusätzlichen Angaben zur Person.\n\nAb einem Alter von 16 Jahren ist diese Funktion automatisch\neingeschaltet. Bei Personen unter 16 Jahren ist sie automatisch\nabgeschaltet. Eine spätere Aktivierung ist ab 16 Jahren persönlich durch\nden Inhaber möglich.\n\nDer Personalausweis kann mit eingeschaltetem, elektronischen\nIdentitätsnachweis (eID-Funktion) zur sicheren Anmeldung im Internet\ngenutzt werden. Es werden nur die Daten übermi"
+    ],
+    "reference":"Als Einwohner von Wilhelmsburg können Sie den neuen Personalausweis mit eingeschalteter eID-Funktion beantragen. Ab einem Alter von 16 Jahren ist die eID-Funktion automatisch eingeschaltet, bei Personen unter 16 Jahren automatisch abgeschaltet und kann später ab 16 Jahren persönlich durch den Inhaber aktiviert werden.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Wat is de functie van 'eID-Funtkion'?",
+    "reference_contexts":[
+      "Wilhelmsburg Einwohnerangelegenheiten Personalausweis, elektronischer Identitätsnachweis\n\nOnline-Service nutzen\n\nJetzt einen Termin buchen\n\nBeschreibung der Leistung\n\nDer neue Personalausweis ist weiterhin der Nachweis über die Identität.\n\nFolgende Daten werden auf dem Chip im Ausweis gespeichert:\n\n-   Lichtbild\n-   Vor- und Zuname, ggf. Ordens- und Künstlername\n-   Geburtsdatum\n-   Anschrift\n-   Staatsangehörigkeit\n-   letzter Tag der Gültigkeit\n-   ausstellende Behörde\n-   Seriennummer\n-   Zugangsnummer\n-   Fingerabdrücke\n\nDie maschinenlesbare Zone enthält keine zusätzlichen Angaben zur Person.\n\nAb einem Alter von 16 Jahren ist diese Funktion automatisch\neingeschaltet. Bei Personen unter 16 Jahren ist sie automatisch\nabgeschaltet. Eine spätere Aktivierung ist ab 16 Jahren persönlich durch\nden Inhaber möglich.\n\nDer Personalausweis kann mit eingeschaltetem, elektronischen\nIdentitätsnachweis (eID-Funktion) zur sicheren Anmeldung im Internet\ngenutzt werden. Es werden nur die Daten übermi"
+    ],
+    "reference":"De eID-functie op je paspoort maakt het mogelijk om veilig te log in naar internetdiensten. Alleen je persoonlijke gegevens worden gebruikt.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Wann muss ich mich in Deutschland abmelden?",
+    "reference_contexts":[
+      "Mitte Einwohnerangelegenheiten Wohnung abmelden\n\nWenn Sie aus Ihrer Wohnung ausziehen und keine andere Wohnung in\nDeutschland beziehen, müssen Sie sich abmelden.\n\nOnline-Service nutzen\n\nJetzt einen Termin buchen\n\nBeschreibung der Leistung\n\nWenn Sie aus Ihrer Wohnung ausziehen und keine andere Wohnng in\nDeutschland beziehen oder länger als 1 Jahr nicht in Deutschland wohnen,\nmüssen Sie sich abmelden.\n\nWenn Sie keinen festen Wohnsitz mehr haben oder eine Nebenwohnung\nersatzlos aufgeben, müssen Sie sich bei Ihrer Meldebehörde abmelden.\n\nWenn Sie innerhalb Deutschlands umziehen, müssen Sie sich nicht\nabmelden. Es genügt, wenn Sie sich bei der Meldebehörde an Ihrem neuen\nWohnort anmelden.\n\nWenn Sie noch nicht 16 Jahre alt sind, müssen Sie von der Person\nabgemeldet werden, aus deren Wohnung Sie ausziehen.\nAb dem 16. Lebensjahr können Sie sich ohne Zustimmung Ihrer\nSorgeberechtigten abmelden.\n\nSie erhalten eine amtliche Meldebestätigung über Ihre Wohnungsabmeldung.\n\nInformationen\n\nWichtige Hi"
+    ],
+    "reference":"Wenn Sie aus Ihrer Wohnung ausziehen und keine andere Wohnung in Deutschland beziehen oder länger als 1 Jahr nicht in Deutschland wohnen, müssen Sie sich abmelden.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Wo muss ich hingehen um mich in Berlin abzumelden?",
+    "reference_contexts":[
+      "Mitte Einwohnerangelegenheiten Wohnung abmelden\n\nWenn Sie aus Ihrer Wohnung ausziehen und keine andere Wohnung in\nDeutschland beziehen, müssen Sie sich abmelden.\n\nOnline-Service nutzen\n\nJetzt einen Termin buchen\n\nBeschreibung der Leistung\n\nWenn Sie aus Ihrer Wohnung ausziehen und keine andere Wohnng in\nDeutschland beziehen oder länger als 1 Jahr nicht in Deutschland wohnen,\nmüssen Sie sich abmelden.\n\nWenn Sie keinen festen Wohnsitz mehr haben oder eine Nebenwohnung\nersatzlos aufgeben, müssen Sie sich bei Ihrer Meldebehörde abmelden.\n\nWenn Sie innerhalb Deutschlands umziehen, müssen Sie sich nicht\nabmelden. Es genügt, wenn Sie sich bei der Meldebehörde an Ihrem neuen\nWohnort anmelden.\n\nWenn Sie noch nicht 16 Jahre alt sind, müssen Sie von der Person\nabgemeldet werden, aus deren Wohnung Sie ausziehen.\nAb dem 16. Lebensjahr können Sie sich ohne Zustimmung Ihrer\nSorgeberechtigten abmelden.\n\nSie erhalten eine amtliche Meldebestätigung über Ihre Wohnungsabmeldung.\n\nInformationen\n\nWichtige Hi"
+    ],
+    "reference":"Um sich in Berlin abzumelden, müssen Sie zur Meldebehörde gehen.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Wie kann ich mich als Einwohner von Berlin online für meine Wohnung abmelden?",
+    "reference_contexts":[
+      "Mitte Einwohnerangelegenheiten Wohnung abmelden\n\nWenn Sie aus Ihrer Wohnung ausziehen und keine andere Wohnung in\nDeutschland beziehen, müssen Sie sich abmelden.\n\nOnline-Service nutzen\n\nJetzt einen Termin buchen\n\nBeschreibung der Leistung\n\nWenn Sie aus Ihrer Wohnung ausziehen und keine andere Wohnng in\nDeutschland beziehen oder länger als 1 Jahr nicht in Deutschland wohnen,\nmüssen Sie sich abmelden.\n\nWenn Sie keinen festen Wohnsitz mehr haben oder eine Nebenwohnung\nersatzlos aufgeben, müssen Sie sich bei Ihrer Meldebehörde abmelden.\n\nWenn Sie innerhalb Deutschlands umziehen, müssen Sie sich nicht\nabmelden. Es genügt, wenn Sie sich bei der Meldebehörde an Ihrem neuen\nWohnort anmelden.\n\nWenn Sie noch nicht 16 Jahre alt sind, müssen Sie von der Person\nabgemeldet werden, aus deren Wohnung Sie ausziehen.\nAb dem 16. Lebensjahr können Sie sich ohne Zustimmung Ihrer\nSorgeberechtigten abmelden.\n\nSie erhalten eine amtliche Meldebestätigung über Ihre Wohnungsabmeldung.\n\nInformationen\n\nWichtige Hi"
+    ],
+    "reference":"Um sich als Einwohner von Berlin online für Ihre Wohnung abzumelden, müssen Sie den Online-Service nutzen und einen Termin buchen.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Kannst du mir detailliert erklären, wie ich mich in Berlin abmelden kann, wenn ich aus meiner Wohnung ausziehe und keine andere Wohnung in Deutschland beziehe?",
+    "reference_contexts":[
+      "Mitte Einwohnerangelegenheiten Wohnung abmelden\n\nWenn Sie aus Ihrer Wohnung ausziehen und keine andere Wohnung in\nDeutschland beziehen, müssen Sie sich abmelden.\n\nOnline-Service nutzen\n\nJetzt einen Termin buchen\n\nBeschreibung der Leistung\n\nWenn Sie aus Ihrer Wohnung ausziehen und keine andere Wohnng in\nDeutschland beziehen oder länger als 1 Jahr nicht in Deutschland wohnen,\nmüssen Sie sich abmelden.\n\nWenn Sie keinen festen Wohnsitz mehr haben oder eine Nebenwohnung\nersatzlos aufgeben, müssen Sie sich bei Ihrer Meldebehörde abmelden.\n\nWenn Sie innerhalb Deutschlands umziehen, müssen Sie sich nicht\nabmelden. Es genügt, wenn Sie sich bei der Meldebehörde an Ihrem neuen\nWohnort anmelden.\n\nWenn Sie noch nicht 16 Jahre alt sind, müssen Sie von der Person\nabgemeldet werden, aus deren Wohnung Sie ausziehen.\nAb dem 16. Lebensjahr können Sie sich ohne Zustimmung Ihrer\nSorgeberechtigten abmelden.\n\nSie erhalten eine amtliche Meldebestätigung über Ihre Wohnungsabmeldung.\n\nInformationen\n\nWichtige Hi"
+    ],
+    "reference":"Wenn Sie aus Ihrer Wohnung in Berlin ausziehen und keine andere Wohnung in Deutschland beziehen, müssen Sie sich bei der Meldebehörde abmelden. Dies können Sie online tun oder einen Termin buchen.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Als Arbeitnehmer, der aus Deutschland wegzieht und keine neue Wohnung in Deutschland bezieht, muss ich mich abmelden?",
+    "reference_contexts":[
+      "Mitte Einwohnerangelegenheiten Wohnung abmelden\n\nWenn Sie aus Ihrer Wohnung ausziehen und keine andere Wohnung in\nDeutschland beziehen, müssen Sie sich abmelden.\n\nOnline-Service nutzen\n\nJetzt einen Termin buchen\n\nBeschreibung der Leistung\n\nWenn Sie aus Ihrer Wohnung ausziehen und keine andere Wohnng in\nDeutschland beziehen oder länger als 1 Jahr nicht in Deutschland wohnen,\nmüssen Sie sich abmelden.\n\nWenn Sie keinen festen Wohnsitz mehr haben oder eine Nebenwohnung\nersatzlos aufgeben, müssen Sie sich bei Ihrer Meldebehörde abmelden.\n\nWenn Sie innerhalb Deutschlands umziehen, müssen Sie sich nicht\nabmelden. Es genügt, wenn Sie sich bei der Meldebehörde an Ihrem neuen\nWohnort anmelden.\n\nWenn Sie noch nicht 16 Jahre alt sind, müssen Sie von der Person\nabgemeldet werden, aus deren Wohnung Sie ausziehen.\nAb dem 16. Lebensjahr können Sie sich ohne Zustimmung Ihrer\nSorgeberechtigten abmelden.\n\nSie erhalten eine amtliche Meldebestätigung über Ihre Wohnungsabmeldung.\n\nInformationen\n\nWichtige Hi"
+    ],
+    "reference":"Ja, wenn Sie aus Ihrer Wohnung ausziehen und keine andere Wohnung in Deutschland beziehen oder länger als ein Jahr nicht in Deutschland wohnen, müssen Sie sich abmelden.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Kannst du mir detailliert erklären, wie ich mich in Baden-Württemberg von meiner Wohnung abmelden kann?",
+    "reference_contexts":[
+      "Mitte Einwohnerangelegenheiten Wohnung abmelden\n\nWenn Sie aus Ihrer Wohnung ausziehen und keine andere Wohnung in\nDeutschland beziehen, müssen Sie sich abmelden.\n\nOnline-Service nutzen\n\nJetzt einen Termin buchen\n\nBeschreibung der Leistung\n\nWenn Sie aus Ihrer Wohnung ausziehen und keine andere Wohnng in\nDeutschland beziehen oder länger als 1 Jahr nicht in Deutschland wohnen,\nmüssen Sie sich abmelden.\n\nWenn Sie keinen festen Wohnsitz mehr haben oder eine Nebenwohnung\nersatzlos aufgeben, müssen Sie sich bei Ihrer Meldebehörde abmelden.\n\nWenn Sie innerhalb Deutschlands umziehen, müssen Sie sich nicht\nabmelden. Es genügt, wenn Sie sich bei der Meldebehörde an Ihrem neuen\nWohnort anmelden.\n\nWenn Sie noch nicht 16 Jahre alt sind, müssen Sie von der Person\nabgemeldet werden, aus deren Wohnung Sie ausziehen.\nAb dem 16. Lebensjahr können Sie sich ohne Zustimmung Ihrer\nSorgeberechtigten abmelden.\n\nSie erhalten eine amtliche Meldebestätigung über Ihre Wohnungsabmeldung.\n\nInformationen\n\nWichtige Hi"
+    ],
+    "reference":"Wenn Sie aus Ihrer Wohnung in Baden-Württemberg ausziehen und keine andere Wohnung in Deutschland beziehen oder länger als ein Jahr nicht in Deutschland wohnen, müssen Sie sich bei der Meldebehörde abmelden. Dies gilt auch, wenn Sie keinen festen Wohnsitz mehr haben oder eine Nebenwohnung ersatzlos aufgeben. Wenn Sie innerhalb Deutschlands umziehen, ist es ausreichend, sich bei der Meldebehörde an Ihrem neuen Wohnort anzumelden.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Wie melde ich mich in Baden-Württemberg ab?",
+    "reference_contexts":[
+      "Mitte Einwohnerangelegenheiten Wohnung abmelden\n\nWenn Sie aus Ihrer Wohnung ausziehen und keine andere Wohnung in\nDeutschland beziehen, müssen Sie sich abmelden.\n\nOnline-Service nutzen\n\nJetzt einen Termin buchen\n\nBeschreibung der Leistung\n\nWenn Sie aus Ihrer Wohnung ausziehen und keine andere Wohnng in\nDeutschland beziehen oder länger als 1 Jahr nicht in Deutschland wohnen,\nmüssen Sie sich abmelden.\n\nWenn Sie keinen festen Wohnsitz mehr haben oder eine Nebenwohnung\nersatzlos aufgeben, müssen Sie sich bei Ihrer Meldebehörde abmelden.\n\nWenn Sie innerhalb Deutschlands umziehen, müssen Sie sich nicht\nabmelden. Es genügt, wenn Sie sich bei der Meldebehörde an Ihrem neuen\nWohnort anmelden.\n\nWenn Sie noch nicht 16 Jahre alt sind, müssen Sie von der Person\nabgemeldet werden, aus deren Wohnung Sie ausziehen.\nAb dem 16. Lebensjahr können Sie sich ohne Zustimmung Ihrer\nSorgeberechtigten abmelden.\n\nSie erhalten eine amtliche Meldebestätigung über Ihre Wohnungsabmeldung.\n\nInformationen\n\nWichtige Hi"
+    ],
+    "reference":"Um sich in Baden-Württemberg abzumelden, müssen Sie einen Termin bei der Meldebehörde buchen und Ihre Wohnungsabmeldung persönlich durchführen.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Wat is de proces voor 'Baden-Wurttemberg' om een woning te verlaten?",
+    "reference_contexts":[
+      "Mitte Einwohnerangelegenheiten Wohnung abmelden\n\nWenn Sie aus Ihrer Wohnung ausziehen und keine andere Wohnung in\nDeutschland beziehen, müssen Sie sich abmelden.\n\nOnline-Service nutzen\n\nJetzt einen Termin buchen\n\nBeschreibung der Leistung\n\nWenn Sie aus Ihrer Wohnung ausziehen und keine andere Wohnng in\nDeutschland beziehen oder länger als 1 Jahr nicht in Deutschland wohnen,\nmüssen Sie sich abmelden.\n\nWenn Sie keinen festen Wohnsitz mehr haben oder eine Nebenwohnung\nersatzlos aufgeben, müssen Sie sich bei Ihrer Meldebehörde abmelden.\n\nWenn Sie innerhalb Deutschlands umziehen, müssen Sie sich nicht\nabmelden. Es genügt, wenn Sie sich bei der Meldebehörde an Ihrem neuen\nWohnort anmelden.\n\nWenn Sie noch nicht 16 Jahre alt sind, müssen Sie von der Person\nabgemeldet werden, aus deren Wohnung Sie ausziehen.\nAb dem 16. Lebensjahr können Sie sich ohne Zustimmung Ihrer\nSorgeberechtigten abmelden.\n\nSie erhalten eine amtliche Meldebestätigung über Ihre Wohnungsabmeldung.\n\nInformationen\n\nWichtige Hi"
+    ],
+    "reference":"Als u uw woning verlaat en geen andere woning in Duitsland bewoont, moet u zich afmelden.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Wie kann ich mich in Berlin erfolgreich von meiner Wohnung abmelden?",
+    "reference_contexts":[
+      "Mitte Einwohnerangelegenheiten Wohnung abmelden\n\nWenn Sie aus Ihrer Wohnung ausziehen und keine andere Wohnung in\nDeutschland beziehen, müssen Sie sich abmelden.\n\nOnline-Service nutzen\n\nJetzt einen Termin buchen\n\nBeschreibung der Leistung\n\nWenn Sie aus Ihrer Wohnung ausziehen und keine andere Wohnng in\nDeutschland beziehen oder länger als 1 Jahr nicht in Deutschland wohnen,\nmüssen Sie sich abmelden.\n\nWenn Sie keinen festen Wohnsitz mehr haben oder eine Nebenwohnung\nersatzlos aufgeben, müssen Sie sich bei Ihrer Meldebehörde abmelden.\n\nWenn Sie innerhalb Deutschlands umziehen, müssen Sie sich nicht\nabmelden. Es genügt, wenn Sie sich bei der Meldebehörde an Ihrem neuen\nWohnort anmelden.\n\nWenn Sie noch nicht 16 Jahre alt sind, müssen Sie von der Person\nabgemeldet werden, aus deren Wohnung Sie ausziehen.\nAb dem 16. Lebensjahr können Sie sich ohne Zustimmung Ihrer\nSorgeberechtigten abmelden.\n\nSie erhalten eine amtliche Meldebestätigung über Ihre Wohnungsabmeldung.\n\nInformationen\n\nWichtige Hi"
+    ],
+    "reference":"Um sich erfolgreich in Berlin von Ihrer Wohnung abzumelden, müssen Sie den Online-Service nutzen und einen Termin buchen. Wenn Sie ausziehen und keine andere Wohnung in Deutschland beziehen oder länger als 1 Jahr nicht in Deutschland wohnen, ist eine Abmeldung erforderlich.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Wohin muss ich mich ummeldern wenn ich innerhalb Hamburgs umgezogen bin?",
+    "reference_contexts":[
+      "Lurup Einwohnerangelegenheiten Umzug innerhalb Hamburgs melden\n\nWenn Sie innerhalb Hamburgs umziehen, müssen Sie sich ummelden.\n\nOnline-Service nutzen\n\nAn- und Ummeldung\n\nJetzt einen Termin buchen\n\nBeschreibung der Leistung\n\nWenn Sie innerhalb Hamburgs umgezogen sind, müssen Sie sich ummelden.\nSie müssen Ihre neue Anschrift in Ihren amtlichen Dokumenten ändern\nlassen. Dies betrifft gegebenenfalls\n\n-   Ihren Personalausweis,\n-   Ihre eID-Karte oder\n-   Ihren elektronischen Aufenthaltstitel.\n\nDie Daten auf dem Chip Ihres Dokuments werden von der zuständigen Stelle\ngeändert.\n\nSie erhalten eine Meldebestätigung.\n\nWenn Sie sich ummelden, wird Ihre bisherige Wohnung von der zuständigen\nStelle abgemeldet oder als Nebenwohnung beibehalten.\n\nInformationen\n\nWichtige Hinweise\n\nVoraussetzungen\n\nSie sind innerhalb Hamburgs umgezogen.\n\nBenötigte Unterlagen\n\n-   Ihr gültiges Ausweisdokument (Personalausweis, Pass, Passersatz)\n    sowie gegebenenfalls zusätzlich\n    -   Ihre eID-Karte oder\n    -   Ihr"
+    ],
+    "reference":"Wenn Sie innerhalb Hamburgs umgezogen sind, müssen Sie sich in Lurup ummelden.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Wo muss ich mich ummelden wenn ich nach Lurup ziehe?",
+    "reference_contexts":[
+      "Lurup Einwohnerangelegenheiten Umzug innerhalb Hamburgs melden\n\nWenn Sie innerhalb Hamburgs umziehen, müssen Sie sich ummelden.\n\nOnline-Service nutzen\n\nAn- und Ummeldung\n\nJetzt einen Termin buchen\n\nBeschreibung der Leistung\n\nWenn Sie innerhalb Hamburgs umgezogen sind, müssen Sie sich ummelden.\nSie müssen Ihre neue Anschrift in Ihren amtlichen Dokumenten ändern\nlassen. Dies betrifft gegebenenfalls\n\n-   Ihren Personalausweis,\n-   Ihre eID-Karte oder\n-   Ihren elektronischen Aufenthaltstitel.\n\nDie Daten auf dem Chip Ihres Dokuments werden von der zuständigen Stelle\ngeändert.\n\nSie erhalten eine Meldebestätigung.\n\nWenn Sie sich ummelden, wird Ihre bisherige Wohnung von der zuständigen\nStelle abgemeldet oder als Nebenwohnung beibehalten.\n\nInformationen\n\nWichtige Hinweise\n\nVoraussetzungen\n\nSie sind innerhalb Hamburgs umgezogen.\n\nBenötigte Unterlagen\n\n-   Ihr gültiges Ausweisdokument (Personalausweis, Pass, Passersatz)\n    sowie gegebenenfalls zusätzlich\n    -   Ihre eID-Karte oder\n    -   Ihr"
+    ],
+    "reference":"Wenn Sie innerhalb Hamburgs umziehen, müssen Sie sich bei der zuständigen Stelle in Ihrem neuen Wohnort, also Lurup, ummelden.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Als Arbeitnehmer, der innerhalb Hamburgs umgezogen ist und eine aktuelle Meldebescheinigung benötigt, welche Schritte muss ich einleiten, um meine Ummeldung korrekt durchzuführen?",
+    "reference_contexts":[
+      "Lurup Einwohnerangelegenheiten Umzug innerhalb Hamburgs melden\n\nWenn Sie innerhalb Hamburgs umziehen, müssen Sie sich ummelden.\n\nOnline-Service nutzen\n\nAn- und Ummeldung\n\nJetzt einen Termin buchen\n\nBeschreibung der Leistung\n\nWenn Sie innerhalb Hamburgs umgezogen sind, müssen Sie sich ummelden.\nSie müssen Ihre neue Anschrift in Ihren amtlichen Dokumenten ändern\nlassen. Dies betrifft gegebenenfalls\n\n-   Ihren Personalausweis,\n-   Ihre eID-Karte oder\n-   Ihren elektronischen Aufenthaltstitel.\n\nDie Daten auf dem Chip Ihres Dokuments werden von der zuständigen Stelle\ngeändert.\n\nSie erhalten eine Meldebestätigung.\n\nWenn Sie sich ummelden, wird Ihre bisherige Wohnung von der zuständigen\nStelle abgemeldet oder als Nebenwohnung beibehalten.\n\nInformationen\n\nWichtige Hinweise\n\nVoraussetzungen\n\nSie sind innerhalb Hamburgs umgezogen.\n\nBenötigte Unterlagen\n\n-   Ihr gültiges Ausweisdokument (Personalausweis, Pass, Passersatz)\n    sowie gegebenenfalls zusätzlich\n    -   Ihre eID-Karte oder\n    -   Ihr"
+    ],
+    "reference":"Wenn Sie innerhalb Hamburgs umgezogen sind, müssen Sie sich ummelden. Sie müssen Ihre neue Anschrift in Ihren amtlichen Dokumenten ändern lassen. Dies betrifft gegebenenfalls Ihren Personalausweis, Ihre eID-Karte oder Ihren elektronischen Aufenthaltstitel. Die Daten auf dem Chip Ihres Dokuments werden von der zuständigen Stelle geändert. Sie erhalten eine Meldebestätigung.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Wat is de deal met 'Hamburgs' in mijn ommeldering?",
+    "reference_contexts":[
+      "Lurup Einwohnerangelegenheiten Umzug innerhalb Hamburgs melden\n\nWenn Sie innerhalb Hamburgs umziehen, müssen Sie sich ummelden.\n\nOnline-Service nutzen\n\nAn- und Ummeldung\n\nJetzt einen Termin buchen\n\nBeschreibung der Leistung\n\nWenn Sie innerhalb Hamburgs umgezogen sind, müssen Sie sich ummelden.\nSie müssen Ihre neue Anschrift in Ihren amtlichen Dokumenten ändern\nlassen. Dies betrifft gegebenenfalls\n\n-   Ihren Personalausweis,\n-   Ihre eID-Karte oder\n-   Ihren elektronischen Aufenthaltstitel.\n\nDie Daten auf dem Chip Ihres Dokuments werden von der zuständigen Stelle\ngeändert.\n\nSie erhalten eine Meldebestätigung.\n\nWenn Sie sich ummelden, wird Ihre bisherige Wohnung von der zuständigen\nStelle abgemeldet oder als Nebenwohnung beibehalten.\n\nInformationen\n\nWichtige Hinweise\n\nVoraussetzungen\n\nSie sind innerhalb Hamburgs umgezogen.\n\nBenötigte Unterlagen\n\n-   Ihr gültiges Ausweisdokument (Personalausweis, Pass, Passersatz)\n    sowie gegebenenfalls zusätzlich\n    -   Ihre eID-Karte oder\n    -   Ihr"
+    ],
+    "reference":"Als u binnen Hamburgs verhuist, moet u zich ommelden. U moet uw nieuwe adres op uw officiële documenten laten wijzigen, zoals uw paspoort of eID-kaart.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Wie melde ich meinen Umzug innerhalb Hamburgs?",
+    "reference_contexts":[
+      "Lurup Einwohnerangelegenheiten Umzug innerhalb Hamburgs melden\n\nWenn Sie innerhalb Hamburgs umziehen, müssen Sie sich ummelden.\n\nOnline-Service nutzen\n\nAn- und Ummeldung\n\nJetzt einen Termin buchen\n\nBeschreibung der Leistung\n\nWenn Sie innerhalb Hamburgs umgezogen sind, müssen Sie sich ummelden.\nSie müssen Ihre neue Anschrift in Ihren amtlichen Dokumenten ändern\nlassen. Dies betrifft gegebenenfalls\n\n-   Ihren Personalausweis,\n-   Ihre eID-Karte oder\n-   Ihren elektronischen Aufenthaltstitel.\n\nDie Daten auf dem Chip Ihres Dokuments werden von der zuständigen Stelle\ngeändert.\n\nSie erhalten eine Meldebestätigung.\n\nWenn Sie sich ummelden, wird Ihre bisherige Wohnung von der zuständigen\nStelle abgemeldet oder als Nebenwohnung beibehalten.\n\nInformationen\n\nWichtige Hinweise\n\nVoraussetzungen\n\nSie sind innerhalb Hamburgs umgezogen.\n\nBenötigte Unterlagen\n\n-   Ihr gültiges Ausweisdokument (Personalausweis, Pass, Passersatz)\n    sowie gegebenenfalls zusätzlich\n    -   Ihre eID-Karte oder\n    -   Ihr"
+    ],
+    "reference":"Wenn Sie innerhalb Hamburgs umgezogen sind, müssen Sie sich ummelden. Sie müssen Ihre neue Anschrift in Ihren amtlichen Dokumenten ändern lassen.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Kann ich meine Ummeldung online durchführen?",
+    "reference_contexts":[
+      "Lurup Einwohnerangelegenheiten Umzug innerhalb Hamburgs melden\n\nWenn Sie innerhalb Hamburgs umziehen, müssen Sie sich ummelden.\n\nOnline-Service nutzen\n\nAn- und Ummeldung\n\nJetzt einen Termin buchen\n\nBeschreibung der Leistung\n\nWenn Sie innerhalb Hamburgs umgezogen sind, müssen Sie sich ummelden.\nSie müssen Ihre neue Anschrift in Ihren amtlichen Dokumenten ändern\nlassen. Dies betrifft gegebenenfalls\n\n-   Ihren Personalausweis,\n-   Ihre eID-Karte oder\n-   Ihren elektronischen Aufenthaltstitel.\n\nDie Daten auf dem Chip Ihres Dokuments werden von der zuständigen Stelle\ngeändert.\n\nSie erhalten eine Meldebestätigung.\n\nWenn Sie sich ummelden, wird Ihre bisherige Wohnung von der zuständigen\nStelle abgemeldet oder als Nebenwohnung beibehalten.\n\nInformationen\n\nWichtige Hinweise\n\nVoraussetzungen\n\nSie sind innerhalb Hamburgs umgezogen.\n\nBenötigte Unterlagen\n\n-   Ihr gültiges Ausweisdokument (Personalausweis, Pass, Passersatz)\n    sowie gegebenenfalls zusätzlich\n    -   Ihre eID-Karte oder\n    -   Ihr"
+    ],
+    "reference":"Ja, Sie können die An- und Ummeldung online durchführen.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Muss ich mich ummelden, wenn ich innerhalb Hamburgs umgezogen bin?",
+    "reference_contexts":[
+      "Lurup Einwohnerangelegenheiten Umzug innerhalb Hamburgs melden\n\nWenn Sie innerhalb Hamburgs umziehen, müssen Sie sich ummelden.\n\nOnline-Service nutzen\n\nAn- und Ummeldung\n\nJetzt einen Termin buchen\n\nBeschreibung der Leistung\n\nWenn Sie innerhalb Hamburgs umgezogen sind, müssen Sie sich ummelden.\nSie müssen Ihre neue Anschrift in Ihren amtlichen Dokumenten ändern\nlassen. Dies betrifft gegebenenfalls\n\n-   Ihren Personalausweis,\n-   Ihre eID-Karte oder\n-   Ihren elektronischen Aufenthaltstitel.\n\nDie Daten auf dem Chip Ihres Dokuments werden von der zuständigen Stelle\ngeändert.\n\nSie erhalten eine Meldebestätigung.\n\nWenn Sie sich ummelden, wird Ihre bisherige Wohnung von der zuständigen\nStelle abgemeldet oder als Nebenwohnung beibehalten.\n\nInformationen\n\nWichtige Hinweise\n\nVoraussetzungen\n\nSie sind innerhalb Hamburgs umgezogen.\n\nBenötigte Unterlagen\n\n-   Ihr gültiges Ausweisdokument (Personalausweis, Pass, Passersatz)\n    sowie gegebenenfalls zusätzlich\n    -   Ihre eID-Karte oder\n    -   Ihr"
+    ],
+    "reference":"Ja, wenn Sie innerhalb Hamburgs umgezogen sind, müssen Sie sich ummelden.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Wie melde ich meinen Umzug innerhalb Hamburgs?",
+    "reference_contexts":[
+      "Lurup Einwohnerangelegenheiten Umzug innerhalb Hamburgs melden\n\nWenn Sie innerhalb Hamburgs umziehen, müssen Sie sich ummelden.\n\nOnline-Service nutzen\n\nAn- und Ummeldung\n\nJetzt einen Termin buchen\n\nBeschreibung der Leistung\n\nWenn Sie innerhalb Hamburgs umgezogen sind, müssen Sie sich ummelden.\nSie müssen Ihre neue Anschrift in Ihren amtlichen Dokumenten ändern\nlassen. Dies betrifft gegebenenfalls\n\n-   Ihren Personalausweis,\n-   Ihre eID-Karte oder\n-   Ihren elektronischen Aufenthaltstitel.\n\nDie Daten auf dem Chip Ihres Dokuments werden von der zuständigen Stelle\ngeändert.\n\nSie erhalten eine Meldebestätigung.\n\nWenn Sie sich ummelden, wird Ihre bisherige Wohnung von der zuständigen\nStelle abgemeldet oder als Nebenwohnung beibehalten.\n\nInformationen\n\nWichtige Hinweise\n\nVoraussetzungen\n\nSie sind innerhalb Hamburgs umgezogen.\n\nBenötigte Unterlagen\n\n-   Ihr gültiges Ausweisdokument (Personalausweis, Pass, Passersatz)\n    sowie gegebenenfalls zusätzlich\n    -   Ihre eID-Karte oder\n    -   Ihr"
+    ],
+    "reference":"Wenn Sie innerhalb Hamburgs umgezogen sind, müssen Sie sich ummelden. Sie können dies online tun und dabei Ihren neuen Wohnort angeben.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Was sind die Voraussetzungen für eine Ummeldung innerhalb Hamburgs?",
+    "reference_contexts":[
+      "Lurup Einwohnerangelegenheiten Umzug innerhalb Hamburgs melden\n\nWenn Sie innerhalb Hamburgs umziehen, müssen Sie sich ummelden.\n\nOnline-Service nutzen\n\nAn- und Ummeldung\n\nJetzt einen Termin buchen\n\nBeschreibung der Leistung\n\nWenn Sie innerhalb Hamburgs umgezogen sind, müssen Sie sich ummelden.\nSie müssen Ihre neue Anschrift in Ihren amtlichen Dokumenten ändern\nlassen. Dies betrifft gegebenenfalls\n\n-   Ihren Personalausweis,\n-   Ihre eID-Karte oder\n-   Ihren elektronischen Aufenthaltstitel.\n\nDie Daten auf dem Chip Ihres Dokuments werden von der zuständigen Stelle\ngeändert.\n\nSie erhalten eine Meldebestätigung.\n\nWenn Sie sich ummelden, wird Ihre bisherige Wohnung von der zuständigen\nStelle abgemeldet oder als Nebenwohnung beibehalten.\n\nInformationen\n\nWichtige Hinweise\n\nVoraussetzungen\n\nSie sind innerhalb Hamburgs umgezogen.\n\nBenötigte Unterlagen\n\n-   Ihr gültiges Ausweisdokument (Personalausweis, Pass, Passersatz)\n    sowie gegebenenfalls zusätzlich\n    -   Ihre eID-Karte oder\n    -   Ihr"
+    ],
+    "reference":"Die Voraussetzung für eine Ummeldung innerhalb Hamburgs ist, dass Sie tatsächlich innerhalb der Stadt umgezogen sind.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Wie kann ich einen Bewohner- und Besucherparkausweis online beantragen?",
+    "reference_contexts":[
+      "Landesbetrieb Verkehr (LBV)\n\nOnline-Dienste\n\nAlle Online-Dienste des LBV auf einen Blick: Fahrzeug-Zulassung,\nBewohner- und Besucherparkausweise, Sonderparkausweise \/\nAusnahmegenehmigungen rund um den Verkehr, Wunschkennzeichen und weitere\nDienstleistungen\n\nOnline-Dienstleistungen\n\n-   Bewohner- und Besucherparkausweise\n-   Fragen und Antworten zum Online-Dienst Fahrzeug-Zulassung\n-   Fahrzeug-Zulassung\n-   Fahrzeug-Abmeldung\n-   Fahrzeug-Adressänderung\n-   Wunschkennzeichen-Reservierung\n-   Sonderparkausweise \/ Ausnahmegenehmigungen rund um den Verkehr\n-   Führerschein Theoriefristverlängerung\n\nBesuch im LBV\n\nTerminbuchung\n"
+    ],
+    "reference":"Der Landesbetrieb Verkehr (LBV) bietet den Online-Dienst 'Bewohner- und Besucherparkausweise' an, über den Sie diesen Ausweis beantragen können.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Watt is de prozess fir 'Bewohnar un Besuchsparkausweise'?",
+    "reference_contexts":[
+      "Landesbetrieb Verkehr (LBV)\n\nOnline-Dienste\n\nAlle Online-Dienste des LBV auf einen Blick: Fahrzeug-Zulassung,\nBewohner- und Besucherparkausweise, Sonderparkausweise \/\nAusnahmegenehmigungen rund um den Verkehr, Wunschkennzeichen und weitere\nDienstleistungen\n\nOnline-Dienstleistungen\n\n-   Bewohner- und Besucherparkausweise\n-   Fragen und Antworten zum Online-Dienst Fahrzeug-Zulassung\n-   Fahrzeug-Zulassung\n-   Fahrzeug-Abmeldung\n-   Fahrzeug-Adressänderung\n-   Wunschkennzeichen-Reservierung\n-   Sonderparkausweise \/ Ausnahmegenehmigungen rund um den Verkehr\n-   Führerschein Theoriefristverlängerung\n\nBesuch im LBV\n\nTerminbuchung\n"
+    ],
+    "reference":"'Bewohnar un Besucherparkausweise' sin een Online-Dienst vun de Landesbetrieb Verkehr (LBV), waameer de Arbeitnehmere fir de Arbestgebere oder de Finanzamt benotzen kënne.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Kann ich mein Wunschkennzeichen online reservieren?",
+    "reference_contexts":[
+      "Landesbetrieb Verkehr (LBV)\n\nOnline-Dienste\n\nAlle Online-Dienste des LBV auf einen Blick: Fahrzeug-Zulassung,\nBewohner- und Besucherparkausweise, Sonderparkausweise \/\nAusnahmegenehmigungen rund um den Verkehr, Wunschkennzeichen und weitere\nDienstleistungen\n\nOnline-Dienstleistungen\n\n-   Bewohner- und Besucherparkausweise\n-   Fragen und Antworten zum Online-Dienst Fahrzeug-Zulassung\n-   Fahrzeug-Zulassung\n-   Fahrzeug-Abmeldung\n-   Fahrzeug-Adressänderung\n-   Wunschkennzeichen-Reservierung\n-   Sonderparkausweise \/ Ausnahmegenehmigungen rund um den Verkehr\n-   Führerschein Theoriefristverlängerung\n\nBesuch im LBV\n\nTerminbuchung\n"
+    ],
+    "reference":"Ja, du kannst dein Wunschkennzeichen über den Online-Dienst 'Wunschkennzeichen-Reservierung' des Landesbetrieb Verkehr (LBV) reservieren.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Kannst du mir bitte die Schritte erklären, wie ich eine Bescheinigung für mein Fahrzeug-Zulassung online beantragen kann?",
+    "reference_contexts":[
+      "Landesbetrieb Verkehr (LBV)\n\nOnline-Dienste\n\nAlle Online-Dienste des LBV auf einen Blick: Fahrzeug-Zulassung,\nBewohner- und Besucherparkausweise, Sonderparkausweise \/\nAusnahmegenehmigungen rund um den Verkehr, Wunschkennzeichen und weitere\nDienstleistungen\n\nOnline-Dienstleistungen\n\n-   Bewohner- und Besucherparkausweise\n-   Fragen und Antworten zum Online-Dienst Fahrzeug-Zulassung\n-   Fahrzeug-Zulassung\n-   Fahrzeug-Abmeldung\n-   Fahrzeug-Adressänderung\n-   Wunschkennzeichen-Reservierung\n-   Sonderparkausweise \/ Ausnahmegenehmigungen rund um den Verkehr\n-   Führerschein Theoriefristverlängerung\n\nBesuch im LBV\n\nTerminbuchung\n"
+    ],
+    "reference":"Der Landesbetrieb Verkehr (LBV) bietet Online-Dienste an, einschließlich des Dienstes für die Fahrzeug-Zulassung. Um mehr über den Prozess zu erfahren und eine Bescheinigung schnell und korrekt zu erhalten, solltest du auf die Website des LBV gehen und nach dem Online-Dienst 'Fahrzeug-Zulassung' suchen.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Watt is de deal mit 'Sonderparkausweis' und 'Ausnahmegenehmigung'?",
+    "reference_contexts":[
+      "Landesbetrieb Verkehr (LBV)\n\nOnline-Dienste\n\nAlle Online-Dienste des LBV auf einen Blick: Fahrzeug-Zulassung,\nBewohner- und Besucherparkausweise, Sonderparkausweise \/\nAusnahmegenehmigungen rund um den Verkehr, Wunschkennzeichen und weitere\nDienstleistungen\n\nOnline-Dienstleistungen\n\n-   Bewohner- und Besucherparkausweise\n-   Fragen und Antworten zum Online-Dienst Fahrzeug-Zulassung\n-   Fahrzeug-Zulassung\n-   Fahrzeug-Abmeldung\n-   Fahrzeug-Adressänderung\n-   Wunschkennzeichen-Reservierung\n-   Sonderparkausweise \/ Ausnahmegenehmigungen rund um den Verkehr\n-   Führerschein Theoriefristverlängerung\n\nBesuch im LBV\n\nTerminbuchung\n"
+    ],
+    "reference":"'Sonderparkausweise \/ Ausnahmegenehmigungen rund um den Verkehr' sind Online-Dienste des Landesbetriebs Verkehr (LBV), die auf der Website des LBV zur Verfügung stehen.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Could you please guide me through the process of obtaining a special parking permit\/exemption for traffic-related purposes?",
+    "reference_contexts":[
+      "Landesbetrieb Verkehr (LBV)\n\nOnline-Dienste\n\nAlle Online-Dienste des LBV auf einen Blick: Fahrzeug-Zulassung,\nBewohner- und Besucherparkausweise, Sonderparkausweise \/\nAusnahmegenehmigungen rund um den Verkehr, Wunschkennzeichen und weitere\nDienstleistungen\n\nOnline-Dienstleistungen\n\n-   Bewohner- und Besucherparkausweise\n-   Fragen und Antworten zum Online-Dienst Fahrzeug-Zulassung\n-   Fahrzeug-Zulassung\n-   Fahrzeug-Abmeldung\n-   Fahrzeug-Adressänderung\n-   Wunschkennzeichen-Reservierung\n-   Sonderparkausweise \/ Ausnahmegenehmigungen rund um den Verkehr\n-   Führerschein Theoriefristverlängerung\n\nBesuch im LBV\n\nTerminbuchung\n"
+    ],
+    "reference":"The Landesbetrieb Verkehr (LBV) offers online services including 'Sonderparkausweise \/ Ausnahmegenehmigungen rund um den Verkehr'. You can find this service among other online Dienstleistungen on their website.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Kannst du mir bitte erklären, wie ich einen Bewohner- und Besucherparkausweis online beantragen kann?",
+    "reference_contexts":[
+      "Landesbetrieb Verkehr (LBV)\n\nOnline-Dienste\n\nAlle Online-Dienste des LBV auf einen Blick: Fahrzeug-Zulassung,\nBewohner- und Besucherparkausweise, Sonderparkausweise \/\nAusnahmegenehmigungen rund um den Verkehr, Wunschkennzeichen und weitere\nDienstleistungen\n\nOnline-Dienstleistungen\n\n-   Bewohner- und Besucherparkausweise\n-   Fragen und Antworten zum Online-Dienst Fahrzeug-Zulassung\n-   Fahrzeug-Zulassung\n-   Fahrzeug-Abmeldung\n-   Fahrzeug-Adressänderung\n-   Wunschkennzeichen-Reservierung\n-   Sonderparkausweise \/ Ausnahmegenehmigungen rund um den Verkehr\n-   Führerschein Theoriefristverlängerung\n\nBesuch im LBV\n\nTerminbuchung\n"
+    ],
+    "reference":"Der Landesbetrieb Verkehr (LBV) bietet den Online-Dienst 'Bewohner- und Besucherparkausweise' an. Du kannst diesen Dienst nutzen, um deinen Ausweis zu beantragen.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Kannst du mir alles über den Prozess für Bewohner- und Besucherparkausweise erzählen? Ich bin ein Arbeitnehmer, der eine aktuelle Meldebescheinigung benötigt.",
+    "reference_contexts":[
+      "Landesbetrieb Verkehr (LBV)\n\nOnline-Dienste\n\nAlle Online-Dienste des LBV auf einen Blick: Fahrzeug-Zulassung,\nBewohner- und Besucherparkausweise, Sonderparkausweise \/\nAusnahmegenehmigungen rund um den Verkehr, Wunschkennzeichen und weitere\nDienstleistungen\n\nOnline-Dienstleistungen\n\n-   Bewohner- und Besucherparkausweise\n-   Fragen und Antworten zum Online-Dienst Fahrzeug-Zulassung\n-   Fahrzeug-Zulassung\n-   Fahrzeug-Abmeldung\n-   Fahrzeug-Adressänderung\n-   Wunschkennzeichen-Reservierung\n-   Sonderparkausweise \/ Ausnahmegenehmigungen rund um den Verkehr\n-   Führerschein Theoriefristverlängerung\n\nBesuch im LBV\n\nTerminbuchung\n"
+    ],
+    "reference":"Der Landesbetrieb Verkehr (LBV) bietet Online-Dienste an, einschließlich Bewohnerservice für Parkausweise. Du kannst alle Informationen zu diesem Dienst auf ihrer Website finden.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Kann ich einen Bewohner- und Besucherparkausweis online beantragen?",
+    "reference_contexts":[
+      "Landesbetrieb Verkehr (LBV)\n\nOnline-Dienste\n\nAlle Online-Dienste des LBV auf einen Blick: Fahrzeug-Zulassung,\nBewohner- und Besucherparkausweise, Sonderparkausweise \/\nAusnahmegenehmigungen rund um den Verkehr, Wunschkennzeichen und weitere\nDienstleistungen\n\nOnline-Dienstleistungen\n\n-   Bewohner- und Besucherparkausweise\n-   Fragen und Antworten zum Online-Dienst Fahrzeug-Zulassung\n-   Fahrzeug-Zulassung\n-   Fahrzeug-Abmeldung\n-   Fahrzeug-Adressänderung\n-   Wunschkennzeichen-Reservierung\n-   Sonderparkausweise \/ Ausnahmegenehmigungen rund um den Verkehr\n-   Führerschein Theoriefristverlängerung\n\nBesuch im LBV\n\nTerminbuchung\n"
+    ],
+    "reference":"Ja, du kannst den Online-Dienst 'Bewohner- und Besucherparkausweise' nutzen.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"\\\"Wie melde ich mein Gewerbe bei der Handelskammer Hamburg an?\\\"",
+    "reference_contexts":[
+      "Handelskammer Hamburg Gewerbe anmelden bei der Handelskammer Hamburg\n\nWenn Sie ein stehendes Gewerbe anfangen, müssen Sie dieses gleichzeitig\nanmelden.\n\nOnline-Service nutzen\n\nGewerbeanzeige\n\nBeschreibung der Leistung\n\nEine Gewerbeanmeldung müssen Sie abgeben, wenn Sie einen stehenden\nGewerbebetrieb als Hauptniederlassung, Zweigniederlassung oder\nunselbständige Zweigstelle beginnen. Dies ist der Fall bei\n\n-   Neugründung\n-   Wechsel der Rechtsform\n-   Gesellschaftereintritt\n-   Wiedereröffnung nach Verlegung aus anderem Meldebezirk\n-   Übergang nach Umwandlungsgesetz (z.B. Verschmelzung, Spaltung)\n-   Übernahme (Erbfolge, Kauf oder Pacht)\n\nMit der Anmeldung eines Gewerbes ermöglichen Sie der zuständigen Stelle,\ndie Gewerbeausübung zu überwachen und statistische Daten zu erheben.\n\nInformationen\n\nWichtige Hinweise\n\nVoraussetzungen\n\nSie möchten ein Gewerbe betreiben.\n\nMeldepflichtig sind Sie:\n\n-   wenn Sie ein Einzelgewerbe betreiben,\n-   als geschäftsführende Gesellschafterin oder geschä"
+    ],
+    "reference":"Um Ihr stehendes Gewerbe anzumelden, müssen Sie eine Gewerbeanmeldung abgeben. Dies können Sie online tun.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Watt is de Proseed fur 'ne Meldebescheening in Hamburg?",
+    "reference_contexts":[
+      "Handelskammer Hamburg Gewerbe anmelden bei der Handelskammer Hamburg\n\nWenn Sie ein stehendes Gewerbe anfangen, müssen Sie dieses gleichzeitig\nanmelden.\n\nOnline-Service nutzen\n\nGewerbeanzeige\n\nBeschreibung der Leistung\n\nEine Gewerbeanmeldung müssen Sie abgeben, wenn Sie einen stehenden\nGewerbebetrieb als Hauptniederlassung, Zweigniederlassung oder\nunselbständige Zweigstelle beginnen. Dies ist der Fall bei\n\n-   Neugründung\n-   Wechsel der Rechtsform\n-   Gesellschaftereintritt\n-   Wiedereröffnung nach Verlegung aus anderem Meldebezirk\n-   Übergang nach Umwandlungsgesetz (z.B. Verschmelzung, Spaltung)\n-   Übernahme (Erbfolge, Kauf oder Pacht)\n\nMit der Anmeldung eines Gewerbes ermöglichen Sie der zuständigen Stelle,\ndie Gewerbeausübung zu überwachen und statistische Daten zu erheben.\n\nInformationen\n\nWichtige Hinweise\n\nVoraussetzungen\n\nSie möchten ein Gewerbe betreiben.\n\nMeldepflichtig sind Sie:\n\n-   wenn Sie ein Einzelgewerbe betreiben,\n-   als geschäftsführende Gesellschafterin oder geschä"
+    ],
+    "reference":"Um 'ne Meldebescheening in Hamburg zu krieden, musst du 'ne Gewerbeanmeldung abgeben, wenn du 'n stehendes Gewerbebetrieb als Hauptniederlassung, Zweigniederlassung oder unselbständige Zweigstelle beginnst.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Kannst du mir bitte detailliert erklären, wie ich den Online-Service der Handelskammer Hamburg nutzen kann, um mein Gewerbe anzumelden?",
+    "reference_contexts":[
+      "Handelskammer Hamburg Gewerbe anmelden bei der Handelskammer Hamburg\n\nWenn Sie ein stehendes Gewerbe anfangen, müssen Sie dieses gleichzeitig\nanmelden.\n\nOnline-Service nutzen\n\nGewerbeanzeige\n\nBeschreibung der Leistung\n\nEine Gewerbeanmeldung müssen Sie abgeben, wenn Sie einen stehenden\nGewerbebetrieb als Hauptniederlassung, Zweigniederlassung oder\nunselbständige Zweigstelle beginnen. Dies ist der Fall bei\n\n-   Neugründung\n-   Wechsel der Rechtsform\n-   Gesellschaftereintritt\n-   Wiedereröffnung nach Verlegung aus anderem Meldebezirk\n-   Übergang nach Umwandlungsgesetz (z.B. Verschmelzung, Spaltung)\n-   Übernahme (Erbfolge, Kauf oder Pacht)\n\nMit der Anmeldung eines Gewerbes ermöglichen Sie der zuständigen Stelle,\ndie Gewerbeausübung zu überwachen und statistische Daten zu erheben.\n\nInformationen\n\nWichtige Hinweise\n\nVoraussetzungen\n\nSie möchten ein Gewerbe betreiben.\n\nMeldepflichtig sind Sie:\n\n-   wenn Sie ein Einzelgewerbe betreiben,\n-   als geschäftsführende Gesellschafterin oder geschä"
+    ],
+    "reference":"Um dein stehendes Gewerbe bei der Handelskammer Hamburg anzumelden, musst du dies gleichzeitig tun. Du kannst den Online-Service nutzen, um eine Gewerbeanmeldung abzugeben. Dies ist erforderlich, wenn du einen neuen Betrieb beginnst oder bestimmte Änderungen an deinem bestehenden Betrieb vornimmst.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Wann muss ich eine 'Gesselschaftereintritt' melden?",
+    "reference_contexts":[
+      "Handelskammer Hamburg Gewerbe anmelden bei der Handelskammer Hamburg\n\nWenn Sie ein stehendes Gewerbe anfangen, müssen Sie dieses gleichzeitig\nanmelden.\n\nOnline-Service nutzen\n\nGewerbeanzeige\n\nBeschreibung der Leistung\n\nEine Gewerbeanmeldung müssen Sie abgeben, wenn Sie einen stehenden\nGewerbebetrieb als Hauptniederlassung, Zweigniederlassung oder\nunselbständige Zweigstelle beginnen. Dies ist der Fall bei\n\n-   Neugründung\n-   Wechsel der Rechtsform\n-   Gesellschaftereintritt\n-   Wiedereröffnung nach Verlegung aus anderem Meldebezirk\n-   Übergang nach Umwandlungsgesetz (z.B. Verschmelzung, Spaltung)\n-   Übernahme (Erbfolge, Kauf oder Pacht)\n\nMit der Anmeldung eines Gewerbes ermöglichen Sie der zuständigen Stelle,\ndie Gewerbeausübung zu überwachen und statistische Daten zu erheben.\n\nInformationen\n\nWichtige Hinweise\n\nVoraussetzungen\n\nSie möchten ein Gewerbe betreiben.\n\nMeldepflichtig sind Sie:\n\n-   wenn Sie ein Einzelgewerbe betreiben,\n-   als geschäftsführende Gesellschafterin oder geschä"
+    ],
+    "reference":"Sie müssen eine Gewerbeanmeldung abgeben, wenn Sie einen stehenden Gewerbebetrieb als Hauptniederlassung, Zweigniederlassung oder unselbständige Zweigstelle beginnen. Dies ist der Fall bei Gesellschaftereintritt.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Kannst du mir detailliert erklären, wie ich mein Gewerbe in Hamburg anmelden kann?",
+    "reference_contexts":[
+      "Handelskammer Hamburg Gewerbe anmelden bei der Handelskammer Hamburg\n\nWenn Sie ein stehendes Gewerbe anfangen, müssen Sie dieses gleichzeitig\nanmelden.\n\nOnline-Service nutzen\n\nGewerbeanzeige\n\nBeschreibung der Leistung\n\nEine Gewerbeanmeldung müssen Sie abgeben, wenn Sie einen stehenden\nGewerbebetrieb als Hauptniederlassung, Zweigniederlassung oder\nunselbständige Zweigstelle beginnen. Dies ist der Fall bei\n\n-   Neugründung\n-   Wechsel der Rechtsform\n-   Gesellschaftereintritt\n-   Wiedereröffnung nach Verlegung aus anderem Meldebezirk\n-   Übergang nach Umwandlungsgesetz (z.B. Verschmelzung, Spaltung)\n-   Übernahme (Erbfolge, Kauf oder Pacht)\n\nMit der Anmeldung eines Gewerbes ermöglichen Sie der zuständigen Stelle,\ndie Gewerbeausübung zu überwachen und statistische Daten zu erheben.\n\nInformationen\n\nWichtige Hinweise\n\nVoraussetzungen\n\nSie möchten ein Gewerbe betreiben.\n\nMeldepflichtig sind Sie:\n\n-   wenn Sie ein Einzelgewerbe betreiben,\n-   als geschäftsführende Gesellschafterin oder geschä"
+    ],
+    "reference":"Um dein stehendes Gewerbe in Hamburg anzumelden, musst du dies gleichzeitig tun. Du kannst den Online-Service der Handelskammer Hamburg nutzen und eine Gewerbeanmeldung abgeben. Bitte beschreibe dabei deine Leistung. Eine Gewerbeanmeldung ist erforderlich, wenn du einen stehenden Gewerbebetrieb als Hauptniederlassung, Zweigniederlassung oder unselbständige Zweigstelle beginnst.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Handelskammer Hamburg Gewerbeanmeldung machen?",
+    "reference_contexts":[
+      "Handelskammer Hamburg Gewerbe anmelden bei der Handelskammer Hamburg\n\nWenn Sie ein stehendes Gewerbe anfangen, müssen Sie dieses gleichzeitig\nanmelden.\n\nOnline-Service nutzen\n\nGewerbeanzeige\n\nBeschreibung der Leistung\n\nEine Gewerbeanmeldung müssen Sie abgeben, wenn Sie einen stehenden\nGewerbebetrieb als Hauptniederlassung, Zweigniederlassung oder\nunselbständige Zweigstelle beginnen. Dies ist der Fall bei\n\n-   Neugründung\n-   Wechsel der Rechtsform\n-   Gesellschaftereintritt\n-   Wiedereröffnung nach Verlegung aus anderem Meldebezirk\n-   Übergang nach Umwandlungsgesetz (z.B. Verschmelzung, Spaltung)\n-   Übernahme (Erbfolge, Kauf oder Pacht)\n\nMit der Anmeldung eines Gewerbes ermöglichen Sie der zuständigen Stelle,\ndie Gewerbeausübung zu überwachen und statistische Daten zu erheben.\n\nInformationen\n\nWichtige Hinweise\n\nVoraussetzungen\n\nSie möchten ein Gewerbe betreiben.\n\nMeldepflichtig sind Sie:\n\n-   wenn Sie ein Einzelgewerbe betreiben,\n-   als geschäftsführende Gesellschafterin oder geschä"
+    ],
+    "reference":"Wenn Sie ein stehendes Gewerbe anfangen, müssen Sie dieses gleichzeitig anmelden.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Was ist eine Gewerbeanmeldung und wann muss sie abgegeben werden?",
+    "reference_contexts":[
+      "Handelskammer Hamburg Gewerbe anmelden bei der Handelskammer Hamburg\n\nWenn Sie ein stehendes Gewerbe anfangen, müssen Sie dieses gleichzeitig\nanmelden.\n\nOnline-Service nutzen\n\nGewerbeanzeige\n\nBeschreibung der Leistung\n\nEine Gewerbeanmeldung müssen Sie abgeben, wenn Sie einen stehenden\nGewerbebetrieb als Hauptniederlassung, Zweigniederlassung oder\nunselbständige Zweigstelle beginnen. Dies ist der Fall bei\n\n-   Neugründung\n-   Wechsel der Rechtsform\n-   Gesellschaftereintritt\n-   Wiedereröffnung nach Verlegung aus anderem Meldebezirk\n-   Übergang nach Umwandlungsgesetz (z.B. Verschmelzung, Spaltung)\n-   Übernahme (Erbfolge, Kauf oder Pacht)\n\nMit der Anmeldung eines Gewerbes ermöglichen Sie der zuständigen Stelle,\ndie Gewerbeausübung zu überwachen und statistische Daten zu erheben.\n\nInformationen\n\nWichtige Hinweise\n\nVoraussetzungen\n\nSie möchten ein Gewerbe betreiben.\n\nMeldepflichtig sind Sie:\n\n-   wenn Sie ein Einzelgewerbe betreiben,\n-   als geschäftsführende Gesellschafterin oder geschä"
+    ],
+    "reference":"Eine Gewerbeanmeldung ist erforderlich, wenn Sie ein stehendes Gewerbe beginnen. Dies gilt für Neugründungen, Rechtsformwechsel, Gesellschaftereintritte, Wiedereröffnungen nach Verlegung aus anderem Meldebezirk, Übergänge nach Umwandlungsgesetz und Übernahmen.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Als Arbeitnehmer, der in eine bestehende GmbH eintritt und sein Gewerbe anmelden möchte, welche spezifischen Schritte muss ich unternehmen?",
+    "reference_contexts":[
+      "Handelskammer Hamburg Gewerbe anmelden bei der Handelskammer Hamburg\n\nWenn Sie ein stehendes Gewerbe anfangen, müssen Sie dieses gleichzeitig\nanmelden.\n\nOnline-Service nutzen\n\nGewerbeanzeige\n\nBeschreibung der Leistung\n\nEine Gewerbeanmeldung müssen Sie abgeben, wenn Sie einen stehenden\nGewerbebetrieb als Hauptniederlassung, Zweigniederlassung oder\nunselbständige Zweigstelle beginnen. Dies ist der Fall bei\n\n-   Neugründung\n-   Wechsel der Rechtsform\n-   Gesellschaftereintritt\n-   Wiedereröffnung nach Verlegung aus anderem Meldebezirk\n-   Übergang nach Umwandlungsgesetz (z.B. Verschmelzung, Spaltung)\n-   Übernahme (Erbfolge, Kauf oder Pacht)\n\nMit der Anmeldung eines Gewerbes ermöglichen Sie der zuständigen Stelle,\ndie Gewerbeausübung zu überwachen und statistische Daten zu erheben.\n\nInformationen\n\nWichtige Hinweise\n\nVoraussetzungen\n\nSie möchten ein Gewerbe betreiben.\n\nMeldepflichtig sind Sie:\n\n-   wenn Sie ein Einzelgewerbe betreiben,\n-   als geschäftsführende Gesellschafterin oder geschä"
+    ],
+    "reference":"Wenn Sie als geschäftsführender Gesellschafter in eine bestehende GmbH eintreten und Ihr Gewerbe anmelden möchten, müssen Sie eine Gewerbeanmeldung abgeben. Dies ist Teil des Prozesses zur Überwachung der Gewerbeausübung und zur Erhebung statistischer Daten.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Was ist der Unterschied zwischen Neugründung und Wiedereröffnung eines Gewerbebetriebs?",
+    "reference_contexts":[
+      "Handelskammer Hamburg Gewerbe anmelden bei der Handelskammer Hamburg\n\nWenn Sie ein stehendes Gewerbe anfangen, müssen Sie dieses gleichzeitig\nanmelden.\n\nOnline-Service nutzen\n\nGewerbeanzeige\n\nBeschreibung der Leistung\n\nEine Gewerbeanmeldung müssen Sie abgeben, wenn Sie einen stehenden\nGewerbebetrieb als Hauptniederlassung, Zweigniederlassung oder\nunselbständige Zweigstelle beginnen. Dies ist der Fall bei\n\n-   Neugründung\n-   Wechsel der Rechtsform\n-   Gesellschaftereintritt\n-   Wiedereröffnung nach Verlegung aus anderem Meldebezirk\n-   Übergang nach Umwandlungsgesetz (z.B. Verschmelzung, Spaltung)\n-   Übernahme (Erbfolge, Kauf oder Pacht)\n\nMit der Anmeldung eines Gewerbes ermöglichen Sie der zuständigen Stelle,\ndie Gewerbeausübung zu überwachen und statistische Daten zu erheben.\n\nInformationen\n\nWichtige Hinweise\n\nVoraussetzungen\n\nSie möchten ein Gewerbe betreiben.\n\nMeldepflichtig sind Sie:\n\n-   wenn Sie ein Einzelgewerbe betreiben,\n-   als geschäftsführende Gesellschafterin oder geschä"
+    ],
+    "reference":"Eine Neugründung ist die Erstellung eines neuen Gewerbebetriebs, während eine Wiedereröffnung nach Verlegung aus einem anderen Meldebezirk bedeutet, dass das Gewerbe bereits bestand, aber verlegt wurde.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Wo muss ich mich ummelden wenn ich innerhalb Hamburgs umgezogen bin?",
+    "reference_contexts":[
+      "Süderelbe Einwohnerangelegenheiten Umzug innerhalb Hamburgs melden\n\nWenn Sie innerhalb Hamburgs umziehen, müssen Sie sich ummelden.\n\nOnline-Service nutzen\n\nAn- und Ummeldung\n\nJetzt einen Termin buchen\n\nBeschreibung der Leistung\n\nWenn Sie innerhalb Hamburgs umgezogen sind, müssen Sie sich ummelden.\nSie müssen Ihre neue Anschrift in Ihren amtlichen Dokumenten ändern\nlassen. Dies betrifft gegebenenfalls\n\n-   Ihren Personalausweis,\n-   Ihre eID-Karte oder\n-   Ihren elektronischen Aufenthaltstitel.\n\nDie Daten auf dem Chip Ihres Dokuments werden von der zuständigen Stelle\ngeändert.\n\nSie erhalten eine Meldebestätigung.\n\nWenn Sie sich ummelden, wird Ihre bisherige Wohnung von der zuständigen\nStelle abgemeldet oder als Nebenwohnung beibehalten.\n\nInformationen\n\nWichtige Hinweise\n\nVoraussetzungen\n\nSie sind innerhalb Hamburgs umgezogen.\n\nBenötigte Unterlagen\n\n-   Ihr gültiges Ausweisdokument (Personalausweis, Pass, Passersatz)\n    sowie gegebenenfalls zusätzlich\n    -   Ihre eID-Karte oder\n    -  "
+    ],
+    "reference":"Wenn Sie innerhalb Hamburgs umgezogen sind, müssen Sie sich bei der zuständigen Stelle in Ihrer neuen Wohnung anmelden.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Kannst du mir bitte detailliert erklären, wie ich meine Ummeldung innerhalb Hamburgs online durchführe?",
+    "reference_contexts":[
+      "Süderelbe Einwohnerangelegenheiten Umzug innerhalb Hamburgs melden\n\nWenn Sie innerhalb Hamburgs umziehen, müssen Sie sich ummelden.\n\nOnline-Service nutzen\n\nAn- und Ummeldung\n\nJetzt einen Termin buchen\n\nBeschreibung der Leistung\n\nWenn Sie innerhalb Hamburgs umgezogen sind, müssen Sie sich ummelden.\nSie müssen Ihre neue Anschrift in Ihren amtlichen Dokumenten ändern\nlassen. Dies betrifft gegebenenfalls\n\n-   Ihren Personalausweis,\n-   Ihre eID-Karte oder\n-   Ihren elektronischen Aufenthaltstitel.\n\nDie Daten auf dem Chip Ihres Dokuments werden von der zuständigen Stelle\ngeändert.\n\nSie erhalten eine Meldebestätigung.\n\nWenn Sie sich ummelden, wird Ihre bisherige Wohnung von der zuständigen\nStelle abgemeldet oder als Nebenwohnung beibehalten.\n\nInformationen\n\nWichtige Hinweise\n\nVoraussetzungen\n\nSie sind innerhalb Hamburgs umgezogen.\n\nBenötigte Unterlagen\n\n-   Ihr gültiges Ausweisdokument (Personalausweis, Pass, Passersatz)\n    sowie gegebenenfalls zusätzlich\n    -   Ihre eID-Karte oder\n    -  "
+    ],
+    "reference":"Wenn Sie innerhalb Hamburgs umgezogen sind, müssen Sie sich ummelden. Sie müssen Ihre neue Anschrift in Ihren amtlichen Dokumenten ändern lassen. Dies betrifft gegebenenfalls - Ihren Personalausweis, - Ihre eID-Karte oder - Ihren elektronischen Aufenthaltstitel. Die Daten auf dem Chip Ihres Dokuments werden von der zuständigen Stelle geändert. Sie erhalten eine Meldebestätigung.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Wie melde ich meinen Umzug innerhalb Hamburgs?",
+    "reference_contexts":[
+      "Süderelbe Einwohnerangelegenheiten Umzug innerhalb Hamburgs melden\n\nWenn Sie innerhalb Hamburgs umziehen, müssen Sie sich ummelden.\n\nOnline-Service nutzen\n\nAn- und Ummeldung\n\nJetzt einen Termin buchen\n\nBeschreibung der Leistung\n\nWenn Sie innerhalb Hamburgs umgezogen sind, müssen Sie sich ummelden.\nSie müssen Ihre neue Anschrift in Ihren amtlichen Dokumenten ändern\nlassen. Dies betrifft gegebenenfalls\n\n-   Ihren Personalausweis,\n-   Ihre eID-Karte oder\n-   Ihren elektronischen Aufenthaltstitel.\n\nDie Daten auf dem Chip Ihres Dokuments werden von der zuständigen Stelle\ngeändert.\n\nSie erhalten eine Meldebestätigung.\n\nWenn Sie sich ummelden, wird Ihre bisherige Wohnung von der zuständigen\nStelle abgemeldet oder als Nebenwohnung beibehalten.\n\nInformationen\n\nWichtige Hinweise\n\nVoraussetzungen\n\nSie sind innerhalb Hamburgs umgezogen.\n\nBenötigte Unterlagen\n\n-   Ihr gültiges Ausweisdokument (Personalausweis, Pass, Passersatz)\n    sowie gegebenenfalls zusätzlich\n    -   Ihre eID-Karte oder\n    -  "
+    ],
+    "reference":"Wenn Sie innerhalb Hamburgs umgezogen sind, müssen Sie sich ummelden. Sie müssen Ihre neue Anschrift in Ihren amtlichen Dokumenten ändern lassen.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Watt muss ich tun umme mich in Hamburg umzuzumelden?",
+    "reference_contexts":[
+      "Süderelbe Einwohnerangelegenheiten Umzug innerhalb Hamburgs melden\n\nWenn Sie innerhalb Hamburgs umziehen, müssen Sie sich ummelden.\n\nOnline-Service nutzen\n\nAn- und Ummeldung\n\nJetzt einen Termin buchen\n\nBeschreibung der Leistung\n\nWenn Sie innerhalb Hamburgs umgezogen sind, müssen Sie sich ummelden.\nSie müssen Ihre neue Anschrift in Ihren amtlichen Dokumenten ändern\nlassen. Dies betrifft gegebenenfalls\n\n-   Ihren Personalausweis,\n-   Ihre eID-Karte oder\n-   Ihren elektronischen Aufenthaltstitel.\n\nDie Daten auf dem Chip Ihres Dokuments werden von der zuständigen Stelle\ngeändert.\n\nSie erhalten eine Meldebestätigung.\n\nWenn Sie sich ummelden, wird Ihre bisherige Wohnung von der zuständigen\nStelle abgemeldet oder als Nebenwohnung beibehalten.\n\nInformationen\n\nWichtige Hinweise\n\nVoraussetzungen\n\nSie sind innerhalb Hamburgs umgezogen.\n\nBenötigte Unterlagen\n\n-   Ihr gültiges Ausweisdokument (Personalausweis, Pass, Passersatz)\n    sowie gegebenenfalls zusätzlich\n    -   Ihre eID-Karte oder\n    -  "
+    ],
+    "reference":"Wenn Sie innerhalb Hamburgs umgezogen sind, müssen Sie sich ummelden. Sie müssen Ihre neue Anschrift in Ihren amtlichen Dokumenten ändern lassen.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Watt muss ich tun wenn ich inner Hamburge umzige?",
+    "reference_contexts":[
+      "Süderelbe Einwohnerangelegenheiten Umzug innerhalb Hamburgs melden\n\nWenn Sie innerhalb Hamburgs umziehen, müssen Sie sich ummelden.\n\nOnline-Service nutzen\n\nAn- und Ummeldung\n\nJetzt einen Termin buchen\n\nBeschreibung der Leistung\n\nWenn Sie innerhalb Hamburgs umgezogen sind, müssen Sie sich ummelden.\nSie müssen Ihre neue Anschrift in Ihren amtlichen Dokumenten ändern\nlassen. Dies betrifft gegebenenfalls\n\n-   Ihren Personalausweis,\n-   Ihre eID-Karte oder\n-   Ihren elektronischen Aufenthaltstitel.\n\nDie Daten auf dem Chip Ihres Dokuments werden von der zuständigen Stelle\ngeändert.\n\nSie erhalten eine Meldebestätigung.\n\nWenn Sie sich ummelden, wird Ihre bisherige Wohnung von der zuständigen\nStelle abgemeldet oder als Nebenwohnung beibehalten.\n\nInformationen\n\nWichtige Hinweise\n\nVoraussetzungen\n\nSie sind innerhalb Hamburgs umgezogen.\n\nBenötigte Unterlagen\n\n-   Ihr gültiges Ausweisdokument (Personalausweis, Pass, Passersatz)\n    sowie gegebenenfalls zusätzlich\n    -   Ihre eID-Karte oder\n    -  "
+    ],
+    "reference":"Wenn Sie innerhalb Hamburgs umgezogen sind, müssen Sie sich ummelden. Sie müssen Ihre neue Anschrift in Ihren amtlichen Dokumenten ändern lassen.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Als Einwohner von Süderelbe, der innerhalb Hamburgs umgezogen ist, welche Schritte muss ich einleiten, um meine Meldebescheinigung zu erhalten?",
+    "reference_contexts":[
+      "Süderelbe Einwohnerangelegenheiten Umzug innerhalb Hamburgs melden\n\nWenn Sie innerhalb Hamburgs umziehen, müssen Sie sich ummelden.\n\nOnline-Service nutzen\n\nAn- und Ummeldung\n\nJetzt einen Termin buchen\n\nBeschreibung der Leistung\n\nWenn Sie innerhalb Hamburgs umgezogen sind, müssen Sie sich ummelden.\nSie müssen Ihre neue Anschrift in Ihren amtlichen Dokumenten ändern\nlassen. Dies betrifft gegebenenfalls\n\n-   Ihren Personalausweis,\n-   Ihre eID-Karte oder\n-   Ihren elektronischen Aufenthaltstitel.\n\nDie Daten auf dem Chip Ihres Dokuments werden von der zuständigen Stelle\ngeändert.\n\nSie erhalten eine Meldebestätigung.\n\nWenn Sie sich ummelden, wird Ihre bisherige Wohnung von der zuständigen\nStelle abgemeldet oder als Nebenwohnung beibehalten.\n\nInformationen\n\nWichtige Hinweise\n\nVoraussetzungen\n\nSie sind innerhalb Hamburgs umgezogen.\n\nBenötigte Unterlagen\n\n-   Ihr gültiges Ausweisdokument (Personalausweis, Pass, Passersatz)\n    sowie gegebenenfalls zusätzlich\n    -   Ihre eID-Karte oder\n    -  "
+    ],
+    "reference":"Wenn Sie innerhalb Hamburgs umgezogen sind und in Süderelbe wohnen, müssen Sie sich ummelden. Dies beinhaltet die Änderung Ihrer Anschrift auf Ihren amtlichen Dokumenten wie dem Personalausweis oder der eID-Karte. Nach der Ummeldung wird Ihre bisherige Wohnung von der zuständigen Stelle abgemeldet oder als Nebenwohnung beibehalten und Sie erhalten eine Meldebestätigung.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Wat is de deal mit Süderelbe en ummelden?",
+    "reference_contexts":[
+      "Süderelbe Einwohnerangelegenheiten Umzug innerhalb Hamburgs melden\n\nWenn Sie innerhalb Hamburgs umziehen, müssen Sie sich ummelden.\n\nOnline-Service nutzen\n\nAn- und Ummeldung\n\nJetzt einen Termin buchen\n\nBeschreibung der Leistung\n\nWenn Sie innerhalb Hamburgs umgezogen sind, müssen Sie sich ummelden.\nSie müssen Ihre neue Anschrift in Ihren amtlichen Dokumenten ändern\nlassen. Dies betrifft gegebenenfalls\n\n-   Ihren Personalausweis,\n-   Ihre eID-Karte oder\n-   Ihren elektronischen Aufenthaltstitel.\n\nDie Daten auf dem Chip Ihres Dokuments werden von der zuständigen Stelle\ngeändert.\n\nSie erhalten eine Meldebestätigung.\n\nWenn Sie sich ummelden, wird Ihre bisherige Wohnung von der zuständigen\nStelle abgemeldet oder als Nebenwohnung beibehalten.\n\nInformationen\n\nWichtige Hinweise\n\nVoraussetzungen\n\nSie sind innerhalb Hamburgs umgezogen.\n\nBenötigte Unterlagen\n\n-   Ihr gültiges Ausweisdokument (Personalausweis, Pass, Passersatz)\n    sowie gegebenenfalls zusätzlich\n    -   Ihre eID-Karte oder\n    -  "
+    ],
+    "reference":"Als je binnen Hamburgs verhuisd bent, moet je je aanmelden bij de gemeente. Je moet je nieuwe adres in je officiële documenten laten wijzigen, zoals je paspoort of eID-kaart.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Was sind die Voraussetzungen für eine Ummeldung innerhalb Hamburgs?",
+    "reference_contexts":[
+      "Süderelbe Einwohnerangelegenheiten Umzug innerhalb Hamburgs melden\n\nWenn Sie innerhalb Hamburgs umziehen, müssen Sie sich ummelden.\n\nOnline-Service nutzen\n\nAn- und Ummeldung\n\nJetzt einen Termin buchen\n\nBeschreibung der Leistung\n\nWenn Sie innerhalb Hamburgs umgezogen sind, müssen Sie sich ummelden.\nSie müssen Ihre neue Anschrift in Ihren amtlichen Dokumenten ändern\nlassen. Dies betrifft gegebenenfalls\n\n-   Ihren Personalausweis,\n-   Ihre eID-Karte oder\n-   Ihren elektronischen Aufenthaltstitel.\n\nDie Daten auf dem Chip Ihres Dokuments werden von der zuständigen Stelle\ngeändert.\n\nSie erhalten eine Meldebestätigung.\n\nWenn Sie sich ummelden, wird Ihre bisherige Wohnung von der zuständigen\nStelle abgemeldet oder als Nebenwohnung beibehalten.\n\nInformationen\n\nWichtige Hinweise\n\nVoraussetzungen\n\nSie sind innerhalb Hamburgs umgezogen.\n\nBenötigte Unterlagen\n\n-   Ihr gültiges Ausweisdokument (Personalausweis, Pass, Passersatz)\n    sowie gegebenenfalls zusätzlich\n    -   Ihre eID-Karte oder\n    -  "
+    ],
+    "reference":"Die Voraussetzung für eine Ummeldung innerhalb Hamburgs ist, dass Sie tatsächlich innerhalb der Stadtgrenzen umgezogen sind.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  },
+  {
+    "user_input":"Muss ich mich ummelden, wenn ich innerhalb Hamburgs umgezogen bin?",
+    "reference_contexts":[
+      "Süderelbe Einwohnerangelegenheiten Umzug innerhalb Hamburgs melden\n\nWenn Sie innerhalb Hamburgs umziehen, müssen Sie sich ummelden.\n\nOnline-Service nutzen\n\nAn- und Ummeldung\n\nJetzt einen Termin buchen\n\nBeschreibung der Leistung\n\nWenn Sie innerhalb Hamburgs umgezogen sind, müssen Sie sich ummelden.\nSie müssen Ihre neue Anschrift in Ihren amtlichen Dokumenten ändern\nlassen. Dies betrifft gegebenenfalls\n\n-   Ihren Personalausweis,\n-   Ihre eID-Karte oder\n-   Ihren elektronischen Aufenthaltstitel.\n\nDie Daten auf dem Chip Ihres Dokuments werden von der zuständigen Stelle\ngeändert.\n\nSie erhalten eine Meldebestätigung.\n\nWenn Sie sich ummelden, wird Ihre bisherige Wohnung von der zuständigen\nStelle abgemeldet oder als Nebenwohnung beibehalten.\n\nInformationen\n\nWichtige Hinweise\n\nVoraussetzungen\n\nSie sind innerhalb Hamburgs umgezogen.\n\nBenötigte Unterlagen\n\n-   Ihr gültiges Ausweisdokument (Personalausweis, Pass, Passersatz)\n    sowie gegebenenfalls zusätzlich\n    -   Ihre eID-Karte oder\n    -  "
+    ],
+    "reference":"Ja, wenn Sie innerhalb Hamburgs umgezogen sind, müssen Sie sich ummelden.",
+    "synthesizer_name":"single_hop_specifc_query_synthesizer"
+  }
+]
