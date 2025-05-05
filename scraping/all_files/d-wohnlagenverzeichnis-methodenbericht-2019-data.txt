@@ -1,0 +1,567 @@
+Hansestadt Hamburg
+Behörde für Stadtentwicklung und
+Wohnen - Amt WSB -
+Aktualisierung des
+Hamburger
+Wohnlagenverzeichnisses
+2019
+Bericht vom April 2020
+- i -
+Inhaltsverzeichnis
+1 Einleitung .................................................................................................. 1
+2 Überprüfung von Einwendungen ................................................................. 2
+3 Ersteinstufungen ........................................................................................ 4
+4 Weitere Aktualisierungen ............................................................................ 4
+5 Bewertungssystem des Hamburger Wohnlagenverzeichnisses ....................... 5
+5.1 Wohnlagen und Binnendifferenzierung .................................................. 7
+6 Ergebnis der Einwendungen und Neubewertungen ....................................... 9
+Abbildungsverzeichnis
+Abb. 1 Verteilung der Wohnlagenbewertungen nach Blockseiten ........................ 7
+Abb. 2 Verteilung der normalen Wohnlagenbewertungen .................................. 8
+Abb. 3 Verteilung der guten Wohnlagenbewertungen ........................................ 8
+Tabellenverzeichnis
+Tab. 1 Indikatoren der Wohnlagenberechnung ................................................. 5
+Tab. 2 Einwendungen gegen bestehende Wohnlageneinstufungen sowie
+Ersteinstufungen .................................................................................. 9
+- 1 -
+1 Einleitung
+Analyse & Konzepte wurde vom Amt für Wohnen, Stadterneuerung und Bodenordnung beauftragt,
+zur Vorbereitung für die Erhebungen des Hamburger Mietenspiegels 2019 das Wohnlagenverzeich-
+nis zu aktualisieren.
+Im Jahr 2017 wurden alle Hamburger Wohnlagen mittels eines neu entwickelten mathematisch-
+statistischen Verfahrens grundlegend überprüft. In diesem Zuge wurden neun Wohnlagenindikato-
+ren identifiziert, die eine Berechnung der Wohnlage auf Grundlage objektiv mess- und überprüfba-
+rer Merkmale ermöglichen und subjektive Faktoren bei der Bewertung ausschließen.
+Mit dieser Aktualisierung werden zwischenzeitlich neu hinzugekommene Blockseiten unter Ver-
+wendung dieses Verfahrens einer Wohnlage zugeordnet. Darüber hinaus werden Blockseiten über-
+prüft, für die entweder von Anwohnern oder Vermietern eine Einwendung bezüglich der Wohnla-
+geneinstufung vorgebracht wurde oder für die ein Überprüfungswunsch seitens des Auftraggebers
+besteht. Hierbei handelt es sich z. B. um Plausibilitätsprüfungen bei heterogenen Einstufungen
+oder um die Begutachtung von größeren Quartieren oder Wohngebieten, die einem stärkeren
+strukturellen Wandel unterliegen bzw. bei denen Ansatzpunkte für weitergehende Veränderungen
+bestehen.
+Grundsätzlich wird bei der Aktualisierung unterstellt, dass die bestehende Systematik zur Wohnla-
+geneinstufung Gültigkeit besitzt, sodass im Rahmen der turnusmäßigen Aktualisierungen keine
+vollständige Überprüfung aller bewerteten Hamburger Blockseiten durchgeführt wird. Diese Prä-
+misse wird auch dadurch bestätigt, dass die Anzahl von Einwendungen und Kritiken auch nach der
+kompletten Neuberechnung 2017 auf einem niedrigen Niveau liegt. Für die Aktualisierung 2019
+gingen insgesamt 93 Einwendungen ein.
+Die im Rahmen der Aktualisierung für den Hamburger Mietenspiegel 2019 durchgeführten Arbeits-
+schritte umfassen somit folgende Leistungen:
+▪ Überprüfung der Blockseiten, bei denen es seit der letzten Aktualisierung zu Einwendungen
+von Mieter- oder Eigentümerseite gekommen ist, auf Basis von Datenanalysen.
+▪ Recherche und Ersteinordnung von Neubauquartieren und bestehenden Blockseiten, für die
+bisher keine Wohnlageneinordnung bestand.
+Die Ergebnisse wurden dem begleitenden Arbeitskreis "Mietenspiegel" im Rahmen der Sitzungen
+vorgestellt und schriftlich zur Verfügung gestellt.
+- 2 -
+2 Überprüfung von Einwendungen
+Bei den Einwendungen handelt es sich um Fälle, bei denen Mieter oder Vermieter mit der bisheri-
+gen Wohnlagenbewertung nicht (mehr) einverstanden sind oder in denen (noch) keine Bewertung
+vorliegt.
+Die Ursachen für die Einwendungen waren recht unterschiedlich, wobei sich keine eindeutigen
+Muster feststellen ließen. Wie schon in den Vorjahren war die regionale Verteilung der Einwendun-
+gen sehr breit und beschränkte sich nicht auf bestimmte Stadtteile.
+Von den 93 Einwendungen hatten
+▪ 32 eine Aufwertung und
+▪ 46 eine Abwertung
+zum Ziel. Weitere 7 Einwendungen sahen Klärungsbedarf bei unterschiedlichen Einstufungen in ei-
+nem Quartier, ohne einen konkreten Einstufungswunsch zu formulieren. Die übrigen 8 Einwendun-
+gen bezogen sich auf ehemals unbebaute Baublockseiten bei schon eingestuften Straßen bzw. auf
+neu erstellte Straßen.
+Im Rahmen der Aktualisierung des Wohnlagenverzeichnisses 2019 wurden insgesamt 149 bereits
+bewertete einzelne Blockseiten bzw. komplette Straßen überprüft. Da es in der Regel erforderlich
+ist, nicht nur die unmittelbar von Kritik betroffene Blockseite selbst, sondern auch die umliegenden
+Blockseiten mit zu berücksichtigen, ist die Anzahl der überprüften Blockseiten größer als die der
+Einwendungen.
+Dabei wurde wie folgt vorgegangen, um mögliche Veränderungen wohnlagenrelevanter Merkmale
+zu erfassen und im Rahmen der rechnerischen Einstufung berücksichtigen zu können:
+▪ Aktualisierung der für die Wohnlagenberechnung notwendigen Merkmale bzw. Daten (z. B.
+Statusindex, Bodenrichtwerte, Einwohnerdichte)
+▪ Neuberechnung der Wohnlage unter Berücksichtigung der aktualisierten statistischen Daten
+Für alle Indikatoren wurden dabei die aktuell verfügbaren Daten herangezogen.
+Mit Ausnahme des aktuell ermittelten Bodenrichtwertes konnten alle Indikatorenwerte unverändert
+in die Berechnungsformel zur Ermittlung der Wohnlage übernommen werden.1 Relevant hierfür
+war, dass sich die Indikatoren in ihren Ausprägungen bezüglich der Wertestruktur (Spannenwerte
+und Mittelwerte) gegenüber der Erhebung 2017 nicht deutlich verändert haben. Die Bodenricht-
+werte wiesen mit einem allgemeinen Anstieg dagegen eine Strukturveränderung auf. Im Mittel ha-
+ben sich die Bodenrichtwerte zwischen den Erhebungen 2017 und 2019 um 250 € erhöht. Um die-
+1 Eine ausführliche Darstellung der für die Wohnlagenbewertung relevanten Indikatoren sowie die Erfassungsmethoden
+zu den einzelnen Indikatoren können dem Methodenbericht zum Wohnlagenverzeichnis 2017 entnommen werden.
+- 3 -
+ser Veränderung zu begegnen, erfolgte für die Bodenrichtwerte eine Normierung auf das Niveau
+von 2017.
+Exkurs: Normierung der Bodenrichtwerte 2019 auf das Niveau 2017
+Die Normierung der Bodenrichtwerte auf das 2017er Niveau stellt sicher, dass sich eine positive
+Entwicklung des Bodenrichtwertes einer Blockseite im Verhältnis zur Gesamtentwicklung in einem
+besseren Wohnlagenkennwert widerspiegelt, zugleich aber der allgemeine Anstieg der Bodenricht-
+werte allein nicht zu einer Aufwertung führt.
+Eine Blockseite, die 2017 mit einem mittleren Bodenrichtwert von 750 € in die Berechnung einge-
+gangen ist und sich parallel zum Gesamtmarkt entwickelt hat, weist 2019 somit einen Bodenricht-
+wert von 1.000 € auf. Würden diese 1.000 € in der Wohnlagenformel berücksichtigt, stiege der
+Wohnlagenwert deutlich an. Unter der Annahme, dass alle anderen Indikatoren unverändert blei-
+ben, müsste der Wohnlagenwert aber unverändert bleiben, da relativ zum Gesamtmarkt keine Ver-
+änderung erfolgte. Für diese Blockseite wird daher für die 2019er Berechnung weiterhin ein Boden-
+richtwert von 750 € angesetzt.
+Steigt der Bodenrichtwert der Blockseite dagegen auf 1.500 €, besteht auch relativ zum Gesamt-
+markt eine Steigerung. Der Wohnlagenwert dieser Blockseite müsste gegenüber 2017 also anstei-
+gen. Auch aus dieser Steigerung muss dabei die allgemeine Marktentwicklung herausgerechnet
+werden. Bezogen auf das Bodenrichtwertgefüge 2017 ergibt sich für diese Blockseite daraus ein
+rechnerischer Bodenrichtwert für 2019 von 1.260 €.
+Die Neuberechnung der Wohnlageneinstufungen unter Berücksichtigung der Aktualisierung der sta-
+tistischen Grundlagendaten hat bei einer der untersuchten 149 Blockseiten zu einer Abstufung und
+bei 15 Blockseiten zur Aufwertung geführt. Bei den übrigen 133 Blockseiten ergab die Neuberech-
+nung keine Veränderung der Wohnlageneinstufung.
+Die Ergebnisse dieser Überprüfungen sind im Kapitel 6 dargestellt.
+- 4 -
+3 Ersteinstufungen
+Insgesamt sind 121 einzelne Blockseiten erstmalig eingestuft worden. Hierunter fallen sowohl nicht
+eingestufte Blockseiten, die von Einwendern genannt wurden, als auch Blockseiten, die neu im ak-
+tuellen Straßenverzeichnis aufgeführt wurden. Grund für eine fehlende Wohnlageneinstufung war
+die bisher nicht vorhandene Wohnbebauung einer Blockseite. Auch neu gebaute Straßen mit einer
+Wohnbebauung fallen in diese Kategorie.
+Die Vorgehensweise für Neueinstufungen ist analog zur Vorgehensweise bei Einwendungen, es
+wurden also auch hier Datenrecherchen und die entsprechenden Wohnlageberechnungen durchge-
+führt.
+Insgesamt wurden von den 121 erstmalig eingestuften Blockseiten
+▪ 28 als gute Wohnlage und
+▪ 93 als normale Wohnlage eingestuft.
+Die Ergebnisse dieser Ersteinordnungen sind in Anlage 2 dargestellt.
+4 Weitere Aktualisierungen
+Seit der Aktualisierung 2017 haben sich auch Veränderungen in der Datengrundlage der Wohnla-
+gendatei, dem Regionalen Bezugssystem (RBS), ergeben. Hierunter fallen, neben den schon be-
+rücksichtigten Erweiterungen der im Wohnlagenverzeichnis aufzuführenden Straßen, auch Umbe-
+nennungen von Straßen. Diese wurden im Rahmen eines Abgleichs mit dem "Nachtrag zum Stra-
+ßen- und Gebietsverzeichnis" der Freien und Hansestadt Hamburg berücksichtigt.
+- 5 -
+5 Bewertungssystem des Hamburger Wohnlagenverzeichnisses
+Die aktuelle Wohnlageneinstufung für den Hamburger Mietenspiegel basiert auf einem Set von
+neun Indikatoren, die zur Bestimmung der Wohnlage eingesetzt werden. Diese Indikatoren fließen
+in eine Formel (Basis: logistische Regression) ein, die auf einer breit angelegten empirischen Über-
+prüfung verschiedener potenzieller Einflussfaktoren basiert.
+Dieser rechnerische Ansatz wurde gewählt, um die Wohnlageneinstufung für das gesamte Gebiet
+der Freien und Hansestadt Hamburg möglichst objektiv durchführen zu können und subjektive Be-
+urteilungen einzelner Nachfragegruppen (z. B. die unterschiedlichen Wohnpräferenzen von Fami-
+lien- oder Singlehaushalten) weitestgehend auszuschließen. Die Zuordnung zu einer Wohnlage be-
+ruht in Hamburg daher ausschließlich auf objektiv messbaren und erfassbaren Faktoren.
+Im Rahmen der umfassenden Aktualisierung 2017 wurde mithilfe multivariater statistischer Analy-
+sen untersucht, welchen Einfluss einzelne Indikatoren auf die Wohnlageneinstufung besitzen.
+Die Bestimmung wohnlagerelevanter Indikatoren basierten auf Regressionsanalysen mit einer Viel-
+zahl von möglichen Indikatoren, deren Einflüsse anhand von Referenzgebieten ermittelt und über-
+prüft wurden, die jeweils beispielhaft "normale" bzw. "gute" Wohnlagen repräsentierten.
+In die abschließende Fassung der Regressionsanalyse wurden neun Indikatoren einbezogen, die in
+der folgenden Tabelle mit ihrem Anteil an der Wohnlagenbewertung aufgeführt werden. Dieser An-
+teil zeigt die Bedeutung des jeweiligen Indikators für die Wohnlagenbewertung. Hierbei zeigt sich,
+dass insgesamt vor allem der Statusindex und der Bodenrichtwert zentrale Indikatoren für die Be-
+wertung einer Wohnlage darstellen. In diesen beiden Indikatoren spiegelt sich – mehr als bei den
+Entfernungsindikatoren – die "Beliebtheit" einer Wohnlage wider.
+Tab. 1 Indikatoren der Wohnlagenberechnung
+Indikator Anteil an der
+Wohnlagenbewertung
+Statusindex 26 %
+Bodenrichtwert 20 %
+Grünflächenanteil 16 %
+Einwohnerdichte 13 %
+Art der Straße (4+ Spuren) 11 %
+Entfernung zu U-/S-Bahn/AKN 6 %
+Lärmbelastung 5 %
+Entfernung zu Metrobusstation 3 %
+Entfernung zum Einzelhandel 1 %
+- 6 -
+Exkurs: Die Wohnlagenformel
+Die Wohnlagenformel wurde über eine logistische Regression ermittelt. Bei der logistischen Re-
+gression werden die Einflüsse unabhängiger Variablen (die Indikatoren der Wohnlagenberechnung)
+auf die abhängige Variable (die Wohnlage) bestimmt, wobei die abhängige Variable nur zwei Aus-
+prägungen aufweist ("normal" und "gut").
+Im Ergebnis der Regressionsanalyse ergibt sich die folgende Formel für die Wohnlagenberechnung
+der einzelnen Blockseiten:
+Wohnlagenwert= -6.4767 + 0.005508278 * Bodenrichtwert + 0.66670757 * Statusindex
+- 0.32665725 * Einwohnerdichte + 9.5424252 * Grünflächenanteil
+- 0.000249609 * Entfernung zu U-/S-Bahn/AKN
+- 0.000356267 * Entfernung Metrobus - 0.211552763 * Lärmbelastung
+- 3.79760281 * Art der Straße - 0.000804315 * Entfernung Einzelhandel
+Neben dem Basiswert (-6,4767) ist für jeden Indikator ein Steigungskoeffizient ermittelt worden.
+Der Steigungskoeffizient gibt an, um welchen Betrag sich der Wohnlagenwert verändert, wenn sich
+der dazugehörige Indikatorwert um den Betrag "1" ändert. So erhöht sich zum Beispiel mit jedem
+Euro beim Bodenrichtwert der Wohnlagenwert um 0,005508278 Punkte. Die Größe des Steigungs-
+koeffizienten hat dabei keinen Zusammenhang mit der Bedeutung des Indikators für die Wohnla-
+genberechnung. Die Bedeutung der Indikatoren ist in obiger Tabelle 1 dargestellt.
+Für die konkrete Wohnlagenberechnung müssen die für die einzelnen Indikatoren ermittelten Be-
+träge in die Formel eingetragen werden. Beispielhaft ist dies im Folgenden für die Blockseite
+Abendrothsweg 78-80 dargestellt:
+Wohnlagenwert= - 6.4767
++ 0.005508278 * 1230,427 (Bodenrichtwert)
++ 0.66670757 * 5,331 (Statusindex)
+- 0.32665725 * 19,07 (Einwohnerdichte)
++ 9.5424252 * 0,0447 (Grünflächenanteil)
+- 0.000249609 * 761 (Entfernung zu U-/S-Bahn/AKN)
+- 0.000356267 * 111 (Entfernung Metrobus)
+- 0.211552763 * 0,5 (Lärmbelastung)
+- 3.79760281 * 0 (Art der Straße)
+- 0.000804315 * 291 (Entfernung Einzelhandel)
+= - 2,517 => normale Wohnlage
+- 7 -
+5.1 Wohnlagen und Binnendifferenzierung
+Im Rahmen der Regressionsanalysen wurde für jede Blockseite ein Ergebniswert berechnet. In ei-
+nem nächsten Schritt wird der Ergebniswert mit dem im Jahr 2017 ermittelten Grenzwert vergli-
+chen. Blockseiten, die eine Ausprägung unterhalb dieses Grenzwertes aufweisen, erhalten die
+Wohnlagenzuordnung "normal", Blockseiten oberhalb des Grenzwertes werden als "gut" eingestuft.
+Der Grenzwert zwischen normaler und guter Wohnlage liegt bei -0,575.2 Über den Wohnlagenwert
+je Blockseite ist es außerdem möglich, auch innerhalb der beiden Wohnlagen "normal" und "gut"
+eine Abschätzung vorzunehmen, ob sich die Blockseite im unteren, mittleren oder oberen Bereich
+der jeweiligen Wohnlage befindet. Die Verteilung aller bewerteten Blockseiten ist in den folgenden
+Abbildungen ersichtlich. Abb. 1 zeigt die Gesamtspanne der Wohnlagenkennwerte alle bewerteten
+Hamburger Blockseiten. Die Abbildungen 2 und 3 stellen jeweils die Ausschnitte der Verteilung der
+normalen bzw. guten Wohnlagen dar. In den Detailansichten ist zum einen der Median aller Wohn-
+lagenkennwerte einer Wohnlageneinstufung gekennzeichnet. Innerhalb der Wohnlagenklassen be-
+finden sich genauso viele Blockseiten oberhalb wie unterhalb der ausgewiesenen Mediane. Eine
+Wohnlage am Median ist jeweils als durchschnittlich normale (Abb. 2) bzw. durchschnittlich gute
+Wohnlage (Abb. 3) zu werten. Zur weiteren Orientierung sind in den Detailansichten zusätzlich das
+obere und untere Quartil der Wohnlageneinstufungen abgegrenzt. Hier befindet sich jeweils ein
+Viertel der bewerteten Blockseiten oberhalb bzw. unterhalb dieser Quartilswerte.
+Abb. 1 Verteilung der Wohnlagenbewertungen nach Blockseiten
+Blockseiten
+250 Grenzwert -0,575
+Normale Wohnlagen GuteWohnlagen
+200
+150
+100
+50
+0
+864208642086420864202468024680246
+333332222211111---- 111112222
+---------------
+Wohnlagenwert
+Quelle: Wohnlagenverzeichnis 2017, Aktualisierung 2019
+www.analyse-konzepte.de
+2 Die Bedingungen zur Festlegung des Grenzwertes können dem Methodenbericht zum Wohnlagenverzeichnis 2017 ent-
+nommen werden.
+- 8 -
+Abb. 2 Verteilung der normalen Wohnlagenbewertungen
+Blockseiten
+250
+Normale Wohnlagen
+Median
+-5,865
+200
+150
+100
+50
+Quartilgrenze Quartilgrenze
+-9,612 -3,399
+0
+87654321098765432109876543210987654321
+33333333322222222221111111111---------
+-----------------------------
+Wohnlagenwert
+Quelle: Wohnlagenverzeichnis 2017, Aktualisierung 2019
+www.analyse-konzepte.de
+Abb. 3 Verteilung der guten Wohnlagenbewertungen
+Blockseiten
+180
+Gute Wohnlagen
+Median
+160 2,690
+140
+120
+100
+80
+60
+40
+Quartilgrenze Quartilgrenze
+20 0,925 4,949
+0
+5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5
+,0 ,0 ,1 ,2 ,3 ,4 ,5 ,6 ,7 ,8 ,9 ,0 ,1 ,2 ,3 ,4 ,5 ,6 ,7 ,8 ,9 ,0 ,1 ,2 ,3 ,4 ,5 ,6
+- 1 1 1 1 1 1 1 1 1 1 2 2 2 2 2 2 2
+Wohnlagenwert
+Quelle: Wohnlagenverzeichnis 2017, Aktualisierung 2019
+www.analyse-konzepte.de
+- 9 -
+6 Ergebnis der Einwendungen und Neubewertungen
+Die Ergebnisse der Neuberechnung für die Blockseiten mit Einwendungen sowie der Erstbewertun-
+gen sind in folgender Tabelle aufgelistet.
+Tab. 2 Einwendungen gegen bestehende Wohnlageneinstufungen sowie
+Ersteinstufungen (Stand 31.12.2018)
+Adresse Wohnlage 2017 Wohnlage 2019 Wohnlagenwert
+Abendrothsweg 015 - 041 gut gut 1,941
+Abendrothsweg 020 - 038 gut gut 1,172
+Abendrothsweg 044 - 050 gut gut 0,073
+Abendrothsweg 045 - 049 gut gut 0,739
+Abendrothsweg 054 - 060 gut gut 0,042
+Abendrothsweg 055 - 061 gut gut 0,709
+Abendrothsweg 064 - 064 gut gut 0,021
+Abendrothsweg 065 - 069 gut gut 0,649
+Abendrothsweg 071 - 073 gut gut 0,617
+Abendrothsweg 074 - 074 gut gut 0,000
+Abendrothsweg 078 - 080 normal normal -2,517
+Achter de Höf 001 - 021 normal normal -2,769
+Allhornring 004 - 051 gut gut 2,572
+Alsterdorfer Straße 059 - 085 gut gut 1,081
+Baron-Voght-Straße 214 - 228 gut gut 2,142
+Beim Schlump 021 - 036 normal normal -1,829
+Beim Schlump 084 - 090 gut gut 0,572
+Berner Heerweg 500 - 510 gut gut 0,189
+Blumenau 097a - 125 normal normal -0,789
+Bogenstraße 011 - 027 gut gut 1,728
+Bornstraße 016 - 033 gut gut 3,195
+Brookwisch 001 - 001 normal gut -0,045
+Brookwisch 002 - 020 normal normal -4,320
+Brookwisch 005 - 007 normal gut 1,228
+Brookwisch 015 - 017 normal gut 1,770
+Bullskamp 029 - 051 normal normal -1,413
+Bundesstraße 003 - 015 normal normal -2,987
+Bundesstraße 006 - 028 normal normal -6,252
+Bundesstraße 021 - 031 normal normal -3,330
+Bundesstraße 030 - 032 normal normal -3,281
+Bundesstraße 035 - 035 normal normal -3,092
+Bundesstraße 040 - 048 normal gut 0,002
+Bundesstraße 060 - 064 gut gut 1,564
+Bundesstraße 063 - 077 normal normal -0,952
+Bundesstraße 068 - 072 normal gut 1,643
+Bundesstraße 074 - 076 gut gut 1,617
+Bundesstraße 079 - 083 normal normal -0,982
+Bundesstraße 080 - 086 normal gut 1,530
+- 10 -
+Adresse Wohnlage 2017 Wohnlage 2019 Wohnlagenwert
+Bundesstraße 085 - 093 normal normal -0,938
+Bundesstraße 095 - 099 normal normal -1,124
+Bundesstraße 107 - 107 gut gut 3,971
+Chrysanderstraße 032 - 054 normal normal -1,017
+Dorotheenstraße 068 - 080 normal normal -2,385
+Eißendorfer Grenzweg 004 - 050a normal normal -3,063
+Eißendorfer Pferdeweg 005 - 017f normal normal -2,391
+Emil-Andresen-Straße 036a - 056 normal gut -0,409
+Eppendorfer Landstraße 088 - 112 gut gut 3,606
+Eppendorfer Weg 058 - 062 gut gut 2,707
+Eppendorfer Weg 176 - 180 gut gut 2,590
+Eppendorfer Weg 237 - 237 gut gut 0,460
+Falkenried 001 - 047 gut gut 1,032
+Fehsenfeldstraße 001 - 005 normal normal -0,906
+Fehsenfeldstraße 007 - 017 normal normal -1,077
+Fehsenfeldstraße 019 - 027 normal normal -1,194
+Foßholt 001 - 005 normal normal -1,648
+Foßholt 002 - 022 normal normal -2,139
+Friedrichsberger Straße 055 - 057 normal normal -6,385
+Garstedter Weg 020 - 072 normal gut 1,668
+Geesmoor 009 - 039 normal normal -5,034
+Grillparzerstraße 003 - 031 normal normal -1,155
+Grindelberg 029 - 079 normal normal -3,584
+Grindelhof 083 - 089 gut gut 4,038
+Große Brunnenstraße 018 - 034 gut gut 0,766
+Große Straße 111 - 205 normal normal -1,600
+Hebbelstraße 002 - 008 gut gut 1,409
+Heidberg 001 - 045 normal normal -5,306
+Heidberg 002 - 034 normal normal -5,495
+Heidberg 036 - 038 normal normal -5,257
+Heidberg 044 - 066 normal normal -4,320
+Heidberg 047 - 065 normal normal -4,337
+Heidekrautweg 001 - 013 gut gut 0,713
+Heideweg 001 - 015 normal gut 0,235
+Heideweg 002 - 008 normal gut 0,289
+Heidewinkel 002a - 016 gut gut 0,523
+Heinrich-Barth-Straße 001 - 015 gut gut 1,568
+Heinrich-Bomhoff-Weg 001 - 011 gut gut 3,062
+Hesten 002 - 016 gut gut 1,548
+Höltystraße 003 - 017 gut gut 1,298
+Horster Damm 175 - 355 gut gut 0,863
+Humboldtstraße 066 - 068 normal normal -5,219
+Hummelsbütteler Weg 002 - 010 normal normal -1,138
+Hummelsbütteler Weg 012 - 034 normal normal -0,910
+Immenhof 014 - 024 gut gut 1,057
+Islandstraße 002 - 014 normal normal -1,828
+Kanalstraße 024 - 042 gut gut 0,967
+- 11 -
+Adresse Wohnlage 2017 Wohnlage 2019 Wohnlagenwert
+Kippingstraße 002 - 032 gut gut 2,210
+Klosterallee 100 - 110 gut gut 5,043
+Koopstraße 001 - 021 gut gut 2,235
+Krögerstraße 002 - 046 normal normal -0,999
+Kümmellstraße 010 - 014 gut gut 4,197
+Kurvenstraße 002 - 020 normal normal -2,049
+Lasbeker Straße 001 - 015 normal normal -1,207
+Lasbeker Straße 002 - 016 normal normal -1,346
+Lastropsweg 025 - 037 normal gut -0,556
+Lattenkamp 002 - 070 gut gut 1,538
+Lattenkamp 003 - 009 gut gut -0,008
+Lattenkamp 013 - 029 gut gut 1,529
+Lattenkampstieg 001 - 003 normal gut -0,404
+Lattenkampstieg 002 - 004 gut gut 1,059
+Lehmweg 026 - 034 gut gut 3,925
+Lenaustraße 001 - 009 normal gut -0,055
+Lenaustraße 002 - 006 normal normal -2,428
+Lohkoppelweg 002 - 040 normal normal -2,675
+Lutterothstraße 024 - 028d normal normal -4,886
+Maria-Louisen-Stieg 002a - 018 gut gut -0,002
+Martinistraße 011 - 029 gut gut 1,387
+Martinistraße 012 - 030 gut gut 2,154
+Meiendorfer Straße 056a - 086 gut gut 0,304
+Mühlenkamp 034a - 040 normal normal -1,648
+Nigen Rägen 001 - 009 normal normal -4,595
+Nordalbingerweg 023 - 057e gut gut -0,182
+Paul-Sorge-Straße 115 - 163 normal normal -4,163
+Paul-Sorge-Straße 200 - 224o gut gut 0,587
+Plaggenhieb 002 - 008 normal normal -2,380
+Plaggenhieb 026 - 026 normal normal -3,001
+Preystraße 012 - 022 normal normal -1,727
+Redderblock 024 - 044 gut gut -0,430
+Rönneburger Stieg 001 - 027 normal normal -1,969
+Rönneburger Stieg 029 - 037 normal normal -2,082
+Schenefelder Diek 001 - 009 normal normal -1,251
+Schenkendorfstraße 033 - 037 gut gut 0,154
+Schlankreye 003 - 025 gut gut 1,419
+Schneehuhnkamp 002 - 014 normal normal -4,141
+Sonnenredder 001 - 011 normal normal -1,572
+Sonnenredder 015 - 025 normal normal -1,410
+Sonnenredder 027 - 037 normal normal -1,435
+Sonnenredder 045 - 051 normal normal -1,891
+Sonnenredder 048 - 070 normal normal -1,754
+Sonnenredder 053 - 059 normal normal -1,912
+Sonnenredder 002a - 044 normal normal -1,693
+Stadtbahnstraße 002 - 004 gut gut 1,281
+Sülldorfer Brooksweg 105 - 115 gut gut 0,991
+- 12 -
+Adresse Wohnlage 2017 Wohnlage 2019 Wohnlagenwert
+Tesdorpfstraße 011 - 022 gut gut 16,343
+Tierparkallee 005 - 031 normal gut -0,364
+Tornquiststraße 021 - 059 gut gut 1,559
+Uferstraße 011a - 019 normal normal -5,132
+Veltheimstraße 004 - 046 gut gut 0,731
+Von-Hutten-Straße 001 - 015 normal normal -4,356
+Widukindstraße 001 - 018 gut gut -0,149
+Wiesenstraße 026 - 046 gut gut 0,152
+Wilhelm-Bock-Weg 002 - 038 gut gut 0,722
+Windloh 001 - 025 gut gut 1,343
+Windloh 002 - 022a gut gut 1,456
+Windloh 024 - 038 gut gut 2,453
+Windloh 027 - 049 gut gut 2,326
+Windloh 042 - 054 gut normal -2,243
+Windloh 053 - 057 normal gut 3,553
+Ziehrerweg 002 - 032 normal normal -0,787
+Abelke-Bleken-Ring 001 - 044 nicht bewertet normal -22,464
+Abelke-Bleken-Ring 013a - 049b nicht bewertet normal -22,392
+Alexanderstraße 003 - 039 nicht bewertet normal -6,486
+Alte Ziegelei 009 - 056 nicht bewertet gut 6,424
+Alter Kirchdeich 004 - 004 nicht bewertet normal -22,588
+Am Grasbrookpark 001 - 001g nicht bewertet normal -1,653
+Am Lohmühlenpark 001 - 001 nicht bewertet normal -4,937
+Am Lohsepark 018 - 024 nicht bewertet normal -15,812
+Am Seggenried 001 - 013 nicht bewertet normal -10,107
+Am Wall 023 - 023 nicht bewertet normal -14,419
+Anne-Becker-Ring 001 - 005b nicht bewertet normal -2,750
+Anneliese-Tuchel-Weg 002 - 016 nicht bewertet normal -6,717
+Apfelbeerenring 011 - 026 nicht bewertet normal -4,785
+Bärentraubenweg 002 - 007 nicht bewertet normal -4,699
+Baumpieperweg 002 - 012 nicht bewertet normal -5,565
+Behnsrade 017a - 019d nicht bewertet normal -2,131
+Billstieg 001 - 013 nicht bewertet normal -30,516
+Binnenfeldredder 090a - 090k nicht bewertet normal -4,363
+Björnsonweg 039a - 039h nicht bewertet gut 9,524
+Blumeneschenhof 003 - 005 nicht bewertet normal -4,908
+Bramfelder Dorfplatz 004a - 014 nicht bewertet normal -9,764
+Curslacker Neuer Deich 057 - 057i nicht bewertet normal -5,699
+Cuxhavener Straße 545 - 545 nicht bewertet normal -5,579
+Dianaweg 001 - 001 nicht bewertet normal -1,613
+Distelfalterweg 011 - 011 nicht bewertet normal -4,789
+Domenica-Niehoff-Twiete 001 - 004 nicht bewertet gut 1,649
+Dovenfleet 001a - 001d nicht bewertet normal -8,604
+Dratelnstraße 032a - 032c nicht bewertet normal -19,768
+Eduard-Duckesz-Straße 002 - 008 nicht bewertet gut 1,476
+Eimsbütteler Chaussee 003 - 003 nicht bewertet normal -4,087
+- 13 -
+Adresse Wohnlage 2017 Wohnlage 2019 Wohnlagenwert
+Elfriede-Land-Weg 001 - 001 nicht bewertet gut 1,490
+Emma-Poel-Straße 002 - 012 nicht bewertet gut 1,590
+Emmi-Ruben-Weg 005a - 019f nicht bewertet normal -1,981
+Erika-Krauß-Twiete 002 - 004 nicht bewertet gut 1,093
+Eschenahornhof 002 - 010 nicht bewertet normal -4,298
+Eva-Rühmkorf-Straße 001 - 013 nicht bewertet gut 1,459
+Farnhornweg 077 - 077 nicht bewertet normal -7,961
+Felicitas-Kukuck-Straße 002 - 008 nicht bewertet gut 1,637
+Fischertwiete 001 - 002 nicht bewertet gut 0,563
+Flughafenstraße 064 - 082 nicht bewertet normal -1,389
+Forsmannstraße 019 - 019 nicht bewertet normal -1,767
+Frickestraße 020 - 024c nicht bewertet normal -0,773
+Fritz-Bringmann-Ring 002 - 054 nicht bewertet gut -0,276
+Gert-Marcus-Straße 015a - 017k nicht bewertet normal -4,566
+Glückel-von-Hameln-Straße 012 - 016 nicht bewertet gut 1,326
+Große Theaterstraße 025 - 025 nicht bewertet gut 5,711
+Gustav-Mahler-Platz 001 - 001 nicht bewertet gut 5,712
+Harders Kamp 001 - 001 nicht bewertet normal -14,373
+Harkortstraße 083 - 089 nicht bewertet gut 1,506
+Harkortstraße 097 - 111 nicht bewertet gut 1,512
+Heidelibellenweg 003 - 003 nicht bewertet normal -4,790
+Heidschnuckenring 009 - 019 nicht bewertet normal -5,131
+Heidschnuckenring 002a - 012 nicht bewertet normal -5,231
+Heinrich-Kock-Weg 001 - 018 nicht bewertet gut 1,416
+Helga-Feddersen-Twiete 002 - 005 nicht bewertet gut 1,614
+Hermine-Albers-Straße 005 - 005 nicht bewertet normal -7,835
+Holstenstraße 167 - 175 nicht bewertet normal -6,510
+Holzdamm 039 - 049 nicht bewertet gut -0,103
+Im Fischbeker Heidbrook 002a - 002d nicht bewertet normal -5,120
+Im Vogelkamp 001a - 017 nicht bewertet normal -12,160
+Jakobikirchhof 008 - 009 nicht bewertet gut -0,526
+Johann-Wenth-Straße 025 - 027 nicht bewertet normal -4,918
+Kiefernhof 001 - 008 nicht bewertet normal -4,350
+Kirschblütenhof 001 - 008 nicht bewertet normal -4,333
+Kleiner-Fuchs-Weg 004 - 004 nicht bewertet normal -5,570
+Kobestraße 001 - 007 nicht bewertet normal -15,782
+Köhnestraße 008a - 008b nicht bewertet normal -14,397
+Landkärtchenweg 004 - 005 nicht bewertet normal -5,579
+Leo-Leistikow-Allee 009 - 093 nicht bewertet normal -4,443
+Leuschnerstraße 093a - 105 nicht bewertet normal -8,772
+Liselott-Kreidelmeyer-Hof 001 - 008 nicht bewertet normal -6,148
+Löwenstraße 077 - 083c nicht bewertet normal -3,151
+Marie-Bautz-Weg 002 - 004 nicht bewertet normal -6,986
+Marienthaler Straße 185 - 185 nicht bewertet normal -2,815
+Maronenhof 002 - 010 nicht bewertet normal -4,314
+Mehlbeerenhof 007 - 007 nicht bewertet normal -4,857
+Meilerstraße 020 - 028 nicht bewertet normal -6,564
+- 14 -
+Adresse Wohnlage 2017 Wohnlage 2019 Wohnlagenwert
+Methfesselstraße 038 - 044 nicht bewertet normal -3,781
+Mittelweg 055 - 055 nicht bewertet gut 9,615
+Monetastraße 002 - 006 nicht bewertet gut 0,072
+Moorglockenring 004 - 013 nicht bewertet normal -4,813
+Mozartstraße 032 - 034c nicht bewertet normal -3,428
+Neßkatenweg 001 - 001 nicht bewertet normal -6,506
+Neue ABC-Straße 011 - 013 nicht bewertet gut 3,319
+Ochsenstieg 019 - 019 nicht bewertet normal -5,715
+Ochsenwerder Kirchendeich 001 - 001 nicht bewertet normal -22,591
+Oliver-Lißy-Straße 014 - 046 nicht bewertet normal -9,530
+Osdorfer Landstraße 151 - 155 nicht bewertet normal -7,085
+Osterfeld 001 - 042 nicht bewertet gut 0,266
+Papenreye 036 - 042 nicht bewertet normal -16,756
+Paul-Ehrlich-Straße 003 - 003 nicht bewertet gut 0,008
+Plaggenmoor 025 - 031 nicht bewertet normal -10,020
+Platz der Arbeiterinnen 001 - 002 nicht bewertet gut 1,579
+Poßmoorweg 041 - 041a nicht bewertet normal -5,350
+Rautenbergstraße 004 - 008 nicht bewertet gut 0,240
+Reeperbahn 042 - 042 nicht bewertet normal -8,624
+Rehrstieg 150a - 150h nicht bewertet normal -1,448
+Rotbergfeld 100 - 100j nicht bewertet normal -2,365
+Rotbuchenhain 006 - 018 nicht bewertet normal -9,888
+Sandbek 004a - 004b nicht bewertet normal -5,821
+San-Francisco-Straße 006 - 008 nicht bewertet normal -1,877
+Saseler Damm 014 - 014 nicht bewertet normal -2,676
+Schedestraße 002 - 024f nicht bewertet normal -0,792
+Schlenzigstraße 010a - 010f nicht bewertet normal -21,899
+Schleswiger Damm 127 - 127 nicht bewertet normal -3,741
+Shanghaiallee 021 - 021 nicht bewertet normal -15,740
+Sieker Landstraße 043a - 043g nicht bewertet normal -3,011
+Spechthain 002 - 068 nicht bewertet gut 5,330
+Steinstraße 016 - 016 nicht bewertet normal -4,764
+Stellbrinkweg 018 - 026 nicht bewertet normal -17,402
+Stiftstraße 067 - 067 nicht bewertet normal -6,536
+Storchenwiese 002a - 002b nicht bewertet normal -11,902
+Thadenstraße 001 - 001 nicht bewertet normal -6,709
+Torfstecherweg 004 - 006 nicht bewertet normal -4,713
+Überseeallee 006 - 008 nicht bewertet normal -15,028
+Versmannstraße 016 - 024 nicht bewertet normal -19,540
+Weißdornhof 001a - 008 nicht bewertet normal -4,364
+Wildbirnenhof 002 - 002 nicht bewertet normal -4,838
+Zaunwickenweg 008 - 012 nicht bewertet normal -10,137
+Zaunwickenweg 004a - 004b nicht bewertet normal -12,038
+Zum Wachtelkönig 024 - 024 nicht bewertet normal -9,907
+Zur Jenfelder Au 008 - 008a nicht bewertet normal -7,719
+Quelle: Wohnlagenverzeichnis 2019

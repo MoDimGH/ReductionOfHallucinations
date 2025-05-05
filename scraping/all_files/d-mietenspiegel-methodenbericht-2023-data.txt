@@ -1,0 +1,3880 @@
+unabhängig. kompetent. praxisorientiert.
+Expertise für Wohnungsmarkt und Stadtentwicklung
+Dokumentation zum
+Hamburger Mietenspiegel 2023
+Inhaltsverzeichnis
+Inhaltsverzeichnis
+Tabellenverzeichnis........................................................................................................III
+Abbildungsverzeichnis...................................................................................................IV
+1 Vorbemerkung ..................................................................................................... 1
+2 Vorgaben und Ablauf der Erhebung .................................................................. 2
+2.1 Vorgaben für die Erhebung................................................................................................................ 2
+2.2 Datenschutz................................................................................................................................................ 3
+2.3 Ablauf der Erhebung und Auswertung......................................................................................... 3
+2.4 Veröffentlichung und Online-Mietenspiegel............................................................................. 4
+3 Arbeitskreis Mietenspiegel ................................................................................. 5
+4 Datenschutz .......................................................................................................... 6
+5 Grundgesamtheit und Stichprobe ...................................................................... 7
+5.1 Tabellenaufbau ......................................................................................................................................... 7
+5.2 Grundgesamtheit..................................................................................................................................... 8
+5.3 Ziehung der Stichprobe .....................................................................................................................12
+6 Datenerhebung .................................................................................................. 17
+6.1 Mieterbefragung....................................................................................................................................17
+6.2 Vermieterbefragung.............................................................................................................................18
+6.3 Feldkontrollen .........................................................................................................................................19
+7 Datenbereinigung und -auswertung................................................................ 20
+7.1 Überblick ....................................................................................................................................................20
+7.2 Datenbereinigung .................................................................................................................................21
+7.3 Herstellung der Repräsentativität in Bezug auf den Vermietertyp...............................22
+7.4 Ausreißerbereinigung ..........................................................................................................................24
+7.5 Unzureichende Feldbesetzung .......................................................................................................25
+7.6 Feldbesetzung .........................................................................................................................................25
+7.7 Festlegung der Nettokaltmiete als Berechnungsgrundlage ............................................27
+7.8 Ermittlung der durchschnittlichen Nebenkosten ..................................................................27
+7.8.1 Durchschnittliche kalte Betriebskostenvorauszahlungen..................................................27
+Dokumentation Hamburger Mietenspiegel 2023 I
+Inhaltsverzeichnis
+7.8.2 Durchschnittliche Vorauszahlung für Heizung und Warmwasser.................................28
+7.9 Charakterisierung der ortsüblichen Vergleichsmiete ..........................................................29
+7.10 Berechnung der ortsüblichen Vergleichsmiete ......................................................................30
+7.10.1 Durchschnittliche Nettokaltmietwerte ........................................................................................30
+7.10.2 Spannenbildung beim Hamburger Mietenspiegel 2023 ...................................................30
+7.11 Mietenspiegeltabelle Hamburger Mietenspiegel 2023......................................................31
+7.12 Ausstattungsmerkmale .......................................................................................................................33
+7.12.1 Standardausstattung............................................................................................................................34
+7.12.2 Bessere Ausstattung.............................................................................................................................34
+8 Ergänzende Auswertungen ............................................................................... 36
+8.1 Mietenvergleich und Mietenstruktur im Hamburger Mietenspiegel 2023 ..............36
+8.2 Neuvertragsmietenanteil im Hamburger Mietenspiegel...................................................44
+8.3 Struktur der Nettokaltmieten nach Mietenstufen insgesamt und nach Wohnlage
+........................................................................................................................................................................46
+8.4 Mietenverteilung bei zwei Hamburger Normalwohnungen............................................48
+8.5 Alter der mietenspiegelrelevanten Verträge ...........................................................................48
+8.6 Mietveränderungserklärung mit Verweis auf den Hamburger Mietenspiegel.......52
+Anlage A: Förderprogramme ....................................................................................... 55
+Anlage B: Histogramme ............................................................................................... 57
+Anlage C: Analyse der Ausstattungsmerkmale ........................................................103
+Anlage D: Fragebögen ................................................................................................112
+Anlage E: Anschreiben der Behörde für Stadtentwicklung und Wohnen .............121
+Dokumentation Hamburger Mietenspiegel 2023 II
+Tabellenverzeichnis
+Tabellenverzeichnis
+Tabelle 1: Berechnungssystematik für die Grundgesamtheit des Hamburger
+Mietenspiegels 2023 ................................................................................................................................... 9
+Tabelle 2: Grundgesamtheit zum Hamburger Mietenspiegel 2023............................................11
+Tabelle 3: Bruttostichprobe nach Befragungsclustern.......................................................................14
+Tabelle 4: Verteilung der Bruttostichprobe nach Vermieterstruktur* ........................................14
+Tabelle 5: Substichprobe nach Befragungsclustern............................................................................15
+Tabelle 6: Feldverlauf Mieterbefragung - Stichprobenausschöpfung .......................................18
+Tabelle 7: Feldverlauf Vermieterbefragung - Stichprobenausschöpfung................................19
+Tabelle 8: Ergebnisse der Datenbereinigung im Hamburger Mietenspiegel 2023.............20
+Tabelle 9: Anteil der Vermietertypen an Grundgesamtheit nach Baualter, Wohnlage und
+Wohnungsgröße in %...............................................................................................................................23
+Tabelle 10: Ergebnisse der Ausreißerbereinigung im Hamburger Mietenspiegel 2023...24
+Tabelle 11: Feldbesetzung zum Hamburger Mietenspiegel 2023 vor und nach
+Ausreißerbereinigung ...............................................................................................................................26
+Tabelle 12: Durchschnittliche kalte Betriebskostenvorauszahlungen nach Baualter und
+Ausstattung in €/m² 2019 bis 2023 (ohne Kaltwasserkosten) .............................................28
+Tabelle 13: Durchschnittliche Vorauszahlungen für Heizung und Warmwasser nach
+Baualter und Ausstattung in €/m² 2023 im Vergleich zu 2021 ...........................................29
+Tabelle 14: Hamburger Mietenspiegel 2023 ..........................................................................................32
+Tabelle 15: Mietveränderungen Hamburger Mietenspiegel 2021 zu 2023 (gewichtete
+Mittelwerte) ...................................................................................................................................................41
+Tabelle 16: Entwicklung des arithmetischen Mittels und der Spannenwerte 2023 zu 2021
+in Euro/m² Wohnfläche ...........................................................................................................................42
+Tabelle 17: Entwicklung des arithmetischen Mittels und der Spannenwerte 2023 zu 2021
+in Prozent........................................................................................................................................................43
+Tabelle 18: Anteil der Neuvertragsmieten ...............................................................................................45
+Tabelle 19: Verteilung der Nettokaltmieten nach Wohnlage (Angaben in Prozent) * ......46
+Tabelle 20: Verteilung der mietenspiegelrelevanten Verträge nach durchschnittlichem
+Alter je Baualtersklasse (Angaben in Prozent) *..........................................................................50
+Tabelle 21: Verteilung der mietenspiegelrelevanten Verträge nach durchschnittlichem
+Alter und Wohnungsgrößenklassen (Angaben in Prozent) * ...............................................51
+Tabelle 22: Verteilung der mietenspiegelrelevanten Verträge nach durchschnittlichem
+Alter und Vermietertyp (Angaben in Prozent) *..........................................................................52
+Tabelle 23: Begründung der Mieterhöhung nach Baualtersklasse (Angaben in Prozent) *
+.............................................................................................................................................................................53
+Dokumentation Hamburger Mietenspiegel 2023 III
+Abbildungsverzeichnis
+Abbildungsverzeichnis
+Abbildung 1: Entwicklung der durchschnittlichen Nettokaltmiete von 1997 bis 2023
+(gewichteter Mittelwert)..........................................................................................................................40
+Abbildung 2: Mietenverteilung in Hamburg 2022 (Angaben in Prozent) * ............................47
+Dokumentation Hamburger Mietenspiegel 2023 IV
+Vorbemerkung
+1 Vorbemerkung
+Der vorliegende qualifizierte Hamburger Mietenspiegel 2023 wurde im Auftrag der Be-
+hörde für Stadtentwicklung und Wohnen, Amt für Wohnen, Stadterneuerung und Bo-
+denordnung durch das ALP Institut für Wohnen und Stadtentwicklung GmbH erstellt. Der
+Hamburger Mietenspiegel 2023 ist, wie seine Vorgänger, ein nach anerkannten wissen-
+schaftlichen Methoden erstellter „qualifizierter Mietspiegel“ gemäß § 558d BGB. Er wurde
+am 12. Dezember 2023 von der Behörde für Stadtentwicklung und Wohnen und von
+Interessenvertreterinnen und -vertretern der Vermieterinnen und Vermieter sowie der
+Mieterinnen und Mieter als qualifizierter Mietspiegel anerkannt.
+Der Mietenspiegel findet seine Grundlage im Bürgerlichen Gesetzbuch (BGB). Er stellt
+eine Übersicht der in Hamburg am 1. April 2023 – dem Stichtag der Erhebung – gezahlten
+Mieten für nicht preisgebundenen Wohnraum vergleichbarer Art, Größe, Ausstattung,
+Beschaffenheit und Lage einschließlich der energetischen Ausstattung und Beschaffen-
+heit dar. Nach den gesetzlichen Vorschriften sind in den Mietenspiegel nur solche Mieten
+einbezogen, die in den letzten sechs Jahren neu vereinbart (Neuverträge) oder, von einer
+Erhöhung nach § 560 BGB (Betriebskostenänderung) abgesehen, geändert worden sind
+(Mietänderungen). Die ausgewiesenen Mieten werden kurz „ortsübliche Vergleichsmie-
+ten“ genannt.
+Der Mietenspiegel bietet den Mietvertragsparteien bei bestehenden Mietverhältnissen
+die Möglichkeit, in eigener Verantwortung die ortsübliche Vergleichsmiete nach
+§ 558 BGB zu ermitteln, ohne selbst Vergleichsobjekte benennen oder erhebliche Kosten
+und Zeit für Gutachten aufwenden zu müssen. Die Mieterinnen und Mieter können an-
+hand des Mietenspiegels unproblematisch prüfen, ob ein Mietänderungsbegehren der
+Vermieterin oder des Vermieters gerechtfertigt ist.
+Das Gleiche gilt für Neuabschlüsse von Mietverträgen. Nach § 556d BGB darf die Miete
+zu Beginn des Mietverhältnisses in Gebieten mit einem angespannten Wohnungsmarkt
+die ortsübliche Vergleichsmiete grundsätzlich höchstens um 10 % überschreiten. Mit der
+Verordnung über die Einführung der Mietpreisbegrenzung nach § 556d BGB (Mietpreis-
+begrenzungsverordnung) wurde festgestellt, dass die Freie und Hansestadt Hamburg ein
+Gebiet mit einem angespannten Wohnungsmarkt im Sinne des § 556d Abs. 1 BGB ist. Die
+geltende Verordnung ist seit 1. Juli 2020 in Kraft.
+Der Gesetzgeber sieht vor, dass Mietenspiegel im Abstand von zwei Jahren der Markt-
+entwicklung angepasst werden sollen. Beim Hamburger Mietenspiegel 2023 handelt es
+sich um eine Fortschreibung auf Basis einer repräsentativen Zufallsstichprobe mit dem
+Erhebungsstichtag 1. April 2023.
+Dieser Methodenbericht dokumentiert die Arbeitsschritte und -ergebnisse der Erstellung
+des qualifizierten Hamburger Mietenspiegels 2023.
+Dokumentation Hamburger Mietenspiegel 2023 1
+Vorgaben und Ablauf der Erhebung
+2 Vorgaben und Ablauf der Erhebung
+2.1 Vorgaben für die Erhebung
+Die methodischen Rahmenbedingungen für die Erstellung des Mietenspiegels ergaben
+sich aus der Ausschreibung zum Hamburger Mietenspiegel 2023, sie orientierten sich an
+den bisherigen Methoden, die im Hamburger Mietenspiegel verwendet wurden (Metho-
+denkonstanz). Darüber hinaus wurden die neuen Anforderungen an die Mietspiegeler-
+stellung berücksichtigt, die sich aus dem Mietspiegelreformgesetz sowie der Mietspie-
+gelverordnung ergeben. Das Ziel ist eine hohe Akzeptanz bei den verschiedenen Woh-
+nungsmarktakteuren. Daher wurden die Rahmenbedingungen des neuen qualifizierten
+Hamburger Mietenspiegels auch im Arbeitskreis Mietenspiegel diskutiert.
+Folgende Vorgaben wurden für den qualifizierten Hamburger Mietenspiegel 2023 fest-
+gelegt:
+○ Tabellenmietenspiegel mit Original-Erhebungsdaten und einer angestrebten
+Mindestfeldbesetzung von 30 Mietwerten je Tabellenfeld für das gesamte Stadt-
+gebiet Hamburgs
+○ Ziehung einer disproportional geschichteten Zufallsstichprobe
+○ Ausfilterung des nicht-mietenspiegelrelevanten Wohnraums, z. B. Wohnraum, bei
+dem die Miethöhe durch Gesetz oder im Zusammenhang mit einer Förderzusage
+festgelegt worden ist
+○ Überarbeitung und Aktualisierung des Fragebogens
+○ Erstellung eines Konzepts zur Öffentlichkeitsarbeit (Pressemitteilungen, Informa-
+tionsschreiben)
+○ Durchführung einer empirischen Repräsentativerhebung von Mietdaten für ca.
+5.000 mietenspiegelrelevante Wohnungen (vollgültige Datensätze) in Hamburg,
+davon rund ein Drittel bei Mietern und zwei Dritteln bei Vermietern
+○ Manuelle Rücklaufkontrollen, unmittelbare Plausibilitätskontrollen (manuell und
+mittels skriptbasierter Prüfung) und zusätzliche Kontrollbefragungen
+○ Ermittlung der Nettokaltmiete unter Ausschluss sachfremder Zu- und Abschläge
+○ Berechnung der Mietkennwerte: Mittelwerte, Spannen und Spannweiten auf Basis
+der Nettokaltmiete für jedes Tabellenfeld der Hamburger Mietenspiegeltabelle
+○ Berechnung der durchschnittlichen Pauschalen für kalte Betriebskosten und Kos-
+ten für Heizung und Warmwasser
+○ Durchführung von Sonderauswertungen zu im Fragebogen enthaltenen Merkma-
+len und Fragestellungen
+○ Vergleich der Mietpreise mit dem vorangegangen Hamburger Mietenspiegel
+○ Darstellung der Mietenverteilung für alle Mietenspiegelfelder anhand von Dia-
+grammen, sogenannten Histogrammen
+○ Vorbereitung und Durchführung der Arbeitskreissitzungen mit Ergebnispräsenta-
+tion
+○ Einhaltung des Hamburger Datenschutzgesetzes und der Vorgaben des Hambur-
+gischen Beauftragten für Datenschutz und Informationsfreiheit
+Dokumentation Hamburger Mietenspiegel 2023 2
+Vorgaben und Ablauf der Erhebung
+2.2 Datenschutz
+Die Durchführung der Befragungen zum Hamburger Mietenspiegel 2023 und die weite-
+ren Arbeiten erfolgten auf Grundlage der von der Freien und Hansestadt Hamburg am
+24. November 2020 erlassenen Mietenspiegelbefragungsverordnung (HmbGVBl. 2020, S.
+588).
+Gemäß den Anforderungen des Datenschutzes wurde von ALP neben dem allgemeinen
+ALP-Datenschutzkonzept ein Löschkonzept erstellt (vgl. Kapitel 4). Die Mitarbeiterinnen
+und Mitarbeiter von ALP sind im Rahmen ihrer Tätigkeit auf die Einhaltung des Daten-
+schutzes verpflichtet.
+2.3 Ablauf der Erhebung und Auswertung
+Die Vorbereitungen zur Erstellung des Hamburger Mietenspiegels 2023 wurden im Ja-
+nuar 2023 begonnen. Auf der Grundlage des Hamburger Mietenspiegels 2021 erfolgte
+eine Überarbeitung der Befragungsunterlagen durch ALP. Durch das zum 1. Juli 2022
+vollständig in Kraft getretene Mietspiegelreformgesetz (MsRG) galt für die Erstellung des
+Hamburger Mietenspiegels 2023 im Rahmen der Erhebung erstmals eine Auskunfts-
+pflicht. Aufgrund der neu geltenden Auskunftspflicht und der positiven Erfahrungen mit
+der schriftlichen Befragung zum Mietenspiegel 2021 wegen der Corona-Pandemie wurde
+auf eine persönliche Befragung durch Interviewerinnen und Interviewer verzichtet: die
+Auftraggeberin hat sich stattdessen erneut für eine schriftliche Befragung entschieden.
+Die Fragebögen für die Mieterinnen und Mieter sowie für die Vermieterinnen und Ver-
+mieter wurden dem Arbeitskreis Mietenspiegel vorgestellt und Änderungswünsche auf-
+genommen.
+Auf Basis der von der Auftraggeberin zur Verfügung gestellten Daten wurde von ALP eine
+Datei mit der Erhebungsgrundgesamtheit aller mietenspiegelrelevanten Wohnungen für
+Hamburg erstellt. Mietenspiegelrelevant sind alle bis zum 31.12.2022 bezugsfertig ge-
+wordenen Hamburger Wohnungen in Mehrfamilienhäusern, die keine rechtlichen oder
+vertraglichen Mietpreisbindungen aufgrund einer Förderung mit öffentlichen Mitteln
+aufweisen. Aus der Erhebungsgrundgesamtheit wurde eine disproportionale Stichprobe
+mit 17.616 Wohnungen gezogen. Diese Stichprobe wurde auf eine Mieter- und eine Ver-
+mieterbefragung aufgeteilt. Im Rahmen der Mieterbefragung wurden einer Stichprobe
+in Höhe von 10.324 Mieterhaushalten ein Anschreiben der Behörde für Stadtentwicklung
+und Wohnen, Informationen zur Befragung und der Fragebogen zugesendet. In der Ver-
+mieterbefragung wurden 1.841 Vermieterinnen und Vermieter bzw. Verwalterinnen und
+Verwalter mit einem Stichprobenumfang von 7.292 Haushalten/Wohnungen angeschrie-
+ben.
+Die Befragung fand von Mitte Mai bis Mitte Juni 2023 statt, als Rückmeldefrist wurde im
+Anschreiben der 16. Juni 2023 genannt. Der Stichtag der Erhebung, auf den sich die er-
+hobenen Daten beziehen, ist der 1. April 2023. Nach Ablauf der Rückmeldefrist wurde
+Dokumentation Hamburger Mietenspiegel 2023 3
+Vorgaben und Ablauf der Erhebung
+eine Erinnerungsaktion durchgeführt, in der nochmals auf die Auskunftspflicht hingewie-
+sen wurde. Im Rahmen der Erinnerungsaktion wurde der 4. August 2023 als neue Rück-
+meldefrist angegeben, wobei auch später eingegangene Rückmeldungen berücksichtigt
+wurden.
+Für die eingegangenen Antworten wurde zunächst geprüft, ob die Mietverhältnisse für
+die Erstellung des Hamburger Mietenspiegels 2023 von Bedeutung sind. Anschließend
+erfolgte die Plausibilisierungsphase, in der widersprüchliche oder fehlende Angaben
+wenn möglich durch Rückfragen bei den Befragten korrigiert oder ergänzt wurden. Nach-
+dem danach die Repräsentativität des Rücklaufs hergestellt wurde, konnten die Durch-
+schnittsmieten und Spannen für die Tabellenfelder des Hamburger Mietenspiegels 2023
+berechnet werden.
+2.4 Veröffentlichung und Online-Mietenspiegel
+Im Rahmen einer Pressekonferenz der Behörde für Stadtentwicklung und Wohnen am
+12. Dezember 2023 wurde der qualifizierte Hamburger Mietenspiegel 2023 der Öffent-
+lichkeit vorgestellt. Mit dem Zeitpunkt der Veröffentlichung erlangt der Hamburger Mie-
+tenspiegel 2023 seine Rechtsgültigkeit.
+Parallel zur Pressekonferenz wurde der Online-Mietenspiegel unter
+www.mietenspiegel.hamburg.de veröffentlicht. Neben der Hamburger Mietenspiegelta-
+belle 2023 und der zugehörigen Broschüre, die zum Download bereitsteht, können Nut-
+zerinnen und Nutzer in einem gesonderten Abfragefenster das einschlägige Mietenspie-
+gelfeld für die eigene Wohnung ermitteln. Durch die Eingabe der Adresse zur Bestim-
+mung der Wohnlage, dem Baufertigstellungsdatum der Wohnung, der Wohnfläche so-
+wie der Ausstattung wird der Mittelwert sowie die Spanne des entsprechenden Mieten-
+spiegelfeldes aus der Mietenspiegeltabelle 2023 angezeigt. Die Bestimmung der ortsüb-
+lichen Vergleichsmiete kann dann anhand der Anwendungshinweise in der Broschüre
+zum Hamburger Mietenspiegel 2023 erfolgen.
+Dokumentation Hamburger Mietenspiegel 2023 4
+Arbeitskreis Mietenspiegel
+3 Arbeitskreis Mietenspiegel
+Die Vorbereitung, Durchführung und Auswertung der Erhebung wurde durch den Ar-
+beitskreis Mietenspiegel begleitet. Diesem gehören außer den Vertreterinnen und Ver-
+tretern der Behörde für Stadtentwicklung und Wohnen und von ALP Vertreterinnen und
+Vertreter folgender Verbände und Institutionen an:
+Als Vertreter der Mieterinteressen:
+○ Mieter helfen Mietern, Hamburger Mieterverein e.V.
+○ Mieterverein zu Hamburg von 1890 r.V. Landesverband im Deutschen Mieter-
+bund
+Als Vertreter der Vermieterinteressen:
+○ Grundeigentümer-Verband Hamburg von 1832 e.V.
+○ Immobilienverband Deutschland IVD Verband der Immobilienberater, Makler,
+Verwalter und Sachverständigen Region Nord e.V.
+○ Verband norddeutscher Wohnungsunternehmen Landesverband Hamburg e.V.
+○ Bundesverband Freier Immobilien- und Wohnungsunternehmen e.V. Landesver-
+band Nord e.V.
+Sonstige Institutionen und Personen:
+○ Richterinnen und Richter vom Landgericht und den Amtsgerichten Hamburgs
+○ Öffentliche Rechtsauskunft- und Vergleichsstelle (ÖRA)
+Die Mitwirkung bezog sich auf methodische und rechtliche Fragestellungen, wie etwa die
+Methodik der Datenerhebung sowie die Auswertung und Interpretation der Daten. Den
+Mitwirkenden wurden alle relevanten Unterlagen zur Verfügung gestellt, sodass eine ef-
+fektive und zielgerichtete Zusammenarbeit möglich war. Die Sitzungen wurden von Ver-
+treterinnen der Behörde für Stadtentwicklung und Wohnen geleitet.
+Dokumentation Hamburger Mietenspiegel 2023 5
+Datenschutz
+4 Datenschutz
+Die Datenschutzbestimmungen wurden von ALP bei der Erstellung des qualifizierten
+Hamburger Mietenspiegels 2023 strikt eingehalten. Neben den Festlegungen in der Mie-
+tenspiegelbefragungsverordnung der Freien und Hansestadt Hamburg wurden die da-
+tenschutzrechtlichen Belange in einem Datenschutz-, Datensicherungs- und Datenlösch-
+konzept festgelegt. Die Bearbeitung des Hamburger Mietenspiegels 2023 erfolgte nach
+den derzeit geltenden Vorschriften des Hamburgischen Datenschutzgesetzes (HmbDSG)
+und des Bundesdatenschutzgesetztes (BDSG).
+Die datenschutzrechtlichen Belange wurden von ALP u.a. durch folgende Maßnahmen
+gewährleistet:
+○ Die Nutzerkonten der mit der Erstellung des Hamburger Mietenspiegels betrau-
+ten Mitarbeiterinnen und Mitarbeiter sind mit individuellen Passwörtern gesi-
+chert. Auf die datenschutzrechtlich relevanten Grundlagen- und Erhebungsdaten
+hatten keine anderen Mitarbeitenden Zugriff.
+○ Bei ALP erfolgte die Bearbeitung der Erhebungsunterlagen tagsüber in abschließ-
+baren Büroräumen, außerhalb der Arbeitszeiten wurden die Unterlagen in einem
+gesonderten Datenschutzraum mit begrenztem Zugangsrecht gelagert.
+○ Die für die Befragung benötigten Hilfsmerkmale (Adresse, Telefonnummer der
+Befragten) wurden mit den Erhebungsdaten nur zur Zuspielung der Wohnlage
+und für eventuelle Rückfragen bei festgestellten Datenunstimmigkeiten ver-
+knüpft. Die zur Identifizierung des Befragten generierte Schlüssel-Kennung wurde
+nach Abschluss dieser Arbeiten gelöscht und es besteht keine Möglichkeit eines
+Rückschlusses aus dem Erhebungsdatensatz auf die befragte Person mehr.
+○ Nach Abschluss der Erhebung und den notwendigen Prüfkontrollen wurden die
+personenbezogenen Fragebögen gemäß den datenschutzrechtlichen Bestim-
+mungen vernichtet.
+○ Die Auswertung der Erhebungsdaten erfolgte auf Basis der anonymisierten Da-
+ten. Die Ausweisung der Ergebnisse erfolgt nur in aggregierter Form und orien-
+tiert sich hierbei an dem Tabellenraster des Mietenspiegels. Ein Rückschluss auf
+den Einzelfall ist hierdurch nicht möglich.
+Dokumentation Hamburger Mietenspiegel 2023 6
+Grundgesamtheit und Stichprobe
+5 Grundgesamtheit und Stichprobe
+Im Hamburger Mietenspiegel 2023 werden die Mieten des mietenspiegelrelevanten
+Wohnungsbestandes der gesamten Freien und Hansestadt Hamburg abgebildet. Um die
+Mietenentwicklung im mietenspiegelrelevanten Wohnungsbestand seit der letzten Mie-
+tenspiegelerstellung repräsentativ abzubilden, wurde eine neue Zufallsstichprobe gezo-
+gen (vgl. Kapitel 5.3). Die Stichprobe soll dabei die jeweilige Grundgesamtheit, also den
+mietenspiegelrelevanten Hamburger Wohnungsbestand, möglichst gut widerspiegeln
+und gleichzeitig den Befragungsaufwand so gering wie möglich halten.
+5.1 Tabellenaufbau
+Der Hamburger Mietwohnungsmarkt verändert sich, wie jeder andere Wohnungsmarkt
+auch, permanent. Es werden neue Wohnungen gebaut, es werden Wohnungen moder-
+nisiert, die Wohnungsausstattungen werden in vielen Fällen modernen, zeitgemäßen An-
+sprüchen angepasst. Auch die Wohnlagen der Wohnungen können sich verändern, z.B.
+durch Stadtentwicklungsmaßnahmen.
+Das Grundraster der Tabelle des Hamburger Mietenspiegels 2023 entspricht aufgrund
+des Fortschreibungscharakters des Mietenspiegels dem Aufbau der Mietenspiegeltabelle
+2021. Die Baualtersklassen blieben auf Wunsch des Arbeitskreises Mietenspiegel weit-
+überwiegend unverändert, mit Ausnahme der Baualtersklasse 2016 bis 2022, die um die
+neusten Jahre ergänzt wurde. Insgesamt bilden vier der Wohnwertmerkmale der ortsüb-
+lichen Vergleichsmiete die Struktur der Mietenspiegeltabelle:
+○ Größe der Wohnung, definiert durch Größenklassen
+○ Ausstattung, definiert durch Ausstattungskategorien
+○ Beschaffenheit der Wohnung, definiert durch Baualtersklassen
+○ Lage der Wohnung, definiert durch Wohnlagen Hamburgs
+Das fünfte Wohnwertmerkmal „Art“ wurde bereits über die Eingrenzung des mietenspie-
+gelrelevanten Wohnungsbestandes auf den Wohnungsbestand in Gebäuden mit drei
+und mehr Wohnungen festgelegt. Die Hamburger Mietenspiegeltabelle 2023 gliedert
+sich in neun Spalten, die durch die Baualters- und Ausstattungsklassen definiert werden:
+○ Spalte C: bis 31.12.1918, mit Bad und Sammelheizung
+○ Spalte F: 01.01.1919 bis 20.06.1948, mit Bad und Sammelheizung
+○ Spalte H: 21.06.1948 bis 31.12.1960, mit Bad und Sammelheizung
+○ Spalte I: 1961 bis 1967, mit Bad und Sammelheizung
+○ Spalte K: 1968 bis 1977, mit Bad und Sammelheizung
+○ Spalte L: 1978 bis 1993, mit Bad und Sammelheizung
+○ Spalte M: 1994 bis 2010, mit Bad und Sammelheizung
+○ Spalte N: 2011 bis 2015, mit Bad und Sammelheizung
+○ Spalte O: 2016 bis 2022, mit Bad und Sammelheizung
+Dokumentation Hamburger Mietenspiegel 2023 7
+Grundgesamtheit und Stichprobe
+Neben den neun Spalten wird die Hamburger Mietenspiegeltabelle 2023 durch neun
+Zeilen charakterisiert, die sich aus den vier bzw. fünf Größenklassen und den zwei Wohn-
+lagen ergeben:
+○ Zeilen 1 bis 4: normale Wohnlage;
+o 25 m² bis unter 41 m²
+o 41 m² bis unter 66 m²
+o 66 m² bis unter 91 m²
+o ab 91 m²
+○ Zeilen 5 bis 9: gute Wohnlage;
+o 25 m² bis unter 41 m²
+o 41 m² bis unter 66 m²
+o 66 m² bis unter 91 m²
+o 91 m² bis unter 131 m²
+o ab 131 m²
+Die Hamburger Mietenspiegeltabelle 2023 umfasst damit 81 Tabellenfelder.
+5.2 Grundgesamtheit
+Die Grundgesamtheit der mietenspiegelrelevanten Wohnungen besteht aus allen Ham-
+burger Wohnungen, die folgende Kriterien erfüllen:
+○ Lage in einem Mehrfamilienhaus (mehr als zwei Wohnungen)
+○ freifinanzierte Mietwohnungen
+○ Wohnungen mit einer Bezugsfertigkeit bis zum 31.12.2022
+Im Rahmen der Erstellung des Hamburger Mietenspiegels 2015 wurde die Grundgesamt-
+heit auf der Grundlage der Ergebnisse der Gebäude- und Wohnungszählung 2011 (Zen-
+sus 2011) neu berechnet. Für den Hamburger Mietenspiegel 2023 erfolgte auf Basis der
+Grundgesamtheit 2021 eine Fortschreibung. Für diese Fortschreibung wurden die fol-
+genden Daten herangezogen:
+○ Wohnungsneubau von Wohngebäuden mit drei und mehr Wohnungen der Jahre
+2021 und 2022 (Quelle: Statistisches Amt für Hamburg und Schleswig-Holstein)
+○ Geförderter Wohnungsneubau von Wohngebäuden mit drei und mehr Wohnun-
+gen der Jahre 2021 und 2022 (Daten der Behörde für Stadtentwicklung und Woh-
+nen und der Hamburgischen Investitions- und Förderbank)
+○ Sozialwohnungsbestand, der in den Jahren 2021 und 2022 aus der Mietpreisbin-
+dung gefallen ist (Quelle: Behörde für Stadtentwicklung und Wohnen und Ham-
+burgische Investitions- und Förderbank)
+○ Baufertigstellungen der Modernisierungsprogramme Mod A (mit Mietpreisbin-
+dung) und Mod B der Jahre 2021 und 2022 (Behörde für Stadtentwicklung und
+Wohnen und Hamburgische Investitions- und Förderbank)
+Dokumentation Hamburger Mietenspiegel 2023 8
+Grundgesamtheit und Stichprobe
+Der Wohnungsneubau 2021 und 2022 wurde durch einen geschätzten Anteil an selbst-
+genutzten Eigentumswohnungen verringert. Es wird wie bei der Berechnung der Grund-
+gesamtheit für den letzten Mietenspiegel davon ausgegangen, dass rund 1/3 der Woh-
+nungen in Gebäuden mit Eigentumswohnungen vermietet werden. Die Tabelle 1 zeigt
+die zusammengefasste Berechnungssystematik der Neuberechnung.
+Tabelle 1: Berechnungssystematik für die Grundgesamtheit des Hamburger Mietenspiegels 2023
+Freifinanzierter Wohnungsbestand in Gebäuden mit
+562.980 Wohnungen
+drei und mehr Wohnungen 2021
+Neubau von Wohnungen in Gebäuden mit drei und mehr
++9.124 Wohnungen
+Wohnungen 2021 und 2022
+Geförderter Wohnungsneubau in Gebäuden mit drei und
+-4.116 Wohnungen
+mehr Wohnungen 2021 und 2022
+Förderprogramm Mod A und B 2021 und 2022 -1.359 Wohnungen
+Bindungsende von geförderten Wohnungen in Gebäu-
++5.509 Wohnungen
+den mit drei und mehr Wohnungen 2021 und 2022
+Modernisierung von Wohnungen der Minderausstattung
++531 Wohnungen
+(ehemalige Spalten A, E und G)
+Grundgesamtheit Hamburger Mietenspiegel 2023
+568.851 Wohnungen
+(=Wohnungsbestand 31.12.2022)
+Die in den Jahren 2021 und 2022 ermittelten Fertigstellungen an Wohnungen in Gebäu-
+den mit drei und mehr Wohnungen mussten um die geförderten Neubaumietwohnun-
+gen mit Mietpreis- und Belegungsbindung verringert werden, da es sich hierbei um einen
+nicht mietenspiegelrelevanten Wohnungsbestand handelt. Weiterhin durften auch die im
+Rahmen der Modernisierungsprogramme Mod A (mit Mietpreisbindung) und Mod B in
+den Jahren 2021 und 2022 neu geförderten Wohnungen entsprechend nicht berücksich-
+tigt werden, da diese ebenfalls über eine Mietpreisbindung verfügen.
+In den Jahren 2021 und 2022 sind zudem Wohnungen aus der öffentlichen Bindung ge-
+fallen. Diese werden daher in der Grundgesamtheit 2023 neu als mietenspiegelrelevanter
+Wohnungsbestand berücksichtigt.
+Vor dem Hintergrund der fortschreitenden Wohnungsmodernisierung müssen entspre-
+chende Wohnungen der Minderausstattung aus den ehemaligen Mietenspiegelspalten
+A, B, E und G in den entsprechenden voll ausgestatteten Mietenspiegelspalten C, F und
+H berücksichtigt werden, wenn sie modernisiert wurden. Hier liegen keine amtlichen Sta-
+tistiken vor. Analog zum Vorgehen im Mietenspiegel 2021 wird davon ausgegangen, dass
+rund 6 % der minderausgestatteten Wohnungen in den Jahren 2021 und 2022 entspre-
+chend modernisiert wurden.
+Aus den Berechnungen ergibt sich die in der Tabelle 2 dargestellte Grundgesamtheit des
+mietenspiegelrelevanten Wohnungsbestands in der Freien und Hansestadt Hamburg im
+Raster der Mietenspiegeltabelle, die als Grundlage für die Berechnung von gewichteten
+Dokumentation Hamburger Mietenspiegel 2023 9
+Grundgesamtheit und Stichprobe
+Kennwerten für den gesamten mietenspiegelrelevanten Wohnungsbestand und von
+Wohnungsteilmärkten (vgl. Tabelle 2) dient.
+Dokumentation Hamburger Mietenspiegel 2023 10
+Grundgesamtheit und Stichprobe
+Tabelle 2: Grundgesamtheit zum Hamburger Mietenspiegel 2023
+01.01.19
+Baualtersklassen/ Bis 21.06.48 1961 bis 1968 bis 1978 bis 1994 bis 2011 bis 2016 bis
+bis
+Bezugsfertigkeit 31.12.1918 bis 1960 1967 1977 1993 2010 2015 2022
+20.06.48
+Mit Bad Mit Bad Mit Bad Mit Bad Mit Bad Mit Bad Mit Bad Mit Bad Mit Bad insge-
+und Sam- und Sam- und Sam- und Sam- und Sam- und Sam- und Sam- und Sam- und Sam- samt
+Ausstattung
+melheizung melhei- melhei- melhei- melhei- melhei- melhei- melhei- melhei-
+zung zung zung zung zung zung zung zung
+Wohn- Wohnfläche
+C F H I K L M N O
+lage
+25 m² bis
+1 5.400 4.600 17.600 8.300 9.400 1.600 1.400 < 1.000 1.600 50.700
+unter 41 m²
+normale 41 m² bis
+2 27.100 33.100 88.800 30.900 21.800 10.200 7.600 3.000 2.300 224.800
+Wohn- unter 66 m²
+lage 66 m² bis
+3 13.400 9.400 20.600 30.600 28.500 11.000 7.600 3.300 3.300 127.700
+unter 91 m²
+ab 91 m² 4 4.200 1.400 1.300 1.400 4.500 2.100 2.800 1.700 4.200 23.600
+25 m² bis
+5 2.500 < 1.000 5.200 3.500 1.900 < 1.000 < 1.000 < 1.000 < 1.000 15.600
+unter 41 m²
+41 m² bis
+6 12.500 5.600 15.900 7.800 3.900 2.800 2.400 < 1.000 < 1.000 52.300
+gute unter 66 m²
+Wohn- 66 m² bis
+7 8.600 5.800 11.800 6.500 4.600 2.500 3.200 < 1.000 2.200 46.000
+lage unter 91 m²
+91 m² bis
+8 6.000 2.600 3.000 1.100 1.200 1.200 2.000 < 1.000 1.800 19.300
+unter 131 m²
+ab 131 m² 9 5.800 < 1.000 < 1.000 < 1.000 < 1.000 < 1.000 < 1.000 < 1.000 < 1.000 8.500
+insgesamt 85.500 63.700 164.300 90.300 76.100 32.500 27.800 10.900 17.400 568.500
+Dokumentation Hamburger Mietenspiegel 2023
+11
+Grundgesamtheit und Stichprobe
+5.3 Ziehung der Stichprobe
+Der Hamburger Mietenspiegel 2023 ist eine Fortschreibung auf Basis einer neuen dis-
+proportionalen Zufallsstichprobe aus der mietenspiegelrelevanten Erhebungsgrundge-
+samtheit.
+Grundlage für die Stichprobenziehung war die Erhebungsgrundgesamtheit, die alle mie-
+tenspiegelrelevanten Wohnungen in Hamburg umfasst. Die genaue Abgrenzung dieses
+Wohnungsbestands ist aus den vorliegenden Grundlagendateien, die durch die Behörde
+für Stadtentwicklung und Wohnen und anderer Hamburger Behörden zur Verfügung ge-
+stellt wurden, nicht möglich. Ein wesentlicher Faktor der Abgrenzung der mietenspiegel-
+relevanten Befragungsgrundgesamtheit ist die 6-Jahresregel, nach der nur solche Mieten
+einbezogen werden, die in den letzten sechs Jahren neu vereinbart oder, von einer Erhö-
+hung nach § 560 BGB (Betriebskostenänderung) abgesehen, geändert worden sind. Für
+diesen Sachverhalt liegen keine Statistiken oder Datengrundlagen vor, da die Vertrags-
+bestandteile nur den Vertragspartnern bekannt sind. Die zur Verfügung gestellten Da-
+tengrundlagen enthalten ebenfalls keine Informationen zur Wohnungsgröße und zur
+Wohnungsausstattung, so dass diese Kriterien im Rahmen der Stichprobenziehung nicht
+berücksichtigt werden können.
+Für die Erarbeitung der Erhebungsgrundgesamtheit wurden folgende Dateien zur Verfü-
+gung gestellt:
+○ Datei mit allen aktuellen Hamburger Adressen (Quelle: Landesbetrieb Geoinfor-
+mation und Vermessung)
+○ Adressdatei des geförderten Wohnungsbestandes in Hamburg (Quelle: IFB)
+○ Stromzählerdatei mit der Zahl der privat genutzten Stromzähler (Quelle: Strom-
+netz Hamburg)
+○ Baujahresdatei (Quelle: Landesbetrieb Geoinformation und Vermessung)
+○ Datei mit den Studierenden- und Alterswohnheimen in Hamburg (Quelle: Inter-
+netrecherche und Behörde für Arbeit, Gesundheit, Soziales, Familie und Integra-
+tion)
+○ Abfallwirtschaftsdatei zur Ermittlung der Eigentümer und Verwalter (Quelle:
+Stadtreinigung Hamburg)
+○ Grundsteuerdaten (Quelle: Finanzbehörde Hamburg)
+○ Wohnlagendatei (Quelle: Analyse & Konzepte)
+Die aufgebaute Erhebungsgrundgesamtheit stellte die Grundlage für die Stichproben-
+ziehung dar, wobei eine Differenzierung nach Wohnlage und Baualtersklassen erfolgte
+(disproportionales Stichprobenkonzept). Diese Form der Schichtung nach Wohnlage und
+Baualtersklassen wurde angewandt, um auch in Befragungsclustern mit vergleichsweise
+kleinem Wohnungsbestand einen ausreichend hohen Rücklauf zu erhalten, mit dem sich
+die entsprechenden Felder der Mietenspiegeltabelle füllen lassen. Die Stichprobengröße
+wurde so angelegt, dass in jedem Befragungscluster ein ausreichend hoher Rücklauf er-
+wartet werden konnte.
+Dokumentation Hamburger Mietenspiegel 2023 12
+Grundgesamtheit und Stichprobe
+Insgesamt ergab sich auf Basis der zur Verfügung stehenden Datengrundlage eine Erhe-
+bungsgrundgesamtheit von rund 760.000 Wohnungen. Die Erhebungsgrundgesamtheit
+umfasste hierbei alle Wohnungen in Mehrfamilienhäusern, die keine rechtlichen oder
+vertraglichen Mietpreisbindungen aufgrund einer Förderung mit öffentlichen Mitteln
+aufweisen. Zusätzlich wurde die Grundgesamtheit um die Wohnheimplätze und die von
+Eigentümern selbst bewohnten Wohnungen (soweit entsprechende Angaben zur Verfü-
+gung standen) bereinigt. Die Zahl der Wohnungen in der Erhebungsgrundgesamtheit
+wurde aus der Zahl der Stromzähler abgeleitet. Diese Zahl ist höher als die Grundge-
+samtheit der Mietwohnungen in Hamburg. Die Differenz beträgt rund 190.000 Fälle.
+Gründe hierfür sind:
+○ Häufig findet sich neben den reinen Wohnungszählern auch noch ein Stromzäh-
+ler für Allgemeinstrom in den Wohnobjekten oder in anderen Gebäuden an den
+vorliegenden Adressen (z. B. Gartenhäuschen).
+○ Zusätzlich konnten beim Aufbau der Befragungsgrundgesamtheit die selbstnut-
+zenden Wohnungseigentümer – insbesondere in Wohneigentumsanlagen – nicht
+bereinigt werden, da zu diesem Zeitpunkt ein Abgleich zwischen Eigentümer und
+gemeldeten Personen aus datenschutzrechtlichen Gründen nicht erfolgen
+konnte.
+Aufgrund dieser Datenungenauigkeiten kommt es zu einer deutlichen Abweichung von
+der in Tabelle 2 ausgewiesenen Grundgesamtheit. Im Rahmen der Datenerhebung wird
+durch entsprechende Filterfragen eine Reduktion der Stichprobenfälle auf den mieten-
+spiegelrelevanten Wohnungsbestand gewährleistet.
+Aus diesen Datenbeständen wurde eine Stichprobe von 40.000 Wohnungen gezogen mit
+dem Grundprinzip von 2.000 Bruttostichprobenfällen pro Befragungscluster (vgl. Tabelle
+3).
+Dokumentation Hamburger Mietenspiegel 2023 13
+Grundgesamtheit und Stichprobe
+Tabelle 3: Bruttostichprobe nach Befragungsclustern
+Wohnlage
+Baualtersklasse
+Normal Gut Insgesamt
+Bis 1918 2.000 2.000 4.000
+1919 bis 1948 2.000 2.000 4.000
+1949 bis 1960 2.000 2.000 4.000
+1961 bis 1967 2.000 2.000 4.000
+1968 bis 1977 2.000 2.000 4.000
+1978 bis 1993 2.000 2.000 4.000
+1994 bis 2010 2.000 2.000 4.000
+2011 bis 2015 2.000 2.000 4.000
+2016 bis 2022 2.000 2.000 4.000
+ohne Baualtersinformation 2.000 2.000 4.000
+Insgesamt 20.000 20.000 40.000
+Tabelle 4: Verteilung der Bruttostichprobe nach Vermieterstruktur*
+Vermieter/Verwalter Wohnungsbestand
+Anteil in % Anteil in %
+Vermieterstruktur
+Befragungs- Befragungs-
+grundge- Stichprobe grundge- Stichprobe
+samtheit samtheit
+5.000 und mehr
+0,1% 0,2% 22,4% 14,1%
+Wohnungen
+1.000 bis 4.999
+0,7% 1,8% 24,8% 23,0%
+Wohnungen
+500 bis 999 Wohnungen 0,8% 1,9% 10,1% 11,4%
+weniger als 500
+98,4% 96,1% 33,4% 41,1%
+Wohnungen
+Kein Vermieter identifi-
+9,3% 10,4%
+ziert
+100,0% 100,0% 100,0% 100,0%
+Insgesamt
+13.697 5.623 759.823 40.000
+*Verteilung vor der Datenlieferung durch das Einwohnermeldeamt
+Die Bruttostichprobe von 40.000 Stichprobenfällen wurde an die Dataport AöR übermit-
+telt, die im Auftrag der Stadt Hamburg aus dem Melderegister zufällig gezogene volljäh-
+rige Personen auswählte und der Stichprobe zuspielte. Die von Dataport zurückgemel-
+dete Bruttostichprobe enthielt noch rund 39.000 Stichprobenfälle für die Datenerhebung
+zum Hamburger Mietenspiegel 2023. Durch die Festlegung der Zahl der Wohnungen an
+einer Adresse auf Basis der Stromzählerdatei wurden an einigen Adressen mehr Stich-
+probenfälle ausgewählt, als gemeldete Personen vorhanden waren. Daneben kann durch
+einen Wohnungswechsel eine Wohnung meldetechnisch leer stehen, obwohl vielleicht
+Dokumentation Hamburger Mietenspiegel 2023 14
+Grundgesamtheit und Stichprobe
+bereits ein neuer Mietvertrag besteht. Dieses führt zu einer Verringerung der Bruttostich-
+probe. Die Bruttostichprobe wurde um Datensätze mit fehlenden Angaben bereinigt. Zu-
+dem wurden Personen mit gleichem Nachnamen nur einmal befragt, da in diesen Fällen
+von gleichen Haushalten ausgegangen wurde.
+Aufgrund der erstmals geltenden Auskunftspflicht wurde ein deutlich besserer Rücklauf
+als bei der schriftlichen Erhebung zum Mietenspiegel 2021 erwartet. Aus der verbliebe-
+nen Bruttostichprobe wurde deshalb eine Substichprobe gezogen. Die Substichprobe
+wurde für jedes Cluster einzeln gezogen. Es wurde angestrebt, aus jedem Cluster 857
+Fälle in die Stichprobe aufzunehmen. Diese Anzahl sollte auf Grundlage des erwarteten
+Antwortverhaltens dazu führen, dass insgesamt eine bereinigte Nettostichprobe von
+mindestens 5.000 Datensätzen erreicht wird. Im Unterschied zur Erhebung zum Mieten-
+spiegel 2021 wurden Mieterinnen und Mieter sowie Vermieterinnen und Vermieter zeit-
+gleich zu zwei überlappungsfreien Stichproben befragt (Ausnahme sind hier nur die Kon-
+trollinterviews, siehe unten). Da der verwertbare Rücklauf zu ca. zwei Dritteln aus der
+Vermieterbefragung und zu einem Drittel aus der Mieterbefragung erzielt werden sollte
+und weil die unterschiedlichen Vermietertypen in einem repräsentativen Verhältnis in der
+Auswertung berücksichtigt werden, wurden die Substichproben nach Befragungscluster
+(siehe Tabelle 5) und Vermietertyp geschichtet gezogen. Die Schichtung der Substich-
+proben sollte das unterschiedliche Rücklaufverhalten der befragten Gruppen antizipie-
+ren. Die Schichtung und das unterschiedliche Antwortverhalten wurden im Rahmen der
+Auswertung durch die Herstellung der Repräsentativität (siehe Abschnitt 7.3) ausgegli-
+chen. Die Substichproben innerhalb der Cluster sollten 857 Fälle beinhalten. Wenn ein
+Schichtungskriterium nicht in ausreichender Zahl vorlag, fiel die Substichprobe kleiner
+aus. Sollten also zum Beispiel 300 städtische Wohnungen in einem Cluster befragt wer-
+den und es lagen nur 295 vor, reduzierte sich die Substichprobe um 5 Fälle.
+Tabelle 5: Substichprobe nach Befragungsclustern
+Wohnlage
+Baualtersklasse
+Normal Gut Insgesamt
+Bis 1918 857 852 1.709
+1919 bis 1948 857 857 1.714
+1949 bis 1960 857 857 1.714
+1961 bis 1967 857 856 1.713
+1968 bis 1977 857 850 1.707
+1978 bis 1993 857 857 1.714
+1994 bis 2010 857 857 1.714
+2011 bis 2015 857 846 1.703
+2016 bis 2022 857 857 1.714
+ohne Baualtersinformation 857 857 1.714
+Insgesamt 8.570 8.546 17.116
+Zusätzlich wurden 500 Wohnungen aus der Substichprobe gezogen, für die Kontrollbe-
+fragungen durchgeführt wurden, also die Befragung sowohl der Mieterinnen und Mieter
+Dokumentation Hamburger Mietenspiegel 2023 15
+Grundgesamtheit und Stichprobe
+als auch der Vermieterinnen und Vermieter. Die befragte Stichprobe beinhaltet dadurch
+insgesamt 17.616 Fälle. Davon wurden 10.324 Fälle in der Mieterbefragung und 7.292 in
+der Vermieterbefragung abgefragt. Für die Vermieterbefragung lagen sowohl Informati-
+onen zur Verwalterin bzw. zum Verwalter als auch zur Vermieterin bzw. zum Vermieter
+vor. Die Verwalterinnen und Verwalter wurden für die Befragung bevorzugt angeschrie-
+ben, wenn sowohl Vermieter- als auch Verwalterinformationen vorlagen.
+Während der Befragung meldeten Verwalterinnen und Verwalter zu insgesamt 381 Woh-
+nungen zurück, dass sie keine Informationen zu den angefragten Mietverhältnissen ha-
+ben und sich deshalb nicht an der Befragung beteiligt werden könne. Die Fälle wurden
+erneut kontaktiert, um nicht auf Rückmeldungen verzichten zu müssen. 332 der Fälle
+wurden in die Mieterbefragung übernommen, dadurch erhöhte sich die Bruttostichprobe
+der Mieterbefragung auf 10.656 Fälle. Die verbliebenen 49 Wohnungen wurden bei den
+Eigentümerinnen und Eigentümern direkt abgefragt.
+Dokumentation Hamburger Mietenspiegel 2023 16
+Datenerhebung
+6 Datenerhebung
+Die Datenerhebung wurde von ALP als eine kombinierte Mieter-/Vermieterbefragung
+vollständig in eigener Regie durchgeführt, wodurch eine besonders effiziente Datener-
+hebung und Ergebniskontrolle möglich war. Die Befragungen erfolgten schriftlich, mittels
+Online-Maske und als Datenbankabfrage aus den wohnungswirtschaftlichen Program-
+men der Unternehmen.
+Die Erhebungsmaterialien – Fragebogen (vgl. Anhang D) und Anschreiben (vgl. Anhang
+E) wurden in Abstimmung mit der Behörde für Stadtentwicklung und Wohnen von ALP
+erstellt und mit dem Arbeitskreis Mietenspiegel abgestimmt.
+6.1 Mieterbefragung
+Wie bereits beim Mietenspiegel 2021 wurde die Befragung der Mieterinnen und Mieter
+als rein schriftliche Befragung durchgeführt, wobei ebenfalls die Möglichkeit bestand,
+online an der Befragung teilzunehmen. Mieterinnen und Mietern wurde der Fragebogen
+postalisch zugesandt, die Zugangsdaten für die Online-Maske waren auf dem beigefüg-
+ten Anschreiben abgedruckt.
+Die von der Auftraggeberin oder anderen Behörden in Amtshilfe zur Verfügung gestell-
+ten Grundlagendaten ermöglichten nicht die Bereinigung der Stichprobe um alle nicht-
+mietenspiegelrelevanten Wohnungen. Insbesondere für die Sechs-Jahresregel liegen
+amtlicherseits keine Informationen vor: Hiervon haben nur die beiden Mietparteien
+Kenntnis. Im Fragebogen wurden deshalb zu Anfang Filterfragen gestellt, mit denen nicht
+mietenspiegelrelevante Wohnungen aussortiert wurden.
+Der Fragebogen konnte von den angeschriebenen Haushalten auch online ausgefüllt
+werden. Um ein mehrfaches Ausfüllen (schriftlich wie online) auszuschließen und sicher-
+zustellen, dass nur die Personen der Mieterstichprobe an der Befragung teilnehmen,
+wurde jeder von der Befragung betroffenen Person eine eigene Zugangskennung über-
+mittelt, die nach einmaliger Verwendung nicht erneut genutzt werden konnte. Insgesamt
+haben 41,6 % der Rückmeldenden diesen digitalen Weg gewählt. Die schriftliche Befra-
+gung bei den Mieterinnen und Mietern begann im Mai 2023. Insgesamt wurden 10.656
+Haushalte kontaktiert, davon wurden 3.991 Haushalte im Juli 2023 an die Befragung er-
+innert und erhielten die Befragungsunterlagen erneut.
+Dokumentation Hamburger Mietenspiegel 2023 17
+Datenerhebung
+Tabelle 6: Feldverlauf Mieterbefragung - Stichprobenausschöpfung
+Anzahl Anteil
+Stichprobenfälle in %
+Bruttostichprobe 10.656
+Stichprobenneutrale Ausfälle
+595
+(z.B. Brief nicht zustellbar)
+Bereinigte Bruttostichprobe 10.061 100 %
+Keine Rückmeldung 1.755 17,4 %
+Rückmeldung 8.306 82,6 %
+Ausschluss nach Filterfragen 3.535 42,6 %
+Davon:
+○ Selbstnutzende Eigentümer 1.448 41,0 %
+○ 6-Jahresregel 1.088 30,8 %
+○ Weniger als drei Wohnungen 116 3,3 %
+○ Andere Gründe (z.B. Mietpreisbin- 883 25,0 %
+dung, möblierte Wohnung)
+Mietenspiegelrelevant laut Filterfragen 4.771 57,4%
+6.2 Vermieterbefragung
+Die Vermieterbefragung erfolgte getrennt für zwei Gruppen. Hierbei wurde zwischen
+Vermieterinnen und Vermietern mit einem großen Wohnungsbestand und Eigentüme-
+rinnen und Eigentümern mit einem geringen Wohnungsbestand (Kleinvermieter/innen)
+unterschieden. Die Vermieterbefragung erfolgte via Online-Maske bei den Vermieterin-
+nen und Vermietern mit wenig Wohnungsbestand sowie als Datenbankabfrage aus den
+wohnungswirtschaftlichen Programmen der Wohnungsunternehmen.
+Die Bruttostichprobe umfasste 1.841 Eigentümerinnen und Eigentümer bzw. Vermiete-
+rinnen und Vermieter mit 7.341 Wohnungen, woraus 5.214 Daten vor der Datenbereini-
+gung gewonnen werden konnten. Insgesamt haben 1.484 Vermieterinnen und Vermieter
+mietenspiegelrelevante Daten geliefert.
+Der Fragebogen der Vermieterbefragung unterschied sich vom Mieterfragebogen nur
+redaktionell. Die erstellte Datenmaske für die elektronische Abfrage entsprach dem Fra-
+gebogen. Die Befragungsunterlagen wurden mit dem Arbeitskreis Mietenspiegel abge-
+stimmt.
+Dokumentation Hamburger Mietenspiegel 2023 18
+Datenerhebung
+Tabelle 7: Feldverlauf Vermieterbefragung - Stichprobenausschöpfung
+Vermieter nach Anzahl
+Insgesamt
+Stichprobenfälle
+Anzahl
+50 und Stich- Anteil in
+10 bis 49 Unter 10
+mehr proben- %
+fälle
+Bruttostichprobe
+○ Stichprobenfälle 1.921 2.227 3.193 7.341 100,0%
+○ Vermieter/in 17 120 1.739 1.876 100,0%
+Keine Rückmeldung
+○ Stichprobenfälle 122 807 337 1.266 17,2%
+○ Vermieter/in 3 46 224 273 14,6%
+Rücklauf
+○ Stichprobenfälle 1.799 1.420 2.856 6.075 82,8%
+○ Vermieter/in 15 74 1.577 1.603 85,4%
+Die Feldphase wurde von einer intensiven telefonischen Betreuung durch Mitarbeiterin-
+nen und Mitarbeiter von ALP begleitet, welche viele Fragen von Vermieterinnen oder
+Vermietern direkt beantworten konnten. Der Erhebungszeitraum erstreckte sich von Mai
+2023 bis Anfang September 2023.
+6.3 Feldkontrollen
+Die ausgefüllten Fragebogen, die entweder online oder als Papierfragebogen bei ALP
+eingegangen sind, wurden zunächst erfasst und für die weitere Verwertung aufbereitet.
+Die Daten wurden nachfolgend in einer ersten Prüfung auf Vollständigkeit der Angaben
+oder unplausible Kombinationen überprüft. Auftretende Datenlücken und Unplausibili-
+täten wurden durch Rückfragen bei den befragten Mieterinnen und Mietern sowie Ver-
+mieterinnen und Vermietern geklärt. Konnte keine Klärung erzielt werden, z. B. weil wich-
+tige Unterlagen nicht mehr vorlagen, wurden die Daten im weiteren Arbeitslauf der Er-
+stellung des Hamburger Mietenspiegels 2023 nicht mehr berücksichtigt.
+Zusätzlich erfolgte eine Kontrollerhebung auf der jeweils anderen Vertragsseite. Insge-
+samt lagen für 126 Wohnungen sowohl mieter- wie auch vermieterseitig Angaben vor.
+Die Kontrollbefragung ergab keine relevanten Abweichungen.
+Dokumentation Hamburger Mietenspiegel 2023 19
+Datenbereinigung und -auswertung
+7 Datenbereinigung und -auswertung
+7.1 Überblick
+Die bei Mieterinnen und Mietern sowie Vermieterinnen und Vermietern erhobenen Woh-
+nungsdaten wurden gemeinsam aufbereitet. Zur Auswertung des Datenmaterials wurden
+zusammengefasst folgende Schritte durchgeführt:
+○ Kennzeichnung und Ausfilterung nicht mietenspiegelrelevanter Wohnungen
+○ Prüfung der Datensätze durch IT-gestützte Plausibilitätskontrollen
+○ Abstellung auf den Mietbegriff der Nettokaltmiete
+○ Kennzeichnung der Daten mit dem zugehörigen Tabellenfeld des abgestimmten
+Mietenspiegelrasters
+○ Aufbereitung der repräsentativen Datenbasis aller mietenspiegelrelevanten Woh-
+nungen
+○ Durchführung einer Ausreißerbereinigung
+○ Durchführung von statistischen Zusatzanalysen
+Tabelle 8: Ergebnisse der Datenbereinigung im Hamburger Mietenspiegel 2023
+Absolut In %
+Eingegangene Rückmeldungen 13.520 100,0%
+Davon:
+Mieterbefragung 8.306 61,4%
+Vermieterbefragung 5.214 38,6%
+Abzüglich Kontrollbefragung 126 0,9%
+Unplausible bzw. nicht mietenspiegelrelevante Datensätze 7.534 55,7%
+Davon:
+- Filterfragen 3.676
+- 6-Jahresregel 1.711
+- Fehlende/unplausible Daten (Baujahr, Nettokaltmiete, etc.) 793
+- Wohnung kleiner als 25 m² 34
+- Herstellung der Repräsentativität in Bezug auf den Vermieter- 1.320
+typ
+Plausible und mietenspiegelrelevante Datensätze 5.860 43,3%
+Ausreißerbereinigung (95 %-Vertrauensintervall) 273 4,7%1
+Gering besetzte Felder (weniger als 10 Mietwerte, Spalte B) 68 1,2%1
+In die Mietenspiegeltabelle eingeflossene Datensätze 5.519 40,8%
+Nach der Befragung von Mieterinnen und Mietern sowie Vermieterinnen und Vermietern
+standen für die Erstellung des Hamburger Mietenspiegels 2023 13.520 Datensätze zur
+Verfügung (vgl. Kapitel 6). Im Rücklauf wurden zu Beginn die Kontrollbefragungen iden-
+tifiziert und aus der Datenbasis herausgenommen. Anschließend wurde sie um die Fälle
+1 Anteil bezieht sich auf die plausiblen und mietenspiegelrelevanten Datensätze
+Dokumentation Hamburger Mietenspiegel 2023 20
+Datenbereinigung und -auswertung
+bereinigt, die aufgrund der Filterfragen nicht für die Erstellung des Mietenspiegels in
+Frage kamen. Danach folgte eine IT-gestützte Plausibilitätskontrolle und Wohnungen mit
+zu kleiner Wohnfläche wurden aussortiert. Nachdem in einem weiteren Schritt sicherge-
+stellt wurde, dass die Vermietertypen im richtigen Verhältnis in die Tabellenfelder einge-
+hen, verblieben 5.860 Datensätze, die plausibel und mietenspiegelrelevant waren. Durch
+die Reduzierung des Datenpools um die Ausreißerwerte und die Daten in Tabellenfeldern
+mit weniger als zehn Datensätzen sind in die Mietenspiegeltabelle insgesamt 5.519 voll-
+gültige Datensätze eingeflossen, davon 3.093 vollgültige Mieterinterviews.
+7.2 Datenbereinigung
+Nach der Zusammenfassung der Daten und den während der Erhebung durchgeführten
+Überprüfungen zur Vollständigkeit und Plausibilität erfolgte eine IT-gestützte Datenbe-
+reinigung.
+Die von den Mieterinnen und Mietern sowie von den Vermieterinnen und Vermietern zur
+Verfügung gestellten Daten wurden von ALP auf inhaltliche Plausibilität überprüft und
+Unstimmigkeiten geklärt. Konnte keine Klärung erfolgen, wurde der Datensatz entspre-
+chend gekennzeichnet und nicht mehr in den weiteren Auswertungsschritten zum Ham-
+burger Mietenspiegel 2023 berücksichtigt. Gründe, die zu einem Ausschluss geführt ha-
+ben, waren:
+○ Es bestand kein Mietverhältnis (z. B. selbstnutzende Eigentümer),
+○ Mietverträge bzw. Mietänderungserklärungen außerhalb der 6-Jahresregel,
+○ Mietverhältnis ist aufgrund anderer Filterfrage nicht mietenspiegelrelevant,
+○ fehlende bzw. falsche Angaben zum Baualter,
+○ fehlende bzw. unplausible Angaben zu den Mietvertragsdaten,
+○ fehlende Angaben zur Miete, der Wohnfläche oder zu Ausstattungsmerkmalen,
+die für die Einordnung in das Mietenspiegelraster notwendig sind,
+○ unplausible Mietangaben,
+○ Wohnfläche ist kleiner als 25 m²,
+○ unlogische Datenkombinationen.
+Im Rahmen dieser Datenprüfungen wurden 7.534 Datensätze gekennzeichnet und in den
+weiteren Arbeitsschritten nicht mehr berücksichtigt.
+Zusätzlich erfolgte bei 126 Wohnungsdatensätzen eine Überprüfung der Angaben auf
+der jeweils anderen Vertragsseite. Für die beidseitigen Angaben konnten keine unerklär-
+baren Unstimmigkeiten in den Kontrollbefragungen festgestellt werden. Die 126 Woh-
+nungsdatensätze der Kontrollbefragung wurden entsprechend gekennzeichnet und in
+den weiteren Arbeitsschritten nicht mehr berücksichtigt.
+Dokumentation Hamburger Mietenspiegel 2023 21
+Datenbereinigung und -auswertung
+7.3 Herstellung der Repräsentativität in Bezug auf den Vermietertyp
+Nachdem die Datenbasis in Hinblick auf unvollständige und unplausible Datensätze be-
+reinigt wurde, konnte im nächsten Schritt die Repräsentativität der Datenbasis hergestellt
+werden. Es ist grundsätzlich so, dass das Antwortverhalten nicht für alle Vermietertypen
+gleich ist. Damit Vermietertypen, die zuverlässiger antworten, in der Auswertung des
+Mietenspiegels nicht überrepräsentiert werden, muss eine Anpassung erfolgen. Hierzu
+erfolgte eine Orientierung an Tabelle 9, die von der Behörde für Stadtentwicklung und
+Wohnen bereitgestellt wurde. In der Tabelle werden die Vermietertypen „kommunales
+Wohnungsunternehmen“ (SAGA), „Genossenschaften“ und „Andere“ sowie ihre Anteile
+in der Grundgesamtheit gegliedert in die Tabellenfelder des Hamburger Mietenspiegels
+ausgewiesen. Damit die Datenbasis in möglichst allen Tabellenfeldern repräsentativ ist,
+wurden für jedes Tabellenfeld getrennt nach Vermietertyp Stichproben für die Erstellung
+der Mietenspiegeltabelle gezogen.
+Die Größe der Stichprobe orientierte sich dabei am ausgewiesenen Anteil des Vermieter-
+typs im entsprechenden Tabellenfeld, sodass das Verhältnis der Vermietertypen in der
+Datenbasis so nahe wie möglich an dem in Tabelle 9 ausgewiesenen liegt. Für den am
+stärksten unterrepräsentierten Vermietertyp werden dabei alle Datensätze beibehalten.
+Die Größe der Stichproben der beiden verbliebenen Vermietertypen orientieren sich an
+der Zahl der Datensätze dieses Vermietertyps. So wird die Zahl der Datensätze, die durch
+das beschriebene Verfahren nicht weiter berücksichtigt werden, minimiert. Sollten für ei-
+nen Vermietertyp keine Datensätze zur Verfügung stehen, wurden die verbliebenen bei-
+den Vermietertypen in das zueinander passende Verhältnis gesetzt.
+Die in Tabelle 9 ausgewiesenen Prozentwerte werden in Feldern mit niedrigen Fallzahlen
+nur näherungsweise erreicht. Dies liegt daran, dass beispielsweise in einem Feld mit 20
+Datensätzen jeder Datensatz allein 5 % ausmacht. Je höher die Fallzahl, desto genauer
+wird der Zielwert erreicht.
+Dokumentation Hamburger Mietenspiegel 2023 22
+Datenbereinigung und -auswertung
+Tabelle 9: Anteil der Vermietertypen an Grundgesamtheit nach Baualter, Wohnlage und Wohnungsgröße in %
+Baualtersklasse Bis 1919 bis 21.6.1948 1961 bis 1968 bis 1978 bis 1994 bis 2011 bis 2016 bis
+31.12.1918 20.6.1948 bis 1960 1967 1977 1993 2010 2015 2022
+C F H I K L M N O
+SAGA 5% 18% 26% 39% 23% 18% 2% <1% <1%
+25 bis u.
+1 Genossenschaften 1% 11% 20% 18% 11% 3% 6% 11% <1%
+41 m²
+Andere 94% 71% 54% 43% 66% 79% 92% 89% 100%
+SAGA 4% 22% 24% 51% 21% 23% 6% 5% 13%
+41 bis u.
+l a 66 m²
+2 Genossenschaften 8% 18% 24% 17% 30% 22% 31% 22% 22%
+m Andere 88% 60% 52% 32% 49% 55% 63% 73% 65%
+r o SAGA 6% 22% 22% 50% 32% 32% 2% 1% 5%
+n 66 bis u.
+3 Genossenschaften 2% 24% 22% 22% 38% 25% 33% 26% 20%
+91 m²
+Andere 92% 54% 56% 28% 30% 43% 65% 73% 75%
+SAGA 9% 11% 10% 53% 31% 40% 2% <1% 2%
+ab 91 m² 4 Genossenschaften 2% 25% 30% 15% 35% 16% 22% 21% 21%
+Andere 89% 64% 60% 32% 34% 44% 76% 79% 77%
+SAGA 1% 2% 1% 1% <1% 1% 5% <1% <1%
+25 bis u.
+5 Genossenschaften 2% 6% 16% 4% <1% 2% 5% 17% 5%
+41 m²
+Andere 97% 92% 83% 95% 100% 97% 90% 83% 95%
+SAGA 1% 2% 1% <1% 1% 1% <1% <1% 3%
+41 bis u.
+6 Genossenschaften <1% 2% 23% 28% 2% 15% 9% 5% 3%
+66 m²
+Andere 99% 96% 76% 72% 97% 84% 91% 95% 94%
+SAGA 1% 2% <1% <1% <1% <1% <1% <1% 2%
+t 66 bis u.
+u 7 Genossenschaften <1% 6% 9% 40% 7% 11% 14% 5% <1%
+g 91 m²
+Andere 99% 92% 91% 60% 93% 89% 86% 95% 98%
+SAGA <1% 3% <1% <1% <1% <1% <1% <1% <1%
+91 bis u.
+8 Genossenschaften 1% 2% 5% 23% <1% 4% 12% 5% <1%
+131 m²
+Andere 99% 95% 95% 77% 100% 96% 88% 95% 100%
+SAGA <1% 3% <1% <1% <1% <1% <1% <1% <1%
+ab 131 m² 9 Genossenschaften 1% 2% 5% 23% <1% 4% 12% 5% <1%
+Andere 98% 95% 95% 77% 100% 96% 88% 95% 100%
+Quelle: Berechnung BSW auf Basis der Gebäude- und Wohnungszählung im Rahmen des Zensus 2011
+Dokumentation Hamburger Mietenspiegel 2023 2 3
+Datenbereinigung und -auswertung
+7.4 Ausreißerbereinigung
+Vor Ermittlung der Feldbesetzung für die einzelnen Tabellenfelder der Mietenspiegelta-
+belle und der Berechnung der Mietkennwerte erfolgte für jedes Tabellenfeld eine Berei-
+nigung um sogenannte Ausreißerwerte. Bei Ausreißerwerten handelt es sich um Miet-
+werte, die nicht als marktüblich anzusehen sind bzw. signifikant von den anderen Miet-
+werten eines Tabellenfeldes abweichen und deshalb nicht in die weitere Berechnung ein-
+bezogen werden sollen.
+Auf Wunsch der Auftraggeberin und in Absprache mit dem Arbeitskreis Mietenspiegel
+wurde für den Hamburger Mietenspiegel 2023 das gleiche statistische Verfahren zur Aus-
+reißerbereinigung wie im Hamburger Mietenspiegel 2021 angewendet. Die Kappungs-
+grenze wurde jedoch abweichend vom bisherigen Vorgehen auf das 95 %-Vertrauensin-
+tervall festgelegt. In der Vergangenheit wurde das 99 %-Vertrauensintervall verwendet.
+Im Ergebnis werden dadurch mehr Datensätze als Ausreißer klassifiziert.
+Bei diesem statistischen Verfahren werden nicht pauschal 5 % der Mietwerte bereinigt,
+sondern nur solche Mietwerte als Ausreißerwerte gekennzeichnet, die außerhalb des fest-
+gelegten Vertrauensintervalls liegen. Diese Bereinigung wurde für jedes Mietenspiegel-
+feld getrennt berechnet. Durch dieses Verfahren ergibt sich nicht zwangsläufig in jedem
+Tabellenfeld eine Ausreißerbereinigung, z. B. wenn bei einer Verteilung die erhobenen
+Mietwerte eng um den Mittelwert liegen, werden in der Regel keine Mietwerte als Aus-
+reißerwerte gekennzeichnet.
+Durch die Ausreißerbereinigung wurden 273 Mietwerte nicht mehr in den weiteren Ar-
+beitsschritten zur Erstellung des Hamburger Mietenspiegels 2023 berücksichtigt.
+Tabelle 10: Ergebnisse der Ausreißerbereinigung im Hamburger Mietenspiegel 2023
+absolut relativ
+Mietwerte vor der
+5.860 100,0%
+Ausreißerbereinigung 24
+Anzahl der von der Ausreißerbe- Insgesamt: 273
+reinigung betroffenen Mietwerte davon:
+4,7%
+239 am oberen Ende
+34 am unteren Ende
+Mietwerte nach
+5.587 95,3%
+Ausreißerbereinigung
+Anzahl der Mietenspiegelfelder in
+denen durch die Ausreißerbereini-
+63 von 81 77,8%
+gung Mietwerte aus der Datenaus-
+wertung ausgeschlossen wurden
+Dokumentation Hamburger Mietenspiegel 2023 24
+Datenbereinigung und -auswertung
+7.5 Unzureichende Feldbesetzung
+Nach der zuvor beschriebenen Datenbereinigung erfolgte eine Auswertung der verblie-
+benen Daten bzw. die Ermittlung der Zahl der Datensätze je Tabellenfeld des abgestimm-
+ten Tabellenrasters.
+In Tabellenfeldern, die eine Fallzahl von weniger als 10 Mietwerten aufweisen, erfolgte
+keine weitere Berechnung von Mietkennwerten, obwohl es sich um mietenspiegelrele-
+vante Wohnungen handelte. Dieses Vorgehen ist auch in anderen Mietspiegeln üblich,
+da die Aussagekraft der Datenbasis für diese Felder als zu gering gesehen wird.
+In den betroffenen Tabellenfeldern befanden sich insgesamt 68 Datensätze, die bei der
+weiteren Erstellung des Hamburger Mietenspiegels 2023 nicht mehr berücksichtigt wur-
+den (vgl. Tabelle 8).
+7.6 Feldbesetzung
+Im Hamburger Mietenspiegel 2023 konnte für die überwiegende Zahl der Tabellenfelder
+eine Feldbesetzung von 10 oder mehr vollgültigen Mietwerten erhoben werden (vgl. Ta-
+belle 11).
+Insgesamt konnten 70 Tabellenfelder bzw. 86 % aller Tabellenfelder im Hamburger Mie-
+tenspiegel 2023 ausgewiesen werden. In elf Tabellenfeldern bzw. 14 % aller Tabellenfel-
+der erfolgte keine Ausweisung.
+25
+Dokumentation Hamburger Mietenspiegel 2023 25
+Datenbereinigung und -auswertung
+Tabelle 11: Feldbesetzung zum Hamburger Mietenspiegel 2023 vor und nach Ausreißerbereinigung
+Bis 1919 bis 21.6.1948 bis 1961 bis 1968 bis 1978 bis 1994 bis 2011 bis 2016 bis Insgesamt
+Baualtersklasse
+31.12.1918 20.6.1948 1960 1967 1977 1993 2010 2015 2022
+Bad und Bad und Bad und Bad und Bad und Bad und Bad und Bad und Bad und
+Ausstattung Sammelhei- Sammelhei- Sammelhei- Sammelhei- Sammelhei- Sammelhei- Sammelhei- Sammelhei- Sammelhei-
+zung zung zung zung zung zung zung zung zung
+Wohn- Wohn- C F H I K L M N O
+lage fläche Vor Nach Vor Nach Vor Nach Vor Nach Vor Nach Vor Nach Vor Nach Vor Nach Vor Nach Vor Nach
+25 bis u.
+e 33 32 15 14 46 44 44 41 38 36 7 7 9 9 9 9 13 12 214 204
+g 41 m²
+a
+ln
+h 41 bis u.
+o 212 204 272 255 388 365 190 177 90 85 87 84 90 85 73 72 31 31 1.433 1.358
+W
+66 m²
+e
+la 66 bis u.
+m 150 145 79 73 142 134 176 167 122 117 60 55 143 132 101 99 120 114 1.093 1.036
+r o 91 m²
+N
+ab 91 m² 50 47 16 16 3 3 7 7 12 11 10 10 45 44 67 66 71 69 281 273
+26
+25 bis u.
+29 28 15 14 43 41 28 27 25 24 14 14 6 6 6 6 5 5 171 165
+41 m²
+e
+41 bis u.
+g 193 184 136 128 190 181 82 80 56 53 81 78 70 67 32 30 68 64 908 865
+a ln 66 m²
+h
+o 66 bis u.
+W 100 96 136 130 126 122 80 75 58 56 65 62 114 109 83 79 94 90 856 819
+e 91 m²
+t
+u
+G 91 bis u.
+177 169 92 91 35 34 13 13 33 31 55 53 92 86 85 82 80 77 662 636
+131 m²
+ab 131 m² 116 109 29 28 6 6 3 3 7 7 14 14 17 17 21 19 29 28 242 231
+Insgesamt 1.060 1.014 790 749 979 930 623 590 441 420 393 377 586 555 477 462 511 490 5.860 5.587
+Dokumentation Hamburger Mietenspiegel 2023 26
+Datenbereinigung und -auswertung
+7.7 Festlegung der Nettokaltmiete als Berechnungsgrundlage
+In Abstimmung mit dem Arbeitskreis Mietenspiegel wurde beim Hamburger Mietenspie-
+gel 2023, wie auch in den vorangegangenen Mietenspiegeln, die Nettokaltmiete zur Er-
+mittlung der Mietenspiegel-Kennwerte verwendet. Dies ist die Miete der Wohnung ein-
+schließlich gegebenenfalls erhobener Modernisierungszuschläge gemäß § 559 Abs. 1
+BGB ohne kalte Betriebskosten sowie ohne Kosten für Heizung und Warmwasser gemäß
+der Betriebskostenverordnung (BetrKV) sowie ohne Möblierungs-, Untermieterzuschläge
+und/oder Zuschläge für andere Nutzungen.
+7.8 Ermittlung der durchschnittlichen Nebenkosten
+Im Rahmen der Datenerhebung zum Hamburger Mietenspiegel wurden neben den Net-
+tokaltmieten auch die monatlichen Vorauszahlungen für die kalten Betriebskosten und
+die Vorauszahlungen für Heizung und Warmwasser erfasst. Es erfolgte keine Erhebung
+der tatsächlich gezahlten Betriebskosten gemäß der Betriebskostenabrechnung, sondern
+die am Stichtag der Datenerhebung gezahlte Vorauszahlung. Die auf dieser Datenbasis
+ermittelten durchschnittlichen Betriebskosten nach Baujahr und Ausstattung sind damit
+nur Richtwerte.
+Bei den nachfolgend ausgewiesenen Betriebskosten handelt es sich um Durchschnitts-
+werte ohne Differenzierung nach dem Umfang der enthaltenen Betriebskostenarten ge-
+mäß der Betriebskostenverordnung. D. h. es ist nicht bekannt, in welchem Umfang zum
+Beispiel Kosten für die Gartennutzung, Kosten für den Aufzug oder unterschiedliche
+Energiearten in den jeweiligen Vorauszahlungen enthalten sind.
+7.8.1 Durchschnittliche kalte Betriebskostenvorauszahlungen
+Die kalten Betriebskosten umfassen alle Betriebskosten (z B. Grundsteuer, Straßenreini-
+gung, Müllbeseitigung, Gebäudeversicherung) ohne die Kosten für Heizung und Warm-
+wasser. Die genaue Auflistung aller auf die Mieterin und den Mieter umlegbaren Be-
+triebskosten findet sich in § 2 der Betriebskostenverordnung (BetrKV). Die in Tabelle 12
+aufgeführten durchschnittlichen kalten Betriebskosten je m² Wohnfläche basieren auf
+den Betriebskostenvorauszahlungen der Mietenspiegelerhebung 2023 bei den Mieterin-
+nen und Mietern sowie Vermieterinnen und Vermietern. Die Kosten für Kaltwasser wur-
+den in der Berechnung nicht berücksichtigt, da ein Großteil der Haushalte diese direkt
+mit dem Versorger abrechnet. Die erfassten absoluten Betriebskostenvorauszahlungen
+wurden auf Betriebskosten je m² Wohnfläche umgerechnet. Wie auch bei den letzten
+Hamburger Mietenspiegeln wurden Werte unter 0,50 €/m² als unplausibel niedrige
+Werte nicht in der Auswertung berücksichtigt. Die durchschnittlichen kalten Betriebskos-
+ten sind in den Altbaubeständen bis 20.06.1948 weiterhin am niedrigsten. Die höchsten
+durchschnittlichen kalten Betriebskosten finden sich in den neueren Wohnungsbestän-
+den Hamburgs.
+Dokumentation Hamburger Mietenspiegel 2023 27
+Datenbereinigung und -auswertung
+Tabelle 12: Durchschnittliche kalte Betriebskostenvorauszahlungen nach Baualter und Ausstat-
+tung in €/m² 2019 bis 2023 (ohne Kaltwasserkosten)
+2023 2021 2019
+Baualtersklasse Spalte Ausstattung
+€/m² €/m² €/m²
+Bis 31.12.1918 C Bad und Sammelheizung 1,44 1,28 1,20
+1.1.1919 bis 1,61 1,28 1,23
+F Bad und Sammelheizung
+20.6.1948
+21.6.1948 bis 1,76 1,46 1,41
+H Bad und Sammelheizung
+31.12.1960
+1961 bis 1967 I Bad und Sammelheizung 1,96 1,54 1,45
+1968 bis 1977 K Bad und Sammelheizung 1,86 1,57 1,48
+1978 bis 1993 L Bad und Sammelheizung 1,83 1,51 1,51
+1994 bis 2010 M Bad und Sammelheizung 1,83 1,67 1,63
+2011 bis 2015 N Bad und Sammelheizung 2,12 1,73 1,85*
+2016 bis 2022 O Bad und Sammelheizung 2,11 1,86* 1,85*
+*Eingeschränkte Vergleichbarkeit, da Baualtersklassen in den Mietenspiegeln unterschiedlich zugeschnitten
+waren.
+7.8.2 Durchschnittliche Vorauszahlung für Heizung und Warmwasser
+Neben den Vorauszahlungen für die kalten Betriebskosten wurden im Rahmen des Ham-
+burger Mietenspiegels 2023 auch die Vorauszahlungen für Heizung und Warmwasser
+erhoben. Diese wurden auf Kosten je m² Wohnfläche umgerechnet.
+Dokumentation Hamburger Mietenspiegel 2023 28
+Datenbereinigung und -auswertung
+Tabelle 13: Durchschnittliche Vorauszahlungen für Heizung und Warmwasser nach Baualter und
+Ausstattung in €/m² 2023 im Vergleich zu 2021
+Baualters- 2023 2021
+klasse Ohne
+e
+t ZWV Ohne ZWV ZWV
+l a Ausstattung ZWV
+p
+S In In In In In In
+€/m² % €/m² % €/m² €/m²
+Bis Bad und Sammelhei- 1,70 34,9 1,52 38,2 1,26 1,10
+C
+31.12.1918 zung
+1.1.1919 1,59 28,2 1,51 38,5 1,24 1,09
+Bad und Sammelhei-
+bis F
+zung
+20.6.1948
+21.6.1948 1,68 23,5 1,58 46,3 1,36 1,08
+Bad und Sammelhei-
+bis H
+zung
+31.12.1960
+1961 bis Bad und Sammelhei- 1,84 34,3 1,36 29,5 1,37 1,05
+I
+1967 zung
+1968 bis Bad und Sammelhei- 1,61 30,9 1,59 59,0 1,23 1,00
+K
+1977 zung
+1978 bis Bad und Sammelhei- 1,63 35,8 1,51 36,0 1,20 1,11
+L
+1993 zung
+1995 bis Bad und Sammelhei- 1,48 39,6 1,24* 17,0 1,06 1,06
+M
+2010 zung
+2011 bis Bad und Sammelhei- 1,41 41,0 1,24* 24,0 1,00 1,00*
+N
+2015 zung
+2016 bis Bad und Sammelhei- 1,46 40,4 1,38* 40,8 1,04 0,98
+O
+2022 zung
+*Weniger als 30 Fälle. ** Eingeschränkte Vergleichbarkeit, da Baualtersklasse O im Mietenspiegel 2021 nicht
+die Baujahre 2021 und 2022 umfasst. ZWV= Zentrale Warmwasserversorgung
+7.9 Charakterisierung der ortsüblichen Vergleichsmiete
+Nach der Normierung der Daten auf den einheitlichen Begriff der Nettokaltmiete wurden
+die vorliegenden Daten entsprechend des mit dem Arbeitskreis Mietenspiegel abge-
+stimmten Tabellenrasters, das 81 Tabellenfelder umfasst, ausgewertet. Hierbei wurden
+nur Mietkennwerte für Tabellenfelder ermittelt, für die eine ausreichende Fallzahl von
+mindestens 10 Mietwerten vorlag (vgl. Kapitel 7.11). Die ortsübliche Vergleichsmiete wird
+in Form der durchschnittlichen Miethöhe und der jeweiligen Streuung und Spannweite
+der Mieten pro Feld beschrieben:
+○ arithmetischer Mittelwert nach Ausreißerbereinigung
+○ unterer und oberer Wert der 2/3-Spanne
+Dokumentation Hamburger Mietenspiegel 2023 29
+Datenbereinigung und -auswertung
+7.10 Berechnung der ortsüblichen Vergleichsmiete
+7.10.1 Durchschnittliche Nettokaltmietwerte
+In Abstimmung mit dem Arbeitskreis Mietenspiegel wird im Hamburger Mietenspiegel
+weiterhin das arithmetische Mittel als Mietkennwert ausgewiesen. Beim arithmetischen
+Mittel handelt es sich um das statistische Mittel aller vollgültigen mietenspiegelrelevan-
+ten Mietwerte. Die Berechnung dieser statistischen Kennwerte erfolgte nach der Ausrei-
+ßerbereinigung.
+7.10.2 Spannenbildung beim Hamburger Mietenspiegel 2023
+Die im Hamburger Mietenspiegel zur Bildung der Tabellenstruktur verwendeten Merk-
+male Baualter (Beschaffenheit), Wohnungsgröße, Ausstattung und Wohnlage entspre-
+chenden Wohnwertmerkmalen, welche durch die gesetzliche Regelung in § 558 BGB vor-
+gegeben sind. Durch die Ausweisung eines unteren und oberen Spannenwertes für jedes
+Tabellenfeld im Hamburger Mietenspiegel 2023 wird Unterschieden bei der ortsüblichen
+Vergleichsmiete innerhalb der Vergleichsgruppe eines Mietenspiegelfeldes Rechnung
+getragen. Die Gründe, die dazu führen, dass unterschiedlich hohe Mieten innerhalb eines
+Mietenspiegelfeldes gezahlt werden, sind:
+○ Unterschiedliche Qualitäten von weiteren Ausstattungsmerkmalen und die kon-
+krete Mikrolage innerhalb einer Wohnlage und eines Gebäudes führen dazu, dass
+sich in den durch die Mietenspiegelfelder definierten Wohnungsteilmärkten un-
+terschiedlich hohe Mieten ergeben.
+○ Zusätzlich beeinflussen weitere externe oder individuelle Kriterien, wie z. B. Dauer
+des Mietverhältnisses oder individuelle Wohnwünsche, die Höhe der Miete. Diese
+lässt der gesetzlich definierte Begriff der ortsüblichen Vergleichsmiete unberück-
+sichtigt.
+○ Darüber hinaus ist die ortsübliche Vergleichsmiete eine vom Gesetzgeber ge-
+wollte Mischung aus veränderten Bestandsmieten und Neuvertragsmieten. Beide
+Mietarten unterliegen aber erfahrungsgemäß unterschiedlichen Marktbedingun-
+gen. Bestandsmietenveränderungen erfolgen zumeist geprägt durch die gesetz-
+lichen Bestimmungen in Abhängigkeit vom Wohnwert der Wohnung, während
+sich Neuvertragsmieten, begrenzt durch die Mietpreisbremse, in ihrer Höhe an
+den Marktmieten orientieren, die im Regelfall über den ortsüblichen Vergleichs-
+mieten liegen.
+Durch die Spannenwerte sollen die ortsüblichen Vergleichsmieten abgebildet werden.
+Bei der „Üblichkeit“ handelt es sich um einen unbestimmten Rechtsbegriff, der vom Ge-
+setzgeber oder der Rechtsprechung bisher nicht konkret definiert wurde. Vor diesem
+Hintergrund ist auch die Spannenweite nicht gesetzlich festgelegt. Es ist jedoch vom Ge-
+setzgeber durch Anknüpfung an die üblichen Entgelte vorgesehen, dass nicht alle erho-
+benen Mietwerte für die Ausweisung der Mietkennwerte herangezogen werden sollen.
+Durch eine Ausreißerbereinigung und die Ausweisung eines unteren und oberen Span-
+nenwertes erfolgt vielmehr eine Verdichtung der Mietwerte auf das Übliche.
+Dokumentation Hamburger Mietenspiegel 2023 30
+Datenbereinigung und -auswertung
+In den „Hinweisen zur Erstellung von Mietspiegeln“ des Bundesinstituts für Bau-, Stadt-
+und Raumforschung (BBSR) im Bundesamt für Bauwesen und Raumordnung (BBR) wird
+kein genauer Wert für die Spannenweite angegeben. In der aktuellen Fassung aus dem
+Jahr 2020 heißt es, dass „in der Praxis [...] bei Tabellenmietenspiegeln häufig eine 2/3-
+Spanne als ‚üblich‘ angesehen“ werde. Die Mietspiegelverordnung gibt in § 15 Abs. 3 vor,
+dass „je ein Sechstel bis ein Achtel der nach Ausreißerbereinigung in einem Tabellenfeld
+verbliebenen Mieten am oberen und unteren Ende der größengeordneten Mieten unbe-
+rücksichtigt bleiben“ sollen.
+In Abstimmung mit dem Arbeitskreis Mietenspiegel wurde am Spannenmodell aus dem
+Hamburger Mietenspiegel 2021 festgehalten. Hierbei handelt es sich um die Ausweisung
+des unteren und oberen Wertes der 2/3-Spanne. Dies ist auch im Sinne der Mietspiegel-
+verordnung.
+7.11 Mietenspiegeltabelle Hamburger Mietenspiegel 2023
+In der nachfolgenden Tabelle 14 zum Hamburger Mietenspiegel 2023 sind der aus der
+empirischen Erhebung und der nachfolgenden Daten- und Ausreißerbereinigung ermit-
+telte arithmetische Mittelwert sowie die unteren und oberen Spannenwerte der 2/3-
+Spanne für jedes Mietenspiegeltabellenfeld mit einer Feldbesetzung von 10 und mehr
+Mietwerten dargestellt. Die Mittelwerte und Spannen in Mietenspiegelfeldern, die mit *
+markiert sind, haben wegen einer geringen Zahl an erhobenen Mietwerten nur eine be-
+dingte Aussagekraft (* = Feldbesetzung von 10 bis 29 Mietwerte). In alle anderen ausge-
+wiesenen Felder gingen mindestens 30 Mietwerte ein.
+Dokumentation Hamburger Mietenspiegel 2023 31
+Datenbereinigung und -auswertung
+Tabelle 14: Hamburger Mietenspiegel 2023
+Nettokaltmiete ohne Heizung und ohne Betriebskosten (in Euro/m²)
+Bis 1919 bis 21.6.1948 bis 1961 bis 1978 bis 1994 bis 2011 bis 2016 bis
+Baualtersklasse/Bezugsfertigkeit 1968 bis 1977
+31.12.1918 20.6.1948 1960 1967 1993 2010 2015 2022
+Bad und Sam- Bad und Sam- Bad und Sam- Bad und Sam- Bad und Sam- Bad und Sam- Bad und Sam- Bad und Sam- Bad und Sam-
+Ausstattung
+melheizung melheizung melheizung melheizung melheizung melheizung melheizung melheizung melheizung
+Wohnlage Wohnfläche C F H I K L M N O
+Mittelwert 13,06 10,22 9,53 9,01 9,94 17,57
+25 bis u. 41 m²
+1 Spanne 10,64-15,70 9,22-12,46 8,20-11,89 7,28-11,78 7,49-12,34 13,55-21,17
+e
+Anzahl 14* 12*
+g a ln
+h
+o
+41 bis u . 66 m²
+2
+M
+S
+it
+p
+t
+a
+e
+n
+lw
+n
+e
+e
+r t
+9,0
+1
+1
+1
+-
+,
+1
+2
+3
+8
+,9 6 7,92
+9
+-
+,3
+1
+8
+0 ,83 7,40
+8
+-
+,7
+1
+0
+0 ,62 6,7
+7
+6
+,5
+-8
+4
+,3 5 6,43
+8
+-
+,6
+1
+2
+1 ,39 6,89
+9
+-
+,3
+1
+3
+1 ,57 8,5
+1
+0
+0
+-
+,
+1
+2
+1
+0
+,7 9 10,0
+1
+0
+3
+-
+,4
+1
+3
+6 ,28 11,5
+1
+0
+4
+-
+,7
+1
+7
+8 ,96
+W Anzahl
+e Mittelwert 11,57 8,71 8,49 6,93 6,75 8,16 10,11 14,05 14,22
+la
+m 66 bis u. 91 m² 3 Spanne 8,97-14,71 7,10-10,00 7,27-9,99 6,11-8,03 5,88-7,87 6,63-9,96 8,49-11,86 11,43-16,87 11,89-16,98
+r o Anzahl
+N
+Mittelwert 10,80 9,19 6,40 8,00 11,82 13,89 14,65
+ab 91 m²
+4 Spanne 9,07-13,11 6,89-12,74 6,29-6,54 6,09-9,79 9,13-14,50 11,66-15,83 12,07-17,34
+Anzahl 16* 11* 10*
+Mittelwert 10,64 11,27 12,39 12,85 14,73 13,11
+25 bis u. 41 m²
+5 Spanne 6,60-15,02 9,64-13,03 9,49-14,72 10,64-15,21 12,00-17,14 10,90-15,94
+Anzahl 28* 14* 27* 24* 14*
+Mittelwert 12,82 11,09 10,16 10,57 11,98 11,28 12,35 14,57 16,73
+41 bis u. 66 m² 6 Spanne 10,57-15,32 8,87-13,33 7,35-12,62 7,97-13,12 9,28-14,47 8,32-14,38 10,29-14,19 12,26-17,32 12,58-20,44
+e
+g Anzahl
+a
+ln Mittelwert 13,62 12,00 11,13 9,21 11,05 11,40 12,58 14,16 15,27
+h
+o 66 bis u 91 m² 7 Spanne 11,04-16,30 9,30-14,67 8,82-14,00 6,81-11,52 7,94-13,66 8,55-14,03 10,00-15,20 11,37-17,02 12,08-17,62
+W
+e Anzahl
+t u Mittelwert 12,54 12,29 12,19 11,05 11,31 11,86 13,37 15,44 15,46
+G 91 bis u. 131 m²
+8 Spanne 10,13-15,27 10,00-15,30 10,07-15,11 8,61-13,61 9,20-12,96 8,44-14,74 10,23-16,13 12,75-18,98 12,65-17,69
+Anzahl 13*
+Mittelwert 12,94 12,73 12,96 14,85 18,44 18,10
+ab 131 m² 9 Spanne 10,84-15,74 10,42-14,52 9,10-15,96 12,07-17,40 14,61-22,45 15,41-20,13
+Anzahl 28* 14* 17* 19* 28*
+Bei Leerfeldern können aufgrund der zu geringen Datenbasis keine statistisch belastbaren Aussagen getroffen werden.
+*Für Felder mit weniger als 30 Datensätzen ist die Aussage eingeschränkt
+Dokumentation Hamburger Mietenspiegel 2023 32
+Datenbereinigung und -auswertung
+7.12 Ausstattungsmerkmale
+In der Mietenspiegeltabelle werden die wesentlichen Wohnwertmerkmale gemäß § 558
+BGB ausgewiesen. Daneben gibt es weitere Einflussgrößen, die es als gerechtfertigt er-
+scheinen lassen, den ausgewiesenen Mittelwert eines Tabellenfeldes um einen Zu- oder
+Abschlag zu erhöhen bzw. zu vermindern.
+Im Rahmen der Mietenspiegelerhebung wurden deshalb zahlreiche zusätzliche Ausstat-
+tungsmerkmale erhoben, die nicht zur Einordnung in das Mietenspiegeltabellenraster
+benötigt wurden. Die Datenerhebung diente als Grundlage, welche Ausstattungsmerk-
+male in den einzelnen Wohnungsmarktsegmenten (Tabellenfeldern) üblicherweise als
+„normale Ausstattung“ oder Merkmale der überdurchschnittlichen bzw. „besseren Aus-
+stattung“ angesehen werden können.
+Im Rahmen der Datenanalyse wird für jedes erhobene Ausstattungsmerkmal überprüft,
+wie hoch der Anteil im jeweiligen Tabellenfeld des Hamburger Mietenspiegels 2023 ist.
+Im Hamburger Mietenspiegel gilt ein Ausstattungsmerkmal als „normal“, wenn mindes-
+tens 2/3 der Wohnungen dieses Ausstattungsmerkmal aufweisen. Neben der feldweisen
+Betrachtung erfolgt die Analyse differenziert nach Baualter und Wohnlage. Diese sachli-
+che Zusammenfassung führt, in Abstimmung mit der Behörde für Stadtentwicklung und
+Wohnen und dem Arbeitskreis Mietenspiegel, zur Festlegung der in der Mietenspiegel-
+broschüre ausgewiesenen Ausstattungsmerkmale der Standardausstattung sowie der
+besseren Ausstattung.
+Die in der Mietenspiegelbroschüre ausgewiesenen Ausstattungsmerkmale sollen dem
+Anwender des Hamburger Mietenspiegels eine Hilfestellung zur Einordnung einer Woh-
+nung innerhalb der ausgewiesenen Mietenspanne geben.
+Maßgeblich ist die Ausstattung der Wohnung, wie sie von der Vermieterin oder vom
+Vermieter gestellt wird. Von der Mieterin oder von dem Mieter geschaffene Ausstat-
+tungsmerkmale bleiben unberücksichtigt.
+Die Tabelle geht von zwei Ausstattungsklassen aus:
+○ Wohnungen mit Bad oder mit Sammelheizung (nicht ausgewiesen),
+○ Wohnungen mit Bad und mit Sammelheizung.
+Unter einem Bad ist ein Wannen- oder Duschbad in einem besonderen Raum (mit oder
+ohne WC) in der Wohnung zu verstehen. Ein Bad wird in der Regel dann einen geringeren
+Mietwert haben, wenn aufgrund der Größe des Bades der Bewegungsradius erheblich
+eingeschränkt ist sowie ein Waschbecken fehlt. Sammelheizungen sind alle Heizungsar-
+ten, bei denen die Wärme- und Energieversorgung von einer zentralen Stelle aus erfolgt
+und die sämtliche Wohnräume sowie Küche und Bad angemessen erwärmen. Baualters-
+typische Besonderheiten sind zu berücksichtigen. Gleichzusetzen sind alle Etagen- und
+Dokumentation Hamburger Mietenspiegel 2023 33
+Datenbereinigung und -auswertung
+Wohnungsheizungen, die automatisch, also ohne Brennstoffnachfüllung von Hand, ar-
+beiten. Dabei können Nachtstromspeicherheizungen niedriger bewertet werden als an-
+dere Zentralheizungsarten.
+Die in Kapitel 7.12.1 und 7.12.2 aufgeführten Merkmale sind nicht Bestandteil des quali-
+fizierten Mietenspiegels. Es muss berücksichtigt werden, dass diese Merkmalsauflistung
+nicht abschließend ist und im Einzelfall weitere Merkmale bei der Spanneneinordnung
+herangezogen werden können. Die Übersicht der Auswertungsergebnisse für die erho-
+benen Ausstattungsmerkmale findet sich in der Anlage C.
+7.12.1 Standardausstattung
+Wesentliche Merkmale einer normal ausgestatteten Wohnung sind nach Abstimmung
+mit der Behörde für Stadtentwicklung und Wohnen und dem Arbeitskreis Mietenspiegel
+außer den in der Mietenspiegeltabelle genannten Ausstattungen:
+○ Wohnungen der Spalten C bis I: Küche mit einer Mindestausstattung (Spüle, Herd)
+und zusätzlichen Stellflächen; bei Wohnungen unter ca. 50 m² sind auch Kochni-
+schen ausreichend; Wohnungen der Spalten K bis O: Einbauküchen
+○ Warmwasserversorgung in Bad und Küche;
+○ Wohnungskaltwasserzähler – es sei denn, es liegt eine Ausnahmegenehmigung
+vor;
+○ Fußboden aus Dielen, Steinholz oder mit Linoleum, Kunststoff oder gleichwerti-
+gem Belag, in Küche, Bad und WC auch aus keramischen Platten oder Steinzeug;
+○ Abstellflächen innerhalb und/oder außerhalb der Wohnung;
+○ Aufzug in Gebäuden ab dem sechsten Geschoss;
+○ überwiegend Isolierverglasung oder Doppelfenster;
+○ Kabel- / Satellitenanschluss;
+○ Gegensprechanlage mit Türöffner;
+○ Balkon, Loggia oder Terrasse
+Je nach Baualtersklasse können auch Arbeitsfläche und Schrankraum in der Küche sowie
+Wandfliesen in Küche, Bad und WC zur Normalausstattung gehören.
+7.12.2 Bessere Ausstattung
+Wohnungen mit einer besseren Ausstattung als die einer normal ausgestatteten Woh-
+nung oder mit einer entsprechenden Modernisierung können preislich oberhalb des in
+der Mietenspiegeltabelle angegebenen arithmetischen Mittels liegen. Nach Abstimmung
+mit der Behörde für Stadtentwicklung und Wohnen und dem Arbeitskreis Mietenspiegel
+wurden die folgenden Merkmale als Beispiele der besseren Ausstattung für bestimmte
+Wohnungsmarktsegmente im Hamburger Mietenspiegel genannt:
+○ Großzügige Badausstattung, z. B. zusätzliches Duschbad, zweiter Waschplatz,
+zweites WC (Gäste-WC), Bidet, aufwändige Fliesen, Ausnahmen: Wohnungen ab
+Dokumentation Hamburger Mietenspiegel 2023 34
+Datenbereinigung und -auswertung
+91 m² in den Spalten L, M, N und O sowie in Wohnungen ab 131 m² in guter
+Wohnlage insgesamt (da Normalausstattung);
+○ Bad mit Fenster, Ausnahmen: Wohnungen der Spalte F (da Normalausstattung);
+○ Zusätzliche Ausstattung der Küche, z. B. Geschirrspüler, Kühlschrank, Tiefkühl-
+schrank, Ausnahmen: Wohnungen der Spalten N und O, der Spalte M in guter
+Wohnlage sowie Wohnungen ab 91 m² der Spalte L in guter Wohnlage (da Nor-
+malausstattung);
+○ Aufzug bei Wohnungen in bis zu fünfgeschossigen Häusern, Ausnahmen: Woh-
+nungen der Spalten N und O (da Normalausstattung);
+○ Fahrradkeller / überdachter Fahrradstellplatz, Ausnahmen: Wohnungen der Spal-
+ten N und O, Wohnungen ab 91 m² in der Spalte F, Wohnungen ab 66 m² in der
+Spalte L und Wohnungen ab 41 m² in der Spalte M (da Normalausstattung).
+Dokumentation Hamburger Mietenspiegel 2023 35
+Ergänzende Auswertungen
+8 Ergänzende Auswertungen
+8.1 Mietenvergleich und Mietenstruktur im Hamburger Mietenspiegel 2023
+Zum Vergleich der Mietenspiegel wird die gewichtete Durchschnittsmiete ermittelt. Diese
+Kennzahl setzt sich aus den durchschnittlichen Nettokaltmieten bzw. Mittelwerten der
+Mietenspiegelfelder gewichtet mit dem jeweiligen Wohnungsbestand zusammen. Die
+gewichtete Durchschnittsmiete ist ein statistischer Kennwert, der dazu dient, das allge-
+meine Mietniveau für den gesamten mietenspiegelrelevanten Wohnungsbestand der
+Hansestadt Hamburg zwischen zwei Mietenspiegeln zu vergleichen. Sie hat keine recht-
+liche Aussagekraft und kann nicht für Mietpreisänderungen herangezogen werden.
+Die gewichtete Durchschnittsmiete im Hamburger Mietenspiegel 2023 beträgt 9,83 €/m².
+Im Vergleich zum Hamburger Mietenspiegel 2021 ist sie um 0,54 €/m² bzw. 5,8 % höher.
+Die Mittelwerte sind in den meisten Mietenspiegelfeldern im Vergleich zu 2021 höher, in
+sechs Feldern ist eine niedrigere ortsüblichen Vergleichsmiete zu verzeichnen. Bei rund
+54 % der ausgewiesenen Tabellenfelder der Mietenspiegeltabelle liegen die neu ausge-
+wiesenen Mieten weniger als die durchschnittlichen 5,8 % über den ausgewiesenen Wer-
+ten im Mietenspiegel 2021.
+Die mittlere gewichtete Spannbreite der Mieten lag 2021 bei 3,71 €/m² und 2023 bei
+3,86 €/m². Die günstigeren Mieten der unteren Spannenwerte sind 6,8 % höher als 2021.
+Die oberen Spannenwerte sind 5,9 % höher.
+Im Städtevergleich mit anderen Metropolen nimmt Hamburg hinsichtlich der Durch-
+schnittsmiete eine Position im Mittelfeld ein. Während die Durchschnittsmiete Berlins mit
+7,16 €/m² deutlich unter der Hamburger Durchschnittsmiete von 9,83 €/m² liegt, ist sie
+in den übrigen, ausgewählten Vergleichsmetropolen höher:
+○ München (Mietspiegel 2021 zu 2023): Anstieg der Durchschnittsmiete von 12,05
+€/m² auf 14,58 €/m² (Zuwachs 21,0 % bzw. 2,53 €/m²)2
+○ Berlin (Mietspiegel 2021 zu 2023 - Indexfortschreibung): Anstieg der Durch-
+schnittsmiete von 6,79 €/m² auf 7,16 €/m² (Zuwachs 5,4 % bzw. 0,37 €/m²)3
+○ Stuttgart (Mietspiegel 2021/2022 zu 2023/2024 - Stichprobenfortschreibung):
+Anstieg der Durchschnittsmiete von 10,34 €/m² auf 11,04 €/m² (Zuwachs 6,8 %
+bzw. 0,70 €/m²)4
+2 Mietspiegel für München 2023-Statistik, Dokumentation und Analysen, S. 29,
+https://2023.mietspiegel-muenchen.de/broschueren/Dokumentation_MS23.pdf
+3 Dokumentation zum Berliner Mietspiegel 2023, S. 6, https://www.stadtentwicklung.ber-
+lin.de/wohnen/mietspiegel/de/download/Mietspiegel2023_Berlin_Endbericht.pdf
+4 Mietspiegel 2021/2022 und Fortschreibung 2023/24 Methodenbericht und Dokumentation, S.
+38, https://www.stuttgart.de/service/statistik-und-wahlen/mietspiegel.php
+Dokumentation Hamburger Mietenspiegel 2023 36
+Ergänzende Auswertungen
+○ Frankfurt (Mietspiegel 2020 zu 2022): Anstieg der Durchschnittsmiete von
+9,69 €/m² auf 10,29 €/m² (Zuwachs 6,2 % bzw. 0,60 €/m²)5.
+Insgesamt kann in allen wesentlichen Wohnungsteilmärkten eine höhere Miete im Mie-
+tenspiegel 2023 gegenüber 2021 festgestellt werden, auch wenn sich in einigen Mieten-
+spiegeltabellenfeldern gegenläufige Tendenzen ergeben haben. Zusammengefasst nach
+unterschiedlichen Wohnungsteilmärkten zeigen sich gegenüber dem Hamburger Mie-
+tenspiegel 2021 folgende Unterschiede, wobei zur Ermittlung der durchschnittlichen
+Mieten je Teilsegment eine Gewichtung der einzelnen Tabellenfelder mit der jeweiligen
+Grundgesamtheit erfolgt ist (vgl. auch Tabelle 14).
+○ Die Mieten in guten und normalen Wohnlagen sind 6,8 % bzw. 5,4 % höher als
+2021. Die absolute Differenz in der guten Wohnlage ist entsprechend mit 0,76 €
+erneut höher als in der normalen Wohnlage (0,47 €).
+○ Im Altbau (Baualtersklasse bis 31.12.1918, Spalte C, 85.500 Wohnungen) liegen
+die Mietwerte überdurchschnittlich deutlich über denen des Mietenspiegels 2021.
+Die Durchschnittsmiete liegt erstmals über 12,00 €/m². Hier betragen die Unter-
+schiede im Vergleich zum Mietenspiegel 2021 zwischen -2,11 und +1,51 €/m².
+Die gewichtete Durchschnittsmiete bei Altbauwohnungen (Baualtersklasse bis
+31.12.1918, Spalte C) lag 2021 bei 11,24 €/m² und 2023 bei 12,06 €/m². In 2023
+liegt der Wert somit um 7,3 % höher (normale Wohnlage: 7,2 %, gute Wohnlage:
+7,5 %) als in 2021. (Zum Vergleich: 2021 gegenüber 2019 betrug die Steigerung
+in Spalte C 5,6 %, 2019 gegenüber 2017 4,5 %).
+○ In den Zwischenkriegsbauten (Baualtersklasse 1.1.1919 bis 20.6.1948, Spalte F,
+63.700) liegen die Mieten zwischen 0,32 und 1,09 €/m² über denen des Mieten-
+spiegels 2021, in einem Fall liegt die Miete -0,32 €/m² (F3) unter denen des letzten
+Mietenspiegels. Bei den Zwischenkriegsbauten lag die gewichtete Durchschnitts-
+miete 2021 bei 9,55 €/m² und 2023 bei 9,89 €/m², was ein um 3,6 % (normale
+Wohnlage: 2,4 %, gute Wohnlage: 7,0 %) höherer Wert ist. Insbesondere in der
+guten Wohnlage ist der Unterschied zum Mietenspiegel 2021 vergleichsweise
+hoch.
+○ Die zahlenmäßig umfangreichste Baualtersklasse 21.6.1948 bis 31.12.1960 (Spalte
+H, 164.300 Wohnungen) weist einen um 5,3 % höheren Mittelwert im Vergleich
+zu 2021 auf. Die Unterschiede liegen zwischen 0,35 und 0,52 €/m². Die Mieten für
+Wohnungen in normaler Wohnlage sind um 5,6 % bzw. 4,2 % in guter Wohnlage
+höher als 2021. Die gewichtete Durchschnittsmiete beträgt 9,27 €/m².
+○ In der Baualtersklasse 1961 bis 1967 (Spalte I, 90.300 Wohnungen) ergibt sich ein
+4,1 % höherer Mittelwert als im Mietenspiegel 2021. Dies ist eine unterdurch-
+schnittliche Entwicklung, nachdem der Unterschied zwischen den Mietenspiegeln
+2019 und 2021 vergleichsweise hoch war. Ein besonders hoher Unterschied von
+5 Die ortsüblichen Vergleichsmieten in Frankfurt a. M. 2022 - Gutachten zur Erstellung des quali-
+fizierten Mietspiegels 2022, S. 89, https://frankfurt.de/themen/planen-bauen-und-wohnen/woh-
+nen/informationen-zum-wohnungsmarkt/mietspiegel
+Dokumentation Hamburger Mietenspiegel 2023 37
+Ergänzende Auswertungen
+1,28 €/m² ergab sich in Feld I6. Die gewichtete Durchschnittsmiete der Spalte I
+beträgt 8,11 €/m² (2021: 7,79 €/m²).
+○ In der jüngeren Baualtersklasse 1968 bis 1977 (Spalte K, 76.100 Wohnungen) gibt
+es einen vergleichsweise hohen Unterschied zwischen den Durchschnittmieten
+von 2021 und 2023. Die gewichtete Durchschnittsmiete beträgt 8,46 €/m²
+(+0,66 €/m² bzw. 8,5 %). In der normalen Wohnlage ergibt sich ein 7,2 % höherer
+Wert, während es in der guten Wohnlage zu einem 13,0 % höheren Wert kommt.
+Der Mietenspiegel 2021 wies ebenfalls einen hohen Anstieg der Mieten für die
+gute Wohnlage aus.
+○ In der Baualtersklasse 1978 bis 1993 (Spalte L, 32.500 Wohnungen) liegen die
+Mieten um 0,4 % über denen aus dem Mietenspiegel 2021. Die gewichtete Durch-
+schnittsmiete beträgt 9,40 €/m². Das sind 0,04 €/m² mehr als 2021 – da lag die
+gewichtete Durchschnittsmiete bei 9,36 €/m². Es sind dabei Unterschiede nach
+Wohnlage festzustellen (normale Wohnlage -0,9%, gute Wohnlage +4,3 %). Hin-
+weis: Der nur wenig höhere Mittelwert der Mieten ergibt sich aus dem hohen
+Anteil der aus der öffentlichen Förderung gefallenen Wohnungen an der Gesamt-
+zahl der Wohnungen in dieser Spalte (rd. 10 %), die mietdämpfend auf die Mie-
+tenentwicklung wirken. Dieser Effekt trat bereits im Mietenspiegel 2021 auf.
+○ Die gewichtete Durchschnittsmiete im Bereich der Baualtersklasse 1994 bis 2010
+(Spalte M, 27.800 Wohnungen) ist mit 11,16 €/m² nur 1,7 % höher als 2021
+(10,97 €/m²). Wohnungen in normaler Wohnlage dieser Baualtersklasse verzeich-
+nen durchschnittlich einen 0,2 % höheren Wert, bei Mieten für Wohnungen in
+guter Wohnlage sind es dagegen 4,6 %. Erstmals haben alle ausgewiesenen Fel-
+der der Spalte M einen Mittelwert von mehr als 10,00 €/m².
+○ Die zweitjüngste Baualtersklasse 2011 bis 2015 (Spalte N, 10.900 Wohnungen)
+weist eine gewichtete Durchschnittsmiete von 14,01 €/m² auf. Dies entspricht ei-
+nem 4,4 % höheren Wert im Vergleich zum Mietenspiegel 2021. Der vergleichs-
+weise geringe Anstieg lässt sich unter anderem dadurch erklären, dass das Feld
+N1 im Mietenspiegel 2023 aufgrund zu niedriger Fallzahlen nicht ausgewiesen
+wurde.
+○ Die um Neubau ergänzte Baualtersklasse 2016 bis 2022 (Spalte O, 17.400 Woh-
+nungen) weist eine Durchschnittsmiete von 15,26 €/m² auf. Dies entspricht einem
+Unterschied im Vergleich zum Mietenspiegel 2021 von 5,5 %. Dieser Vergleich
+berücksichtigt allerdings nicht, dass in der neuen Spalte O die teureren Neuver-
+tragsmieten der Baujahre 2021 und 2022 einfließen, die bei der Erstellung des
+Mietenspiegels 2021 nicht existierten. Die hohen Mietwerte sind ein Indiz dafür,
+dass diese Wohnungsbestände nicht der Mietpreisbremse unterliegen und ent-
+sprechende Wohnungsmieten auf dem angespannten Hamburger Wohnungs-
+markt umgesetzt werden können. Zusätzlich ergeben sich hohe Mietwerte auch
+aus den in den letzten Jahren gestiegenen Anforderungen im Baubereich und der
+gestiegenen Bodenpreise in Hamburg, wodurch die Baukosten insgesamt deut-
+lich angestiegen sind.
+○ Der höchste prozentuale Unterschied zwischen den Mietenspiegeln 2021 und
+2023 mit 14 % in vollgültigen Feldern im Rahmen der gesamten Mietenspiegeler-
+hebung weist das Mietenspiegelfeld I6 (+1,28 €/m²) auf.
+Dokumentation Hamburger Mietenspiegel 2023 38
+Ergänzende Auswertungen
+○ Die Mittelwerte sind in den meisten Mietenspiegelfeldern im Vergleich zu 2021
+höher, in 6 Feldern (C5, F3, I8, K4, L4, L5) ist demgegenüber eine niedrigere Durch-
+schnittsmiete zu verzeichnen. Dies kann unter anderem mit auslaufenden Förde-
+rungen zusammenhängen.
+○ Wie schon bei den letzten Mietenspiegeln gilt auch 2023 nicht mehr, dass der
+Quadratmeterpreis einer Wohnung mit zunehmender Wohnungsgröße sinkt.
+Dokumentation Hamburger Mietenspiegel 2023 39
+Ergänzende Auswertungen
+Abbildung 1: Entwicklung der durchschnittlichen Nettokaltmiete von 1997 bis 2023 (ge-
+wichteter Mittelwert)
+16,5
+16,1
+14,5
+12,5
+10,5 9,83
+9,29
+8,44 8,66
+8,02
+8,5 7,56 7,3
+7,15
+6,13 5,70 6,53 6,76 6,1 5,8
+6,5 5,8 5,7
+5,2
+5,1 4,3
+3,7
+4,5 3,1 3,3
+3,5
+4,3
+2,5 3,3 2,9
+2,4 2,1 3,3 2,6
+1,7
+1,5
+0,5
+2003 2005 2007 2009 2011 2013 2015 2017 2019 2021 2023
+-1,5
+NKM in €/m²
+Entwicklung jeweils im Vergleich zum vorherigen Mietenspiegel
+Entwicklung des harmonisierten Verbraucherpreisindex
+Dokumentation Hamburger Mietenspiegel 2023 40
+Ergänzende Auswertungen
+Tabelle 15: Mietveränderungen Hamburger Mietenspiegel 2021 zu 2023 (gewichtete Mittel-
+werte)
+Veränderung
+2021 2023
+Nettokaltmiete in €/m² absolut relativ pro Jahr
+in €/m² in €/m²
+in €/m² in % in %
+Arithmetisches Mittel 9,29 9,83 0,54 5,8% 2,9%
+Unterer Wert 2/3 Spanne 7,52 8,03 0,51 6,8% 3,3%
+Oberer Wert 2/3 Spanne 11,23 11,89 0,66 5,9% 2,9%
+Spannbreite 3,71 3,86 0,15 4,0% 2,0%
+nach Baualtersklassen und Ausstattung
+bis 1918 (voll ausgestattet) 11,24 12,06 0,82 7,3% 3,6%
+1919-20.06.1948 9,55 9,89 0,34 3,6% 1,8%
+21.06.1948-1960 8,80 9,27 0,47 5,3% 2,6%
+1961-1967 7,79 8,11 0,32 4,1% 2,0%
+1968-1977 7,80 8,46 0,66 8,5% 4,1%
+1978-1993 9,36 9,40 0,04 0,4% 0,2%
+1994-2010 10,97 11,16 0,19 1,7% 0,9%
+2011-2015 13,42 14,01 0,59 4,4% 2,2%
+2016-2022* 14,47 15,26 0,79 5,5% 2,7%
+nach Wohnlage
+normal 8,66 9,13 0,47 5,4% 2,7%
+gut 11,18 11,94 0,76 6,8% 3,3%
+nach Wohnungsgrößenklassen
+25 bis u. 41 m² 10,34 10,80 0,46 4,4% 2,2%
+41 bis u. 66 m² 9,03 9,57 0,54 6,0% 2,9%
+66 bis u. 91 m² 8,80 9,32 0,52 5,9% 2,9%
+ab 91 m² 11,11 11,93 0,82 7,4% 3,6%
+*Vergleichbarkeit nur eingeschränkt möglich, da Zuschnitt der Baualtersklassen unterschiedlich ist.
+Dokumentation Hamburger Mietenspiegel 2023 41
+Ergänzende Auswertungen
+Tabelle 16: Entwicklung des arithmetischen Mittels und der Spannenwerte 2023 zu 2021 in Euro/m² Wohnfläche
+Mietenspiegel 2023 der Freien und Hansestadt Hamburg
+Veränderung der Nettokaltmiete ohne Heizung und ohne Betriebskosten 2023/2021 in Euro/m²
+Bis 1919 bis 21.6.1948 bis 1961 bis 1968 bis 1978 bis 1994 bis 2011 bis 2016 bis
+Baualtersklasse/Bezugsfertigkeit
+31.12.1918 20.6.1948 1960 1967 1977 1993 2010 2015 2022
+Bad und Sam- Bad und Sam- Bad und Sam- Bad und Sam- Bad und Sam- Bad und Sam- Bad und Sam- Bad und Sam- Bad und Sam-
+Ausstattung
+melheizung melheizung melheizung melheizung melheizung melheizung melheizung melheizung melheizung
+Wohnlage Wohnfläche C F H I K L M N O
+Mittelwert 0,94 0,46 0,35 0,25 0,67
+25 bis u. 41 m² 1 Spanne 1,58 - 0,89 0,97 - 0,60 0,79 - 0,57 0,70 - 0,98 0,82 - 0,88
+Anzahl 14*
+e
+g Mittelwert 0,63 0,32 0,51 0,13 0,84 0,20 0,25 0,21 0,74
+a
+ln 41 bis u. 66 m² 2 Spanne 0,51 - 0,74 0,39 - 0,12 0,34 - 0,74 0,32 - -0,29 0,51 - 1,45 0,34 - 0,40 0,39 - 0,11 -0,56 - 0,73 0,58 - 1,88
+h
+o Anzahl
+W
+e Mittelwert 0,93 -0,32 0,40 0,29 0,37 0,01 0,16 1,11 0,49
+la
+m 66 bis u. 91 m² 3 Spanne 0,17 - 2,03 0,04 - -1,15 0,39 - 0,63 0,24 - 0,46 0,43 - 0,81 0,33 - -0,34 0,49 - 0,06 1,17 - 1,60 0,53 - 0,56
+r o Anzahl
+N
+Mittelwert 0,95 0,73 -0,14 -0,61 0,13 0,82 0,78
+ab 91 m² 4 Spanne 0,86 - 1,33 -0,01 - 3,25 0,54 - -0,23 -0,49 - -0,33 0,14 - -0,15 1,03 - 0,56 0,54 - 0,88
+Anzahl 16* 11* 10*
+Mittelwert -2,11 0,48 0,35 0,44 2,76 -0,09
+25 bis u. 41 m² 5 Spanne -3,61 - -0,16 0,47 - 0,16 1,16 - -0,24 0,02 - 1,19 4,10 - 1,18 0,30 - 0,19
+Anzahl 28* 14* 27* 24* 14*
+Mittelwert 0,94 0,55 0,52 1,28 1,43 0,50 0,38 1,44 1,30
+41 bis u. 66 m² 6 Spanne 0,84 - 0,99 0,40 - 0,53 0,00 - 0,34 1,00 - 1,39 1,96 - 1,16 0,71 - 0,77 0,68 - 0,43 0,75 - 1,32 1,03 - 2,15
+e
+g Anzahl
+a
+ln Mittelwert 1,51 0,92 0,43 0,51 1,11 0,76 0,76 0,05 0,87
+h
+o 66 bis u 91 m² 7 Spanne 1,47 - 1,36 0,97 - 0,97 0,54 - 0,62 0,75 - -0,20 1,27 - 0,33 -0,11 - 1,03 0,50 - 0,85 -0,38 - 0,46 0,57 - 0,26
+W
+e
+Anzahl
+t
+u Mittelwert 0,77 0,85 0,38 -0,37 0,06 0,16 0,24 1,32 0,13
+G
+91 bis u. 131 m² 8 Spanne 0,73 - 0,45 0,75 - 1,15 0,71 - 0,96 0,70 - -0,88 -0,08 - -0,60 -0,90 - 0,49 -0,25 - 0,38 0,82 - 2,76 -0,28 - 0,17
+Anzahl 13*
+Mittelwert 1,30 1,09 1,05 0,89 1,79 0,89
+ab 131 m² 9 Spanne 1,59 - 1,40 0,39 - 0,59 1,03 - -0,11 0,60 - 1,42 -0,10 - 3,29 1,76 - -1,75
+Anzahl 28* 14* 17* 19* 28*
+Felder mit 10 bis 29 Fällen kein Vergleich mit 2021 möglich, da dieses Feld 2021 nicht ausgewiesen wurde
+Dokumentation Hamburger Mietenspiegel 2023 42
+Ergänzende Auswertungen
+Tabelle 17: Entwicklung des arithmetischen Mittels und der Spannenwerte 2023 zu 2021 in Prozent
+Mietenspiegel 2023 der Freien und Hansestadt Hamburg
+Veränderung der Nettokaltmiete ohne Heizung und ohne Betriebskosten 2023/2021 in Euro/m²
+Bis 1919 bis 21.6.1948 1961 bis 1968 bis 1978 bis 1994 bis 2011 bis 2016 bis
+Baualtersklasse/Bezugsfertigkeit
+31.12.1918 20.6.1948 bis 1960 1967 1977 1993 2010 2015 2022
+Bad und Sam- Bad und Sam- Bad und Sam- Bad und Sam- Bad und Sam- Bad und Sam- Bad und Sam- Bad und Sam- Bad und Sam-
+Ausstattung
+melheizung melheizung melheizung melheizung melheizung melheizung melheizung melheizung melheizung
+Wohnlage Wohnfläche C F H I K L M N O
+Mittelwert 7,73 4,70 3,83 2,84 7,27
+25 bis u. 41 m² 1 Spanne 17,48 - 5,99 11,73 - 5,10 10,69 - 5,06 10,66 - 9,07 12,22 - 7,71
+e
+Anzahl
+g a Mittelwert 5,92 3,50 6,26 1,72 10,76 2,14 2,55 1,56 5,29
+ln
+41 bis u. 66 m² 2 Spanne 6,00 - 5,59 5,19 - 1,13 4,81 - 7,52 4,97 - -3,30 8,61 - 14,54 5,19 - 3,61 4,81 - 0,96 -5,30 - 4,67 5,31 - 11,00
+h
+o W Anzahl
+e Mittelwert 8,71 -3,60 4,98 4,38 5,74 0,08 1,63 8,58 3,54
+la
+m 66 bis u. 91 m² 3 Spanne 1,97 - 16,03 0,57 - -10,31 5,71 - 6,77 4,14 - 6,10 7,93 - 11,46 5,27 - -3,30 6,10 - 0,52 11,36 - 10,46 4,64 - 3,42
+r o Anzahl
+N Mittelwert 9,67 8,60 -2,10 -7,03 1,13 6,25 5,59
+ab 91 m² 4 Spanne 10,49 - 11,33 -0,17 - 34,20 9,39 - -3,40 -7,37 - -3,24 1,58 - -1,03 9,71 - 3,64 4,69 - 5,34
+Anzahl
+Mittelwert -16,55 4,49 2,91 3,57 23,04 -0,67
+25 bis u. 41 m² 5 Spanne -35,36 - -1,02 5,10 - 1,25 13,96 - -1,58 0,14 - 8,50 51,84 - 7,40 2,81 - 1,23
+Anzahl
+Mittelwert 7,89 5,25 5,39 13,73 13,57 4,63 3,16 11,00 8,43
+41 bis u. 66 m² 6 Spanne 8,62 - 6,94 4,74 - 4,12 0,00 - 2,75 14,35 - 11,83 26,74 - 8,75 9,33 - 5,68 7,08 - 3,14 6,55 - 8,23 8,89 - 11,73
+e
+g Anzahl
+a
+ln Mittelwert 12,51 8,33 3,97 5,90 11,19 7,15 6,46 0,37 6,06
+h
+o 66 bis u 91 m² 7 Spanne 15,32 - 9,13 11,58 - 7,08 6,56 - 4,67 12,44 - -1,70 18,98 - 2,47 -1,23 - 7,92 5,26 - 5,92 -3,20 - 2,80 4,94 - 1,53
+W
+e
+Anzahl
+t u Mittelwert 6,52 7,42 3,21 -3,26 0,57 1,35 1,82 9,33 0,86
+G
+91 bis u. 131 m² 8 Spanne 7,77 - 3,06 8,11 - 8,16 7,59 - 6,80 8,79 - -6,05 -0,86 - -4,46 -9,62 - 3,46 -2,34 - 2,39 6,87 - 16,99 -2,17 - 0,96
+Anzahl
+Mittelwert 11,20 9,36 8,85 6,38 10,72 5,16
+ab 131 m² 9 Spanne 17,19 - 9,74 3,93 - 4,21 12,76 - -0,70 5,23 - 8,90 -0,66 - 17,16 12,88 - -7,98
+Anzahl
+Felder mit 10 bis 29 Fällen kein Vergleich mit 2021 möglich, da dieses Feld 2021 nicht ausgewiesen wurde
+Dokumentation Hamburger Mietenspiegel 2023 43
+Ergänzende Auswertungen
+8.2 Neuvertragsmietenanteil im Hamburger Mietenspiegel
+Für die Berechnung des Neuvertragsanteils wurden Mietverhältnisse berücksichtigt, die
+in den letzten sechs Jahren (nach dem 1. April 2017) neu abgeschlossen wurden. In diesen
+Mietverhältnissen können bereits Mietänderungen, z. B. aufgrund einer Staffelmietver-
+einbarung, erfolgt sein.
+Der Anteil der Neuvertragsmieten im Rahmen der Datenerhebung beträgt
+47 % und ist mit dem Neuvertragsmietenanteil im Hamburger Mietenspiegel 2021 (46 %)
+vergleichbar.
+Dokumentation Hamburger Mietenspiegel 2023 44
+Ergänzende Auswertungen
+Tabelle 18: Anteil der Neuvertragsmieten
+Bis 1919 bis 21.6.1948 bis 1961 bis 1968 bis 1978 bis 1994 bis 2011 bis 2016 bis
+Baualtersklasse/Bezugsfertigkeit
+31.12.1918 20.6.1948 1960 1967 1977 1993 2010 2015 2022
+Bad und Sam- Bad und Sam- Bad und Sam- Bad und Sam- Bad und Sam- Bad und Sam- Bad und Sam- Bad und Sam- Bad und Sam-
+Ausstattung
+melheizung melheizung melheizung melheizung melheizung melheizung melheizung melheizung melheizung
+Wohnlage Wohnfläche C F H I K L M N O
+Anteil NV 72% 43% 45% 49% 61% 100%
+25 bis u. 41 m² 1
+N ges. 32 14 44 41 36 12
+e
+g Anteil NV 48% 47% 47% 40% 45% 53% 64% 76% 93%
+a
+ln 41 bis u. 66 m² 2
+h
+o N ges. 202 254 365 177 84 83 85 72 30
+W
+e Anteil NV 48% 32% 34% 29% 28% 40% 52% 67% 96%
+la
+m 66 bis u. 91 m² 3
+r o N ges. 142 72 134 166 116 55 132 98 114
+N
+Anteil NV 40% 44% 0% 40% 53% 64% 90%
+ab 91 m² 4
+N ges. 47 16 11 10 43 66 69
+Anteil NV 46% 36% 59% 65% 67% 50%
+25 bis u. 41 m² 5
+N ges. 28 14 41 26 24 14
+Anteil NV 53% 44% 49% 51% 72% 53% 55% 70% 98%
+41 bis u. 66 m² 6
+e
+g N ges. 183 128 181 78 53 78 67 30 60
+a
+ln Anteil NV 62% 52% 46% 43% 47% 56% 61% 81% 95%
+h
+o 66 bis u 91 m² 7
+W
+e
+N ges. 94 128 121 75 55 61 108 79 88
+t
+u Anteil NV 32% 38% 50% 38% 70% 56% 55% 69% 96%
+G
+91 bis u. 131 m² 8
+N ges. 167 90 34 13 30 52 86 81 76
+Anteil NV 32% 39% 71% 63% 61% 93%
+ab 131 m² 9
+N ges. 109 28 14 16 18 28
+Dokumentation Hamburger Mietenspiegel 2023 45
+Ergänzende Auswertungen
+8.3 Struktur der Nettokaltmieten nach Mietenstufen insgesamt und nach
+Wohnlage
+Die Struktur der Nettokaltmieten nach Mietenstufen zeigt die Verteilung des mietenspie-
+gelrelevanten Mietwohnraums in Hamburg. Aufgrund der disproportionalen Erhebungs-
+methode muss eine Gewichtung der erhobenen Daten mit der Grundgesamtheit erfol-
+gen, da zum Beispiel der Anteil der Neubauwohnungen ab 2016 mit den höheren Mieten
+im erhobenen Datenpool deutlich höher ist als der tatsächliche Anteil im Hamburger
+Wohnungsbestand. Da die Mietenspiegeltabelle für die einzelnen Baualtersklassen und
+Wohnlagen separat ausgewiesen wird, ist die Gewichtung allerdings nur bei zusammen-
+fassenden, tabellenfeldübergreifenden Auswertungen notwendig.
+Tabelle 19: Verteilung der Nettokaltmieten nach Wohnlage (Angaben in Prozent) *
+Nettokalt- Wohnlage Insgesamt
+miete in €/m² normal gut kumuliert
+Bis 4,49 0,1 0,0 0,1 0,1
+4,50 - 4,99 0,1 0,0 0,1 0,2
+5,00 - 5,49 0,8 0,1 0,6 0,8
+5,50 - 5,99 3,0 0,3 2,3 3,1
+6,00 - 6,49 9,0 1,0 7,0 10,1
+6,50 - 6,99 8,8 3,3 7,4 17,5
+7,00 - 7,49 8,0 2,7 6,6 24,2
+7,50 - 7,99 10,9 2,7 8,9 33,0
+8,00 - 8,49 10,6 3,8 8,9 42,0
+8,50 - 8,99 6,0 3,7 5,4 47,4
+9,00 - 9,49 7,0 4,0 6,3 53,7
+9,50 - 9,99 4,5 4,9 4,6 58,3
+10,00 - 10,49 5,3 6,1 5,5 63,8
+10,50 - 10,99 4,9 8,6 5,8 69,6
+11,00 - 11,49 3,3 6,0 4,0 73,6
+11,50 - 11,99 3,1 6,2 3,9 77,5
+12,00 - 12,49 2,8 6,0 3,6 81,1
+12,50 - 12,99 2,4 5,5 3,2 84,2
+13,00 - 13,49 1,9 5,2 2,7 87,0
+13,50 - 13,99 1,4 4,0 2,0 89,0
+14,00 - 14,49 1,4 5,2 2,3 91,3
+14,50 - 14,99 1,0 4,2 1,8 93,1
+15,00 - 15,49 0,6 4,1 1,5 94,6
+15,50 – 15,99 0,7 2,2 1,1 95,7
+16,00 und 2,3 10,3 4,3 100,0
+mehr
+Mittelwert
+9,13 11,94 9,83
+(€/m²)
+*gewichtet mit der Grundgesamtheit
+Dokumentation Hamburger Mietenspiegel 2023 46
+Ergänzende Auswertungen
+Der Anteil der Mietwohnungen mit einer günstigeren Miete als 5,00 €/m² ist kleiner als
+ein Prozent des mietenspiegelrelevanten Mietwohnraums in Hamburg (vgl. Tabelle 19).
+Der Anteil der Wohnungen mit einer günstigeren Miete als 7,00 €/m² (Anfangsmiete im
+1. Förderweg) liegt bei 17,5 %, der Anteil mit einer günstigeren Miete als 9,10 €/m² (An-
+fangsmiete im 2 Förderweg) bei 49,7 %. Zum Vergleich: Im Jahr 2021 lag der Anteil der
+Wohnungen mit einer günstigeren Miete als 6,80 €/m² (damalige Anfangsmiete im 1.
+Förderweg) bei 20,1 %, der Anteil mit einer günstigeren Miete als 8,90 €/m² (damalige
+Anfangsmiete im 2. Förderweg) lag bei 52,2 %.
+Betrachtet man die Mietenstruktur differenziert nach den Wohnlagen, so kann festge-
+stellt werden, dass der Mietwohnraum in der guten Wohnlage deutlich teurer ist. Liegt
+die Miethöhe mit 16 €/m² und mehr in der normalen Wohnlage nur bei 2,3 % aller Miet-
+wohnungen vor, so liegen in der guten Wohnlage bereits 10,3 % aller Mietwohnungen
+in diesem Preissegment.
+Abbildung 2: Mietenverteilung in Hamburg 2023 (Angaben in Prozent) *
+10
+7,00 €/m²
+9,10 €/m²
+8,9 8,9
+9
+8
+7,4
+7,0
+7 6,6
+6,3
+5,8
+6 5,4 5,5
+5 4,6
+4 3,9
+4 3,6
+3,2
+3 2,7
+2,3 2,3
+2
+1,8
+2 1,5
+1,3
+1,1
+0,9
+1 0,6 0,7 0,7
+0,4
+0,2
+0
+*gewichtet mit der Grundgesamtheit
+In der Mietenverteilung ergibt sich eine sogenannte rechtsschiefe Verteilung. D. h. die
+Mietenverteilung steigt im unteren Mietenbereich steil an und läuft dann im höheren
+Mietenbereich deutlich verlängert aus (vgl. Abbildung 2).
+Dokumentation Hamburger Mietenspiegel 2023 47
+Ergänzende Auswertungen
+8.4 Mietenverteilung bei zwei Hamburger Normalwohnungen
+Zur Veranschaulichung der allgemeinen Mietenentwicklung wird die Entwicklung am Bei-
+spiel zweier Hamburger „Normalwohnungen“ dargestellt. Dabei werden zwei Typen der
+„Normalwohnung“ unterschieden:
+○ 60 m² große Altbauwohnung, Baualtersklasse bis 1918, gute Ausstattung (mit
+Bad und Sammelheizung), normale Wohnlage, Mietenspiegelfeld C2
+○ 60 m² große Wohnung, Baualtersklasse 1968 bis 1977, gute Ausstattung (mit
+Bad und Sammelheizung), normale Wohnlage, Mietenspiegelfeld K2
+In der ausgewählten Altbauwohnung ist die Durchschnittsmiete um 0,63 €/m² gestiegen,
+von 10,65 €/m² (Mietenspiegel 2021) auf 11,28 €/m² im Mietenspiegel 2023. Mit einer
+Zunahme von 5,9 % liegt die Mietsteigerung dieses Felds leicht über der allgemeinen
+Mietenentwicklung in Hamburg. Der untere Wert der 2/3-Spanne hat sich um 0,51 €/m²
+erhöht und der obere Wert der 2/3-Spanne ist um 0,74 €/m² gestiegen (+6,0 % bzw.
++5,6 %).
+Bei der betrachteten „Normalwohnung“ der Baualtersklasse 1968 bis 1977 hat sich die
+Miete von 7,78 €/m² (Mietenspiegel 2021) auf 8,62 €/m² im Hamburger Mietenspiegel
+2023 gesteigert (+0,84 €/m² bzw. +10,8 %). Der untere Wert der 2/3-Spanne ist um
+0,51 €/m² gestiegen und beim oberen Wert der 2/3-Spanne ergaben sich +1,45 €/m²
+(+8,6 % bzw. +14,5 %).
+8.5 Alter der mietenspiegelrelevanten Verträge
+Für den mietenspiegelrelevanten Wohnungsbestand ergibt sich im Hamburger Mieten-
+spiegel 2023 ein durchschnittliches Alter der mietenspiegelrelevanten Verträge von 12,8
+Jahren (vgl.
+Dokumentation Hamburger Mietenspiegel 2023 48
+Ergänzende Auswertungen
+Tabelle 20). Erfasst wurde im Rahmen der Datenerhebung das Datum des Mietvertrags-
+abschlusses, das als Grundlage für die Ermittlung der Alter der mietenspiegelrelevanten
+Verträge diente. Das durchschnittliche Alter der mietenspiegelrelevanten Verträge hat
+sich gegenüber dem Hamburger Mietenspiegel 2021 um 0,3 Jahre gesenkt (2021 = 13,1
+Jahre). Über 20 % aller Mietverträge in Hamburg sind 20 Jahre und älter. Neben der Bau-
+altersklasse 2016 bis 2022 findet sich in der Baualtersklasse 2011 bis 2015 das geringste
+durchschnittliche Alter der mietenspiegelrelevanten Verträge mit 4,5 Jahren. In der Bau-
+altersklasse 1961 bis 1967 und der Baualtersklasse 1968 bis 1977 findet man das höchste
+durchschnittliche Alter der mietenspiegelrelevanten Verträge mit 15,3 bzw. 15,2 Jahren.
+Dokumentation Hamburger Mietenspiegel 2023 49
+Ergänzende Auswertungen
+Tabelle 20: Verteilung der mietenspiegelrelevanten Verträge nach durchschnittlichem Alter je
+Baualtersklasse (Angaben in Prozent) *
+Alter der mie- ins- Baualtersklassen
+tenspiegelre- ge- Bis 1919 21.6. 1961 1968 1978 1994 2011 2016
+levanten Ver- samt 1918 bis 1948 bis bis bis bis bis bis
+träge 20.6. bis 1967 1977 1993 2010 2015 2022
+1948 1960
+bis 2 Jahre 19% 22% 17% 18% 14% 15% 18% 23% 28% 41%
+2 bis 4 Jahre 16% 16% 14% 17% 14% 15% 18% 20% 23% 38%
+4 bis 6 Jahre 11% 11% 12% 10% 10% 9% 11% 14% 20% 15%
+6 bis 8 Jahre 6% 5% 6% 6% 6% 5% 6% 6% 9% 6%
+8 bis 10 Jahre 5% 5% 7% 5% 4% 4% 4% 8% 12% 0%
+10 bis 20 Jahre 20% 18% 21% 21% 24% 23% 18% 20% 8% 0%
+20 u. m. Jahre 23% 22% 23% 23% 29% 29% 25% 9% 0% 0%
+Insgesamt 100% 100% 100% 100% 100% 100% 100% 100% 100% 100%
+Mittelwert
+(in Jahren) 12,8 12,0 12,7 13,1 15,3 15,2 12,0 7,6 4,5 2,5
+*gewichtet mit der Grundgesamtheit
+Das Alter der mietenspiegelrelevanten Verträge in den kleinen Wohnungen 25 m² bis
+unter 41 m² Wohnfläche liegt mit durchschnittlich 10,0 Jahren unter dem Durchschnitt
+aller Wohnungen in Hamburg (12,8 Jahre). Insgesamt sind in dieser Größenklasse rund
+36 % aller Mietverhältnisse 10 Jahre und älter (vgl. Tabelle 21). Die längsten Mietverträge
+finden sich in den Wohnungen von 66 m² bis unter 91 m², wo rund 29 % aller mieten-
+spiegelrelevanten Verträge 20 Jahre und älter sind. Auch in der Wohnungsgrößenklasse
+mit Wohnungen ab 131 m² sind die durchschnittlichen mietenspiegelrelevanten Verträge
+relativ alt (14,4 Jahre).
+Dokumentation Hamburger Mietenspiegel 2023 50
+Ergänzende Auswertungen
+Tabelle 21: Verteilung der mietenspiegelrelevanten Verträge nach durchschnittlichem Alter und
+Wohnungsgrößenklassen (Angaben in Prozent) *
+Alter der mieten- insge- Wohnflächenklasse
+spiegelrelevan- samt 25 m² bis 41 m² bis 66 m² bis 91 m² bis
+ten Verträge unter 41 unter 66 unter 91 unter ab 131 m²
+m² m² m² 131 m²
+bis 2 Jahre 19% 25% 20% 16% 17% 14%
+2 bis 4 Jahre 16% 17% 17% 15% 18% 16%
+4 bis 6 Jahre 11% 13% 11% 9% 11% 12%
+6 bis 8 Jahre 6% 6% 6% 6% 6% 5%
+8 bis 10 Jahre 5% 4% 6% 4% 4% 7%
+10 bis 20 Jahre 20% 19% 20% 21% 22% 17%
+20 u. m. Jahre 23% 17% 21% 29% 21% 29%
+Insgesamt 100% 100% 100% 100% 100% 100%
+Mittelwert
+(in Jahren) 12,8 10,0 11,9 15,1 12,4 14,4
+*gewichtet mit der Grundgesamtheit
+Bei der Analyse des Alters der mietenspiegelrelevanten Verträge nach dem Vermietertyp
+zeigt sich auch im Hamburger Mietenspiegel 2023, dass beim städtischen Wohnungsun-
+ternehmen SAGA/GWG (16,1 Jahre) und den Wohnungsgenossenschaften (14,7 Jahre)
+die durchschnittliche Dauer des Mietvertrages höher ist als bei anderen Vermieterinnen
+und Vermietern (vgl. Tabelle 22). Aufgrund der in der Regel niedrigeren Mieten und dem
+genossenschaftlichen Prinzip der „Miteigentümerschaft“ ist die Bindung der Mieterinnen
+und Mieter höher als bei anderen Vermietertypen. Außerdem dürfte auch ein höherer
+Anteil älterer Mieterinnen und Mieter bei den Wohnungsgenossenschaften leben, wes-
+halb die Mobilität geringer ist.
+Dokumentation Hamburger Mietenspiegel 2023 51
+Ergänzende Auswertungen
+Tabelle 22: Verteilung der mietenspiegelrelevanten Verträge nach durchschnittlichem Alter und
+Vermietertyp (Angaben in Prozent) *
+Alter der mie- insge- Vermietertyp
+tenspiegelrele- samt Freie Woh- Private
+Genossen-
+vanten Ver- SAGA/GWG nungsun- Eigentü- Sonstige
+schaften
+träge ternehmen mer
+bis 2 Jahre 19% 12% 16% 23% 22% 12%
+2 bis 4 Jahre 16% 9% 13% 20% 21% 20%
+4 bis 6 Jahre 11% 9% 8% 12% 12% 17%
+6 bis 8 Jahre 6% 6% 8% 5% 5% 10%
+8 bis 10 Jahre 5% 4% 6% 5% 4% 7%
+10 bis 20 Jahre 20% 28% 23% 18% 16% 16%
+20 u. m. Jahre 23% 32% 26% 17% 19% 18%
+Insgesamt 100% 100% 100% 100% 100% 100%
+Mittelwert
+(in Jahren) 12,8 16,1 14,7 10,6 11,1 10,2
+*gewichtet mit der Grundgesamtheit
+8.6 Mietveränderungserklärung mit Verweis auf den Hamburger Mietenspiegel
+Nach § 558a BGB müssen Mieterhöhungen von der Vermieterin oder von dem Vermieter
+begründet werden. Es muss darlegt werden, dass die künftig verlangte Miete die ortsüb-
+liche Vergleichsmiete für vergleichbare Wohnungen nicht übersteigt. Die Miete kann dar-
+über hinaus auch durch beiderseitiges Einvernehmen geändert werden. Nach § 558a
+Abs. 2 BGB kann die Vermieterin bzw. der Vermieter die Mieterhöhung mit dem Mieten-
+spiegel begründen. Nach der Mietrechtsreform 2001 muss im Erhöhungsverlangen auf
+den qualifizierten Mietenspiegel Bezug genommen werden, auch wenn die Vermieterin
+und der Vermieter eine andere Möglichkeit der Darlegung, wie z. B. ein Sachverständi-
+gengutachten, verwendet.
+Zur Begründung nach § 558a Abs. 2 BGB kann Bezug genommen werden auf:
+○ einen Mietenspiegel,
+○ eine Auskunft aus einer Mietdatenbank,
+○ ein mit Gründen versehenes Gutachten eines öffentlich bestellten und vereidigten
+Sachverständigen,
+○ entsprechende Entgelte für einzelne vergleichbare Wohnungen; hierbei genügt
+die Benennung von drei Wohnungen.
+Dokumentation Hamburger Mietenspiegel 2023 52
+Ergänzende Auswertungen
+Tabelle 23: Begründung der Mieterhöhung nach Baualtersklasse (Angaben in Prozent) *
+n
+e
+g
+t
+h n
+n c e
+u a n g
+r a t u e g n
+b g n u
+n n u d
+i e n g n
+Baualtersklasse
+l e
+g e ip s n e t e iM
+e r e
+V e g i l l i w i e r F
+g id
+n ä t s r e v h c a S
+h o
+w s h c i e l g r e V
+n u
+r e i s i n r e d o M e t e i m l e f f a t S e t e i m x e d n I
+ü r g
+e B e g i t s n o S
+Bis 31.12.1918 53,2% 2,5% - 1,1% 4,3% 19,7% 13,6% 2,7%
+1919 bis -
+20.06.1948 64,7% 1,3% 1,0% 2,4% 16,2% 9,3% 2,2%
+21.06.1948 bis -
+1960 68,5% 0,7% 1,0% 3,7% 12,4% 6,5% 3,9%
+1961 bis 1967 73,2% 2,3% - 0,8% 4,6% 5,7% 7,6% 2,9%
+1968 bis 1977 66,1% 1,6% - 1,0% 5,9% 7,1% 6,7% 8,1%
+1978 bis 1993 55,2% 3,5% - 0,3% 5,0% 15,1% 9,3% 7,9%
+1994 bis 2010 46,7% 4,2% - 0,7% 1,5% 15,9% 17,8% 7,4%
+2011 bis 2015 21,4% 1,8% - 0,0% 0,0% 28,6% 43,3% 3,6%
+2016 bis 2022 16,3% 1,5% - 0,0% 0,2% 34,6% 41,3% 2,2%
+Insgesamt 63,0% 1,8% - 0,9% 4,0% 13,0% 9,9% 4,2%
+*gewichtet mit der Grundgesamtheit
+Im Rahmen der Datenerhebung zum Hamburger Mietenspiegel 2023 wurden, wie auch
+in der Vergangenheit, weitere Begründungen der Mieterhöhung abgefragt: Staffelmiete,
+Indexmiete, Modernisierung. Die Differenzen zu 100 % sind jeweils Fälle, in denen keine
+Begründung angegeben wurde.
+Unter Berücksichtigung aller abgefragten Mietänderungsbegründungen liegt der Anteil
+mit dem Änderungsgrund Hamburger Mietenspiegel bei 63,0 % und damit um etwa drei
+Prozentpunkte unter dem Anteil bei der Erhebung zum Mietenspiegel 2021. Der Ham-
+burger Mietenspiegel ist damit auch weiterhin die wichtigste Grundlage für die Vermie-
+terinnen und Vermieter bei der Veränderung der Miete in bestehenden Mietverhältnis-
+sen. Der Anteil an Sachverständigengutachten als Mietänderungsbegründung ist den
+letzten Jahren stets rückläufig gewesen und ist im Hamburger Mietenspiegel 2023, wie
+auch im Mietenspiegel 2021, nicht mehr als Mietänderungsgrund angeführt worden.
+Der Anteil der Staffelmietverträge über alle Baualtersklassen liegt bei rund 13,0 %, doch
+insbesondere im Neubau ab 2016 liegt der Anteil dieser Vertragsart mit 34,6 % auf einem
+deutlich höheren Niveau. Dies betrifft auch die Indexmietverträge, die in der neuesten
+Baujahresklasse einen Anteil von 41,3 % ausmachen. Natürlich sind in diesen Wohnungs-
+Dokumentation Hamburger Mietenspiegel 2023 53
+Ergänzende Auswertungen
+beständen derzeit nur wenige Mietveränderungen ausgesprochen worden und es erge-
+ben sich nur die vertraglich festgelegten Änderungen, aber Staffel- und Indexmietverän-
+derungen sind nicht von der Kappungsgrenzenverordnung betroffen.
+Dokumentation Hamburger Mietenspiegel 2023 54
+Anlagen
+Anlage A: Förderprogramme
+Dokumentation Hamburger Mietenspiegel 2023 55
+Anlagen
+Mietenspiegelrelevante Förderprogramme
+Die nachfolgend aufgelisteten Förderprogramme haben bei entsprechenden Wohnun-
+gen zum Ausschluss aus dem Hamburger Mietenspiegel 2023 geführt.
+1. Mietwohnungsneubau
+Förderung nach dem II. WoBauG
+○ 1. Förderweg (§§ 6, 25 ff. II. WoBauG)
+○ 3.-5. Förderweg (§§ 88 a-c II. WoBauG)
+○ 3. Förderweg (§§ 88 a-c II. WoBauG)
+○ Gen. Wohnprojekte (§§ 88 a-c II. WoBauG)
+○ Vertragswohnungsbau (§§ 88 d II. WoBauG)
+Förderung nach dem WoFG/HmbWoFG
+○ Förderumstellung 3. Förderweg Förderung nach dem WoFG/HmbWoFG
+○ Besondere Wohnformen (Segment SW)
+○ 1. Förderweg Mietwohnungen (M)
+○ 1. Förderweg Neubau Mietwohnungen WA-Bindung
+○ 1. Förderweg Neubau Mietwohnungen WA-Bindung (Segment E)
+○ 1. Förderweg Neubau Mietwohnungen WA-Bindung (Segment Q)
+○ 2. Förderweg Mietwohnungen (M)
+○ Wohnungen für Studierende und Auszubildende (Segment S)
+○ Baugemeinschaften
+○ Neubau für vordringlich Wohnungssuchende
+2. Wohnungsmodernisierung
+○ Mod. Programm A (mit Mietpreisbindung)
+○ Mod. Programm B
+○ Modernisierungen in Sanierungsgebieten
+○ Modernisierungen für Studierende und Auszubildende
+○ Barrierefreier Umbau von Mietwohnungen
+○ Modernisierung in Gebieten der integrierten Stadtteilentwicklung
+3. Wohnungsbestand
+○ Ankauf von Belegungsbindungen
+○ Bindungsverlängerung
+Dokumentation Hamburger Mietenspiegel 2023 56
+Anlagen
+Anlage B: Histogramme
+Dokumentation Hamburger Mietenspiegel 2023 57
+Anlagen
+MMiieetteennssppiieeggeellffeelldd CC11
+BBaauuaalltteerrsskkllaassssee bbiiss 3311..1122..11991188,,
+mmiitt BBaadd uunndd SSaammmmeellhheeiizzuunngg,,
+2255 mm²² bbiiss uunntteerr 4411 mm²²,,
+nnoorrmmaallee WWoohhnnllaaggee
+Arithmetisches Mittel 13,06 €/m²
+StandAarridthambewteisicchhuens gM ittel 2,3172 ,12 €/m²
+Standardabweichung 2,83
+Unterer Wert der 2/3- 10,64 €/m²
+Unterer Wert der 2/3 9,06 €/m²
+Spanne
+Spanne
+Oberer Wert der 2/3- 15,70 €/m²
+SpannOeb erer Wert der 2/3 14,81 €/m²
+Spanne
+Minimum 8,75 €/m²
+MaximMuinmim um 17,13 €6/,3m5² €/m²
+Maximum 19,84 €/m²
+Anzahl Mietwerte 32
+Anzahl Mietwert 55
+Mietenspiegelfeld C2
+Baualtersklasse bis 31.12.1918,
+mit Bad und Sammelheizung,
+41 m² bis unter 66 m²,
+normale Wohnlage
+Arithmetisches Mittel 11,28 €/m²
+Standardabweichung 2,52
+Unterer Wert der 2/3- 9,01 €/m²
+Spanne
+Oberer Wert der 2/3- 13,96 €/m²
+Spanne
+Minimum 6,00 €/m²
+Maximum 16,80 €/m²
+Anzahl Mietwerte 204
+Dokumentation Hamburger Mietenspiegel 2023 58
+Anlagen
+MMiieetteennssppiieeggeellffeelldd CC13
+BBaauuaalltteerrsskkllaassssee bbiiss 3311..1122..11991188,,
+mmiitt BBaadd uunndd SSaammmmeellhheeiizzuunngg,,
+2656 mm²² bbiiss uunntteerr 4911 mm²²,,
+nnoorrmmaallee WWoohhnnllaaggee
+Arithmetisches Mittel 11,57 €/m²
+StandAarridthambewteisicchhuens gM ittel 2,9132 ,12 €/m²
+Standardabweichung 2,83
+Unterer Wert der 2/3- 8,97 €/m²
+Unterer Wert der 2/3 9,06 €/m²
+Spanne
+Spanne
+Oberer Wert der 2/3- 14,71 €/m²
+SpannOeb erer Wert der 2/3 14,81 €/m²
+Spanne
+Minimum 5,59 €/m²
+MaximMuinmim um 17,81 €6/,3m5² €/m²
+Maximum 19,84 €/m²
+Anzahl Mietwerte 145
+Anzahl Mietwert 55
+Mietenspiegelfeld C4
+Baualtersklasse bis 31.12.1918,
+mit Bad und Sammelheizung,
+ab 91 m²,
+normale Wohnlage
+Arithmetisches Mittel 10,80 €/m²
+Standardabweichung 2,17
+Unterer Wert der 2/3- 9,07 €/m²
+Spanne
+Oberer Wert der 2/3- 13,11 €/m²
+Spanne
+Minimum 6,42 €/m²
+Maximum 15,38 €/m²
+Anzahl Mietwerte 47
+Dokumentation Hamburger Mietenspiegel 2023 59
+Anlagen
+MMiieetteennssppiieeggeellffeelldd CC15
+BBaauuaalltteerrsskkllaassssee bbiiss 3311..1122..11991188,,
+mmiitt BBaadd uunndd SSaammmmeellhheeiizzuunngg,,
+2255 mm²² bbiiss uunntteerr 4411 mm²²,,
+ngourtme Waleo hWnolahgnela ge
+Arithmetisches Mittel 10,64 €/m²
+StandAarridthambewteisicchhuens gM ittel 3,9122 ,12 €/m²
+Standardabweichung 2,83
+Unterer Wert der 2/3- 6,60 €/m²
+Unterer Wert der 2/3 9,06 €/m²
+Spanne
+Spanne
+Oberer Wert der 2/3- 15,02 €/m²
+SpannOeb erer Wert der 2/3 14,81 €/m²
+Spanne
+Minimum 5,14 €/m²
+MaximMuinmim um 17,50 €6/,3m5² €/m²
+Maximum 19,84 €/m²
+Anzahl Mietwerte 28
+Anzahl Mietwert 55
+Mietenspiegelfeld C6
+Baualtersklasse bis 31.12.1918,
+mit Bad und Sammelheizung,
+41 m² bis unter 66 m²,
+gute Wohnlage
+Arithmetisches Mittel 12,82 €/m²
+Standardabweichung 2,60
+Unterer Wert der 2/3- 10,57 €/m²
+Spanne
+Oberer Wert der 2/3- 15,32 €/m²
+Spanne
+Minimum 6,76 €/m²
+Maximum 18,52 €/m²
+Anzahl Mietwerte 184
+Dokumentation Hamburger Mietenspiegel 2023 60
+Anlagen
+MMiieetteennssppiieeggeellffeelldd CC17
+BBaauuaalltteerrsskkllaassssee bbiiss 3311..1122..11991188,,
+mmiitt BBaadd uunndd SSaammmmeellhheeiizzuunngg,,
+2656 mm²² bbiiss uunntteerr 4911 mm²²,,
+ngourtem Waleo hWnolahgnela ge
+Arithmetisches Mittel 13,62 €/m²
+StandAarridthambewteisicchhuens gM ittel 2,5172 ,12 €/m²
+Standardabweichung 2,83
+Unterer Wert der 2/3- 11,04 €/m²
+Unterer Wert der 2/3 9,06 €/m²
+Spanne
+Spanne
+Oberer Wert der 2/3- 16,30 €/m²
+SpannOeb erer Wert der 2/3 14,81 €/m²
+Spanne
+Minimum 8,22 €/m²
+MaximMuinmim um 18,99 €6/,3m5² €/m²
+Maximum 19,84 €/m²
+Anzahl Mietwerte 96
+Anzahl Mietwert 55
+Mietenspiegelfeld C8
+Baualtersklasse bis 31.12.1918,
+mit Bad und Sammelheizung,
+91 m² bis unter 131 m²,
+gute Wohnlage
+Arithmetisches Mittel 12,54 €/m²
+Standardabweichung 2,54
+Unterer Wert der 2/3- 10,13 €/m²
+Spanne
+Oberer Wert der 2/3- 15,27 €/m²
+Spanne
+Minimum 7,20 €/m²
+Maximum 18,32 €/m²
+Anzahl Mietwerte 169
+Dokumentation Hamburger Mietenspiegel 2023 61
+Anlagen
+MMiieetteennssppiieeggeellffeelldd CC19
+BBaauuaalltteerrsskkllaassssee bbiiss 3311..1122..11991188,,
+mmiitt BBaadd uunndd SSaammmmeellhheeiizzuunngg,,
+2ab5 m13²1 b mis ²u, nter 41 m²,
+ngourtem Waleo hWnolahgnela ge
+Arithmetisches Mittel 12,94 €/m²
+StandAarridthambewteisicchhuens gM ittel 2,5132 ,12 €/m²
+Standardabweichung 2,83
+Unterer Wert der 2/3- 10,84 €/m²
+Unterer Wert der 2/3 9,06 €/m²
+Spanne
+Spanne
+Oberer Wert der 2/3- 15,74 €/m²
+SpannOeb erer Wert der 2/3 14,81 €/m²
+Spanne
+Minimum 6,59 €/m²
+MaximMuinmim um 18,00 €6/,3m5² €/m²
+Maximum 19,84 €/m²
+Anzahl Mietwerte 109
+Anzahl Mietwert 55
+Dokumentation Hamburger Mietenspiegel 2023 62
+Anlagen
+MMiieetteennssppiieeggeellffeelldd CF11
+BBaauuaalltteerrsskkllaassssee b1.i1s .13911.192 .b1i9s1 280, .6.1948,
+mmiitt BBaadd uunndd SSaammmmeellhheeiizzuunngg,,
+2255 mm²² bbiiss uunntteerr 4411 mm²²,,
+nnoorrmmaallee WWoohhnnllaaggee
+Arithmetisches Mittel 10,22 €/m²
+StandAarridthambewteisicchhuens gM ittel 2,0172 ,12 €/m²
+Standardabweichung 2,83
+Unterer Wert der 2/3- 9,22 €/m²
+Unterer Wert der 2/3 9,06 €/m²
+Spanne
+Spanne
+Oberer Wert der 2/3- 12,46 €/m²
+SpannOeb erer Wert der 2/3 14,81 €/m²
+Spanne
+Minimum 5,39 €/m²
+MaximMuinmim um 13,57 €6/,3m5² €/m²
+Maximum 19,84 €/m²
+Anzahl Mietwerte 14
+Anzahl Mietwert 55
+Mietenspiegelfeld F2
+Baualtersklasse 1.1.1919 bis 20.6.1948,
+mit Bad und Sammelheizung,
+41 m² bis unter 66 m²,
+normale Wohnlage
+Arithmetisches Mittel 9,38 €/m²
+Standardabweichung 1,78
+Unterer Wert der 2/3- 7,92 €/m²
+Spanne
+Oberer Wert der 2/3- 10,83 €/m²
+Spanne
+Minimum 5,51 €/m²
+Maximum 14,29 €/m²
+Anzahl Mietwerte 255
+Dokumentation Hamburger Mietenspiegel 2023 63
+Anlagen
+MMiieetteennssppiieeggeellffeelldd CF31
+BBaauuaalltteerrsskkllaassssee b1.i1s .13911.192 .b1i9s1 280, .6.1948,
+mmiitt BBaadd uunndd SSaammmmeellhheeiizzuunngg,,
+2656 mm²² bbiiss uunntteerr 4911 mm²²,,
+nnoorrmmaallee WWoohhnnllaaggee
+Arithmetisches Mittel 8,71 €/m²
+StandAarridthambewteisicchhuens gM ittel 1,7142 ,12 €/m²
+Standardabweichung 2,83
+Unterer Wert der 2/3- 7,10 €/m²
+Unterer Wert der 2/3 9,06 €/m²
+Spanne
+Spanne
+Oberer Wert der 2/3- 10,00 €/m²
+SpannOeb erer Wert der 2/3 14,81 €/m²
+Spanne
+Minimum 5,06 €/m²
+MaximMuinmim um 13,96 €6/,3m5² €/m²
+Maximum 19,84 €/m²
+Anzahl Mietwerte 73
+Anzahl Mietwert 55
+Mietenspiegelfeld F4
+Baualtersklasse 1.1.1919 bis 20.6.1948,
+mit Bad und Sammelheizung,
+ab 91 m²,
+normale Wohnlage
+Arithmetisches Mittel 9,19 €/m²
+Standardabweichung 2,95
+Unterer Wert der 2/3- 6,89 €/m²
+Spanne
+Oberer Wert der 2/3- 12,74 €/m²
+Spanne
+Minimum 4,09 €/m²
+Maximum 14,23 €/m²
+Anzahl Mietwerte 16
+Dokumentation Hamburger Mietenspiegel 2023 64
+Anlagen
+MMiieetteennssppiieeggeellffeelldd CF51
+BBaauuaalltteerrsskkllaassssee b1.i1s .13911.192 .b1i9s1 280, .6.1948,
+mmiitt BBaadd uunndd SSaammmmeellhheeiizzuunngg,,
+2255 mm²² bbiiss uunntteerr 4411 mm²²,,
+ngourtem Waleo hWnolahgnela ge
+Arithmetisches Mittel 11,27 €/m²
+StandAarridthambewteisicchhuens gM ittel 1,7192 ,12 €/m²
+Standardabweichung 2,83
+Unterer Wert der 2/3- 9,64 €/m²
+Unterer Wert der 2/3 9,06 €/m²
+Spanne
+Spanne
+Oberer Wert der 2/3- 13,03 €/m²
+SpannOeb erer Wert der 2/3 14,81 €/m²
+Spanne
+Minimum 8,81 €/m²
+MaximMuinmim um 15,00 €6/,3m5² €/m²
+Maximum 19,84 €/m²
+Anzahl Mietwerte 14
+Anzahl Mietwert 55
+Mietenspiegelfeld F6
+Baualtersklasse 1.1.1919 bis 20.6.1948,
+mit Bad und Sammelheizung,
+41 m² bis unter 66 m²,
+gute Wohnlage
+Arithmetisches Mittel 11,09 €/m²
+Standardabweichung 2,22
+Unterer Wert der 2/3- 8,87 €/m²
+Spanne
+Oberer Wert der 2/3- 13,33 €/m²
+Spanne
+Minimum 6,85 €/m²
+Maximum 16,43 €/m²
+Anzahl Mietwerte 128
+Dokumentation Hamburger Mietenspiegel 2023 65
+Anlagen
+MMiieetteennssppiieeggeellffeelldd CF71
+BBaauuaalltteerrsskkllaassssee b1.i1s .13911.192 .b1i9s1 280, .6.1948,
+mmiitt BBaadd uunndd SSaammmmeellhheeiizzuunngg,,
+2656 mm²² bbiiss uunntteerr 4911 mm²²,,
+ngourtem Waleo hWnolahgnela ge
+Arithmetisches Mittel 12,00 €/m²
+StandAarridthambewteisicchhuens gM ittel 2,7112 ,12 €/m²
+Standardabweichung 2,83
+Unterer Wert der 2/3- 9,30 €/m²
+Unterer Wert der 2/3 9,06 €/m²
+Spanne
+Spanne
+Oberer Wert der 2/3- 14,67 €/m²
+SpannOeb erer Wert der 2/3 14,81 €/m²
+Spanne
+Minimum 6,41 €/m²
+MaximMuinmim um 17,57 €6/,3m5² €/m²
+Maximum 19,84 €/m²
+Anzahl Mietwerte 130
+Anzahl Mietwert 55
+Mietenspiegelfeld F8
+Baualtersklasse 1.1.1919 bis 20.6.1948,
+mit Bad und Sammelheizung,
+91 m² bis unter 131 m²,
+gute Wohnlage
+Arithmetisches Mittel 12,29 €/m²
+Standardabweichung 2,70
+Unterer Wert der 2/3- 10,00 €/m²
+Spanne
+Oberer Wert der 2/3- 15,30 €/m²
+Spanne
+Minimum 6,92 €/m²
+Maximum 18,31 €/m²
+Anzahl Mietwerte 91
+Dokumentation Hamburger Mietenspiegel 2023 66
+Anlagen
+MMiieetteennssppiieeggeellffeelldd CF91
+BBaauuaalltteerrsskkllaassssee b1.i1s .13911.192 .b1i9s1 280, .6.1948,
+mmiitt BBaadd uunndd SSaammmmeellhheeiizzuunngg,,
+2ab5 m13²1 b mis ²u, nter 41 m²,
+ngourtem Waleo hWnolahgnela ge
+Arithmetisches Mittel 12,73 €/m²
+StandAarridthambewteisicchhuens gM ittel 2,5102 ,12 €/m²
+Standardabweichung 2,83
+Unterer Wert der 2/3- 10,42 €/m²
+Unterer Wert der 2/3 9,06 €/m²
+Spanne
+Spanne
+Oberer Wert der 2/3- 14,52 €/m²
+SpannOeb erer Wert der 2/3 14,81 €/m²
+Spanne
+Minimum 8,28 €/m²
+MaximMuinmim um 19,39 €6/,3m5² €/m²
+Maximum 19,84 €/m²
+Anzahl Mietwerte 28
+Anzahl Mietwert 55
+Dokumentation Hamburger Mietenspiegel 2023 67
+Anlagen
+MMiieetteennssppiieeggeellffeelldd CH11
+BBaauuaalltteerrsskkllaassssee b21is. 63.119.1428.1 b9i1s8 1, 960,
+mmiitt BBaadd uunndd SSaammmmeellhheeiizzuunngg,,
+2255 mm²² bbiiss uunntteerr 4411 mm²²,,
+nnoorrmmaallee WWoohhnnllaaggee
+Arithmetisches Mittel 9,53 €/m²
+StandAarridthambewteisicchhuens gM ittel 2,0102 ,12 €/m²
+Standardabweichung 2,83
+Unterer Wert der 2/3- 8,20 €/m²
+Unterer Wert der 2/3 9,06 €/m²
+Spanne
+Spanne
+Oberer Wert der 2/3- 11,89 €/m²
+SpannOeb erer Wert der 2/3 14,81 €/m²
+Spanne
+Minimum 5,46 €/m²
+MaximMuinmim um 14,50 €6/,3m5² €/m²
+Maximum 19,84 €/m²
+Anzahl Mietwerte 44
+Anzahl Mietwert 55
+Mietenspiegelfeld H2
+Baualtersklasse 21.6.1948 bis 1960,
+mit Bad und Sammelheizung,
+41 m² bis unter 66 m²,
+normale Wohnlage
+Arithmetisches Mittel 8,70 €/m²
+Standardabweichung 1,63
+Unterer Wert der 2/3- 7,40 €/m²
+Spanne
+Oberer Wert der 2/3- 10,62 €/m²
+Spanne
+Minimum 5,49 €/m²
+Maximum 13,33 €/m²
+Anzahl Mietwerte 365
+Dokumentation Hamburger Mietenspiegel 2023 68
+Anlagen
+MMiieetteennssppiieeggeellffeelldd CH13
+BBaauuaalltteerrsskkllaassssee b21is. 63.119.1428.1 b9i1s8 1, 960,
+mmiitt BBaadd uunndd SSaammmmeellhheeiizzuunngg,,
+2656 mm²² bbiiss uunntteerr 4911 mm²²,,
+nnoorrmmaallee WWoohhnnllaaggee
+Arithmetisches Mittel 8,49 €/m²
+StandAarridthambewteisicchhuens gM ittel 1,5172 ,12 €/m²
+Standardabweichung 2,83
+Unterer Wert der 2/3- 7,27 €/m²
+Unterer Wert der 2/3 9,06 €/m²
+Spanne
+Spanne
+Oberer Wert der 2/3- 9,99 €/m²
+SpannOeb erer Wert der 2/3 14,81 €/m²
+Spanne
+Minimum 5,73 €/m²
+MaximMuinmim um 13,01 €6/,3m5² €/m²
+Maximum 19,84 €/m²
+Anzahl Mietwerte 134
+Anzahl Mietwert 55
+Mietenspiegelfeld H4
+Baualtersklasse 21.6.1948 bis 1960,
+mit Bad und Sammelheizung,
+ab 91 m²,
+normale Wohnlage
+Keine ausreichende Anzahl an Mietwerten für die Ausweisung von Kennwerten im Mie-
+tenspiegelfeld vorhanden (Anzahl Mietwerte = 3)
+Dokumentation Hamburger Mietenspiegel 2023 69
+Anlagen
+MMiieetteennssppiieeggeellffeelldd CH15
+BBaauuaalltteerrsskkllaassssee b21is. 63.119.1428.1 b9i1s8 1, 960,
+mmiitt BBaadd uunndd SSaammmmeellhheeiizzuunngg,,
+2255 mm²² bbiiss uunntteerr 4411 mm²²,,
+ngourtem Waleo hWnolahgnela ge
+Arithmetisches Mittel 12,39 €/m²
+StandAarridthambewteisicchhuens gM ittel 2,9102 ,12 €/m²
+Standardabweichung 2,83
+Unterer Wert der 2/3- 9,49 €/m²
+Unterer Wert der 2/3 9,06 €/m²
+Spanne
+Spanne
+Oberer Wert der 2/3- 14,72 €/m²
+SpannOeb erer Wert der 2/3 14,81 €/m²
+Spanne
+Minimum 6,91 €/m²
+MaximMuinmim um 18,60 €6/,3m5² €/m²
+Maximum 19,84 €/m²
+Anzahl Mietwerte 41
+Anzahl Mietwert 55
+Mietenspiegelfeld H6
+Baualtersklasse 21.6.1948 bis 1960,
+mit Bad und Sammelheizung,
+41 m² bis unter 66 m²,
+gute Wohnlage
+Arithmetisches Mittel 10,16 €/m²
+Standardabweichung 2,68
+Unterer Wert der 2/3- 7,35 €/m²
+Spanne
+Oberer Wert der 2/3- 12,62 €/m²
+Spanne
+Minimum 5,54 €/m²
+Maximum 16,50 €/m²
+Anzahl Mietwerte 181
+Dokumentation Hamburger Mietenspiegel 2023 70
+Anlagen
+MMiieetteennssppiieeggeellffeelldd CH17
+BBaauuaalltteerrsskkllaassssee b21is. 63.119.1428.1 b9i1s8 1, 960,
+mmiitt BBaadd uunndd SSaammmmeellhheeiizzuunngg,,
+2656 mm²² bbiiss uunntteerr 4911 mm²²,,
+ngourtem Waleo hWnolahgnela ge
+Arithmetisches Mittel 11,13 €/m²
+StandAarridthambewteisicchhuens gM ittel 2,4122 ,12 €/m²
+Standardabweichung 2,83
+Unterer Wert der 2/3- 8,82 €/m²
+Unterer Wert der 2/3 9,06 €/m²
+Spanne
+Spanne
+Oberer Wert der 2/3- 14,00 €/m²
+SpannOeb erer Wert der 2/3 14,81 €/m²
+Spanne
+Minimum 6,20 €/m²
+MaximMuinmim um 16,23 €6/,3m5² €/m²
+Maximum 19,84 €/m²
+Anzahl Mietwerte 122
+Anzahl Mietwert 55
+Mietenspiegelfeld H8
+Baualtersklasse 21.6.1948 bis 1960,
+mit Bad und Sammelheizung,
+91 m² bis unter 131 m²,
+gute Wohnlage
+Arithmetisches Mittel 12,19 €/m²
+Standardabweichung 2,88
+Unterer Wert der 2/3- 10,07 €/m²
+Spanne
+Oberer Wert der 2/3- 15,11 €/m²
+Spanne
+Minimum 6,74 €/m²
+Maximum 18,56 €/m²
+Anzahl Mietwerte 34
+Dokumentation Hamburger Mietenspiegel 2023 71
+Anlagen
+MMiieetteennssppiieeggeellffeelldd CH19
+BBaauuaalltteerrsskkllaassssee b21is. 63.119.1428.1 b9i1s8 1, 960,
+mmiitt BBaadd uunndd SSaammmmeellhheeiizzuunngg,,
+2a5b m13²1 b mis ²u, nter 41 m²,
+ngourtem Waleo hWnolahgnela ge
+Keine ausreichende Anzahl an Mietwerten für die Ausweisung von Kennwerten im Mie-
+tenspiegelfeld vorhanden (Anzahl Mietwerte = 6)
+Dokumentation Hamburger Mietenspiegel 2023 72
+Anlagen
+MMiieetteennssppiieeggeellffeelldd CI11
+BBaauuaalltteerrsskkllaassssee b19is6 311 b.1is2 .11996178,,
+mmiitt BBaadd uunndd SSaammmmeellhheeiizzuunngg,,
+2255 mm²² bbiiss uunntteerr 4411 mm²²,,
+nnoorrmmaallee WWoohhnnllaaggee
+Arithmetisches Mittel 9,01 €/m²
+StandAarridthambewteisicchhuens gM ittel 2,2142 ,12 €/m²
+Standardabweichung 2,83
+Unterer Wert der 2/3- 7,28 €/m²
+Unterer Wert der 2/3 9,06 €/m²
+Spanne
+Spanne
+Oberer Wert der 2/3- 11,78 €/m²
+SpannOeb erer Wert der 2/3 14,81 €/m²
+Spanne
+Minimum 5,57 €/m²
+MaximMuinmim um 14,02 €6/,m35² €/m²
+Maximum 19,84 €/m²
+Anzahl Mietwerte 41
+Anzahl Mietwert 55
+Mietenspiegelfeld I2
+Baualtersklasse 1961 bis 1967,
+mit Bad und Sammelheizung,
+41 m² bis unter 66 m²,
+normale Wohnlage
+Arithmetisches Mittel 7,54 €/m²
+Standardabweichung 1,15
+Unterer Wert der 2/3- 6,76 €/m²
+Spanne
+Oberer Wert der 2/3- 8,35 €/m²
+Spanne
+Minimum 5,91 €/m²
+Maximum 11,39 €/m²
+Anzahl Mietwerte 177
+Dokumentation Hamburger Mietenspiegel 2023 73
+Anlagen
+MMiieetteennssppiieeggeellffeelldd CI31
+BBaauuaalltteerrsskkllaassssee b19is6 311 b.1is2 .11996178,,
+mmiitt BBaadd uunndd SSaammmmeellhheeiizzuunngg,,
+2656 mm²² bbiiss uunntteerr 4911 mm²²,,
+nnoorrmmaallee WWoohhnnllaaggee
+Arithmetisches Mittel 6,93 €/m²
+StandAarridthambewteisicchhuens gM ittel 1,3132 ,12 €/m²
+Standardabweichung 2,83
+Unterer Wert der 2/3- 6,11 €/m²
+Unterer Wert der 2/3 9,06 €/m²
+Spanne
+Spanne
+Oberer Wert der 2/3- 8,03 €/m²
+SpannOeb erer Wert der 2/3 14,81 €/m²
+Spanne
+Minimum 3,57 €/m²
+MaximMuinmim um 11,03 €6/,3m5² €/m²
+Maximum 19,84 €/m²
+Anzahl Mietwerte 167
+Anzahl Mietwert 55
+Mietenspiegelfeld I4
+Baualtersklasse 1961 bis 1967,
+mit Bad und Sammelheizung,
+ab 91 m²,
+normale Wohnlage
+Keine ausreichende Anzahl an Mietwerten für die Ausweisung von Kennwerten im Mie-
+tenspiegelfeld vorhanden (Anzahl Mietwerte = 7)
+Dokumentation Hamburger Mietenspiegel 2023 74
+Anlagen
+MMiieetteennssppiieeggeellffeelldd CI51
+BBaauuaalltteerrsskkllaassssee b19is6 311 b.1is2 .11996178,,
+mmiitt BBaadd uunndd SSaammmmeellhheeiizzuunngg,,
+2255 mm²² bbiiss uunntteerr 4411 mm²²,,
+ngourtem Waleo hWnolahgnela ge
+Arithmetisches Mittel 12,85 €/m²
+StandAarridthambewteisicchhuens gM ittel 2,3112 ,12 €/m²
+Standardabweichung 2,83
+Unterer Wert der 2/3- 10,64 €/m²
+Unterer Wert der 2/3 9,06 €/m²
+Spanne
+Spanne
+Oberer Wert der 2/3- 15,21 €/m²
+SpannOeb erer Wert der 2/3 14,81 €/m²
+Spanne
+Minimum 9,67 €/m²
+MaximMuinmim um 17,43 €6/,3m5² €/m²
+Maximum 19,84 €/m²
+Anzahl Mietwerte 27
+Anzahl Mietwert 55
+Mietenspiegelfeld I6
+Baualtersklasse 1961 bis 1967,
+mit Bad und Sammelheizung,
+41 m² bis unter 66 m²,
+gute Wohnlage
+Arithmetisches Mittel 10,57 €/m²
+Standardabweichung 2,48
+Unterer Wert der 2/3- 7,97 €/m²
+Spanne
+Oberer Wert der 2/3- 13,12 €/m²
+Spanne
+Minimum 6,79 €/m²
+Maximum 15,79 €/m²
+Anzahl Mietwerte 80
+Dokumentation Hamburger Mietenspiegel 2023 75
+Anlagen
+MMiieetteennssppiieeggeellffeelldd CI71
+BBaauuaalltteerrsskkllaassssee b19is6 311 b.1is2 .11996178,,
+mmiitt BBaadd uunndd SSaammmmeellhheeiizzuunngg,,
+2656 mm²² bbiiss uunntteerr 4911 mm²²,,
+ngourtem Waleo hWnolahgnela ge
+Arithmetisches Mittel 9,21 €/m²
+StandAarridthambewteisicchhuens gM ittel 2,4132 ,12 €/m²
+Standardabweichung 2,83
+Unterer Wert der 2/3- 6,81 €/m²
+Unterer Wert der 2/3 9,06 €/m²
+Spanne
+Spanne
+Oberer Wert der 2/3- 11,52 €/m²
+SpannOeb erer Wert der 2/3 14,81 €/m²
+Spanne
+Minimum 5,30 €/m²
+MaximMuinmim um 15,33 €6/,3m5² €/m²
+Maximum 19,84 €/m²
+Anzahl Mietwerte 75
+Anzahl Mietwert 55
+Mietenspiegelfeld I8
+Baualtersklasse 1961 bis 1967,
+mit Bad und Sammelheizung,
+91 m² bis unter 131 m²,
+gute Wohnlage
+Arithmetisches Mittel 11,05 €/m²
+Standardabweichung 2,33
+Unterer Wert der 2/3- 8,61 €/m²
+Spanne
+Oberer Wert der 2/3- 13,61 €/m²
+Spanne
+Minimum 7,44 €/m²
+Maximum 14,52 €/m²
+Anzahl Mietwerte 13
+Dokumentation Hamburger Mietenspiegel 2023 76
+Anlagen
+MMiieetteennssppiieeggeellffeelldd CI91
+BBaauuaalltteerrsskkllaassssee b19is6 311 b.1is2 .11996178,,
+mmiitt BBaadd uunndd SSaammmmeellhheeiizzuunngg,,
+2ab5 m13²1 b mis ²u, nter 41 m²,
+ngourtem Waleo hWnolahgnela ge
+Keine ausreichende Anzahl an Mietwerten für die Ausweisung von Kennwerten im Mie-
+tenspiegelfeld vorhanden (Anzahl Mietwerte = 3)
+Dokumentation Hamburger Mietenspiegel 2023 77
+Anlagen
+MMiieetteennssppiieeggeellffeelldd CK11
+BBaauuaalltteerrsskkllaassssee b19is6 381 b.1is2 .11997178,,
+mmiitt BBaadd uunndd SSaammmmeellhheeiizzuunngg,,
+2255 mm²² bbiiss uunntteerr 4411 mm²²,,
+nnoorrmmaallee WWoohhnnllaaggee
+Arithmetisches Mittel 9,94 €/m²
+StandAarridthambewteisicchhuens gM ittel 2,1172 ,12 €/m²
+Standardabweichung 2,83
+Unterer Wert der 2/3- 7,49 €/m²
+Unterer Wert der 2/3 9,06 €/m²
+Spanne
+Spanne
+Oberer Wert der 2/3- 12,34 €/m²
+SpannOeb erer Wert der 2/3 14,81 €/m²
+Spanne
+Minimum 6,06 €/m²
+MaximMuinmim um 14,00 €6/,3m5² €/m²
+Maximum 19,84 €/m²
+Anzahl Mietwerte 36
+Anzahl Mietwert 55
+Mietenspiegelfeld K2
+Baualtersklasse 1968 bis 1977,
+mit Bad und Sammelheizung,
+41 m² bis unter 66 m²,
+normale Wohnlage
+Arithmetisches Mittel 8,62 €/m²
+Standardabweichung 2,40
+Unterer Wert der 2/3- 6,43 €/m²
+Spanne
+Oberer Wert der 2/3- 11,39 €/m²
+Spanne
+Minimum 5,40 €/m²
+Maximum 14,76 €/m²
+Anzahl Mietwerte 85
+Dokumentation Hamburger Mietenspiegel 2023 78
+Anlagen
+MMiieetteennssppiieeggeellffeelldd CK13
+BBaauuaalltteerrsskkllaassssee b19is6 381 b.1is2 .11997178,,
+mmiitt BBaadd uunndd SSaammmmeellhheeiizzuunngg,,
+2656 mm²² bbiiss uunntteerr 4911 mm²²,,
+nnoorrmmaallee WWoohhnnllaaggee
+Arithmetisches Mittel 6,75 €/m²
+StandAarridthambewteisicchhuens gM ittel 1,2122 ,12 €/m²
+Standardabweichung 2,83
+Unterer Wert der 2/3- 5,88 €/m²
+Unterer Wert der 2/3 9,06 €/m²
+Spanne
+Spanne
+Oberer Wert der 2/3- 7,87 €/m²
+SpannOeb erer Wert der 2/3 14,81 €/m²
+Spanne
+Minimum 5,19 €/m²
+MaximMuinmim um 11,00 €6/,3m5² €/m²
+Maximum 19,84 €/m²
+Anzahl Mietwerte 117
+Anzahl Mietwert 55
+Mietenspiegelfeld K4
+Baualtersklasse 1968 bis 1977,
+mit Bad und Sammelheizung,
+ab 91 m²,
+normale Wohnlage
+Arithmetisches Mittel 6,40 €/m²
+Standardabweichung 0,23
+Unterer Wert der 2/3- 6,29 €/m²
+Spanne
+Oberer Wert der 2/3- 6,54 €/m²
+Spanne
+Minimum 5,85 €/m²
+Maximum 6,81 €/m²
+Anzahl Mietwerte 11
+Dokumentation Hamburger Mietenspiegel 2023 79
+Anlagen
+MMiieetteennssppiieeggeellffeelldd CK15
+BBaauuaalltteerrsskkllaassssee b19is6 381 b.1is2 .11997178,,
+mmiitt BBaadd uunndd SSaammmmeellhheeiizzuunngg,,
+2255 mm²² bbiiss uunntteerr 4411 mm²²,,
+ngourtem Waleo hWnolahgnela ge
+Arithmetisches Mittel 14,73 €/m²
+StandAarridthambewteisicchhuens gM ittel 2,4122 ,12 €/m²
+Standardabweichung 2,83
+Unterer Wert der 2/3- 12,00 €/m²
+Unterer Wert der 2/3 9,06 €/m²
+Spanne
+Spanne
+Oberer Wert der 2/3- 17,14 €/m²
+SpannOeb erer Wert der 2/3 14,81 €/m²
+Spanne
+Minimum 10,93 €/m²
+MaximMuinmim um 19,00 €6/,3m5² €/m²
+Maximum 19,84 €/m²
+Anzahl Mietwerte 24
+Anzahl Mietwert 55
+Mietenspiegelfeld K6
+Baualtersklasse 1968 bis 1977,
+mit Bad und Sammelheizung,
+41 m² bis unter 66 m²,
+gute Wohnlage
+Arithmetisches Mittel 11,98 €/m²
+Standardabweichung 2,76
+Unterer Wert der 2/3- 9,28 €/m²
+Spanne
+Oberer Wert der 2/3- 14,47 €/m²
+Spanne
+Minimum 6,42 €/m²
+Maximum 17,86 €/m²
+Anzahl Mietwerte 53
+Dokumentation Hamburger Mietenspiegel 2023 80
+Anlagen
+MMiieetteennssppiieeggeellffeelldd CK17
+BBaauuaalltteerrsskkllaassssee b19is6 381 b.1is2 .11997178,,
+mmiitt BBaadd uunndd SSaammmmeellhheeiizzuunngg,,
+2656 mm²² bbiiss uunntteerr 4911 mm²²,,
+ngourtem Waleo hWnolahgnela ge
+Arithmetisches Mittel 11,05 €/m²
+StandAarridthambewteisicchhuens gM ittel 2,7192 ,12 €/m²
+Standardabweichung 2,83
+Unterer Wert der 2/3- 7,94 €/m²
+Unterer Wert der 2/3 9,06 €/m²
+Spanne
+Spanne
+Oberer Wert der 2/3- 13,66 €/m²
+SpannOeb erer Wert der 2/3 14,81 €/m²
+Spanne
+Minimum 6,57 €/m²
+MaximMuinmim um 17,16 €6/,3m5² €/m²
+Maximum 19,84 €/m²
+Anzahl Mietwerte 56
+Anzahl Mietwert 55
+Mietenspiegelfeld K8
+Baualtersklasse 1968 bis 1977,
+mit Bad und Sammelheizung,
+91 m² bis unter 131 m²,
+gute Wohnlage
+Arithmetisches Mittel 11,31 €/m²
+Standardabweichung 2,22
+Unterer Wert der 2/3- 9,20 €/m²
+Spanne
+Oberer Wert der 2/3- 12,96 €/m²
+Spanne
+Minimum 7,19 €/m²
+Maximum 16,86 €/m²
+Anzahl Mietwerte 31
+Dokumentation Hamburger Mietenspiegel 2023 81
+Anlagen
+MMiieetteennssppiieeggeellffeelldd CK19
+BBaauuaalltteerrsskkllaassssee b19is6 381 b.1is2 .11997178,,
+mmiitt BBaadd uunndd SSaammmmeellhheeiizzuunngg,,
+2ab5 m13²1 b mis ²u, nter 41 m²,
+ngourtem Waleo hWnolahgnela ge
+Keine ausreichende Anzahl an Mietwerten für die Ausweisung von Kennwerten im Mie-
+tenspiegelfeld vorhanden (Anzahl Mietwerte = 7)
+Dokumentation Hamburger Mietenspiegel 2023 82
+Anlagen
+MMiieetteennssppiieeggeellffeelldd CL11
+BBaauuaalltteerrsskkllaassssee b19is7 381 b.1is2 .11999138,,
+mmiitt BBaadd uunndd SSaammmmeellhheeiizzuunngg,,
+2255 mm²² bbiiss uunntteerr 4411 mm²²,,
+nnoorrmmaallee WWoohhnnllaaggee
+Keine ausreichende Anzahl an Mietwerten für die Ausweisung von Kennwerten im Mie-
+tenspiegelfeld vorhanden (Anzahl Mietwerte = 7)
+Mietenspiegelfeld L2
+Baualtersklasse 1978 bis 1993,
+mit Bad und Sammelheizung,
+41 m² bis unter 66 m²,
+normale Wohnlage
+Arithmetisches Mittel 9,33 €/m²
+Standardabweichung 2,47
+Unterer Wert der 2/3- 6,89 €/m²
+Spanne
+Oberer Wert der 2/3- 11,57 €/m²
+Spanne
+Minimum 4,94 €/m²
+Maximum 15,55 €/m²
+Anzahl Mietwerte 84
+Dokumentation Hamburger Mietenspiegel 2023 83
+Anlagen
+MMiieetteennssppiieeggeellffeelldd CL31
+BBaauuaalltteerrsskkllaassssee b19is7 381 b.1is2 .11999138,,
+mmiitt BBaadd uunndd SSaammmmeellhheeiizzuunngg,,
+2656 mm²² bbiiss uunntteerr 4911 mm²²,,
+nnoorrmmaallee WWoohhnnllaaggee
+Arithmetisches Mittel 8,16 €/m²
+StandAarridthambewteisicchhuens gM ittel 1,6142 ,12 €/m²
+Standardabweichung 2,83
+Unterer Wert der 2/3- 6,63 €/m²
+Unterer Wert der 2/3 9,06 €/m²
+Spanne
+Spanne
+Oberer Wert der 2/3- 9,96 €/m²
+SpannOeb erer Wert der 2/3 14,81 €/m²
+Spanne
+Minimum 6,11 €/m²
+MaximMuinmim um 12,65 €6/,3m5² €/m²
+Maximum 19,84 €/m²
+Anzahl Mietwerte 55
+Anzahl Mietwert 55
+Mietenspiegelfeld L4
+Baualtersklasse 1978 bis 1993,
+mit Bad und Sammelheizung,
+ab 91 m²,
+normale Wohnlage
+Arithmetisches Mittel 8,00 €/m²
+Standardabweichung 2,64
+Unterer Wert der 2/3- 6,09 €/m²
+Spanne
+Oberer Wert der 2/3- 9,79 €/m²
+Spanne
+Minimum 3,74 €/m²
+Maximum 12,93 €/m²
+Anzahl Mietwerte 10
+Dokumentation Hamburger Mietenspiegel 2023 84
+Anlagen
+MMiieetteennssppiieeggeellffeelldd CL51
+BBaauuaalltteerrsskkllaassssee b19is7 381 b.1is2 .11999138,,
+mmiitt BBaadd uunndd SSaammmmeellhheeiizzuunngg,,
+2255 mm²² bbiiss uunntteerr 4411 mm²²,,
+ngourtem Waleo hWnolahgnela ge
+Arithmetisches Mittel 13,11 €/m²
+StandAarridthambewteisicchhuens gM ittel 2,6112 ,12 €/m²
+Standardabweichung 2,83
+Unterer Wert der 2/3- 10,90 €/m²
+Unterer Wert der 2/3 9,06 €/m²
+Spanne
+Spanne
+Oberer Wert der 2/3- 15,94 €/m²
+SpannOeb erer Wert der 2/3 14,81 €/m²
+Spanne
+Minimum 9,99 €/m²
+MaximMuinmim um 17,18 €6/,3m5² €/m²
+Maximum 19,84 €/m²
+Anzahl Mietwerte 14
+Anzahl Mietwert 55
+Mietenspiegelfeld L6
+Baualtersklasse 1978 bis 1993,
+mit Bad und Sammelheizung,
+41 m² bis unter 66 m²,
+gute Wohnlage
+Arithmetisches Mittel 11,28 €/m²
+Standardabweichung 2,69
+Unterer Wert der 2/3- 8,32 €/m²
+Spanne
+Oberer Wert der 2/3- 14,38 €/m²
+Spanne
+Minimum 6,79 €/m²
+Maximum 18,18 €/m²
+Anzahl Mietwerte 78
+Dokumentation Hamburger Mietenspiegel 2023 85
+Anlagen
+MMiieetteennssppiieeggeellffeelldd CL71
+BBaauuaalltteerrsskkllaassssee b19is7 381 b.1is2 .11999138,,
+mmiitt BBaadd uunndd SSaammmmeellhheeiizzuunngg,,
+2656 mm²² bbiiss uunntteerr 4911 mm²²,,
+ngourtem Waleo hWnolahgnela ge
+Arithmetisches Mittel 11,40 €/m²
+StandAarridthambewteisicchhuens gM ittel 2,5112 ,12 €/m²
+Standardabweichung 2,83
+Unterer Wert der 2/3- 8,55 €/m²
+Unterer Wert der 2/3 9,06 €/m²
+Spanne
+Spanne
+Oberer Wert der 2/3- 14,03 €/m²
+SpannOeb erer Wert der 2/3 14,81 €/m²
+Spanne
+Minimum 6,74 €/m²
+MaximMuinmim um 16,27 €6/,3m5² €/m²
+Maximum 19,84 €/m²
+Anzahl Mietwerte 62
+Anzahl Mietwert 55
+Mietenspiegelfeld L8
+Baualtersklasse 1978 bis 1993,
+mit Bad und Sammelheizung,
+91 m² bis unter 131 m²,
+gute Wohnlage
+Arithmetisches Mittel 11,86 €/m²
+Standardabweichung 3,08
+Unterer Wert der 2/3- 8,44 €/m²
+Spanne
+Oberer Wert der 2/3- 14,74 €/m²
+Spanne
+Minimum 6,49 €/m²
+Maximum 17,72 €/m²
+Anzahl Mietwerte 53
+Dokumentation Hamburger Mietenspiegel 2023 86
+Anlagen
+MMiieetteennssppiieeggeellffeelldd CL91
+BBaauuaalltteerrsskkllaassssee b19is7 381 b.1is2 .11999138,,
+mmiitt BBaadd uunndd SSaammmmeellhheeiizzuunngg,,
+2ab5 m13²1 b mis ²u, nter 41 m²,
+ngourtem Waleo hWnolahgnela ge
+Arithmetisches Mittel 12,96 €/m²
+StandAarridthambewteisicchhuens gM ittel 3,9102 ,12 €/m²
+Standardabweichung 2,83
+Unterer Wert der 2/3- 9,10 €/m²
+Unterer Wert der 2/3 9,06 €/m²
+Spanne
+Spanne
+Oberer Wert der 2/3- 15,96 €/m²
+SpannOeb erer Wert der 2/3 14,81 €/m²
+Spanne
+Minimum 6,50 €/m²
+MaximMuinmim um 19,66 €6/,3m5² €/m²
+Maximum 19,84 €/m²
+Anzahl Mietwerte 14
+Anzahl Mietwert 55
+Dokumentation Hamburger Mietenspiegel 2023 87
+Anlagen
+MMiieetteennssppiieeggeellffeelldd CM11
+BBaauuaalltteerrsskkllaassssee b19is9 341 b.1is2 .21091108,,
+mmiitt BBaadd uunndd SSaammmmeellhheeiizzuunngg,,
+2255 mm²² bbiiss uunntteerr 4411 mm²²,,
+nnoorrmmaallee WWoohhnnllaaggee
+Keine ausreichende Anzahl an Mietwerten für die Ausweisung von Kennwerten im Mie-
+tenspiegelfeld vorhanden (Anzahl Mietwerte = 9)
+Mietenspiegelfeld M2
+Baualtersklasse 1994 bis 2010,
+mit Bad und Sammelheizung,
+41 m² bis unter 66 m²,
+normale Wohnlage
+Arithmetisches Mittel 10,20 €/m²
+Standardabweichung 1,74
+Unterer Wert der 2/3- 8,50 €/m²
+Spanne
+Oberer Wert der 2/3- 11,79 €/m²
+Spanne
+Minimum 6,96 €/m²
+Maximum 14,88 €/m²
+Anzahl Mietwerte 85
+Dokumentation Hamburger Mietenspiegel 2023 88
+Anlagen
+MMiieetteennssppiieeggeellffeelldd CM13
+BBaauuaalltteerrsskkllaassssee b19is9 341 b.1is2 .21091108,,
+mmiitt BBaadd uunndd SSaammmmeellhheeiizzuunngg,,
+2656 mm²² bbiiss uunntteerr 4911 mm²²,,
+nnoorrmmaallee WWoohhnnllaaggee
+Arithmetisches Mittel 10,11 €/m²
+StandAarridthambewteisicchhuens gM ittel 1,5162 ,12 €/m²
+Standardabweichung 2,83
+Unterer Wert der 2/3- 8,49 €/m²
+Unterer Wert der 2/3 9,06 €/m²
+Spanne
+Spanne
+Oberer Wert der 2/3- 11,86 €/m²
+SpannOeb erer Wert der 2/3 14,81 €/m²
+Spanne
+Minimum 6,29 €/m²
+MaximMuinmim um 13,79 €6/,3m5² €/m²
+Maximum 19,84 €/m²
+Anzahl Mietwerte 132
+Anzahl Mietwert 55
+Mietenspiegelfeld M4
+Baualtersklasse 1994 bis 2010,
+mit Bad und Sammelheizung,
+ab 91 m²,
+normale Wohnlage
+Arithmetisches Mittel 11,82 €/m²
+Standardabweichung 2,47
+Unterer Wert der 2/3- 9,13 €/m²
+Spanne
+Oberer Wert der 2/3- 14,50 €/m²
+Spanne
+Minimum 7,52 €/m²
+Maximum 16,67 €/m²
+Anzahl Mietwerte 44
+Dokumentation Hamburger Mietenspiegel 2023 89
+Anlagen
+MMiieetteennssppiieeggeellffeelldd CM15
+BBaauuaalltteerrsskkllaassssee b19is9 341 b.1is2 .21091108,,
+mmiitt BBaadd uunndd SSaammmmeellhheeiizzuunngg,,
+2255 mm²² bbiiss uunntteerr 4411 mm²²,,
+ngourtem Waleo hWnolahgnela ge
+Keine ausreichende Anzahl an Mietwerten für die Ausweisung von Kennwerten im Mie-
+tenspiegelfeld vorhanden (Anzahl Mietwerte = 6)
+Mietenspiegelfeld M6
+Baualtersklasse 1994 bis 2010,
+mit Bad und Sammelheizung,
+41 m² bis unter 66 m²,
+gute Wohnlage
+Arithmetisches Mittel 12,35 €/m²
+Standardabweichung 2,22
+Unterer Wert der 2/3- 10,29 €/m²
+Spanne
+Oberer Wert der 2/3- 14,19 €/m²
+Spanne
+Minimum 7,67 €/m²
+Maximum 17,45 €/m²
+Anzahl Mietwerte 67
+Dokumentation Hamburger Mietenspiegel 2023 90
+Anlagen
+MMiieetteennssppiieeggeellffeelldd CM17
+BBaauuaalltteerrsskkllaassssee b19is9 341 b.1is2 .21091108,,
+mmiitt BBaadd uunndd SSaammmmeellhheeiizzuunngg,,
+2656 mm²² bbiiss uunntteerr 4911 mm²²,,
+ngourtem Waleo hWnolahgnela ge
+Arithmetisches Mittel 12,58 €/m²
+StandAarridthambewteisicchhuens gM ittel 2,6172 ,12 €/m²
+Standardabweichung 2,83
+Unterer Wert der 2/3- 10,00 €/m²
+Unterer Wert der 2/3 9,06 €/m²
+Spanne
+Spanne
+Oberer Wert der 2/3- 15,20 €/m²
+SpannOeb erer Wert der 2/3 14,81 €/m²
+Spanne
+Minimum 6,58 €/m²
+MaximMuinmim um 19,52 €6/,3m5² €/m²
+Maximum 19,84 €/m²
+Anzahl Mietwerte 109
+Anzahl Mietwert 55
+Mietenspiegelfeld M8
+Baualtersklasse 1994 bis 2010,
+mit Bad und Sammelheizung,
+91 m² bis unter 131 m²,
+gute Wohnlage
+Arithmetisches Mittel 13,37 €/m²
+Standardabweichung 2,94
+Unterer Wert der 2/3- 10,23 €/m²
+Spanne
+Oberer Wert der 2/3- 16,13 €/m²
+Spanne
+Minimum 6,88 €/m²
+Maximum 20,41 €/m²
+Anzahl Mietwerte 86
+Dokumentation Hamburger Mietenspiegel 2023 91
+Anlagen
+MMiieetteennssppiieeggeellffeelldd CM19
+BBaauuaalltteerrsskkllaassssee b19is9 341 b.1is2 .21091108,,
+mmiitt BBaadd uunndd SSaammmmeellhheeiizzuunngg,,
+2ab5 m13²1 b mis ²u, nter 41 m²,
+ngourtem Waleo hWnolahgnela ge
+Arithmetisches Mittel 14,85 €/m²
+StandAarridthambewteisicchhuens gM ittel 2,5142 ,12 €/m²
+Standardabweichung 2,83
+Unterer Wert der 2/3- 12,07 €/m²
+Unterer Wert der 2/3 9,06 €/m²
+Spanne
+Spanne
+Oberer Wert der 2/3- 17,40 €/m²
+SpannOeb erer Wert der 2/3 14,81 €/m²
+Spanne
+Minimum 10,36 €/m²
+MaximMuinmim um 19,02 €6/,3m5² €/m²
+Maximum 19,84 €/m²
+Anzahl Mietwerte 17
+Anzahl Mietwert 55
+Dokumentation Hamburger Mietenspiegel 2023 92
+Anlagen
+MMiieetteennssppiieeggeellffeelldd CN11
+BBaauuaalltteerrsskkllaassssee b20is1 311 b.1is2 .21091158,,
+mmiitt BBaadd uunndd SSaammmmeellhheeiizzuunngg,,
+2255 mm²² bbiiss uunntteerr 4411 mm²²,,
+nnoorrmmaallee WWoohhnnllaaggee
+Keine ausreichende Anzahl an Mietwerten für die Ausweisung von Kennwerten im Mie-
+tenspiegelfeld vorhanden (Anzahl Mietwerte = 9)
+Mietenspiegelfeld N2
+Baualtersklasse 2011 bis 2015,
+mit Bad und Sammelheizung,
+41 m² bis unter 66 m²,
+normale Wohnlage
+Arithmetisches Mittel 13,43 €/m²
+Standardabweichung 3,02
+Unterer Wert der 2/3- 10,00 €/m²
+Spanne
+Oberer Wert der 2/3- 16,28 €/m²
+Spanne
+Minimum 7,44 €/m²
+Maximum 19,61 €/m²
+Anzahl Mietwerte 72
+Dokumentation Hamburger Mietenspiegel 2023 93
+Anlagen
+MMiieetteennssppiieeggeellffeelldd CN13
+BBaauuaalltteerrsskkllaassssee b20is1 311 b.1is2 .21091158,,
+mmiitt BBaadd uunndd SSaammmmeellhheeiizzuunngg,,
+2656 mm²² bbiiss uunntteerr 4911 mm²²,,
+nnoorrmmaallee WWoohhnnllaaggee
+Arithmetisches Mittel 14,05 €/m²
+StandAarridthambewteisicchhuens gM ittel 2,5122 ,12 €/m²
+Standardabweichung 2,83
+Unterer Wert der 2/3- 11,43 €/m²
+Unterer Wert der 2/3 9,06 €/m²
+Spanne
+Spanne
+Oberer Wert der 2/3- 16,87 €/m²
+SpannOeb erer Wert der 2/3 14,81 €/m²
+Spanne
+Minimum 9,29 €/m²
+MaximMuinmim um 18,93 €6/,3m5² €/m²
+Maximum 19,84 €/m²
+Anzahl Mietwerte 99
+Anzahl Mietwert 55
+Mietenspiegelfeld N4
+Baualtersklasse 2011 bis 2015,
+mit Bad und Sammelheizung,
+ab 91 m²,
+normale Wohnlage
+Arithmetisches Mittel 13,89 €/m²
+Standardabweichung 2,14
+Unterer Wert der 2/3- 11,66 €/m²
+Spanne
+Oberer Wert der 2/3- 15,83 €/m²
+Spanne
+Minimum 9,60 €/m²
+Maximum 18,35 €/m²
+Anzahl Mietwerte 66
+Dokumentation Hamburger Mietenspiegel 2023 94
+Anlagen
+MMiieetteennssppiieeggeellffeelldd CN15
+BBaauuaalltteerrsskkllaassssee b20is1 311 b.1is2 .21091158,,
+mmiitt BBaadd uunndd SSaammmmeellhheeiizzuunngg,,
+2255 mm²² bbiiss uunntteerr 4411 mm²²,,
+ngourtem Waleo hWnolahgnela ge
+Keine ausreichende Anzahl an Mietwerten für die Ausweisung von Kennwerten im Mie-
+tenspiegelfeld vorhanden (Anzahl Mietwerte = 6)
+Mietenspiegelfeld N6
+Baualtersklasse 2011 bis 2015,
+mit Bad und Sammelheizung,
+41 m² bis unter 66 m²,
+gute Wohnlage
+Arithmetisches Mittel 14,57 €/m²
+Standardabweichung 2,67
+Unterer Wert der 2/3- 12,26 €/m²
+Spanne
+Oberer Wert der 2/3- 17,32 €/m²
+Spanne
+Minimum 9,46 €/m²
+Maximum 19,82 €/m²
+Anzahl Mietwerte 30
+Dokumentation Hamburger Mietenspiegel 2023 95
+Anlagen
+MMiieetteennssppiieeggeellffeelldd CN17
+BBaauuaalltteerrsskkllaassssee b20is1 311 b.1is2 .21091158,,
+mmiitt BBaadd uunndd SSaammmmeellhheeiizzuunngg,,
+2656 mm²² bbiiss uunntteerr 4911 mm²²,,
+ngourtem Waleo hWnolahgnela ge
+Arithmetisches Mittel 14,16 €/m²
+StandAarridthambewteisicchhuens gM ittel 2,6112 ,12 €/m²
+Standardabweichung 2,83
+Unterer Wert der 2/3- 11,37 €/m²
+Unterer Wert der 2/3 9,06 €/m²
+Spanne
+Spanne
+Oberer Wert der 2/3- 17,02 €/m²
+SpannOeb erer Wert der 2/3 14,81 €/m²
+Spanne
+Minimum 9,34 €/m²
+MaximMuinmim um 20,14 €6/,3m5² €/m²
+Maximum 19,84 €/m²
+Anzahl Mietwerte 79
+Anzahl Mietwert 55
+Mietenspiegelfeld N8
+Baualtersklasse 2011 bis 2015,
+mit Bad und Sammelheizung,
+91 m² bis unter 131 m²,
+gute Wohnlage
+Arithmetisches Mittel 15,44 €/m²
+Standardabweichung 3,00
+Unterer Wert der 2/3- 12,75 €/m²
+Spanne
+Oberer Wert der 2/3- 18,98 €/m²
+Spanne
+Minimum 8,73 €/m²
+Maximum 21,51 €/m²
+Anzahl Mietwerte 82
+Dokumentation Hamburger Mietenspiegel 2023 96
+Anlagen
+MMiieetteennssppiieeggeellffeelldd CN19
+BBaauuaalltteerrsskkllaassssee b20is1 311 b.1is2 .21091158,,
+mmiitt BBaadd uunndd SSaammmmeellhheeiizzuunngg,,
+2a5b m13²1 b mis ²u, nter 41 m²,
+ngourtem Waleo hWnolahgnela ge
+Arithmetisches Mittel 18,44 €/m²
+StandAarridthambewteisicchhuens gM ittel 3,8112 ,12 €/m²
+Standardabweichung 2,83
+Unterer Wert der 2/3- 14,61 €/m²
+Unterer Wert der 2/3 9,06 €/m²
+Spanne
+Spanne
+Oberer Wert der 2/3- 22,45 €/m²
+SpannOeb erer Wert der 2/3 14,81 €/m²
+Spanne
+Minimum 13,07 €/m²
+MaximMuinmim um 24,83 €6/,3m5² €/m²
+Maximum 19,84 €/m²
+Anzahl Mietwerte 19
+Anzahl Mietwert 55
+Dokumentation Hamburger Mietenspiegel 2023 97
+Anlagen
+MMiieetteennssppiieeggeellffeelldd CO11
+BBaauuaalltteerrsskkllaassssee b20is1 361 b.1is2 .21092128,,
+mmiitt BBaadd uunndd SSaammmmeellhheeiizzuunngg,,
+2255 mm²² bbiiss uunntteerr 4411 mm²²,,
+nnoorrmmaallee WWoohhnnllaaggee
+Arithmetisches Mittel 17,57 €/m²
+Standardabweichung 3,38
+Unterer Wert der 2/3- 13,55 €/m²
+Spanne
+Oberer Wert der 2/3- 21,17 €/m²
+Spanne
+Minimum 12,76 €/m²
+Maximum 23,17 €/m²
+Anzahl Mietwerte 12
+Mietenspiegelfeld O2
+Baualtersklasse 2016 bis 2022,
+mit Bad und Sammelheizung,
+41 m² bis unter 66 m²,
+normale Wohnlage
+Arithmetisches Mittel 14,77 €/m²
+Standardabweichung 3,53
+Unterer Wert der 2/3- 11,50 €/m²
+Spanne
+Oberer Wert der 2/3- 18,96 €/m²
+Spanne
+Minimum 7,86 €/m²
+Maximum 20,99 €/m²
+Anzahl Mietwerte 31
+Dokumentation Hamburger Mietenspiegel 2023 98
+Anlagen
+MMiieetteennssppiieeggeellffeelldd CO13
+BBaauuaalltteerrsskkllaassssee b20is1 361 b.1is2 .21092128,,
+mmiitt BBaadd uunndd SSaammmmeellhheeiizzuunngg,,
+2656 mm²² bbiiss uunntteerr 4911 mm²²,,
+nnoorrmmaallee WWoohhnnllaaggee
+Arithmetisches Mittel 14,22 €/m²
+StandAarridthambewteisicchhuens gM ittel 2,5132 ,12 €/m²
+Standardabweichung 2,83
+Unterer Wert der 2/3- 11,89 €/m²
+Unterer Wert der 2/3 9,06 €/m²
+Spanne
+Spanne
+Oberer Wert der 2/3- 16,98 €/m²
+SpannOeb erer Wert der 2/3 14,81 €/m²
+Spanne
+Minimum 8,67 €/m²
+MaximMuinmim um 19,72 €6/,3m5² €/m²
+Maximum 19,84 €/m²
+Anzahl Mietwerte 114
+Anzahl Mietwert 55
+Mietenspiegelfeld O4
+Baualtersklasse 2016 bis 2022,
+mit Bad und Sammelheizung,
+ab 91 m²,
+normale Wohnlage
+Arithmetisches Mittel 14,65 €/m²
+Standardabweichung 2,55
+Unterer Wert der 2/3- 12,07 €/m²
+Spanne
+Oberer Wert der 2/3- 17,34 €/m²
+Spanne
+Minimum 9,80 €/m²
+Maximum 19,80 €/m²
+Anzahl Mietwerte 69
+Dokumentation Hamburger Mietenspiegel 2023 99
+Anlagen
+MMiieetteennssppiieeggeellffeelldd CO15
+BBaauuaalltteerrsskkllaassssee b20is1 361 b.1is2 .21092128,,
+mmiitt BBaadd uunndd SSaammmmeellhheeiizzuunngg,,
+2255 mm²² bbiiss uunntteerr 4411 mm²²,,
+ngourtem Waleo hWnolahgnela ge
+Keine ausreichende Anzahl an Mietwerten für die Ausweisung von Kennwerten im Mie-
+tenspiegelfeld vorhanden (Anzahl Mietwerte = 5)
+Mietenspiegelfeld O6
+Baualtersklasse 2016 bis 2022,
+mit Bad und Sammelheizung,
+41 m² bis unter 66 m²,
+gute Wohnlage
+Arithmetisches Mittel 16,73 €/m²
+Standardabweichung 4,22
+Unterer Wert der 2/3- 12,58 €/m²
+Spanne
+Oberer Wert der 2/3- 20,44 €/m²
+Spanne
+Minimum 9,00 €/m²
+Maximum 27,44 €/m²
+Anzahl Mietwerte 64
+Dokumentation Hamburger Mietenspiegel 2023 100
+Anlagen
+MMiieetteennssppiieeggeellffeelldd CO17
+BBaauuaalltteerrsskkllaassssee b20is1 361 b.1is2 .21092128,,
+mmiitt BBaadd uunndd SSaammmmeellhheeiizzuunngg,,
+2656 mm²² bbiiss uunntteerr 4911 mm²²,,
+ngourtem Waleo hWnolahgnela ge
+Arithmetisches Mittel 15,27 €/m²
+StandAarridthambewteisicchhuens gM ittel 3,8122 ,12 €/m²
+Standardabweichung 2,83
+Unterer Wert der 2/3- 12,08 €/m²
+Unterer Wert der 2/3 9,06 €/m²
+Spanne
+Spanne
+Oberer Wert der 2/3- 17,62 €/m²
+SpannOeb erer Wert der 2/3 14,81 €/m²
+Spanne
+Minimum 9,39 €/m²
+MaximMuinmim um 25,25 €6/,3m5² €/m²
+Maximum 19,84 €/m²
+Anzahl Mietwerte 90
+Anzahl Mietwert 55
+Mietenspiegelfeld O8
+Baualtersklasse 2016 bis 2022,
+mit Bad und Sammelheizung,
+91 m² bis unter 131 m²,
+gute Wohnlage
+Arithmetisches Mittel 15,46 €/m²
+Standardabweichung 2,84
+Unterer Wert der 2/3- 12,65 €/m²
+Spanne
+Oberer Wert der 2/3- 17,69 €/m²
+Spanne
+Minimum 10,00 €/m²
+Maximum 22,68 €/m²
+Anzahl Mietwerte 77
+Dokumentation Hamburger Mietenspiegel 2023 101
+Anlagen
+MMiieetteennssppiieeggeellffeelldd CO19
+BBaauuaalltteerrsskkllaassssee b20is1 361 b.1is2 .21092128,,
+mmiitt BBaadd uunndd SSaammmmeellhheeiizzuunngg,,
+2a5b m13²1 b mis ²u, nter 41 m²,
+ngourtem Waleo hWnolahgnela ge
+Arithmetisches Mittel 18,10 €/m²
+StandAarridthambewteisicchhuens gM ittel 3,2172 ,12 €/m²
+Standardabweichung 2,83
+Unterer Wert der 2/3- 15,41 €/m²
+Unterer Wert der 2/3 9,06 €/m²
+Spanne
+Spanne
+Oberer Wert der 2/3- 20,13 €/m²
+SpannOeb erer Wert der 2/3 14,81 €/m²
+Spanne
+Minimum 12,50 €/m²
+MaximMuinmim um 24,84 €6/,3m5² €/m²
+Maximum 19,84 €/m²
+Anzahl Mietwerte 28
+Anzahl Mietwert 55
+Dokumentation Hamburger Mietenspiegel 2023 102
+Anlagen
+Anlage C: Analyse der Ausstattungsmerkmale
+Dokumentation Hamburger Mietenspiegel 2023 103
+Anlagen
+Tabelle-C 1: Bad und WC räumlich getrennt (Angaben in Prozent)
+insgesamt
+Altbau bis Bis 1919 bis 21.06.1948 1961 bis 1968 bis 1978 bis 1994 bis 2011 bis 2016 bis
+Baualtersklassen/Bezugsfertigkeit
+20.06.1948 31.12.1918 20.06.1948 bis 1960 1967 1977 1993 2010 2015 2022
+insgesamt Mit Bad Mit Bad Mit Bad Mit Bad Mit Bad Mit Bad Mit Bad Mit Bad Mit Bad
+und Sam- und Sam- und Sam- und Sam- und Sam- und Sam- und Sam- und Sam- und Sam-
+Ausstattung
+melhei- melhei- melhei- melhei- melhei- melhei- melhei- melhei- melhei-
+zung zung zung zung zung zung zung zung zung
+Wohn- Wohnfläche
+C bis F C F H I K L M N O C bis O
+lage
+Grundgesamtheit 149.200 85.500 63.700 164.300 90.300 76.100 32.500 27.800 10.900 17.400 568.500
+- n 25 m² bis unter 41 m² 1 6,4% 3,3% 10,0% 0,0% 0,0% 0,0% 0,0% 0,0% 1,4%
+h
+o W e 41 m² bis unter 66 m² 2 5,2% 7,9% 2,9% 0,7% 2,1% 2,9% 1,4% 3,8% 3,1% 0,0% 2,5%
+e g
+la m a l 66 m² bis unter 91 m² 3 18,4% 27,7% 5,2% 8,1% 14,7% 22,5% 7,5% 5,6% 2,1% 9,5% 14,4%
+r
+o
+n ab 91 m² 4 45,9% 53,5% 23,1% 42,9% 0,0% 14,3% 13,6% 6,1% 25,8%
+normale Wohnlage
+10,7% 16,5% 4,6% 1,8% 7,4% 14,0% 4,1% 6,2% 4,9% 5,0% 7,1%
+insgesamt
+25 m² bis unter 41 m²
+5 6,3% 3,8% 16,7% 7,3% 3,7% 4,8% 7,7% 5,9%
+e
+g 41 m² bis unter 66 m²
+a 6 15,1% 19,7% 4,9% 4,0% 1,3% 1,9% 5,3% 3,1% 0,0% 4,8% 7,3%
+ln
+h 66 m² bis unter 91 m²
+o 7 28,4% 40,7% 10,2% 13,9% 24,7% 22,2% 19,4% 8,4% 5,3% 3,4% 20,1%
+W
+e 91 m² bis unter 131 m²
+t 8 49,1% 55,8% 33,7% 27,3% 15,4% 12,9% 32,7% 13,8% 7,6% 17,1% 33,0%
+u
+g
+ab 131 m² 9 60,7% 64,0% 28,6% 64,3% 35,3% 27,8% 28,6% 56,3%
+gute Wohnlage
+29,9% 37,0% 13,3% 9,7% 10,6% 11,6% 16,8% 9,5% 6,8% 10,9% 17,7%
+insgesamt
+insgesamt 17,2% 25,0% 6,7% 3,5% 8,1% 13,6% 7,3% 7,2% 5,3% 6,9% 9,8%
+Dokumentation Hamburger Mietenspiegel 2023 104
+Anlagen
+Tabelle-C 2: Zweites WC (Gäste WC) in der Wohnung (Angaben in Prozent)
+insgesamt
+Altbau bis Bis 1919 bis 21.06.1948 1961 bis 1968 bis 1978 bis 1994 bis 2011 bis 2016 bis
+Baualtersklassen/Bezugsfertigkeit
+20.06.1948 31.12.1918 20.06.1948 bis 1960 1967 1977 1993 2010 2015 2022
+insgesamt Mit Bad Mit Bad Mit Bad Mit Bad Mit Bad Mit Bad Mit Bad Mit Bad Mit Bad
+und Sam- und Sam- und Sam- und Sam- und Sam- und Sam- und Sam- und Sam- und Sam-
+Ausstattung
+melhei- melhei- melhei- melhei- melhei- melhei- melhei- melhei- melhei-
+zung zung zung zung zung zung zung zung zung
+Wohn- Wohnfläche
+C bis F C F H I K L M N O C bis O
+lage
+Grundgesamtheit 149.200 85.500 63.700 164.300 90.300 76.100 32.500 27.800 10.900 17.400 568.500
+- n 25 m² bis unter 41 m² 1 0,0% 0,0% 0,0% 0,0% 0,0% 0,0% 0,0% 0,0% 0,0%
+h
+o W e 41 m² bis unter 66 m² 2 0,5% 0,5% 0,5% 0,3% 0,0% 2,9% 0,0% 2,6% 3,1% 0,0% 0,7%
+e g
+la m a l 66 m² bis unter 91 m² 3 6,5% 8,7% 3,5% 4,5% 9,4% 15,7% 12,5% 25,8% 26,8% 31,7% 11,8%
+r
+o n ab 91 m² 4 33,9% 31,0% 42,9% 57,1% 87,5% 76,7% 81,5% 81,8% 63,5%
+normale Wohnlage
+3,7% 5,2% 2,3% 1,0% 4,1% 11,9% 13,8% 23,9% 29,6% 39,3% 7,1%
+insgesamt
+25 m² bis unter 41 m²
+5 0,0% 0,0% 0,0% 0,0% 0,0% 0,0% 0,0% 0,0%
+e
+g 41 m² bis unter 66 m²
+a 6 1,2% 1,7% 0,0% 0,6% 0,0% 0,0% 4,0% 1,6% 0,0% 1,6% 0,9%
+ln
+h 66 m² bis unter 91 m²
+o 7 5,6% 7,9% 2,4% 2,6% 9,3% 13,0% 17,7% 35,8% 40,0% 23,6% 10,3%
+W
+e 91 m² bis unter 131 m²
+t 8 32,1% 32,1% 32,2% 27,3% 61,5% 58,1% 68,0% 85,2% 90,1% 74,0% 47,5%
+u
+g
+ab 131 m²
+9 77,1% 75,5% 92,9% 85,7% 100,0% 100,0% 96,4% 80,6%
+gute Wohnlage
+17,2% 20,3% 10,1% 3,4% 6,8% 11,1% 21,4% 41,1% 46,3% 44,4% 14,8%
+insgesamt
+insgesamt 8,3% 11,5% 4,1% 1,5% 4,7% 11,8% 15,7% 29,2% 32,8% 41,0% 9,0%
+Dokumentation Hamburger Mietenspiegel 2023 105
+Anlagen
+Tabelle-C 3: Bad mit Fenster (Angaben in Prozent)
+insgesamt
+Altbau bis Bis 1919 bis 21.06.1948 1961 bis 1968 bis 1978 bis 1994 bis 2011 bis 2016 bis
+Baualtersklassen/Bezugsfertigkeit
+20.06.1948 31.12.1918 20.06.1948 bis 1960 1967 1977 1993 2010 2015 2022
+insgesamt Mit Bad Mit Bad Mit Bad Mit Bad Mit Bad Mit Bad Mit Bad Mit Bad Mit Bad
+und Sam- und Sam- und Sam- und Sam- und Sam- und Sam- und Sam- und Sam- und Sam-
+Ausstattung
+melhei- melhei- melhei- melhei- melhei- melhei- melhei- melhei- melhei-
+zung zung zung zung zung zung zung zung zung
+Wohn- Wohnfläche
+C bis F C F H I K L M N O C bis O
+lage
+Grundgesamtheit 149.200 85.500 63.700 164.300 90.300 76.100 32.500 27.800 10.900 17.400 568.500
+- n 25 m² bis unter 41 m² 1 62,8% 56,7% 70,0% 54,8% 28,0% 14,8% 0,0% 36,4% 43,1%
+h
+o W e 41 m² bis unter 66 m² 2 79,7% 68,6% 88,8% 63,2% 36,2% 50,0% 46,4% 34,6% 28,4% 18,5% 60,0%
+e g
+la m a l 66 m² bis unter 91 m² 3 74,5% 63,6% 90,0% 63,3% 47,8% 37,8% 19,4% 37,9% 36,3% 44,2% 49,4%
+r
+o n ab 91 m² 4 70,9% 65,9% 85,7% 16,7% 37,5% 65,0% 40,6% 50,0% 48,4%
+normale Wohnlage
+76,3% 65,7% 87,1% 62,1% 40,3% 37,1% 32,9% 40,7% 34,2% 40,1% 54,3%
+insgesamt
+25 m² bis unter 41 m²
+5 60,2% 66,7% 33,3% 47,5% 33,3% 13,6% 15,4% 40,6%
+e
+g 41 m² bis unter 66 m²
+a 6 71,9% 65,9% 85,1% 60,2% 48,6% 35,3% 32,5% 38,1% 31,0% 34,9% 57,5%
+ln
+h 66 m² bis unter 91 m²
+o 7 70,7% 57,9% 89,8% 67,5% 52,7% 50,0% 51,6% 51,9% 45,9% 66,3% 62,3%
+W
+e 91 m² bis unter 131 m²
+t 8 67,5% 62,1% 80,0% 60,6% 69,2% 61,3% 46,0% 65,0% 52,5% 68,8% 64,4%
+u
+g
+ab 131 m²
+9 75,2% 73,8% 89,3% 61,5% 70,6% 63,2% 78,6% 74,4%
+gute Wohnlage
+70,5% 64,7% 84,1% 60,8% 48,4% 40,3% 40,3% 52,0% 45,2% 63,3% 59,2%
+insgesamt
+insgesamt 74,3% 65,3% 86,4% 61,8% 42,0% 37,6% 34,7% 44,2% 36,3% 47,6% 55,5%
+Dokumentation Hamburger Mietenspiegel 2023 106
+Anlagen
+Tabelle-C 4: Einbauküche - Unter- und Oberschränke, Einbauherd, Einbauspüle (Angaben in Prozent)
+insgesamt
+Altbau bis Bis 1919 bis 21.06.1948 1961 bis 1968 bis 1978 bis 1994 bis 2011 bis 2016 bis
+Baualtersklassen/Bezugsfertigkeit
+20.06.1948 31.12.1918 20.06.1948 bis 1960 1967 1977 1993 2010 2015 2022
+insgesamt Mit Bad Mit Bad Mit Bad Mit Bad Mit Bad Mit Bad Mit Bad Mit Bad Mit Bad
+und Sam- und Sam- und Sam- und Sam- und Sam- und Sam- und Sam- und Sam- und Sam-
+Ausstattung
+melhei- melhei- melhei- melhei- melhei- melhei- melhei- melhei- melhei-
+zung zung zung zung zung zung zung zung zung
+Wohn- Wohnfläche
+C bis F C F H I K L M N O C bis O
+lage
+Grundgesamtheit 149.200 85.500 63.700 164.300 90.300 76.100 32.500 27.800 10.900 17.400 568.500
+- n 25 m² bis unter 41 m² 1 51,5% 61,3% 40,0% 33,3% 45,8% 78,6% 0,0% 91,7% 50,5%
+h
+o W e 41 m² bis unter 66 m² 2 43,8% 46,4% 41,8% 47,0% 47,3% 71,0% 75,0% 87,7% 91,3% 85,7% 52,2%
+e g
+la m a l 66 m² bis unter 91 m² 3 49,4% 60,3% 33,9% 40,4% 49,5% 62,4% 65,9% 90,0% 100,0% 98,1% 57,3%
+r
+o n ab 91 m² 4 66,5% 70,7% 53,8% 66,7% 75,0% 95,2% 93,8% 97,0% 79,6%
+normale Wohnlage
+47,2% 53,7% 40,4% 44,0% 48,1% 68,0% 70,7% 89,8% 95,4% 94,3% 54,9%
+insgesamt
+25 m² bis unter 41 m²
+5 48,1% 40,7% 78,6% 57,5% 70,4% 87,0% 78,6% 63,6%
+e
+g 41 m² bis unter 66 m²
+a 6 57,3% 58,9% 53,8% 54,9% 63,6% 78,8% 93,5% 95,4% 96,4% 98,4% 63,9%
+ln
+h 66 m² bis unter 91 m²
+o 7 60,7% 64,0% 55,6% 59,0% 50,7% 78,8% 91,7% 96,3% 97,4% 98,9% 67,3%
+W
+e 91 m² bis unter 131 m²
+t 8 54,1% 56,9% 47,7% 65,5% 84,6% 93,5% 87,8% 97,6% 96,3% 98,7% 71,7%
+u
+g
+ab 131 m²
+9 58,5% 59,0% 53,6% 92,9% 100,0% 100,0% 96,4% 65,8%
+gute Wohnlage
+57,3% 58,5% 54,4% 57,5% 61,7% 81,7% 90,4% 96,5% 97,2% 98,5% 66,2%
+insgesamt
+insgesamt 50,6% 55,7% 43,8% 47,0% 51,0% 70,1% 75,5% 91,9% 95,8% 95,6% 57,7%
+Dokumentation Hamburger Mietenspiegel 2023 107
+Anlagen
+Tabelle-C 5: Zusätzliche Ausstattung in der Küche, z.B. Kühlschrank, Geschirrspüler, Gefrierschrank (Angaben in Prozent)
+insgesamt
+Altbau bis Bis 1919 bis 21.06.1948 1961 bis 1968 bis 1978 bis 1994 bis 2011 bis 2016 bis
+Baualtersklassen/Bezugsfertigkeit
+20.06.1948 31.12.1918 20.06.1948 bis 1960 1967 1977 1993 2010 2015 2022
+insgesamt Mit Bad Mit Bad Mit Bad Mit Bad Mit Bad Mit Bad Mit Bad Mit Bad Mit Bad
+und Sam- und Sam- und Sam- und Sam- und Sam- und Sam- und Sam- und Sam- und Sam-
+Ausstattung
+melhei- melhei- melhei- melhei- melhei- melhei- melhei- melhei- melhei-
+zung zung zung zung zung zung zung zung zung
+Wohn- Wohnfläche
+C bis F C F H I K L M N O C bis O
+lage
+Grundgesamtheit 149.200 85.500 63.700 164.300 90.300 76.100 32.500 27.800 10.900 17.400 568.500
+- n 25 m² bis unter 41 m² 1 30,1% 38,7% 20,0% 6,2% 29,2% 25,0% 0,0% 91,7% 22,1%
+h
+o W e 41 m² bis unter 66 m² 2 16,6% 18,8% 14,7% 10,7% 13,5% 28,6% 20,3% 36,7% 69,6% 53,6% 16,9%
+e g
+la m a l 66 m² bis unter 91 m² 3 22,2% 28,8% 12,7% 14,7% 10,4% 14,3% 26,3% 34,9% 71,6% 68,2% 20,0%
+r
+o n ab 91 m² 4 42,4% 46,3% 30,8% 16,7% 37,5% 52,4% 73,8% 72,7% 46,4%
+normale Wohnlage
+20,7% 26,0% 15,3% 10,7% 14,0% 20,9% 24,7% 38,4% 71,3% 70,2% 19,9%
+insgesamt
+25 m² bis unter 41 m²
+5 20,5% 18,5% 28,6% 28,2% 44,4% 47,8% 78,6% 35,8%
+e
+g 41 m² bis unter 66 m²
+a 6 32,2% 36,1% 23,3% 25,9% 27,3% 58,0% 44,0% 76,6% 82,8% 70,5% 35,3%
+ln
+h 66 m² bis unter 91 m²
+o 7 28,9% 33,0% 23,0% 30,5% 19,4% 45,3% 54,8% 69,8% 84,2% 82,0% 37,4%
+W
+e 91 m² bis unter 131 m²
+t 8 35,6% 36,5% 33,7% 48,3% 38,5% 77,4% 69,4% 80,7% 83,5% 82,7% 52,5%
+u
+g
+ab 131 m²
+9 46,1% 46,1% 46,4% 85,7% 88,2% 94,7% 96,4% 54,8%
+gute Wohnlage
+32,9% 35,8% 26,1% 29,6% 28,4% 53,3% 56,9% 75,5% 84,8% 81,9% 39,5%
+insgesamt
+insgesamt 24,8% 30,0% 17,9% 14,9% 17,1% 25,8% 32,6% 49,8% 73,9% 74,0% 24,8%
+Dokumentation Hamburger Mietenspiegel 2023 108
+Anlagen
+Tabelle-C 6: Fahrradkeller/überdachter Fahrradstellplatz (Angaben in Prozent)
+insgesamt
+Altbau bis Bis 1919 bis 21.06.1948 1961 bis 1968 bis 1978 bis 1994 bis 2011 bis 2016 bis
+Baualtersklassen/Bezugsfertigkeit
+20.06.1948 31.12.1918 20.06.1948 bis 1960 1967 1977 1993 2010 2015 2022
+insgesamt Mit Bad Mit Bad Mit Bad Mit Bad Mit Bad Mit Bad Mit Bad Mit Bad Mit Bad
+und Sam- und Sam- und Sam- und Sam- und Sam- und Sam- und Sam- und Sam- und Sam-
+Ausstattung
+melhei- melhei- melhei- melhei- melhei- melhei- melhei- melhei- melhei-
+zung zung zung zung zung zung zung zung zung
+Wohn- Wohnfläche
+C bis F C F H I K L M N O C bis O
+lage
+Grundgesamtheit 149.200 85.500 63.700 164.300 90.300 76.100 32.500 27.800 10.900 17.400 568.500
+- n 25 m² bis unter 41 m² 1 16,2% 30,0% 0,0% 37,5% 48,0% 48,1% 0,0% 90,9% 38,8%
+h
+o W e 41 m² bis unter 66 m² 2 40,8% 40,0% 41,4% 55,7% 43,5% 54,9% 55,6% 71,6% 72,5% 92,9% 51,1%
+e g
+la m a l 66 m² bis unter 91 m² 3 44,2% 46,0% 41,7% 55,0% 55,7% 52,9% 62,5% 80,0% 83,0% 86,5% 56,5%
+r
+o n ab 91 m² 4 64,0% 56,8% 85,7% 50,0% 50,0% 81,4% 87,3% 92,4% 69,5%
+normale Wohnlage
+40,4% 41,9% 38,8% 53,1% 49,4% 52,7% 58,3% 76,7% 80,0% 90,6% 52,3%
+insgesamt
+25 m² bis unter 41 m²
+5 33,4% 34,6% 28,6% 55,3% 37,0% 65,2% 78,6% 48,8%
+e
+g 41 m² bis unter 66 m²
+a 6 47,6% 45,0% 53,3% 58,5% 58,7% 61,7% 61,6% 78,8% 71,4% 87,3% 56,7%
+ln
+h 66 m² bis unter 91 m²
+o 7 55,3% 51,1% 61,6% 59,2% 75,7% 69,8% 72,6% 81,7% 80,0% 81,8% 65,1%
+W
+e 91 m² bis unter 131 m²
+t 8 59,2% 54,0% 71,1% 47,1% 38,5% 66,7% 64,0% 81,0% 82,9% 85,5% 62,1%
+u
+g
+ab 131 m²
+9 73,7% 73,1% 78,6% 57,1% 93,3% 89,5% 71,4% 74,3%
+gute Wohnlage
+54,2% 51,9% 59,5% 57,3% 59,3% 66,0% 67,2% 81,2% 79,4% 82,8% 60,4%
+insgesamt
+insgesamt 45,1% 46,0% 43,7% 54,0% 51,5% 54,7% 60,5% 78,1% 79,8% 88,1% 54,3%
+Dokumentation Hamburger Mietenspiegel 2023 109
+Anlagen
+Tabelle-C 7: Fahrstuhl/Aufzug (Angaben in Prozent)
+insgesamt
+Altbau bis Bis 1919 bis 21.06.1948 1961 bis 1968 bis 1978 bis 1994 bis 2011 bis 2016 bis
+Baualtersklassen/Bezugsfertigkeit
+20.06.1948 31.12.1918 20.06.1948 bis 1960 1967 1977 1993 2010 2015 2022
+insgesamt Mit Bad Mit Bad Mit Bad Mit Bad Mit Bad Mit Bad Mit Bad Mit Bad Mit Bad
+und Sam- und Sam- und Sam- und Sam- und Sam- und Sam- und Sam- und Sam- und Sam-
+Ausstattung
+melhei- melhei- melhei- melhei- melhei- melhei- melhei- melhei- melhei-
+zung zung zung zung zung zung zung zung zung
+Wohn- Wohnfläche
+C bis F C F H I K L M N O C bis O
+lage
+Grundgesamtheit 149.200 85.500 63.700 164.300 90.300 76.100 32.500 27.800 10.900 17.400 568.500
+- n 25 m² bis unter 41 m² 1 1,7% 3,2% 0,0% 0,0% 26,9% 41,4% 0,0% 75,0% 16,0%
+h
+o W e 41 m² bis unter 66 m² 2 0,3% 0,0% 0,5% 4,8% 25,3% 36,1% 23,0% 22,0% 75,4% 89,7% 12,7%
+e g
+la m a l 66 m² bis unter 91 m² 3 2,2% 1,4% 3,3% 8,0% 18,8% 33,3% 23,8% 37,2% 85,7% 83,8% 22,3%
+r
+o n ab 91 m² 4 10,4% 9,1% 14,3% 42,9% 25,0% 48,8% 87,9% 89,7% 46,2%
+normale Wohnlage
+1,4% 1,5% 1,4% 4,7% 22,6% 36,1% 23,6% 32,6% 82,3% 85,9% 17,6%
+insgesamt
+25 m² bis unter 41 m²
+5 11,9% 14,8% 0,0% 10,5% 30,8% 43,5% 21,4% 20,6%
+e
+g 41 m² bis unter 66 m²
+a 6 4,5% 6,1% 0,8% 4,0% 14,1% 14,0% 23,4% 42,9% 76,7% 77,8% 11,2%
+ln
+h 66 m² bis unter 91 m²
+o 7 11,5% 11,8% 11,0% 10,0% 9,6% 12,7% 24,2% 36,4% 65,8% 59,8% 16,6%
+W
+e 91 m² bis unter 131 m²
+t 8 20,0% 16,2% 28,9% 21,2% 7,7% 25,8% 30,8% 61,2% 86,6% 68,8% 30,7%
+u
+g
+ab 131 m²
+9 56,4% 53,7% 82,1% 35,7% 81,2% 73,7% 67,9% 58,2%
+gute Wohnlage
+16,1% 17,6% 12,7% 8,4% 15,3% 19,5% 25,1% 46,8% 73,9% 66,6% 19,3%
+insgesamt
+insgesamt 6,4% 8,2% 4,1% 5,5% 21,0% 33,6% 23,9% 37,0% 80,7% 79,6% 18,0%
+Dokumentation Hamburger Mietenspiegel 2023 110
+Anlagen
+Tabelle-C 8: Fahrstuhl/Aufzug im Haus bei bis zu einschließlich 5 Stockwerken (Angaben in Prozent)
+insgesamt
+Altbau bis Bis 1919 bis 21.06.1948 1961 bis 1968 bis 1978 bis 1994 bis 2011 bis 2016 bis
+Baualtersklassen/Bezugsfertigkeit
+20.06.1948 31.12.1918 20.06.1948 bis 1960 1967 1977 1993 2010 2015 2022
+insgesamt Mit Bad Mit Bad Mit Bad Mit Bad Mit Bad Mit Bad Mit Bad Mit Bad Mit Bad
+und Sam- und Sam- und Sam- und Sam- und Sam- und Sam- und Sam- und Sam- und Sam-
+Ausstattung
+melhei- melhei- melhei- melhei- melhei- melhei- melhei- melhei- melhei-
+zung zung zung zung zung zung zung zung zung
+Wohn- Wohnfläche
+C bis F C F H I K L M N O C bis O
+lage
+Grundgesamtheit 149.200 85.500 63.700 164.300 90.300 76.100 32.500 27.800 10.900 17.400 568.500
+- n 25 m² bis unter 41 m² 1 1,9% 3,6% 0,0% 0,0% 20,8% 30,4% 0,0% 70,0% 12,6%
+h
+o W e 41 m² bis unter 66 m² 2 0,0% 0,0% 0,0% 1,5% 11,0% 20,7% 19,7% 20,0% 71,2% 87,0% 7,5%
+e g
+la m a l 66 m² bis unter 91 m² 3 1,9% 0,8% 3,5% 4,7% 8,3% 24,3% 13,9% 33,1% 84,3% 79,5% 15,9%
+r
+o n ab 91 m² 4 9,7% 8,1% 14,3% 20,0% 16,7% 38,9% 88,7% 87,0% 38,5%
+normale Wohnlage
+1,2% 1,3% 1,1% 1,8% 11,0% 23,7% 16,7% 28,5% 80,3% 82,5% 12,2%
+insgesamt
+25 m² bis unter 41 m²
+5 6,7% 8,3% 0,0% 6,1% 28,0% 40,9% 23,1% 17,0%
+e
+g 41 m² bis unter 66 m²
+a 6 4,3% 5,8% 0,9% 2,9% 7,0% 12,5% 20,5% 34,5% 73,1% 75,0% 9,0%
+ln
+h 66 m² bis unter 91 m²
+o 7 10,1% 10,3% 9,8% 7,9% 7,0% 9,4% 22,4% 31,2% 61,8% 53,9% 14,2%
+W
+e 91 m² bis unter 131 m²
+t 8 17,1% 14,9% 22,4% 18,7% 7,7% 17,9% 30,8% 54,2% 85,7% 67,1% 27,7%
+u
+g
+ab 131 m²
+9 50,9% 48,2% 76,2% 35,7% 80,0% 68,7% 65,4% 53,3%
+gute Wohnlage
+14,2% 15,6% 10,9% 6,3% 11,0% 16,5% 23,6% 40,4% 70,5% 63,0% 16,6%
+insgesamt
+insgesamt 5,6% 7,2% 3,4% 2,8% 11,0% 22,6% 18,4% 32,1% 78,4% 76,1% 13,3%
+Dokumentation Hamburger Mietenspiegel 2023 111
+Anlagen
+Anlage D: Fragebögen
+Mieterfragebogen
+Vermieterfragebogen
+Dokumentation Hamburger Mietenspiegel 2023 112
+Anlagen
+Dokumentation Hamburger Mietenspiegel 2023 113
+Anlagen
+Dokumentation Hamburger Mietenspiegel 2023 114
+Anlagen
+Dokumentation Hamburger Mietenspiegel 2023 115
+Anlagen
+Dokumentation Hamburger Mietenspiegel 2023 116
+Anlagen
+Dokumentation Hamburger Mietenspiegel 2023 117
+Anlagen
+Dokumentation Hamburger Mietenspiegel 2023 118
+Anlagen
+Dokumentation Hamburger Mietenspiegel 2023 119
+Anlagen
+Dokumentation Hamburger Mietenspiegel 2023 120
+Anlagen
+Anlage E: Anschreiben der Behörde für Stadtentwicklung und
+Wohnen
+Dokumentation Hamburger Mietenspiegel 2023 121
+Anlagen
+Dokumentation Hamburger Mietenspiegel 2023 122
+Anlagen
+Dokumentation Hamburger Mietenspiegel 2023 123
+Anlagen
+Dokumentation Hamburger Mietenspiegel 2023 124
+Anlagen
+Dokumentation Hamburger Mietenspiegel 2023 125
+Anlagen
+Dokumentation Hamburger Mietenspiegel 2023 126
+ALP Institut für Wohnen
+und Stadtentwicklung GmbH
+Schopenstehl 15 | 20095 Hamburg
+Telefon: 040 3346476-0
+Fax: 040 3346476-99
+E-Mail: info@alp-institut.de
+Homepage: www.alp-institut.de

@@ -1,0 +1,3947 @@
+Hamburger Mietenspiegel 2019
+Grundlagendaten für den empirischen Hamburger
+Mietenspiegel 2019
+Methodenbericht im Auftrag der
+Behörde für Stadtentwicklung und Wohnen
+Amt für Wohnen, Stadterneuerung und Bodenordnung
+Hamburg, Januar 2020
+Hamburg, Mai 2020
+Inhalt
+1 VORBEMERKUNG __________________________________________ 6
+2 VORGABEN UND ABLAUF DER ERHEBUNG ____________________ 8
+2.1 Vorgaben für die Erhebung __________________________________________ 8
+2.2 Datenschutz ______________________________________________________ 9
+2.3 Ablauf der Erhebung und Auswertung __________________________________ 9
+2.4 Veröffentlichung und Online-Mietenspiegel _____________________________ 10
+3 ARBEITSKREIS MIETENSPIEGEL ____________________________ 11
+4 DATENSCHUTZ ___________________________________________ 12
+5 GRUNDGESAMTHEIT UND STICHPROBE ______________________ 16
+5.1 Tabellenaufbau __________________________________________________ 16
+5.2 Grundgesamtheit _________________________________________________ 17
+5.3 Ziehung der Stichprobe ____________________________________________ 21
+6 DATENERHEBUNG ________________________________________ 25
+6.1 Mieterbefragung __________________________________________________ 26
+6.1.1 Schriftliches Screening ____________________________________________ 26
+6.1.2 Mündliche Hauptbefragung _________________________________________ 26
+6.2 Vermieterbefragung _______________________________________________ 28
+6.3 Feldkontrollen ___________________________________________________ 29
+7 DATENBEREINIGUNG UND -AUSWERTUNG ___________________ 30
+7.1 Überblick _______________________________________________________ 30
+7.2 Datenbereinigung _________________________________________________ 31
+7.3 Ausreißerbereinigung ______________________________________________ 32
+7.4 Feldbesetzung unter 10 Mietwerten ___________________________________ 33
+7.5 Feldbesetzung ___________________________________________________ 33
+7.6 Festlegung der Nettokaltmiete als Berechnungsgrundlage _________________ 35
+Methodenbericht zum Hamburger Mietenspiegel 2019 II
+7.7 Ermittlung der durchschnittlichen Nebenkosten __________________________ 35
+7.7.1 Durchschnittliche kalte Betriebskostenvorauszahlungen ___________________ 35
+7.7.2 Durchschnittliche Vorauszahlungen für Heizung und Warmwasser __________ 37
+7.8 Charakterisierung der ortsüblichen Vergleichsmiete ______________________ 37
+7.9 Berechnung der ortsüblichen Vergleichsmiete __________________________ 38
+7.9.1 Durchschnittliche Nettokaltmietwerte __________________________________ 38
+7.9.2 Spannenbildung beim Hamburger Mietenspiegel 2019 ____________________ 38
+7.10 Mietenspiegeltabelle Hamburger Mietenspiegel 2019 _____________________ 39
+7.11 Ausstattungsmerkmale ____________________________________________ 41
+7.11.1 Standardausstattung ______________________________________________ 41
+7.11.2 Bessere Ausstattung ______________________________________________ 42
+8 ERGÄNZENDE AUSWERTUNGEN ____________________________ 44
+8.1 Mietenentwicklungen und Mietenstruktur im Hamburger Mietenspiegel 2019 ___ 44
+8.2 Neuvertragsmietenanteile im Hamburger Mietenspiegel 2019 ______________ 52
+8.3 Struktur der Nettokaltmieten nach Mietenstufen insgesamt und nach Wohnlage 54
+8.4 Mietenentwicklung bei zwei Hamburger Normalwohnungen ________________ 55
+8.5 Alter der mietenspiegelrelevanten Verträge _____________________________ 56
+8.6 Mietveränderungserklärung mit Verweis auf den Hamburger Mietenspiegel ___ 58
+ANLAGE A: FÖRDERPROGRAMME, DIE ZUM AUSSCHLUSS AUS DEM
+HAMBURGER MIETENSPIEGEL 2019 GEFÜHRT HABEN ____________ 60
+ANLAGE B: HISTOGRAMME ___________________________________ 62
+ANLAGE C: ANALYSE DER AUSSTATTUNGSMERKMALE__________ 108
+ANLAGE D: FRAGEBOGEN ___________________________________ 118
+ANLAGE E: ANSCHREIBEN DER BEHÖRDE FÜR
+STADTENTWICKLUNG UND WOHNEN __________________________ 125
+ANLAGE F: ANSCHREIBEN DER MIETERVERBÄNDE _____________ 130
+ANLAGE G: ANSCHREIBEN DER VERMIETERVERBÄNDE _________ 132
+Methodenbericht zum Hamburger Mietenspiegel 2019 III
+Tabellenverzeichnis
+Tabelle 1: Berechnungssystematik für die Grundgesamtheit
+des Hamburger Mietenspiegels 2019 ________________________________ 18
+Tabelle 2: Grundgesamtheit zum Hamburger Mietenspiegel 2019 __________________ 20
+Tabelle 3: Bruttostichprobe nach Befragungsclustern ___________________________ 23
+Tabelle 4: Verteilung der Bruttostichprobe nach Vermieterstruktur* _________________ 23
+Tabelle 5: Verteilung der Bruttostichprobe nach Erhebungstyp* ___________________ 24
+Tabelle 6: Feldverlauf Screening - Stichprobenausschöpfung _____________________ 27
+Tabelle 7: Feldverlauf Hauptbefragung - Stichprobenausschöpfung ________________ 27
+Tabelle 8: Feldverlauf Vermieterbefragung - Stichprobenausschöpfung _____________ 28
+Tabelle 9: Ergebnisse der Datenbereinigung im Hamburger Mietenspiegel 2019 ______ 30
+Tabelle 10: Ergebnisse der Ausreißerbereinigung im Hamburger Mietenspiegel 2019 ___ 32
+Tabelle 11: Feldbesetzung zum Hamburger Mietenspiegel 2019 ____________________ 34
+Tabelle 12: Durchschnittliche kalte Betriebskostenvorauszahlung nach Baualter
+und Ausstattung in €/m² 2015 bis 2019 ______________________________ 36
+Tabelle 13: Durchschnittliche Vorauszahlung für Heizung und Warmwasser
+nach Baualter und Ausstattung in €/m² 2019 im Vergleich zu 2015 ________ 37
+Tabelle 14: Hamburger Mietenspiegel 2019 ____________________________________ 40
+Tabelle 15: Mietveränderungen Hamburger Mietenspiegel
+2017 zu 2019 (gewichtete Mittelwerte) _______________________________ 49
+Tabelle 16: Entwicklung des arithmetischen Mittels und
+der Spannenwerte 2019 zu 2017 in Euro/m² Wohnfläche ________________ 50
+Tabelle 17: Entwicklung des arithmetischen Mittels und
+der Spannenwerte 2019 zu 2017 in Prozent __________________________ 51
+Tabelle 18: Anteil der Neuvertragsmieten ______________________________________ 53
+Tabelle 19: Verteilung der Nettokaltmieten nach Wohnlage ________________________ 54
+Tabelle 20: Verteilung der mietenspiegelrelevanten Verträge
+nach durchschnittlichem Alter je Baualtersklassen _____________________ 56
+Tabelle 21: Verteilung der mietenspiegelrelevanten Verträge nach
+durchschnittlichem Alter nach Wohnungsgrößenklassen _________________ 57
+Tabelle 22: Verteilung der mietenspiegelrelevanten Verträge nach
+durchschnittlichem Alter nach Vermietertyp ___________________________ 57
+Tabelle 23: Begründung der Mieterhöhung nach Baualtersklasse ___________________ 58
+Methodenbericht zum Hamburger Mietenspiegel 2019 4
+Abbildungsverzeichnis
+Abbildung 1 Entwicklung der durchschnittlichen Nettokaltmiete von 1995 bis 2019 ____________ 48
+Abbildung 2 Mietenverteilung in Hamburg 2019 _______________________________________ 55
+Methodenbericht zum Hamburger Mietenspiegel 2019 5
+1
+VORBEMERKUNG
+Der vorliegende qualifizierte Hamburger Mietenspiegel 2019 wurde im Auftrag der Be-
+hörde für Stadtentwicklung und Wohnen, Amt für Wohnen, Stadterneuerung und Bo-
+denordnung durch F+B Forschung und Beratung für Wohnen, Immobilien und Umwelt
+GmbH erstellt. Der Hamburger Mietenspiegel 2019 ist, wie seine Vorgänger, ein nach
+anerkannten wissenschaftlichen Methoden erstellter „qualifizierter Mietspiegel“ gemäß
+§ 558d BGB.
+Der Mietenspiegel findet seine Grundlage im Bürgerlichen Gesetzbuch (BGB). Er stellt
+eine Übersicht der in Hamburg am 1. April 2019, dem Stichtag der Erhebung, gezahlten
+Mieten für nicht preisgebundenen Wohnraum vergleichbarer Art, Größe, Ausstattung,
+Beschaffenheit und Lage einschließlich der energetischen Ausstattung und Beschaf-
+fenheit dar.
+Nach den gesetzlichen Vorschriften sind in den Mietenspiegel nur solche Mieten ein-
+bezogen, die in den letzten vier Jahren neu vereinbart (Neuverträge) oder, von einer
+Erhöhung nach § 560 BGB (Betriebskostenänderung) abgesehen, geändert worden
+sind (Mietänderungen). Die ausgewiesenen Mieten werden kurz „ortsübliche Ver-
+gleichsmieten“ genannt.
+Der Mietenspiegel bietet den Mietvertragsparteien bei bestehenden Mietverhältnissen
+die Möglichkeit, in eigener Verantwortung die ortsübliche Vergleichsmiete nach § 558
+BGB zu ermitteln, ohne selbst Vergleichsobjekte benennen oder erhebliche Kosten
+und Zeit für Gutachten aufwenden zu müssen. Die Mieterinnen und Mieter können an-
+hand des Mietenspiegels unproblematisch prüfen, ob ein Mietänderungsbegehren der
+Vermieterin oder des Vermieters gerechtfertigt ist.
+Das Gleiche gilt für die Prüfung von Neuabschlüssen von Mietverträgen. Mit dem Miet-
+rechtsnovellierungsgesetz (MietNovG), das am 1. Juni 2015 in Kraft getreten ist, wurde
+§ 556d neu in das Bürgerliche Gesetzbuch eingeführt. Danach darf die Miete zu Beginn
+des Mietverhältnisses in Gebieten mit einem angespannten Wohnungsmarkt die orts-
+übliche Vergleichsmiete grundsätzlich höchstens um 10 % überschreiten.
+Der Gesetzgeber sieht vor, dass Mietenspiegel im Abstand von zwei Jahren der Markt-
+entwicklung angepasst werden sollen. Beim Hamburger Mietenspiegel 2019 handelt
+es sich um eine Fortschreibung des Hamburger Mietenspiegels 2017 auf Basis einer
+repräsentativen Zufallsstichprobe sowie auf Basis der Angaben von zur Wiederho-
+lungsbefragung bereiten Mieterinnen und Mietern sowie Vermieterinnen und Vermie-
+tern der Datenerhebung zum Hamburger Mietenspiegel 2017.
+Im Rahmen der Berechnung der jährlichen Mietpreissteigerung zwischen zwei Mieten-
+spiegeln wird die Differenz aus den jeweiligen Durchschnittsmieten berechnet. Der
+qualifizierte Hamburger Mietenspiegel basiert auf einer Datenerhebung mittels einer
+Stichprobe. Aufgrund der unterschiedlichen Stichproben in den Mietenspiegeln und
+Methodenbericht zum Hamburger Mietenspiegel 2019 6
+dem jeweils unterschiedlichen Marktverhalten der Marktteilnehmer in den einzelnen
+Tabellenfeldern sowie einer unterschiedlichen Teilnahmebereitschaft der Befragten,
+müssen für einen Vergleich der Durchschnittsmiete die ermittelten Mietenwerte der
+Mietspiegeltabelle entsprechend gewichtet werden.
+Grundlage für die Berechnung der Durchschnittsmiete bildet die Grundgesamtheit des
+mietspiegelrelevanten Wohnungsbestands. Im Rahmen des Hamburger Mietenspie-
+gels wird die Grundgesamtheit des mietenspiegelrelevanten Wohnungsbestands der
+Hansestadt Hamburg ermittelt. Die Grundgesamtheit gibt an, wie viele mietenspiegel-
+relevante Wohnungen in jedem Tabellenfeld vorhanden sind. Sie bildet die Gewich-
+tungsgrundlage für die Durchschnittsmiete des jeweiligen Mietenspiegels. Dabei wird
+jeder ermittelte Mietenwert mit der in dem jeweiligen Tabellenfeld vorliegenden Anzahl
+an mietenspiegelrelevanten Wohnungen multipliziert. Danach werden alle berechne-
+ten gewichteten Mietenwerte aufsummiert und durch die Gesamtzahl der mietenspie-
+gelrelevanten Wohnungen geteilt. Konkret bedeutet das für den Hamburger Mieten-
+spiegel 2019, dass die ermittelten Mietenwerte der einzelnen 64 Tabellenfelder der
+Mietenspiegeltabelle mit der dem jeweiligen Tabellenfeld zugrunde liegenden Grund-
+gesamtheit gewichtet, aufsummiert und abschließend durch die Anzahl der mietenspie-
+gelrelevanten Wohnungen in Hamburg aus dem Jahr 2019 dividiert werden. Daraus
+abgeleitet, ergibt sich eine gewichtete Durchschnittsmiete von 8,66 €/m². Die gewich-
+tete Durchschnittsmiete 2017 lag bei 8,44 €/m². Demnach ergibt sich ein Anstieg der
+durchschnittlichen Nettokaltmiete um 2,6 % in der Hansestadt Hamburg zwischen den
+Mietenspiegeln 2017 und 2019. In der Zeit von 2018 bis 2019 hat sich die durchschnitt-
+liche Nettokaltmiete dementsprechend um 1,3 % erhöht.
+Die gewichtete Durchschnittsmiete ist ein statistischer Kennwert, der versucht die all-
+gemeine Mietenpreissteigerung für den gesamten mietenspiegelrelevanten Woh-
+nungsbestand der Hansestadt Hamburg zwischen zwei Mietenspiegeln abzubilden.
+Diese Kennzahl setzt sich somit aus allen Wohnungsgrößenklassen und Baualters-
+klassen zusammen. Die gewichtete Durchschnittsmiete hat jedoch keine rechtliche
+Aussagekraft und kann nicht für Mietpreisänderungen herangezogen werden. Hier
+muss die ortübliche Vergleichsmiete der entsprechenden Wohnung aus dem zugehö-
+rigen Tabellenfeld des aktuellen Mietenspiegels herangezogen werden.
+Dieser Methodenbericht dokumentiert die Arbeitsschritte und -ergebnisse der Erstel-
+lung des qualifizierten Hamburger Mietenspiegels 2019.
+Methodenbericht zum Hamburger Mietenspiegel 2019 7
+2
+VORGABEN UND ABLAUF DER
+ERHEBUNG
+2.1
+Vorgaben für die Erhebung
+Die methodischen Rahmenbedingungen für die Erstellung des Mietenspiegels ergaben
+sich aus der Ausschreibung zum Hamburger Mietenspiegel 2019. Sie orientierten sich
+an den bisherigen Methoden, die im Hamburger Mietenspiegel verwendet wurden (Me-
+thodenkonstanz). Das Ziel ist eine hohe Akzeptanz des Mietenspiegels bei den ver-
+schiedenen Wohnungsmarktakteuren. Daher wurden die Rahmenbedingungen des
+neuen qualifizierten Hamburger Mietenspiegels auch im Arbeitskreis Mietenspiegel
+diskutiert und angepasst.
+Folgende Vorgaben wurden für den qualifizierten Hamburger Mietenspiegel 2019 fest-
+gelegt:
+▪ Tabellenmietenspiegel mit Original-Erhebungsdaten und einer angestrebten Min-
+destfeldbesetzung von 30 Mietwerten je Tabellenfeld für das gesamte Stadtgebiet
+Hamburgs
+▪ Überprüfung einer möglichen Veränderung der Tabellenstruktur auf Basis einer
+Analyse der Erhebungsdaten
+▪ Ziehung einer disproportional geschichteten Zufallsstichprobe
+▪ Ausfilterung des nicht-mietenspiegelrelevanten Wohnraums, z. B. Wohnungen bei
+denen die Miethöhe durch Gesetz oder im Zusammenhang mit einer Förderzusage
+festgelegt worden ist
+▪ Überarbeitung und Aktualisierung des Fragebogens
+▪ Erstellung eines Interviewleitfadens und intensive Schulungen der Interviewerin-
+nen und Interviewer
+▪ Erstellung eines Konzepts zur Öffentlichkeitsarbeit (Pressemitteilungen, Informati-
+onsschreiben)
+▪ Durchführung eines schriftlichen Screenings bei Mieterinnen und Mietern
+▪ Durchführung einer empirischen Repräsentativerhebung von Mietdaten für ca.
+5.000 mietenspiegelrelevante Wohnungen (voll gültige Datensätze) in Hamburg,
+davon rund ein Drittel bei Mieterinnen und Mietern und zwei Drittel bei Vermiete-
+rinnen und Vermietern
+▪ manuelle Rücklaufkontrollen, unmittelbare Plausibilitätskontrollen (manuell und
+mittels Clean-Programm) und Kontrollbefragungen als Zusatz
+Methodenbericht zum Hamburger Mietenspiegel 2019 8
+▪ Ermittlung der Nettokaltmiete unter Ausschluss sachfremder Zu- und Abschläge
+▪ Berechnung der Mietkennwerte: Mittelwerte, Spannen und Spannweiten auf Basis
+der Nettokaltmiete für jedes Tabellenfeld der Hamburger Mietenspiegeltabelle
+▪ Berechnung der durchschnittlichen Pauschalen für kalte Betriebskosten und Kos-
+ten für Heizung und Warmwasser
+▪ Durchführung von Sonderauswertungen zu im Fragebogen enthaltenen Merkma-
+len und Fragestellungen
+▪ Vergleich der Mietpreise mit dem vorangegangen Hamburger Mietenspiegel
+▪ Darstellung der Mietenverteilung für alle Mietenspiegelfelder anhand von Diagram-
+men, sogenannten Histogrammen
+▪ Vorbereitung und Durchführung der Arbeitskreissitzungen mit Ergebnispräsenta-
+tion
+▪ Einhaltung des Hamburger Datenschutzgesetzes und der Vorgaben des Hambur-
+gischen Beauftragten für Datenschutz und Informationsfreiheit
+2.2
+Datenschutz
+Die Durchführung der Arbeiten zum Hamburger Mietenspiegel 2019 erfolgten auf
+Grundlage der von der Freien und Hansestadt Hamburg am 22. November 2016 erlas-
+senen Mietenspiegelbefragungsverordnung (HmbGVBl. 2016, S. 477).
+Die gesamte Durchführung des Auftrages zur Erstellung des Mietenspiegels 2019 und
+insbesondere der Befragungen bei Mieterinnen und Mietern sowie Vermieterinnen und
+Vermietern einschließlich der weiteren Datenverarbeitung im Hause F+B erfolgte stets
+unter Einhaltung der gesetzlichen Bestimmungen (EU-Datenschutz-Grundverordnung
+− DSGVO).
+Es galt, der Informationspflicht gemäß Kapitel 3 DSGVO, insbesondere der Art. 13 und
+14 gegenüber den von der Befragung betroffenen Personen nachzukommen.
+Gemäß den aktuellen Anforderungen des Datenschutzes wurde das F+B-Daten-
+schutzkonzept (inklusive Löschkonzept, TOM) angepasst (vgl. Kapitel 4).
+2.3
+Ablauf der Erhebung und Auswertung
+Die Vorbereitungen zur Erstellung des Hamburger Mietenspiegels 2019 wurden im De-
+zember 2018 begonnen. Auf der Grundlage des Hamburger Mietenspiegels 2017 er-
+folgte eine Überarbeitung der Befragungsunterlagen durch F+B; sowohl der Screening-
+Fragebogen als auch der Hauptfragebogen Mieter/Vermieter wurden anschließend
+dem Arbeitskreis Mietenspiegel vorgestellt und Änderungswünsche aufgenommen.
+Methodenbericht zum Hamburger Mietenspiegel 2019 9
+Auf Basis der von der Auftraggeberin zur Verfügung gestellten Daten wurde von F+B
+eine Befragungs-Grundgesamtheitsdatei aller mietenspiegelrelevanten Wohnungen
+für Hamburg erstellt.
+Der Hamburger Mietenspiegel 2019 ist nach den Vorgaben der Auftraggeberin als Fort-
+schreibung mittels einer empirischen Datenerhebung auf der Grundlage einer neuen
+repräsentativen Stichprobe aus der Grundgesamtheit aller mietenspiegelrelevanten
+Wohnungen in Mehrfamilienhäusern der Stadt erhoben worden. Zusätzlich wurden die
+zur Wiederholungsbefragung bereiten Haushalte aus der Erhebung zum Hamburger
+Mietenspiegel 2017 in die Mietenspiegelerstellung 2019 nach vorrangehender Prüfung
+erneut befragt.
+Um eine ausreichende Feldbesetzung zu erzielen, wurden insgesamt 40.000 Haus-
+halte angeschrieben und darum gebeten, sich an der Erhebung zu beteiligen. Zusätz-
+lich wurden die zur Wiederholungsbefragung bereiten Haushalte aus der Erhebung
+zum Hamburger Mietenspiegel 2017 angeschrieben. Die Durchführung der Feldarbeit,
+inklusive des Screenings bei den Mieterinnen und Mietern, fand von Anfang April bis
+Mitte August 2019 statt. Der Stichtag der Erhebung, auf den sich die erhobenen Daten
+beziehen, ist der 1. April 2019. Die Durchführung der persönlichen Interviews in den
+Mieterhaushalten fand von Ende April bis Mitte August 2019 statt. Parallel erfolgte die
+Befragung der Vermieterinnen und Vermieter sowie der Verwalterinnen und Verwalter
+im Zeitraum von Anfang Juni bis Anfang September 2019.
+2.4
+Veröffentlichung und Online-Mietenspiegel
+Im Rahmen einer Pressekonferenz der Behörde für Stadtentwicklung und Wohnen am
+3. Dezember 2019 wurde der qualifizierte Hamburger Mietenspiegel 2019 der Öffent-
+lichkeit vorgestellt. Mit dem Zeitpunkt der Veröffentlichung erlangt der Hamburger Mie-
+tenspiegel 2019 seine Rechtsgültigkeit.
+Parallel zur Pressekonferenz wurde der Online-Mietenspiegel veröffentlicht unter
+www.mietenspiegel.hamburg.de. Neben der Hamburger Mietenspiegeltabelle 2019,
+die zum Download bereitsteht, können Nutzerinnen und Nutzer in einem gesonderten
+Abfragefenster durch die Eingabe ihrer Adresse zur Bestimmung der Wohnlage, des
+Baufertigstellungsdatums der Wohnung und der Wohnfläche sowie der Ausstattung die
+richtigen Mietspiegel-Spannenwerte sowie den Mittelwert ermitteln, um die ortsübliche
+Vergleichsmiete für ihre Wohnung bilden zu können.
+Methodenbericht zum Hamburger Mietenspiegel 2019 10
+3
+ARBEITSKREIS MIETENSPIEGEL
+Die Vorbereitung, Durchführung und Auswertung der Erhebung wurde durch den Ar-
+beitskreis Mietenspiegel begleitet. In diesem wirkten außer den Vertreterinnen und
+Vertretern der Behörde für Stadtentwicklung und Wohnen und von F+B Vertreter fol-
+gender Verbände und Institutionen mit:
+Als Vertreterinnen und Vertreter der Mieterinteressen:
+▪ Mieter helfen Mietern - Hamburger Mieterverein e.V.
+▪ Mieterverein zu Hamburg von 1890 r.V. Landesverband im Deutschen Mieterbund
+Als Vertreterinnen und Vertreter der Vermieterinteressen:
+▪ Grundeigentümer-Verband Hamburg von 1832 e.V.
+▪ Immobilienverband Deutschland IVD Verband der Immobilienberater, Makler Ver-
+walter und Sachverständigen Region Nord e.V.
+▪ Verband norddeutscher Wohnungsunternehmen Landesverband Hamburg e.V.
+▪ Bundesverband Freier Immobilien- und Wohnungsunternehmen Landesverband
+Nord e.V.
+Sonstige Institutionen und Personen:
+▪ Richterinnen und Richter vom Amts- und Landgericht Hamburg
+▪ Öffentliche Rechtsauskunft- und Vergleichsstelle (ÖRA)
+Die Mitwirkung bezog sich auf methodische und rechtliche Fragestellungen, wie etwa
+die Methodik der Datenerhebung sowie die Auswertung und Interpretation der Daten.
+Den Mitwirkenden wurden alle relevanten Unterlagen zur Verfügung gestellt, sodass
+eine effektive und zielgerichtete Zusammenarbeit möglich war. Die Sitzungen wurden
+von Vertreterinnen und Vertretern der Behörde für Stadtentwicklung und Wohnen ge-
+leitet.
+Methodenbericht zum Hamburger Mietenspiegel 2019 11
+4
+DATENSCHUTZ
+Die Datenschutzbestimmungen wurden von F+B bei der Erstellung des qualifizierten
+Hamburger Mietenspiegels 2019 strikt eingehalten. Neben den Festlegungen in der
+Mietenspiegelbefragungsverordnung der Freien und Hansestadt Hamburg wurden die
+datenschutzrechtlichen Belange auch im F+B-Datenschutzkonzept festgelegt. Die Be-
+arbeitung des Hamburger Mietenspiegels 2019 erfolgte nach den derzeit geltenden
+Vorschriften des Hamburgischen Datenschutzgesetzes (HmbDSG) und des Bundes-
+datenschutzgesetzes (BDSG) sowie der EU-Datenschutz-Grundverordnung
+(DSGVO).
+Die gesamte Durchführung des Auftrages zur Erstellung des qualifizierten Hamburger
+Mietenspiegels 2019 und insbesondere der Befragungen bei Mieterinnen und Mietern
+sowie Vermieterinnen und Vermietern einschließlich der weiteren Datenverarbeitung
+im Hause F+B erfolgte stets unter Einhaltung der gesetzlichen Bestimmungen (Vorga-
+ben des Hamburgischen Beauftragten für Datenschutz und Informationsfreiheit). Die
+Hamburger Datenschutzbehörde wurde über den Ablauf der Datenerhebung und die
+Inhalte der Befragung informiert und das Vorgehen wurde mit dem Datenschutzbeauf-
+tragten der Auftraggeberin abgestimmt sowie durch den betrieblichen Datenschutzbe-
+auftragten von F+B kontinuierlich begleitet.
+Der Werkvertrag zwischen der Behörde für Stadtentwicklung und Wohnen, Amt für
+Wohnen, Stadterneuerung und Bodenordnung, und F+B wurde um einen Vertrag zur
+Auftragsdatenverarbeitung (nach Art. 28 EU-Datenschutz-Grundverordnung –
+DSGVO) ergänzt. Die Laufzeit dieses Vertrags entspricht der Laufzeit des Werkver-
+trags und endet daher ebenfalls mit der Auftragserledigung im Frühjahr 2020.
+Im Vertrag zur Auftragsdatenverarbeitung wurden insbesondere Gegenstand, Art,
+Zweck und Dauer der Datenverarbeitung, Pflichten von F+B sowie der Auftraggeberin
+sowie Regelungen zur datenschutzkonformen Löschung und Vernichtung der Daten
+vereinbart. Im Datenschutzkonzept wurden u. a. der Umgang mit personenbezogenen
+Daten und die Berücksichtigung datenschutzrechtlicher Belange, insbesondere die
+Maßnahmen zur datenschutzkonformen Löschung und Vernichtung der Daten zu Er-
+hebungs- und Projektende beschrieben. Im Datensicherungskonzept sind technisch-
+organisatorische Maßnahmen festgeschrieben, die F+B garantiert. Dies betrifft u. a.
+die Sicherung der Vertraulichkeit, Integrität und Verfügbarkeit der Systeme, die perso-
+nenbezogene Daten nach aktuellem Stand der Technik.
+Die Mitarbeiterinnen und Mitarbeiter von F+B sind im Rahmen ihrer Tätigkeit auf die
+Einhaltung des Datenschutzes und auf Verschwiegenheit verpflichtet. Die während der
+Datenerhebung eingesetzten Interviewerinnen und Interviewer wurden durch den
+Werkvertrag sowie eine zusätzliche Verpflichtungserklärung zur Einhaltung des Daten-
+schutzes schriftlich verpflichtet. Nach Beendigung ihrer Tätigkeit mussten sie schriftlich
+Methodenbericht zum Hamburger Mietenspiegel 2019 12
+die Löschung der Daten bzw. die korrekte datenschutzrechtliche Vernichtung der von
+F+B zur Verfügung gestellten Unterlagen bestätigen.
+Die datenschutzrechtlichen Belange wurden von F+B durch folgende Maßnahmen ge-
+währleistet:
+▪ Der Zugriff auf die datenschutzrechtlich relevanten Grundlagen- und Erhebungs-
+daten erfolgte durch die mit der Erstellung des Hamburger Mietenspiegels betrau-
+ten Mitarbeiterinnen und Mitarbeitern mit personengebundenen, individuellen
+Kennwörtern.
+▪ Die Adressdaten der befragten Mieterinnen und Mieter und Eigentümerinnen und
+Eigentümern (Hilfsmerkmale) und die erhobenen Daten (Erhebungsmerkmale)
+wurden in unterschiedlichen Datenordnern mit individuellen Zugriffsrechten ge-
+speichert.
+▪ Bei F+B erfolgte die Bearbeitung der Erhebungsunterlagen tagsüber in abschließ-
+baren Büroräumen, außerhalb der Arbeitszeiten wurden die Unterlagen in einem
+gesonderten Datenschutzraum mit begrenztem Zugangsrecht gelagert.
+▪ Die für die Befragung benötigten Hilfsmerkmale (Adresse, Telefonnummern der
+Befragten) wurden mit den Erhebungsdaten nur zur Zuspielung der Wohnlage und
+für eventuelle Rückfragen bei festgestellten Datenunstimmigkeiten verknüpft. Die
+zur Identifizierung der oder des Befragten generierte Schlüssel-Kennung wurde
+nach Abschluss dieser Arbeiten gelöscht und es besteht keine Möglichkeit eines
+Rückschlusses aus dem Erhebungsdatensatz auf die befragte Person mehr. Die
+Löschung der Hilfsmerkmale ist der Auftraggeberin schriftlich nachgewiesen wor-
+den.
+▪ Die Auswertung der Erhebungsdaten erfolgte auf Basis der um die Hilfsmerkmale
+befreiten, anonymisierten Daten. Die Ausweisung der Ergebnisse erfolgt nur in ag-
+gregierter Form und orientiert sich hierbei an dem Tabellenraster des Mietenspie-
+gels. Ein Rückschluss auf den Einzelfall ist hierdurch nicht möglich.
+Im Rahmen der Mieterbefragung wurden die Datenschutzbelange und das Recht auf
+informationelle Selbstbestimmung der von der Befragung betroffenen Personen durch
+folgende Maßnahmen gewährleistet:
+▪ Im Anschreiben an die Haushalte und in einer gesonderten Anlage im Rahmen des
+Screenings wurde auf die Freiwilligkeit sowie ausführlich auf Datenschutzaspekte
+hingewiesen.
+▪ Zu Beginn des persönlichen Interviews wurden die von der Befragung betroffene
+Mieterin oder Mieter von der Interviewerin bzw. vom Interviewer explizit auf die
+Freiwilligkeit hingewiesen und musste die Teilnahmebereitschaft ausdrücklich be-
+stätigen.
+▪ Die Interviewerinnen und Interviewer waren durch Bestandteile der Vertragsunter-
+lagen dem Datenschutz verpflichtet. Vor der Aufnahme ihrer Tätigkeit mussten sie
+eine schriftliche Verpflichtungserklärung zum Datenschutz abgeben. Des Weiteren
+Methodenbericht zum Hamburger Mietenspiegel 2019 13
+ist im Werkvertrag die Verschwiegenheit vereinbart und zum Ende der Interviewer-
+tätigkeit wurde eine schriftliche Vernichtungserklärung bezüglich der Befragungs-
+unterlagen notwendig (siehe unten).
+▪ Die Interviewerinnen und Interviewer mussten durch Unterschrift unter den einzel-
+nen Fragebogen bestätigen, dass das Interview auch gemäß den datenschutz-
+rechtlichen Vorgaben korrekt durchgeführt worden war.
+▪ Die Interviewerinnen und Interviewer bestätigten nach Abschluss ihrer Tätigkeit
+schriftlich, dass sie alle Unterlagen gemäß den datenschutzrechtlichen Bestim-
+mungen gelöscht, vernichtet oder zurückgegeben hatten. Die Auszahlung der
+Schlussrechnung war an die Abgabe der Bescheinigung gebunden.
+Gemäß Art. 13 und 14 der DSGVO wurden die Mieterinnen und Mieter sowie die Ver-
+mieterinnen und Vermieter mit einem Anschreiben darüber informiert, welche ihrer per-
+sonenbezogenen Daten verarbeitet werden und welche Rechte sie nach geltendem
+Datenschutzrecht haben. Um die Teilnahmebereitschaft nicht zu verringern, kam die
+Auftraggeberin mit gleichem Schreiben an die Mieterinnen und Mieter beiden Informa-
+tionspflichten nach.
+Die Vermieterbefragung musste, aufgrund der geänderten Anforderungen durch das
+Inkrafttreten der DSGVO, erstmals zweiphasig durchgeführt werden:
+▪ Zu Beginn des Fragebogens wurde die von der Befragung betroffene Vermieterin
+bzw. Vermieter explizit auf die Freiwilligkeit hingewiesen und musste die Teilnah-
+mebereitschaft ausdrücklich bestätigen.
+▪ In der ersten Phase wurden die „Mieterinnen und Mieter der Vermieterinnen und
+Vermieter“ über die Befragung der Vermieterin bzw. Vermieter und ihr Recht auf
+Widerspruch gegen die Datenweitergabe durch die Vermieterin bzw. den Vermie-
+ter in Kenntnis gesetzt. Für diesen Widerspruch wurde eine angemessene Frist
+gesetzt, um den Gesamtzeitplan der Erhebung nicht zu gefährden. In diesem
+Schreiben wurde erneut auf die Freiwilligkeit der Teilnahme hingewiesen.
+▪ Damit auch die Vermieterinnen und Vermieter über das Mieterrecht informiert wa-
+ren, erhielten diese zeitgleich ein Informationsschreiben mit der Ankündigung der
+Mietenspiegelerhebung und diesbezüglich über das Recht der Mieterinnen und
+Mieter auf Widerspruch gegen die Datenweitergabe durch die Vermieterin bzw.
+den Vermieter und sie wurden über den Umgang mit möglichen Widersprüchen
+aufgeklärt.
+▪ Erst nach Ablauf der Widerspruchsfrist sind, in der zweiten Phase, die Befragungs-
+unterlagen an die Vermieterinnen und Vermieter versendet worden. Die von einem
+Widerspruch betroffenen Fälle wurden gesperrt und gelöscht; das betraf rund
+1.000 Datensätze von 40.000 in der Stichprobe. Auf Wunsch wurden den betroffe-
+nen Mieterinnen und Mietern eine Löschbestätigung zugesendet.
+Methodenbericht zum Hamburger Mietenspiegel 2019 14
+Die Auswertung der Erhebungsdaten erfolgte auf Basis des von den Hilfsmerkmalen
+befreiten Datensatzes. Ein Rückschluss auf Einzelfälle ist nicht möglich. Die Auswei-
+sung der Ergebnisse erfolgte nur in aggregierter Form und orientierte sich hierbei an
+dem Tabellenraster des Mietenspiegels.
+Die manuelle Löschung/Vernichtung aller Daten nach Durchführung des Auftrages im
+Frühjahr 2020 erfolgt bei F+B durch die Netzwerk-Administratoren in Abstimmung mit
+der Datenschutzbeauftragten unter der Berücksichtigung der Regellöschfristen, der ge-
+setzlichen Vorgaben und der vorgenannten vertraglichen Regelungen mit der Auftrag-
+geberin. Personenbezogene Daten der Befragten wurden zum Ende der Fertigstellung
+des Mietenspiegels 2019 vernichtet. Die Daten der nicht direkt von der Befragung be-
+troffenen Personen (Dateien für Grundgesamtheit und Stichprobe) wurden zum Ende
+der Befragung gelöscht.
+Methodenbericht zum Hamburger Mietenspiegel 2019 15
+5
+GRUNDGESAMTHEIT UND
+STICHPROBE
+Im Hamburger Mietenspiegel 2019 werden die Mieten des mietenspiegelrelevanten
+Wohnungsbestandes der gesamten Freien und Hansestadt Hamburg abgebildet. Um
+die Mietenentwicklung im mietenspiegelrelevanten Wohnungsbestand seit der letzten
+Mietenspiegelerstellung repräsentativ abzubilden, wurde eine neue Zufallsstichprobe
+gezogen (siehe Kapitel 5.3). Die Stichprobe soll dabei die jeweilige Grundgesamtheit
+möglichst gut widerspiegeln und gleichzeitig den Befragungsaufwand so gering wie
+möglich halten.
+5.1
+Tabellenaufbau
+Der Hamburger Mietwohnungsmarkt verändert sich, wie jeder andere Wohnungsmarkt
+auch, permanent. Es werden neue Wohnungen gebaut, es werden Wohnungen mo-
+dernisiert, die Wohnungsausstattungen werden in vielen Fällen modernen, zeitgemä-
+ßen Ansprüchen angepasst. Auch die Wohnlagen der Wohnungen können sich verän-
+dern, z.B. durch Stadtentwicklungsmaßnahmen.
+Das Grundraster der Tabelle des Hamburger Mietenspiegels 2019 entspricht dem Auf-
+bau der Mietenspiegeltabelle 2017. Insgesamt bilden vier der Wohnwertmerkmale der
+ortsüblichen Vergleichsmiete die Struktur der Mietenspiegeltabelle:
+▪ Größe der Wohnung, definiert durch Größenklassen
+▪ Ausstattung, definiert durch Ausstattungskategorien
+▪ Beschaffenheit der Wohnung, definiert durch Baualtersklassen
+▪ Lage der Wohnung, definiert durch Wohnlagen Hamburgs
+Das fünfte Wohnwertmerkmal „Art“ wurde bereits über die Eingrenzung des mieten-
+spiegelrelevanten Wohnungsbestandes auf den Wohnungsbestand in Gebäuden mit
+drei und mehr Wohnungen festgelegt.
+Die Hamburger Mietenspiegeltabelle 2019 gliedert sich in neun Spalten, die durch die
+Baualters- und Ausstattungsklassen definiert werden:
+▪ Spalte B: bis 31.12.1918, mit Bad oder Sammelheizung
+▪ Spalte C: bis 31.12.1918, mit Bad und Sammelheizung
+▪ Spalte F: 01.01.1919 bis 30.06.1948, mit Bad und Sammelheizung
+▪ Spalte H: 31.06.1948 bis 31.12.1960, mit Bad und Sammelheizung
+Methodenbericht zum Hamburger Mietenspiegel 2019 16
+▪ Spalte I: 1961 bis 1967, mit Bad und Sammelheizung
+▪ Spalte K: 1968 bis 1977, mit Bad und Sammelheizung
+▪ Spalte L: 1978 bis 1993, mit Bad und Sammelheizung
+▪ Spalte M: 1994 bis 2010, mit Bad und Sammelheizung
+▪ Spalte N: 2011 bis 2018, mit Bad und Sammelheizung
+Neben den neun Spalten wird die Hamburger Mietenspiegeltabelle 2019 durch neun
+Zeilen charakterisiert, die sich aus den vier bzw. fünf Größenklassen und den zwei
+Wohnlagen ergeben:
+▪ Zeilen 1 bis 4: normale Wohnlage;
+− 25 m² bis unter 41 m²
+− 41 m² bis unter 66 m²
+− 66 m² bis unter 91 m²
+− ab 91 m²
+▪ Zeilen 5 bis 9: gute Wohnlage;
+− 25 m² bis unter 41 m²
+− 41 m² bis unter 66 m²
+− 66 m² bis unter 91 m²
+− 91 m² bis unter 131 m²
+− ab 131 m²
+Die Hamburger Mietenspiegeltabelle 2019 umfasst damit 81 Tabellenfelder.
+5.2
+Grundgesamtheit
+Die Grundgesamtheit der mietenspiegelrelevanten Wohnungen besteht aus allen
+Hamburger Wohnungen, die folgende Kriterien erfüllen:
+▪ Lage in einem Mehrfamilienhaus (mehr als zwei Wohnungen)
+▪ freifinanzierte Wohnungen
+▪ Wohnungen mit einer Bezugsfertigkeit bis zum 31.12.2018
+Im Rahmen der Erstellung des Hamburger Mietenspiegels 2015 wurde die Grundge-
+samtheit auf der Grundlage der Ergebnisse der Gebäude- und Wohnungszählung 2011
+(Zensus 2011) neu berechnet. Für den Hamburger Mietenspiegel 2019 erfolgte auf
+Basis der Grundgesamtheit 2017 eine Fortschreibung. Für diese Fortschreibung wur-
+den die folgenden Daten herangezogen:
+Methodenbericht zum Hamburger Mietenspiegel 2019 17
+▪ Wohnungsneubau von Wohngebäuden mit drei und mehr Wohnungen der Jahre
+2017 und 2018 (Quelle: Statistisches Amt für Hamburg und Schleswig-Holstein)
+▪ Geförderter Wohnungsneubau von Wohngebäuden mit drei und mehr Wohnungen
+der Jahre 2017 und 2018 (Daten der Behörde für Stadtentwicklung und Wohnen
+und Hamburgische Investitions- und Förderbank)
+▪ Sozialwohnungsbestand, der in den Jahren 2017 und 2018 aus der Mietpreisbin-
+dung gefallen ist (Quelle: Behörde für Stadtentwicklung und Wohnen und der Ham-
+burgischen Investitions- und Förderbank)
+▪ Baufertigstellungen der Modernisierungsprogramme Mod A und Mod B der Jahre
+2017 und 2018 (Behörde für Stadtentwicklung und Wohnen und Hamburgische
+Investitions- und Förderbank).
+Der Wohnungsneubau 2017 und 2018 wurde durch einen geschätzten Anteil an selbst-
+genutzten Eigentumswohnungen verringert. Es wird davon ausgegangen, dass rund
+1/3 der Wohnungen in Gebäuden mit Eigentumswohnungen vermietet werden. Basis
+für diese Schätzung ist die Studie von F+B im Auftrag der damaligen Behörde für Stadt-
+entwicklung und Umwelt „Der Beitrag des Wohnungsneubaus zur Wohnungsversor-
+gung in Hamburg“ (2014).
+Die Tabelle 1 zeigt die zusammengefasste Berechnungssystematik der Neuberech-
+nung.
+Tabelle 1: Berechnungssystematik für die Grundgesamtheit des Hamburger
+Mietenspiegels 2019
+freifinanzierter Wohnungsbestand in Gebäuden mit drei und 538.798 Wohnungen
+mehr Wohnungen 2017
+Neubau von Wohnungen in Gebäuden mit drei und mehr Wohnun-
++12.337 Wohnungen
+gen 2017 und 2018
+Geförderter Wohnungsneubau in Gebäuden mit drei und mehr Woh-
+-4.757 Wohnungen
+nungen 2017 und 2018
+Förderprogramm Mod A und B 2017 und 2018 - 1.572 Wohnungen
+Bindungsende von geförderten Wohnungen in Gebäuden mit drei
++4.528 Wohnungen
+und mehr Wohnungen 2017 und 2018
+Modernisierung von Wohnungen der Minderausstattung
++601 Wohnungen
+(ehemaligen Spalten A, E und G)
+Grundgesamtheit Hamburger Mietenspiegel 2019
+549.935 Wohnungen
+(= Wohnungsbestand 31.12.2018)
+© 2019
+Die in den Jahren 2017 und 2018 ermittelten Fertigstellungen an Wohnungen in Ge-
+bäuden mit drei und mehr Wohnungen mussten um die geförderten Neubaumietwoh-
+nungen mit Mietpreis- und Belegungsbindung verringert werden, da es sich hierbei um
+einen nicht mietenspiegelrelevanten Wohnungsbestand mit Mietpreisbindungen han-
+delt. Weiterhin durften auch die im Rahmen der Modernisierungsprogramme Mod A
+Methodenbericht zum Hamburger Mietenspiegel 2019 18
+(mit Mietpreisbindung) und Mod B in den Jahren 2017 und 2018 neu geförderten Woh-
+nungen entsprechend nicht berücksichtigt werden, da diese ebenfalls über eine Miet-
+preisbindung verfügen.
+In den Jahren 2017 und 2018 sind zudem Wohnungen aus der öffentlichen Bindung
+gefallen und werden daher in der Grundgesamtheit 2019 als mietenspiegelrelevanter
+Wohnungsbestand entsprechend berücksichtigt.
+Vor dem Hintergrund der fortschreitenden Wohnungsmodernisierung müssen entspre-
+chende Wohnungen der Minderausstattung aus den ehemaligen Mietenspiegelspalten
+A, E und G in den entsprechenden voll ausgestatteten Mietenspiegelspalten C, F und
+H berücksichtigt werden, wenn sie modernisiert wurden. Hier liegen keine amtlichen
+Statistiken vor. Es wurde von F+B ein entsprechender Vorschlag erarbeitet und mit
+dem Arbeitskreis Mietenspiegel abgestimmt. Es wird davon ausgegangen, dass rund
+6 % der minderausgestatteten Wohnungen in den Jahren 2017 und 2018 entspre-
+chend modernisiert wurden.
+Aus den Berechnungen ergibt sich die in der Tabelle 2 dargestellte Grundgesamtheit
+des mietenspiegelrelevanten Wohnungsbestands in der Freien und Hansestadt Ham-
+burg im Raster der Mietenspiegeltabelle, die als Grundlage für die Berechnung von
+gewichteten Kennwerten für den gesamten mietspiegelrelevanten Wohnungsbestand
+und von Wohnungsteilmärkten (vgl. Tabelle 15) dient.
+Methodenbericht zum Hamburger Mietenspiegel 2019 19
+Tabelle 2: Grundgesamtheit zum Hamburger Mietenspiegel 2019
+1919 21.06.48 1961 1968 1978 1994 2011
+Baualtersklasse/
+bis 31.12.1918 bis bis bis bis bis bis bis
+Bezugsfertigkeit
+20.06.48 31.12.60 1967 1977 1993 2010 2018
+mit Bad mit Bad mit Bad mit Bad mit Bad mit Bad mit Bad mit Bad mit Bad Ins-
+oder und und und und und und und und gesamt
+Ausstattung
+Sammel- Sammel- Sammel- Sammel- Sammel- Sammel- Sammel- Sammel- Sammel-
+heizung heizung heizung heizung heizung heizung heizung heizung heizung
+Wohnlage Wohnfläche B C F H I K L M N
+25 m² bis
+1 < 1.000 5.300 4.600 17.500 8.200 9.300 1.300 1.200 1.300 49.200
+unter 41 m²
+41 m² bis
+normale unter 66 m² 2 1.300 26.800 32.900 88.800 31.300 21.600 7.400 6.400 1.200 217.700
+Wohnlage 66 m² bis
+3 < 1.000 13.200 9.400 20.500 30.400 26.700 7.500 7.000 8.500 124.000
+unter 91 m²
+ab 91 m² 4 < 1.000 4.200 1.400 1.300 1.400 4.200 1.600 2.800 3.100 20.400
+25 m² bis
+5 < 1.000 2.500 < 1.000 5.200 3.500 1.900 < 1.000 < 1.000 < 1.000 15.400
+unter 41 m²
+41 m² bis
+6 < 1.000 12.400 5.600 15.900 7.900 3.800 2.700 2.400 < 1.000 51.900
+unter 66 m²
+gute 66 m² bis
+Wohnlage unter 91 m² 7 < 1.000 8.500 5.800 11.800 6.500 4.500 2.300 3.200 1.600 44.700
+91 m² bis
+8 < 1.000 6.000 2.600 3.000 1.100 1.200 1.200 2.000 1.100 18.400
+unter 131 m²
+ab 131 m² 9 < 1.000 5.800 < 1.000 < 1.000 < 1.000 < 1.000 < 1.000 < 1.000 < 1.000 8.300
+Insgesamt 4.300 84.700 63.500 164.100 90.500 73.500 25.100 25.800 18.500 550.000
+© 2019
+Methodenbericht zum Hamburger Mietenspiegel 2019 20
+5.3
+Ziehung der Stichprobe
+Der Hamburger Mietenspiegel 2019 ist eine Fortschreibung auf Basis der Erhebungs-
+daten der zur Wiederholungsbefragung bereiten Mieterinnen und Mieter sowie Vermie-
+terinnen und Vermieter des Hamburger Mietenspiegels 2017, erweitert um eine neue
+disproportionale Zufallsstichprobe (Ergänzungsstichprobe) aus der mietenspiegelrele-
+vanten Grundgesamtheit 2019 zur Berücksichtigung des neuen mietenspiegelrelevan-
+ten Wohnungsbestandes und zur Gewährleistung der erforderlichen Fallzahlen.
+Grundlage für die Stichprobenziehung war eine Grundgesamtheitsdatei, die alle mie-
+tenspiegelrelevanten Wohnungen in Hamburg umfasst. Die genaue Abgrenzung die-
+ses Wohnungsbestands ist aus den vorliegenden Grundlagendateien, die durch die
+Behörde für Stadtentwicklung und Wohnen und andere Hamburger Behörden zur Ver-
+fügung gestellt wurden, nicht möglich. Ein wesentlicher Faktor der Abgrenzung der
+mietenspiegelrelevanten Befragungsgrundgesamtheit ist die 4-Jahresregel. Für die
+Dauer der vertraglichen Regelung liegen keine Statistiken oder Datengrundlagen vor,
+da die Vertragsbestandteile nur den Vertragspartnern bekannt sind. Die zur Verfügung
+gestellten Datengrundlagen enthalten ebenfalls keine Informationen zur Wohnungs-
+größe und zur Wohnungsausstattung, so dass diese Kriterien im Rahmen der Stich-
+probenziehung nicht berücksichtigt werden können.
+Für die Erarbeitung der Befragungsgrundgesamtheit wurden folgende Dateien zur Ver-
+fügung gestellt:
+▪ Datei mit allen aktuellen Hamburger Adressen (Quelle: Statistisches Amt für Ham-
+burg und Schleswig-Holstein)
+▪ Adressdatei des geförderten Wohnungsbestandes in Hamburg (Quelle: IFB)
+▪ Stromzählerdatei mit der Zahl der privat genutzten Stromzähler (Quelle: Stromnetz
+Hamburg)
+▪ Baualtersdatei (Quelle: Landesbetrieb Geoinformation und Vermessung)
+▪ Datei mit den Studenten- und Alterswohnheimen in Hamburg (Quelle: Behörde für
+Stadtentwicklung und Wohnen und Internetrecherche)
+▪ Abfallwirtschaftsdatei zur Ermittlung der Eigentümer (Quelle: Stadtreinigung Ham-
+burg)
+▪ Wohnlagendatei (Quelle: Analyse & Konzepte)
+Die aufgebaute Befragungsgrundgesamtheit stellte die Grundlage für die Stichproben-
+ziehung dar, wobei eine Differenzierung nach Wohnlage und Baualtersklassen erfolgte
+(disproportionales Stichprobenkonzept). Die Stichprobengröße wurde so angelegt,
+dass für jedes Befragungscluster aus Wohnlage und Baualtersklasse eine ausrei-
+chende Anzahl von Mietpreisangaben erzielt werden konnte. Es erfolgte im ersten Ar-
+beitsschritt keine Differenzierung nach Mieter- und Vermieterstichprobe, wodurch in-
+nerhalb dieses Wohnungsteilmarktes die Vermieter- bzw. Eigentümerstruktur erhalten
+Methodenbericht zum Hamburger Mietenspiegel 2019 21
+blieb (vgl. Tabelle 3). Verschiebungen ergeben sich durch die disproportionale Stich-
+probenziehung, da insbesondere die großen Wohnungsunternehmen in bestimmten
+Baualtersklassen ihren größten Wohnungsbestand haben und somit geringer in die
+Stichprobe eingehen.
+Insgesamt ergab sich auf Basis der zur Verfügung stehenden Datengrundlage eine
+Befragungsgrundgesamtheit von rund 698.000 Wohnungen. Die Befragungsgrundge-
+samtheit umfasste hierbei alle Wohnungen in Mehrfamilienhäusern, die keine rechtli-
+chen oder vertraglichen Mietpreisbindungen aufgrund einer Förderung mit öffentlichen
+Mitteln aufweisen. Zusätzlich wurde die Grundgesamtheit um die Wohnheimplätze und
+die von Eigentümern selbst bewohnten Wohnungen (soweit entsprechende Angaben
+zur Verfügung standen) bereinigt. Die Zahl der Wohnungen in der Befragungsgrund-
+gesamtheit wurde aus der Zahl der Stromzähler abgeleitet. Diese Zahl ist höher als die
+Grundgesamtheit der Mietwohnungen in Hamburg. Die Differenz beträgt rund 148.000
+Fälle. Gründe hierfür sind:
+▪ Häufig findet sich neben den reinen Wohnungszählern auch noch ein Stromzähler
+für Allgemeinstrom in den Wohnobjekten oder in anderen Gebäuden an den vor-
+liegenden Adressen (z. B. Gartenhäuschen).
+▪ Zusätzlich konnten beim Aufbau der Befragungsgrundgesamtheit die selbstnut-
+zenden Wohnungseigentümer – insbesondere in Wohneigentumsanlagen – nicht
+bereinigt werden, da zu diesem Zeitpunkt ein Abgleich zwischen Eigentümern und
+gemeldeten Personen aus datenschutzrechtlichen Gründen nicht erfolgen konnte.
+Aufgrund dieser Datenungenauigkeiten kommt es zu einer deutlichen Abweichung von
+der in Tabelle 2 ausgewiesenen Grundgesamtheit. Im Rahmen der Datenerhebung
+wird durch entsprechende Filterfragen eine Reduktion der Stichprobenfälle auf den
+mietenspiegelrelevanten Wohnungsbestand gewährleistet.
+Aus diesen Datenbeständen wurde eine Gesamtstichprobe von 52.000 Wohnungen
+(40.000 Zusatzstichprobe und 12.000 Wiederholungsbefragung der Mieter und Ver-
+mieter) gezogen mit dem Grundprinzip von 3.250 Bruttostichprobenfällen bzw. der ma-
+ximal verfügbaren Fallzahl pro Befragungscluster (vgl. Tabelle 3). Falls in der Befra-
+gungsgrundgesamtheit keine ausreichende Anzahl vorlag, wurden die gesamten vor-
+handenen Befragungsfälle im Rahmen der Datenerhebung zum Hamburger Mieten-
+spiegel berücksichtigt.
+Methodenbericht zum Hamburger Mietenspiegel 2019 22
+Tabelle 3: Bruttostichprobe nach Befragungsclustern
+Wohnlage
+Normal Gut Insgesamt
+Baualtersklasse
+bis 31.12.1918 3.250 3.250 6.500
+1.1.1919 bis 1948 3.250 3.250 6.500
+1949 bis 1960 3.250 3.250 6.500
+1961 bis 1967 3.250 3.250 6.500
+1968 bis 1977 3.250 3.250 6.500
+1978 bis 1993 3.250 3.250 6.500
+1994 bis 2010 3.250 3.250 6.500
+2011 bis 2018 3.250 3.250 6.500
+Insgesamt 26.000 26.000 52.000
+© 2019
+Tabelle 4: Verteilung der Bruttostichprobe nach Vermieterstruktur*
+Vermieter/Verwalter Wohnungsbestand
+Anteil in % Anteil in %
+Vermieterstruktur Befragungs- Befragungs-
+grund- Stichprobe grund- Stichprobe
+gesamtheit gesamtheit
+5.000 und mehr Wohnungen 0,1 0,2 23,6 20,0
+1.000 bis 4.999 Wohnungen 0,6 1,6 25,2 23,5
+500 bis 999 Wohnungen 0,6 1,6 9,5 10,8
+weniger als 500 Wohnungen 98,6 96,6 34,8 38,8
+kein Vermieter identifiziert 0,0 6,9 6,9
+100,0 100,0 100,0 100,0
+Insgesamt
+14.665 2.708 698.256 52.411
+* Verteilung vor der Datenlieferung durch das Einwohnermeldeamt © 2019
+Die Bruttostichprobe von 40.000 Zusatzstichprobenfällen wurde an das Bezirksamt
+Harburg/Einwohneramt übermittelt, das aus dem Melderegister zufällig gezogene Per-
+sonen auswählte und der Stichprobe zuspielte. Durch die Festlegung der Zahl der
+Wohnungen an einer Adresse auf Basis der Stromzählerdatei wurden an einigen Ad-
+ressen mehr Stichprobefälle ausgewählt, als gemeldete Personen vorhanden sind. Da-
+neben kann durch einen Wohnungswechsel eine Wohnung meldetechnisch leer ste-
+hen, obwohl vielleicht bereits ein neuer Mietvertrag besteht. Dieses führt zu einer Ver-
+ringerung der Bruttostichprobe.
+Im Ergebnis wurden 40.000 Fälle der Bruttostichprobe zunächst in Form eines schrift-
+lichen Kurzfragebogens in das Mieterfeld gegeben (Mieterscreening). Die zur Wieder-
+holungsbefragung bereiten Mieterinnen und Mieter der Mietenspiegelerhebung zum
+Hamburger Mietenspiegel 2017 wurden mit einem Anschreiben über den Beginn der
+Befragung informiert. Im Rahmen des Mieterscreenings gingen rund 13.180 Rückant-
+worten ein, um die die Bruttostichprobe der Vermieterbefragung verringert wurde. Die
+verbleibenden rund 26.820 Stichprobenfälle sowie die 8.415 Fälle der Wiederholungs-
+befragung bildeten die Befragungsgrundgesamtheit für die anschließende Vermieter-
+Methodenbericht zum Hamburger Mietenspiegel 2019 23
+befragung. Nach der Zuspielung der für die Vermieterbefragung relevanten Informati-
+onen (Name und Anschrift des Eigentümers) an die 26.820 Stichprobenfälle wurde da-
+raus eine Zusatzstichprobe für die Vermieterbefragung von rund 6.200 Stichproben-
+fälle gezogen. An Stelle von zwei getrennten Stichproben für Mieter- und Vermieterbe-
+fragung wurde aus einer gemeinsamen Bruttostichprobe die Mieter- und Vermieterbe-
+fragung durchführt. Die unbeantworteten Stichprobenfälle aus dem Mieterscreening
+bildeten die Grundlage der Vermieterbefragung und erhielten eine zweite Chance er-
+hoben zu werden, somit erhöhte sich die Ausschöpfung der Gesamtstichprobe.
+Tabelle 5: Verteilung der Bruttostichprobe nach Erhebungstyp*
+Mieterbefragung Vermieterbefragung
+Vermieterstruktur
+Anteil in % Anteil in %
+5.000 und mehr Wohnungen 20,0 28,5
+1.000 bis 4.999 Wohnungen 23,5 23,1
+500 bis 999 Wohnungen 10,8 8,9
+weniger als 500 Wohnungen 38,8 39,5
+Kein Vermieter identifiziert 6,9
+Insgesamt 100,0 100,0
+* Verteilung nach der Datenlieferung durch das Einwohnermeldeamt © 2019
+Verteilt man die Bruttostichprobe auf die beiden Erhebungsfelder „Mieter“ und „Ver-
+mieter“, sind durch das gewählte Verfahren Mieter- und Vermieterstichprobe im Grund-
+satz auf die Vermieterstruktur strukturgleich (vgl. Tabelle 5). Die Basis für die Vertei-
+lung ist die Gesamtstichprobe auf die beiden Erhebungsfelder „Mieter“ und „Vermieter“
+von 52.000 Fällen. Bei der Vermieterbefragung handelt es sich um eine Unterstich-
+probe aus dieser Basisstichprobe. Unter Berücksichtigung der Wahrscheinlichkeitsthe-
+orie sollte die Vermieterbefragung eine identische Struktur aufweisen. Da für 4.479
+Befragungsfälle der Zusatzstichprobe aus der Grundlagendatei keine Vermieterin oder
+keinen Vermieter identifiziert werden konnte, ergeben sich geringfügige Abweichungen
+in der Struktur.
+Methodenbericht zum Hamburger Mietenspiegel 2019 24
+6
+DATENERHEBUNG
+Die Datenerhebung wurde von F+B als eine kombinierte Mieter-/Vermieterbefragung
+vollständig in eigener Regie durchgeführt, wodurch eine besonders effiziente Feldsteu-
+erung und Ergebniskontrolle möglich war. Die Mieterbefragung erfolgte als Face-to-
+Face-Befragung, die Vermieterbefragung als schriftliche Befragung bzw. als Daten-
+bankabfrage aus den wohnungswirtschaftlichen Programmen der Unternehmen.
+Die angewendeten Erhebungsmethoden und Plausibilitätskontrollen entsprachen bei
+allen Arbeitsschritten dem derzeitigen Stand der Wissenschaft und damit den erhöhten
+Anforderungen, die an die Erstellung eines qualifizierten Mietenspiegels gestellt wer-
+den. Dazu gehören insbesondere:
+▪ ein valides, geprüftes Erhebungsinstrument (Fragebogen)
+▪ speziell geschulte Interviewerinnen und Interviewer
+▪ Rücklauf- und Plausibilitätskontrollen
+▪ Datenerfassung durch die Interviewerinnen und Interviewer mit maschinellen und
+manuellen Überprüfungen
+▪ EDV-gestützte Plausibilitätsprüfungen vor der Datenauswertung
+▪ anerkannte statistische Analyseverfahren zur Datenauswertung
+▪ Reproduzierbarkeit der Ergebnisse
+▪ Einhaltung der Datenschutzbestimmungen
+Die Erhebungsmaterialien – Fragebogen (vgl. Anhang D) und Anschreiben (vgl. An-
+hänge E bis G) wurden in Abstimmung mit der Behörde für Stadtentwicklung und Woh-
+nen von F+B erstellt und mit dem Arbeitskreis Mietenspiegel abgestimmt.
+Methodenbericht zum Hamburger Mietenspiegel 2019 25
+6.1
+Mieterbefragung
+Die Mieterbefragung verlief, wie auch bei den vergangenen Mietenspiegelerhebungen,
+in zwei Phasen. In der ersten Phase wurden die Mieterinnen und Mieter mit einem
+Filterfragebogen angeschrieben und in der zweiten Phase erfolgte die Hauptbefragung
+der mietenspiegelrelevanten und befragungsbereiten Haushalte aus der ersten Phase.
+6.1.1 Schriftliches Screening
+Die von der Auftraggeberin oder anderen Behörden in Amtshilfe zur Verfügung gestell-
+ten Grundlagendaten ermöglichten nicht die Bereinigung der Stichprobe um alle nicht-
+mietenspiegelrelevanten Wohnungen. Insbesondere für die 4-Jahresregel liegen amt-
+licherseits keine Informationen vor, da nur die beiden Mietparteien über die Formalitä-
+ten der Mietvereinbarung Kenntnis haben.
+Neben der Überprüfung der Mietenspiegelrelevanz diente das Screening dazu, die
+grundsätzliche Gesprächsbereitschaft der Mieterinnen und Mieter sowie die Kontaktin-
+formationen für die spätere Hauptbefragung (Telefonnummern, sowie Kontaktzeit) ab-
+zufragen.
+Der Fragebogen konnte von den angeschriebenen Haushalten auch online ausgefüllt
+werden. Zur Wahrung des Datenschutzes wurde jeder von der Befragung betroffenen
+Person eine eigene Zugangskennung übermittelt, die nach einmaliger Verwendung
+nicht erneut genutzt werden konnte. Insgesamt haben 7,6 % der Rückmeldenden die-
+sen digitalen Weg gewählt.
+Das schriftliche Screening bei den Mieterinnen und Mietern fand im April 2019 statt.
+Insgesamt wurden 43.585 Haushalte kontaktiert. Davon waren 40.000 Haushalte, die
+zum ersten Mal befragt wurden und rd. 3.585, die sich bereits im Zuge der Mieterbe-
+fragung 2017 bereit erklärt hatten, an der Erhebung 2019 erneut teilzunehmen.
+6.1.2 Mündliche Hauptbefragung
+Die Datenerhebung bei den Mieterinnen und Mietern wurde als mündliche Befragung,
+eine sogenannte Face-to-Face-Befragung, durchgeführt. Die Interviewerinnen und In-
+terviewer waren angewiesen, die Daten durch persönliche Einsichtnahme in die vor-
+gelegten Mietunterlagen zu ermitteln. Der Erhebungszeitraum erstreckte sich von Mitte
+Mai bis Ende Juli 2019. Die Datenerhebung erfolgte mit einem abgestimmten Frage-
+bogen. Der Stichtag, auf den sich die erhobenen Daten beziehen, war der 1. April 2019.
+Für die mündliche Befragung wurde von F+B ein Interviewerfeld mit fünf Interviewerin-
+nen und Interviewern zusammengestellt. Während der Erhebungsphase stand den In-
+terviewerinnen und Interviewern jederzeit eine Mitarbeiterin oder Mitarbeiter von F+B
+als Ansprechpartnerin zur Verfügung. Alle Interviewerinnen und Interviewer wurden
+von der Feldleitung in einer intensiven Schulung auf die Face-to-Face-Befragung der
+Methodenbericht zum Hamburger Mietenspiegel 2019 26
+Mieterinnen und Mieter vorbereitet und auf die Einhaltung der Datenschutzbestimmun-
+gen verpflichtet. Es wurde ein Mietenspiegelbüro in den Geschäftsräumen von F+B
+eingerichtet, das dem Feldleiter als Kontaktraum mit den Interviewerinnen und Inter-
+viewern diente.
+Im Rahmen der Verpflichtungserklärung wurden die Interviewerinnen und Interviewer
+darauf hingewiesen, dass es in keiner Weise gestattet sei, die befragten Haushalte zu
+beraten. Entsprechende Fragen der Befragten, z. B. bezüglich der marktgerechten
+Miete für ihre Wohnung, waren nicht zu beantworten.
+Für die Interviewerinnen und Interviewer wurde ein Interviewerhandbuch erstellt, in
+dem die Hintergründe des Mietenspiegels und begriffliche Grundlagen dargestellt wur-
+den. Neben den allgemeinen Verhaltensregeln bezüglich Zuverlässigkeit, Sorgfalt und
+Freundlichkeit im Umgang mit den zu befragenden Mieterinnen und Mietern wurde jede
+Frage des Fragebogens umfassend erläutert. Das Handbuch diente den Interviewerin-
+nen und Interviewern auch während der Befragung als wichtiges Hilfsmittel bei spezi-
+ellen Fragen der Mieterinnen und Mieter.
+Insgesamt wurden im Rahmen der Mieterbefragung zum Hamburger Mietenspiegel
+2019 1.829 Interviews geführt.
+Tabelle 6: Feldverlauf Screening - Stichprobenausschöpfung
+Anzahl Anteil
+Stichprobenfälle in %
+Bruttostichprobe 43.585 100,0
+keine Rückmeldung 30.405 69,8
+Rücklauf Screening 13.180 30,2
+nicht mietenspiegelrelevanter Rücklauf 4.202 31,9
+davon:
+- selbstnutzende Eigentümer 1.819 43,2
+- 4-Jahresregel 1.389 33,1
+- weniger als drei Wohnungen 141 3,4
+- andere Gründe (z. B. Gesundheit, Verweigerung) 853 20,3
+mietenspiegelrelevant laut Screeningangaben 8.978 68,1
+© 2019
+Tabelle 7: Feldverlauf Hauptbefragung - Stichprobenausschöpfung
+Anzahl Anteil
+Stichprobenfälle in %
+Nettostichprobe für Haupterhebung 8.978 100,0
+Befragungsausfälle in der Haupterhebung
+(z. B. Verweigerung, persönliche Gründe, keine Kontaktauf- 7.149 79,6
+nahme möglich, Adresse nicht verwendet)
+durchgeführte Mieterinterviews 1.829 20,4
+© 2019
+Methodenbericht zum Hamburger Mietenspiegel 2019 27
+6.2
+Vermieterbefragung
+Auch bei der Vermieterbefragung erfolgte eine geteilte Befragung. Hierbei wurde zwi-
+schen Vermieterinnen und Vermietern mit einem großen Wohnungsbestand und Ei-
+gentümerinnen und Eigentümern mit nur wenig Wohnungsbestand (Kleinvermieter/in-
+nen) unterschieden. Die Vermieterbefragung erfolgte schriftlich bei den Vermieterinnen
+und Vermietern mit wenig Wohnungsbestand sowie als Datenbankabfrage aus den
+wohnungswirtschaftlichen Programmen der Wohnungsunternehmen.
+Die Bruttostichprobe umfasste 2.708 Eigentümerinnen und Eigentümer bzw. Vermie-
+terinnen und Vermieter mit rund 15.000 Wohnungen (6.582 Zusatzstichprobe und
+8.415 Wiederholungsbefragung), woraus rund 7.789 Daten vor der Datenbereinigung
+gewonnen werden konnten. Insgesamt haben 890 Vermieterinnen und Vermieter mie-
+tenspiegelrelevante Daten geliefert.
+Der Fragebogen der Vermieterbefragung unterschied sich vom Mieterfragebogen nur
+in der Anredeform. Die erstellte Datenmaske für die elektronische Abfrage entsprach
+dem Fragebogen. Die Befragungsunterlagen wurden mit dem Arbeitskreis Mietenspie-
+gel abgestimmt.
+Tabelle 8: Feldverlauf Vermieterbefragung - Stichprobenausschöpfung
+Vermieter/in nach Anzahl
+Insgesamt
+Stichprobenfälle
+Anzahl
+50 und Anteil
+10 bis 49 unter 10 Stichpro-
+mehr in %
+benfälle
+Bruttostichprobe
+- Stichprobenfälle 6.563 3.938 4.499 15.000 100,0
+- Vermieter/in 33 194 2.481 2.708 100,0
+Rücklauf
+- Stichprobenfälle 4.662 1.208 1.919 7.789 51,9
+- Vermieter/in 14 50 826 890 32,9
+keine Rückmeldung
+- Stichprobenfälle 1.901 2.730 2.508 7.211 48,1
+- Vermieter/in 19 144 1.655 1.818 67,1
+Datenrücklauf
+4.662 1.208 1.919 7.789 100,0
+Vermieterbefragung
+* Leerstand, Gebäude verkauft, Wohnung mehrfach befragt usw. © 2019
+Die Feldphase wurde von einer intensiven telefonischen Betreuung durch F+B Mitar-
+beiterinnen und Mitarbeiter begleitet, welche viele Fragen von Vermieterinnen oder
+Vermieter direkt beantworten konnten. Der Erhebungszeitraum erstreckte sich von
+Mitte Juni 2019 bis Mitte August 2019.
+Methodenbericht zum Hamburger Mietenspiegel 2019 28
+6.3
+Feldkontrollen
+Im Erhebungszeitraum erfolgte durch den Feldleiter eine stichprobenartige Überprü-
+fung der Interviews. Hierbei wurden einzelne Daten des Fragebogens und das Verhal-
+ten der Interviewerinnen und Interviewer gegenüber den Mieterinnen und Mietern über-
+prüft. Externen Hinweisen auf Unregelmäßigkeiten, die nur sehr selten auftraten,
+wurde gezielt nachgegangen.
+Parallel zur Datenerhebung bei den Mieterinnen und Mietern sowie bei den Vermiete-
+rinnen und Vermietern wurden die ausgefüllten Fragebogen entweder durch die Inter-
+viewerin oder den Interviewer oder durch geschulte Mitarbeiterinnen und Mitarbeiter
+von F+B erfasst. Die Daten wurden nachfolgend in einer ersten Prüfung auf Vollstän-
+digkeit der Angaben oder unplausible Kombinationen überprüft. Auftretende Datenlü-
+cken und Unplausibilitäten wurden durch Rückfragen bei den befragten Mieterinnen
+und Mietern sowie Vermieterinnen und Vermietern geklärt. Konnte keine Klärung er-
+zielt werden, z. B. weil wichtige Unterlagen nicht mehr vorlagen, wurden die Daten des
+Interviews im weiteren Arbeitslauf der Erstellung des Hamburger Mietenspiegels 2019
+nicht mehr berücksichtigt.
+Zusätzlich erfolgte eine Kontrollerhebung auf der jeweils anderen Vertragsseite mit ei-
+nem Umfang von 81 Kontrollinterviews. Die Kontrollbefragung ergab keine relevanten
+Abweichungen.
+Methodenbericht zum Hamburger Mietenspiegel 2019 29
+7
+DATENBEREINIGUNG UND
+-AUSWERTUNG
+7.1
+Überblick
+Die bei Mieterinnen und Mietern sowie Vermieterinnen und Vermietern erhobenen
+Wohnungsdaten wurden in einer einheitlichen Datenbank aufbereitet. Zur Auswertung
+des Datenmaterials wurden zusammengefasst folgende Schritte durchgeführt:
+▪ Kennzeichnung und Ausfilterung nicht mietenspiegelrelevanter Wohnungen
+▪ Prüfung der Datensätze durch EDV-gestützte Plausibilitätskontrollen
+▪ Abstellung auf den Mietbegriff der Nettokaltmiete
+▪ Kennzeichnung der Daten mit dem zugehörigen Tabellenfeld des abgestimmten
+Mietenspiegelrasters
+▪ Aufbereitung des repräsentativen Datensatzes aller mietenspiegelrelevanten Woh-
+nungen
+▪ Durchführung einer Ausreißerbereinigung
+▪ Durchführung von statistischen Zusatzanalysen
+Tabelle 9: Ergebnisse der Datenbereinigung im Hamburger Mietenspiegel 2019
+absolut in %
+realisierte Interviews insgesamt 9.618 100,0
+davon:
+Mieterinterviews 1.829 19,1
+Vermieterinterviews 7.789 80,9
+abzüglich Kontrollinterviews 81 0,8
+unplausible bzw. nicht mietenspiegelrelevante Datensätze 4.614 48,0
+davon:
+- Filterfragen 1.497
+- 4-Jahresregel 847
+- Fehlende/unplausible Daten 285
+(Baujahr, Nettomiete, etc.)
+- Whg. kleiner 25m² 31
+- Bereinigung SAGA-Whgn. 1.013
+- Verweigerer 846
+- Sonstige Ausfälle* 95
+plausible und mietenspiegelrelevante Datensätze 4.923 51,2
+Ausreißerbereinigung (99 %-Vertrauensintervall) 91 1,8
+gering besetzte Felder (weniger als 10 Mietwerte) 80 1,6
+in die Mietenspiegeltabelle eingeflossene Datensätze 4.752
+Methodenbericht zum Hamburger Mietenspiegel 2019 30
+* Anpassung auf den Anteil der Saga-Wohnungen in der Stichprobe an der Grundgesamtheit © 2019
+Vor den EDV-gestützten Plausibilitätskontrollen, der Verringerung des Datensatzes um
+die Kontrollinterviews, standen für die Erstellung des Hamburger Mietenspiegels 2019
+9.618 Datensätze zur Verfügung (vgl. Kapitel 7.2). Durch die Reduzierung des Daten-
+pools um die Ausreißerwerte und die Daten in Tabellenfeldern mit weniger als zehn
+Datensätzen sind in die Mietenspiegeltabelle insgesamt 4.752 vollgültige Datensätze
+eingeflossen, davon 1.519 vollgültige Mieterinterviews.
+7.2
+Datenbereinigung
+Nach der Zusammenfassung der Daten in einer einheitlichen Datenbank und den wäh-
+rend der Erhebung durchgeführten Überprüfungen zur Vollständigkeit und Plausibilität
+erfolgte eine EDV-gestützte Datenbereinigung. Die Bereinigungsroutinen wurden be-
+reits in zahlreichen Mietenspiegeln angewendet und auf die speziellen Situationen und
+Strukturen des Hamburger Mietenspiegels angepasst.
+Die von den Interviewerinnen und Interviewern in der Mieterbefragung erhobenen so-
+wie die von den Vermieterinnen und Vermietern zur Verfügung gestellten Daten wur-
+den von F+B auf inhaltliche Plausibilität überprüft und Unstimmigkeiten geklärt. Konnte
+keine Klärung erfolgen, wurde der Datensatz entsprechend gekennzeichnet und nicht
+mehr in den weiteren Auswertungsschritten zum Hamburger Mietenspiegel 2019 be-
+rücksichtigt. Gründe, die zu einem Ausschluss geführt haben, waren:
+▪ Mietverträge bzw. Mietänderungserklärungen außerhalb der 4-Jahresregel,
+▪ fehlende bzw. falsche Angaben zum Baualter,
+▪ fehlende bzw. unplausible Angaben zu den Mietvertragsdaten,
+▪ fehlende Angaben zur Miete, der Wohnfläche oder zu Ausstattungsmerkmalen, die
+für die Einordnung in das Mietenspiegelraster notwendig sind,
+▪ unplausible Mietangaben,
+▪ unlogische Datenkombinationen.
+Im Rahmen dieser Datenprüfungen wurden 4.614 Datensätze gekennzeichnet und in
+den weiteren Arbeitsschritten nicht mehr berücksichtigt.
+Zusätzlich erfolgte bei 81 Wohnungsdatensätzen eine Überprüfung der Angaben auf
+der jeweils anderen Vertragsseite. Bei dieser Überprüfung konnten keine Unstimmig-
+keiten festgestellt werden. Die 81 Wohnungsdatensätze der Kontrollbefragung wurden
+entsprechend gekennzeichnet und in den weiteren Arbeitsschritten nicht mehr berück-
+sichtigt.
+Danach standen noch 4.923 plausible und mietenspiegelrelevante Datensätze für die
+weiteren Arbeitsschritte zur Verfügung (vgl. Tabelle 9).
+Methodenbericht zum Hamburger Mietenspiegel 2019 31
+7.3
+Ausreißerbereinigung
+Vor Ermittlung der Feldbesetzung für die einzelnen Tabellenfelder der Mietenspiegel-
+tabelle und der Berechnung der Mietkennwerte erfolgte für jedes Tabellenfeld eine Be-
+reinigung um sogenannte Ausreißerwerte. Bei Ausreißerwerten handelt es sich um
+Mietwerte, die nicht als marktüblich anzusehen sind bzw. signifikant von den anderen
+Mietwerten eines Tabellenfeldes abweichen und deshalb nicht in die weitere Berech-
+nung einbezogen werden sollen.
+In Abstimmung mit dem Arbeitskreis Mietenspiegel wurde für den Hamburger Mieten-
+spiegel 2019 das gleiche statistische Verfahren zur Ausreißerbereinigung wie im Ham-
+burger Mietenspiegel 2017 angewendet. Die Kappungsgrenze wurde damit erneut auf
+das 99 %-Vertrauensintervall festgelegt.
+Bei diesem statistischen Verfahren werden nicht pauschal 1 % der Mietwerte bereinigt,
+sondern nur solche Mietwerte als Ausreißerwerte gekennzeichnet, die außerhalb des
+festgelegten Vertrauensintervalls liegen. Diese Bereinigung wurde für jedes Mieten-
+spiegelfeld getrennt berechnet. Durch dieses Verfahren ergibt sich nicht zwangsläufig
+in jedem Tabellenfeld eine Ausreißerbereinigung, z. B. wenn bei einer Verteilung die
+erhobenen Mietwerte eng um den Mittelwert liegen, werden in der Regel keine Miet-
+werte als Ausreißerwerte gekennzeichnet.
+Durch die Ausreißerbereinigung wurden 91 Mietwerte nicht mehr in den weiteren Ar-
+beitsschritten zur Erstellung des Hamburger Mietenspiegels 2019 berücksichtigt.
+Tabelle 10: Ergebnisse der Ausreißerbereinigung im Hamburger Mietenspiegel
+2019
+absolut relativ
+Mietwerte vor der Außreißerbereinigung 4.923 100 %
+Insgesamt: 91
+Anzahl der von der Ausreißerbereinigung be- davon:
+2 %
+troffenen Mietwerte 82 am oberen Ende
+9 am unteren Ende
+Mietwerte nach der Außreißerbereinigung 4.832 98 %
+Anzahl der Mietenspiegelfelder in denen durch
+die Ausreißerbereinigung Mietwerte aus der 33 von 81 41 %
+Datenauswertung ausgeschlossen wurden
+Methodenbericht zum Hamburger Mietenspiegel 2019 32
+7.4
+Feldbesetzung unter 10 Mietwerten
+Nach der zuvor beschriebenen Datenbereinigung erfolgte eine Auswertung der verblie-
+benen Daten bzw. die Ermittlung der Zahl der Datensätze je Tabellenfeld des abge-
+stimmten Tabellenrasters.
+In Tabellenfeldern, die eine Fallzahl von weniger als 10 Mietwerten aufweisen, erfolgte
+keine weitere Berechnung von Mietkennwerten, obwohl es sich um mietenspiegelrele-
+vante Wohnungen handelte. In Abstimmung mit der Behörde für Stadtentwicklung und
+Wohnen sowie dem Arbeitskreis Mietenspiegel wurde festgelegt, dass für diese Tabel-
+lenfelder keine ausreichende Fallzahl für eine statistisch gesicherte Aussage vorlag.
+In den betroffenen Tabellenfeldern befanden sich insgesamt 80 Datensätze, die bei
+der weiteren Erstellung des Hamburger Mietenspiegels 2019 nicht mehr berücksichtigt
+wurden (vgl. Tabelle 9).
+7.5
+Feldbesetzung
+Im Hamburger Mietenspiegel 2019 konnte für die überwiegende Zahl der Tabellenfel-
+der eine Feldbesetzung von 10 oder mehr vollgültigen Mietwerten erhoben werden
+(vgl. Tabelle 11).
+Insgesamt konnten 64 Tabellenfelder bzw. 79 % aller Tabellenfelder im Hamburger
+Mietenspiegel 2019 ausgewiesen werden. In 17 Tabellenfeldern bzw. 21 % aller Ta-
+bellenfelder erfolgte keine Ausweisung.
+Methodenbericht zum Hamburger Mietenspiegel 2019 33
+Tabelle 11: Feldbesetzung zum Hamburger Mietenspiegel 2019
+Baualtersklasse bis 31.12.1918 1919 bis 21.6.1948 bis 1961 bis 1967 1968 bis 1978 bis 1994 bis 2011 bis Insgesamt
+20.6.1948 1960 1977 1993 2010 2018
+Ausstattung Bad oder Bad und Bad und Bad und Bad und Bad und Bad und Bad und Bad und
+Sammel- Sammel- Sammel- Sammel- Sammel- Sammel- Sammel- Sammel- Sammel-
+heizung heizung heizung heizung heizung heizung heizung heizung heizung
+B C F H I K L M N
+vor nach vor nach vor nach vor nach vor nach vor nach vor nach vor nach vor nach vor nach
+Wohnlage Wohnfläche
+25 bis u. 41 m² 1 1 25 25 22 22 66 64 51 51 28 28 9 9 11 11 6 6 219 217
+la 41 m² bis u. 66 m² 9 9 193 189 283 276 464 450 198 195 60 59 51 51 84 81 65 64 1.407 1.374
+m
+ro
+66 bis u. 91 m² 10 10 113 111 116 111 149 146 239 232 144 140 55 53 121 118 161 160 1.108 1.081
+n
+ab 91 m² 8 8 44 44 25 24 12 12 13 13 26 25 11 11 47 47 100 99 286 283
+25 bis u. 41 m² 1 1 15 15 5 5 34 34 44 43 12 12 3 3 0 0 5 5 119 118
+41 m² bis u. 66 m² 5 5 69 67 60 59 129 127 85 85 32 31 36 36 44 44 52 50 512 504
+tu 66 bis u. 91 m² 8 8 110 108 133 133 106 105 74 72 51 50 48 47 69 67 102 99 701 689
+g
+91 bis u. 131 m² 11 11 129 129 64 64 32 32 13 13 15 15 24 24 56 56 87 83 431 427
+ab 131 m² 4 4 77 77 15 15 2 2 2 2 4 4 8 8 16 16 12 11 140 139
+Insgesamt 57 57 775 765 723 709 994 972 719 706 372 364 245 242 448 440 590 577 4.923 4.832
+vor = Mietwerte vor der Ausreißerbereinigung; nach = Mietwerte nach der Ausreißerbereinigung © 2019
+Methodenbericht zum Hamburger Mietenspiegel 2019 34
+7.6
+Festlegung der Nettokaltmiete als
+Berechnungsgrundlage
+In Abstimmung mit dem Arbeitskreis Mietenspiegel wurde beim Hamburger Mietenspiegel
+2019, wie auch in den vorangegangenen Mietenspiegeln, die Nettokaltmiete zur Ermittlung der
+Mietenspiegel-Kennwerte verwendet. Dies ist die Miete der Wohnung einschließlich gegebe-
+nenfalls erhobener Modernisierungszuschläge gemäß § 559 Abs. 1 BGB ohne kalte Betriebs-
+kosten sowie ohne Kosten für Heizung und Warmwasser gemäß der Betriebskostenverordnung
+(BetrKV) sowie ohne Möblierungs-, Untermieterzuschläge und/oder Zuschläge für andere Nut-
+zungen.
+7.7
+Ermittlung der durchschnittlichen Nebenkosten
+Im Rahmen der Datenerhebung zum Hamburger Mietenspiegel wurden neben den Nettokalt-
+mieten auch die monatlichen Vorauszahlungen für die kalten Betriebskosten und die Voraus-
+zahlungen für Heizung und Warmwasser erfasst. Es erfolgte keine Erhebung der tatsächlich
+gezahlten Betriebskosten gemäß der Betriebskostenabrechnung, sondern die am Stichtag der
+Datenerhebung gezahlte Vorauszahlung. Die auf dieser Datenbasis ermittelten durchschnittli-
+chen Betriebskosten nach Baualter und Ausstattung sind damit nur Richtwerte.
+Bei den nachfolgend ausgewiesenen Betriebskosten handelt es sich um Durchschnittswerte
+ohne Differenzierung nach dem Umfang der enthaltenen Betriebskostenarten gemäß der Be-
+triebskostenverordnung. D. h. es ist nicht bekannt, in welchem Umfang zum Beispiel Kosten für
+die Gartennutzung, Kosten für den Fahrstuhl oder unterschiedliche Energiearten in den jewei-
+ligen Vorauszahlungen enthalten sind.
+7.7.1 Durchschnittliche kalte Betriebskostenvorauszahlun-
+gen
+Die kalten Betriebskosten umfassen alle Betriebskosten (z B. Grundsteuer, Straßenreinigung,
+Müllbeseitigung, Gebäudeversicherung) ohne die Kosten für Heizung und Warmwasser. Die
+genaue Auflistung aller auf die Mieterin und den Mieter umlegbaren Betriebskosten findet sich
+in § 2 der Betriebskostenverordnung (BetrKV).
+Die in Tabelle 12 aufgeführten durchschnittlichen kalten Betriebskosten je m² Wohnfläche ba-
+sieren auf den Betriebskostenvorauszahlungen der Mietenspiegelerhebung 2019 bei den Mie-
+terinnen und Mietern sowie Vermieterinnen und Vermietern. Die Kosten für Kaltwasser wurden
+in der Berechnung nicht berücksichtigt, da ein Großteil der Haushalte diese direkt mit dem Ver-
+sorger abrechnet.
+Die erfassten absoluten Betriebskostenvorauszahlungen wurden auf Betriebskosten je m²
+Wohnfläche umgerechnet. Wie auch bei den letzten Hamburger Mietenspiegeln wurden Werte
+unter 0,50 €/m² nicht in der Auswertung berücksichtigt, da diese nicht plausibel sind.
+Die durchschnittlichen kalten Betriebskosten sind in den Altbaubeständen bis 20.06.1948 wei-
+terhin am niedrigsten. Die höchsten durchschnittlichen kalten Betriebskosten finden sich in den
+Methodenbericht zum Hamburger Mietenspiegel 2019 35
+neueren Wohnungsbeständen Hamburgs, da in diesem Wohnungsmarktsegment die Wohnge-
+bäude häufig über Aufzüge verfügen oder die Kosten für die Gebäudeversicherung höher sind.
+Tabelle 12: Durchschnittliche kalte Betriebskostenvorauszahlung nach Baualter und
+Ausstattung in €/m² 2015 bis 2019*
+Baualtersklasse Spalte Ausstattung 2019 2017 2015
+€/m² €/m² €/m²
+bis 31.12.1918 B Bad oder Sammelheizung -- 1,08 1,10
+C Bad und Sammelheizung 1,20 1,13 1,11
+01.01.1919 bis
+F Bad und Sammelheizung 1,23 1,19 1,19
+20.06.1948
+21.06.1948 bis
+H Bad und Sammelheizung 1,41 1,36 1,35
+31.12.1960
+1961 bis 1967 I Bad und Sammelheizung 1,45 1,43 1,39
+1968 bis 1977 K Bad und Sammelheizung 1,48 1,48 1,50
+1978 bis 1983 L Bad und Sammelheizung 1,51 1,50 1,47
+1994 bis 2010 M Bad und Sammelheizung 1,63 1,59 1,57
+2011 bis 2018 N Bad und Sammelheizung 1,85 1,70 1,70
+* ohne Kaltwasserkosten © 2019
+Methodenbericht zum Hamburger Mietenspiegel 2019 36
+7.7.2 Durchschnittliche Vorauszahlungen für Heizung und
+Warmwasser
+Neben den Vorauszahlungen für die kalten Betriebskosten wurden im Rahmen des Hamburger
+Mietenspiegels 2019 auch die Vorauszahlungen für Heizung und Warmwasser erhoben. Diese
+wurden auf Kosten je m² Wohnfläche umgerechnet.
+Tabelle 13: Durchschnittliche Vorauszahlung für Heizung und Warmwasser
+nach Baualter und Ausstattung in €/m² 2019 im Vergleich zu 2015*
+Baualters- e tla
+Ausstattung
+2019 2015
+klasse p S Ohne Ohne
+ZWV ZWV
+ZWV ZWV
+in in % in in % in in
+€/m² 1) €/m² 1) €/m² €/m²
+Bad oder
+B -- -- --
+Sammelheizung
+bis 31.12.1918
+Bad und
+C 1,26 4,1 1,10 -0,9 1,21 1,11
+Sammelheizung
+01.01.1919 bis Bad und
+F 1,16 -8,7 1,09 -3,5 1,27 1,13
+20.06.1948 Sammelheizung
+21.06.1948 bis Bad und
+H 1,21 -6,9 1,11 -4,3 1,30 1,16
+31.12.1960 Sammelheizung
+Bad und
+1961 bis 1967 I 1,23 -5,4 1,04 -11,9 1,30 1,18
+Sammelheizung
+Bad und
+1968 bis 1977 K 1,13 -13,1 1,10 -5,2 1,30 1,16
+Sammelheizung
+Bad und
+1978 bis 1983 L 1,17 -5,6 0,96** -10,3 1,24 1,07
+Sammelheizung
+Bad und
+1994 bis 2010 M 1,03 1,0 0,97** -5,8 1,02 1,03
+Sammelheizung
+Bad und
+2011 bis 2018 N 0,96 1,1 -- 0,95 1,11**
+Sammelheizung
+* ohne Kosten für Wasserversorgung und -entsorgung; ** eingeschränkte Aussagekraft, da nur 10 bis 29 Fälle; © 2019
+1) Veränderung bezogen auf 2015;
+ZWV=zentrale Warmwasserversorgung
+7.8
+Charakterisierung der ortsüblichen
+Vergleichsmiete
+Nach der Normierung der Daten auf den einheitlichen Begriff der Nettokaltmiete wurden die
+vorliegenden Daten entsprechend des mit dem Arbeitskreis Mietenspiegel abgestimmten Ta-
+bellenrasters, das 81 Tabellenfelder umfasst, ausgewertet. Hierbei wurden nur Mietkennwerte
+für Tabellenfelder ermittelt, für die eine ausreichende Fallzahl von mindestens 10 Mietwerten
+vorlag (vgl. Kapitel 7.4).
+Die ortsübliche Vergleichsmiete wird in Form der durchschnittlichen Miethöhe und der jeweili-
+gen Streuung und Spannweite der Mieten pro Feld beschrieben:
+▪ arithmetischer Mittelwert nach Ausreißerbereinigung
+▪ unterer und oberer Wert der 2/3-Spanne
+Methodenbericht zum Hamburger Mietenspiegel 2019 37
+7.9
+Berechnung der ortsüblichen Vergleichsmiete
+7.9.1 Durchschnittliche Nettokaltmietwerte
+In Abstimmung mit dem Arbeitskreis Mietenspiegel wird das arithmetische Mittel weiterhin im
+Hamburger Mietenspiegel als Mietkennwert ausgewiesen. Bei dem arithmetischen Mittel han-
+delt es sich um das statistische Mittel aller vollgültigen mietenspiegelrelevanten Mietwerte. Die
+Berechnung dieser statistischen Kennwerte erfolgte nach der Ausreißerbereinigung.
+7.9.2 Spannenbildung beim Hamburger Mietenspiegel 2019
+Durch die Ausweisung eines unteren und oberen Spannenwertes für jedes Tabellenfeld im
+Hamburger Mietenspiegel 2019 wird den strukturellen Merkmalen des Wohnungsmarktes bzw.
+der ortsüblichen Vergleichsmiete, die sich nicht aus den die Mietenspiegeltabelle bildenden
+Kriterien ergeben, Rechnung getragen.
+Die Gründe, die dazu führen, dass unterschiedlich hohe Mieten innerhalb eines Mietenspiegel-
+feldes gezahlt werden, sind:
+▪ Die im Hamburger Mietenspiegel zur Bildung der Tabellenstruktur verwendeten Merkmale
+Baualter, Wohnungsgröße, Ausstattung und Wohnlage entsprechen der Grundstruktur,
+welche durch die gesetzlichen Regelungen in § 558 BGB vorgegeben sind. Aufgrund der
+unterschiedlichen Qualitäten von weiteren Ausstattungsmerkmalen und der konkreten Mik-
+rolage innerhalb einer Wohnlage und eines Gebäudes ergeben sich in den durch die Mie-
+tenspiegelfelder definierten Wohnungsteilmärkten unterschiedlich hohe Mieten.
+▪ Zusätzlich beeinflussen weitere externe oder individuelle Kriterien, wie z. B. Dauer des
+Mietverhältnisses oder individuelle Wohnwünsche, die Höhe der Miete. Diese lässt der ge-
+setzlich definierte Begriff der ortsüblichen Vergleichsmiete unberücksichtigt.
+▪ Darüber hinaus ist die ortsübliche Vergleichsmiete eine vom Gesetzgeber gewollte Mi-
+schung aus veränderten Bestandsmieten und Neuvermietungsmieten. Beide Mietarten un-
+terliegen aber erfahrungsgemäß unterschiedlichen Marktbedingungen. Bestandsmieten-
+veränderungen erfolgen zumeist geprägt durch die gesetzlichen Bestimmungen in Abhän-
+gigkeit vom Wohnwert der Wohnung, während sich Neuvermietungsmieten (zumindest vor
+Geltung der Mietpreisbremse) in ihrer Höhe an den Marktmieten orientieren, die im Regel-
+fall über den ortsüblichen Vergleichsmieten liegen.
+Durch die Spannenwerte sollen die ortsüblichen Vergleichsmieten abgebildet werden. Bei der
+„Üblichkeit“ handelt es sich um einen unbestimmten Rechtsbegriff, der vom Gesetzgeber oder
+der Rechtsprechung bisher nicht konkret definiert wurde. Vor diesem Hintergrund ist auch die
+Spannenweite nicht gesetzlich festgelegt. Es ist jedoch vom Gesetzgeber durch Anknüpfung
+an die üblichen Entgelte vorgesehen, dass nicht alle erhobenen Mietwerte für die Ausweisung
+der Mietkennwerte herangezogen werden sollen. Durch eine Ausreißerbereinigung und die
+Ausweisung eines unteren und oberen Spannenwertes erfolgt vielmehr eine Verdichtung der
+Mietwerte auf das Übliche.
+In den Hinweisen zur Erstellung von Mietenspiegeln des Bundesministeriums für Verkehr, Bau
+und Stadtentwicklung wird kein genauer Wert für die Spannenweite angegeben. In der aktuellen
+Methodenbericht zum Hamburger Mietenspiegel 2019 38
+Fassung aus dem Jahr 2002 heißt es, dass „in der Praxis [...] bei Tabellenmietenspiegeln häufig
+eine 2/3-Spanne als ‚üblich‛ angesehen (wird)“.
+In Abstimmung mit dem Arbeitskreis Mietenspiegel wurde am Spannenmodell aus dem Ham-
+burger Mietenspiegel 2017 festgehalten. Hierbei handelt es sich um die Ausweisung des unte-
+ren und oberen Wertes der 2/3-Spanne.
+7.10
+Mietenspiegeltabelle
+Hamburger Mietenspiegel 2019
+In der nachfolgenden Tabelle 13 zum Hamburger Mietenspiegel 2019 sind der aus der empiri-
+schen Erhebung und der nachfolgenden Daten- und Ausreißerbereinigung ermittelte arithmeti-
+sche Mittelwert sowie die unteren und oberen Spannenwerte der 2/3-Spanne für jedes Mieten-
+spiegeltabellenfeld mit einer Feldbesetzung von 10 und mehr Mietwerten dargestellt. Die Miet-
+eckwerte in Mietenspiegelfeldern, die mit * markiert sind, haben wegen einer geringen Zahl an
+erhobenen Mietwerten nur eine bedingte Aussagekraft (* = Feldbesetzung von 10 bis 29 Miet-
+werte). In alle anderen ausgewiesenen Felder gingen mindestens 30 Mietwerte ein.
+Methodenbericht zum Hamburger Mietenspiegel 2019 39
+Tabelle 14: Hamburger Mietenspiegel 2019
+Nettokaltmiete ohne Heizung und ohne Betriebskosten (in Euro/m²)
+Baualtersklasse/Bezugsfertigkeit bis 31.12.1918 1.1.1919 bis 21.6.1948 bis 1961 bis 1967 1968 bis 1977 1978 bis 1993 1994 bis 2010 2011 bis 2018
+20.6.1948 1960
+mit Bad oder mit Bad und mit Bad und mit Bad und mit Bad und mit Bad und mit Bad und mit Bad und mit Bad und
+Ausstattung
+Sammelheizung Sammelheizung Sammelheizung Sammelheizung Sammelheizung Sammelheizung Sammelheizung Sammelheizung Sammelheizung
+Wohnlage Wohnfläche B C F H I K L M N
+Mittelwert 12,10 9,36 8,33 8,45 9,29 9,77
+25 m² bis unter
+1 Spanne 10,12 - 14,55 7,46 - 11,57 7,00 - 10,00 5,79 - 11,70 6,01 - 11,91 7,51 - 12,37
+41 m²
+Anzahl 25* 22* 28* 11*
+Mittelwert 9,94 8,47 7,40 6,76 7,20 9,22 9,28 12,75
+41 m² bis unter
+la
+m
+ro
+e
+g
+a ln
+h
+66 m²
+2
+M
+S
+A
+it
+p
+t
+n
+e
+a
+z
+lw
+n
+a
+n
+h
+e
+e
+l
+rt 8,01
+8,33
+1 0
+-
+,
+1
+2
+1
+6
+,86 7,24
+8 ,
+-
+5
+9
+4
+,80 6,56
+7 ,
+-
+7
+8
+9
+,15 6,10
+6 ,
+-
+1
+7
+7
+,00 5,50
+6 ,
+-
+2
+8
+2
+,94 7,92
+7
+-
+, 7
+1
+1
+0,71 8,00
+9
+-
+, 9
+1
+0
+0,72 10,0
+1
+0
+2
+-
+,2
+1
+8
+5,04
+No 66 m² bis unter
+W 3 Spanne 7,77 - 8,65 8,94 - 11,91 7,06 - 9,96 6,80 - 9,21 5,63 - 6,50 5,41 - 6,90 6,30 - 9,26 8,00 - 11,53 10,22 - 14,51
+91 m²
+Anzahl 10*
+Mittelwert 9,68 8,23 7,16 6,90 6,14 8,59 10,55 12,98
+ab 91 m² 4 Spanne 8,22 - 12,02 6,89 - 10,11 6,56 - 7,93 6,28 - 7,42 5,56 - 6,56 5,62 - 10,80 8,79 - 11,93 10,64 - 15,29
+Anzahl 24* 12* 13* 25* 11*
+Mittelwert 13,05 10,77 12,02 10,93
+25 m² bis unter
+5 Spanne 10,39 - 15,19 8,62 - 12,99 10,96 - 13,54 9,00 - 12,73
+41 m²
+Anzahl 15* 12*
+Mittelwert 10,89 10,61 9,26 8,69 9,10 9,84 11,82 15,14
+41 m² bis unter
+6 Spanne 9,20 - 13,27 8,57 - 12,53 7,04 - 11,09 6,72 - 10,91 7,16 - 11,34 6,95 - 12,23 10,11 - 15,00 13,97 - 16,16
+66 m²
+Anzahl
+e
+g Mittelwert 11,28 11,14 10,32 7,63 9,03 10,15 11,60 14,18
+ea 66 m² bis unter
+tuln 7 Spanne 9,42 - 13,70 8,72 - 14,21 8,26 - 13,00 6,09 - 8,85 6,29 - 11,78 7,91 - 11,82 9,54 - 14,20 12,88 - 15,34
+Gh 91 m²
+o Anzahl
+W
+Mittelwert 9,08 11,14 10,14 10,54 10,13 10,81 10,25 12,99 13,91
+91 m² bis unter
+8 Spanne 7,45 - 10,59 9,00 - 13,88 8,60 - 13,00 8,30 - 12,61 7,57 - 12,31 9,25 - 11,77 9,17 - 11,59 10,60 - 16,00 12,82 - 15,00
+131 m²
+Anzahl 11* 13* 15* 24*
+Mittelwert 11,05 10,03 14,39 14,81
+ab 131 m² 9 Spanne 8,54 - 13,83 6,52 - 14,24 10,29 - 18,37 13,50 - 15,31
+Anzahl 15* 16* 11*
+Bei Leerfeldern können aufgrund einer zu geringen Datenbasis keine statistisch belastbaren Aussagen getroffen werden.
+* Für Felder mit weniger als 30 Datensätzen ist die Aussage eingeschränkt.
+40
+Methodenbericht zum Hamburger Mietenspiegel 2019
+7.11
+Ausstattungsmerkmale
+In der Mietenspiegeltabelle werden die wesentlichen Wohnwertmerkmale gemäß § 558 BGB
+ausgewiesen. Daneben gibt es weitere Einflussgrößen, die es als gerechtfertigt erscheinen las-
+sen, den ausgewiesenen Mittelwert eines Tabellenfeldes um einen Zu- oder Abschlag zu erhö-
+hen bzw. zu vermindern.
+Im Rahmen der Mietenspiegelerhebung wurden deshalb zahlreiche zusätzliche Ausstattungs-
+merkmale erhoben, die nicht zur Einordnung in das Mietenspiegeltabellenraster benötigt wur-
+den. Die Datenerhebung diente als Grundlage, welche Ausstattungsmerkmale in den einzelnen
+Wohnungsmarktsegmenten (Tabellenfeldern) üblicherweise als „normale Ausstattung“ oder
+Merkmale der überdurchschnittlichen bzw. „besseren Ausstattung“ angesehen werden können.
+Im Rahmen der Datenanalyse wird für jedes erhobene Ausstattungsmerkmal überprüft, wie
+hoch der Anteil im jeweiligen Tabellenfeld des Hamburger Mietenspiegels 2019 ist. Im Ham-
+burger Mietenspiegel gilt ein Ausstattungsmerkmal als „normal“, wenn mindestens 2/3 der Woh-
+nungen dieses Ausstattungsmerkmal aufweisen. Neben der feldweisen Betrachtung erfolgt die
+Analyse differenziert nach Baualter und Wohnlage. Diese sachliche Zusammenfassung führt,
+in Abstimmung mit der Behörde für Stadtentwicklung und Wohnen und dem Arbeitskreis Mie-
+tenspiegel, zur Festlegung der in der Mietenspiegelbroschüre ausgewiesenen Ausstattungs-
+merkmale der Standardausstattung sowie der besseren Ausstattung.
+Die in der Mietenspiegelbroschüre ausgewiesenen Ausstattungsmerkmale sollen dem Anwen-
+der des Hamburger Mietenspiegels eine Hilfestellung zur Einordnung einer Wohnung innerhalb
+der ausgewiesenen Mietenspanne geben.
+Die in Kapitel 7.11.1 und 7.11.2 aufgeführten Merkmale sind Bestandteil des qualifizierten Mie-
+tenspiegels. Dabei muss berücksichtigt werden, dass diese Merkmalsauflistung nicht abschlie-
+ßend ist und im Einzelfall weitere Merkmale bei der Spanneneinordnung herangezogen werden
+können. Die Übersicht der Auswertungsergebnisse für die erhobenen Ausstattungsmerkmale
+findet sich in der Anlage B.
+7.11.1 Standardausstattung
+Nach Abstimmung mit der Behörde für Stadtentwicklung und Wohnen und dem Arbeitskreis
+Mietenspiegel wurden für den Hamburger Mietenspiegel 2019 neben den in der Mietenspiegel-
+tabelle genannten Ausstattungsmerkmalen folgende Merkmale einer Normalwohnung festge-
+legt:
+▪ Maßgeblich ist die Ausstattung der Wohnung, wie sie von der Vermieterin oder vom Ver-
+mieter gestellt wird.
+▪ Von der Mieterin oder von dem Mieter geschaffene Ausstattungsmerkmale bleiben unbe-
+rücksichtigt.
+Die Tabelle geht von zwei Ausstattungsklassen aus:
+▪ Wohnungen mit Bad oder mit Sammelheizung,
+Methodenbericht zum Hamburger Mietenspiegel 2019 41
+▪ Wohnungen mit Bad und mit Sammelheizung.
+Unter einem Bad ist ein Wannen- oder Duschbad in einem besonderen Raum (mit oder ohne
+WC) in der Wohnung zu verstehen. Ein Bad wird in der Regel dann einen geringeren Mietwert
+haben, wenn aufgrund der Größe des Bades der Bewegungsradius erheblich eingeschränkt ist
+sowie ein Waschbecken fehlt. Sammelheizungen sind alle Heizungsarten, bei denen die
+Wärme- und Energieversorgung von einer zentralen Stelle aus erfolgt und die sämtliche Wohn-
+räume sowie Küche und Bad angemessen erwärmen. Baualterstypische Besonderheiten sind
+zu berücksichtigen. Gleichzusetzen sind alle Etagen- und Wohnungsheizungen, die automa-
+tisch, also ohne Brennstoffnachfüllung von Hand, arbeiten. Dabei können Nachtstromspeicher-
+heizungen niedriger bewertet werden als andere Zentralheizungsarten.
+Wesentliche Merkmale einer Normalwohnung sind außer den in der Mietenspiegeltabelle ge-
+nannten Ausstattungen:
+▪ funktionsfähige Küche mit einer Mindestausstattung (Spüle, Herd) und zusätzlichen Stell-
+flächen; bei Wohnungen unter ca. 50 m² sind auch Kochnischen ausreichend;
+▪ Warmwasserversorgung in Bad und Küche;
+▪ Wohnungskaltwasserzähler - es sei denn, es liegt eine Ausnahmegenehmigung vor;
+▪ Fußboden aus Dielen, Steinholz oder mit Linoleum, Kunststoff oder gleichwertigem Belag,
+in Küche, Bad und WC auch aus keramischen Platten oder Steinzeug;
+▪ Abstellflächen innerhalb und/oder außerhalb der Wohnung;
+▪ Aufzug in Gebäuden ab dem sechsten Geschoss;
+▪ überwiegend Isolierverglasung oder Doppelfenster;
+▪ Kabel-/Satellitenanschluss;
+▪ Gegensprechanlage mit Türöffner;
+▪ Balkon, Loggia oder Terrasse.
+Je nach Baualtersklasse können auch Arbeitsfläche und Schrankraum in der Küche sowie
+Wandfliesen in Küche, Bad und WC zur Normalausstattung gehören.
+Die Merkmale einer Normalwohnung stimmen mit den bisherigen Merkmalen einer Normalwoh-
+nung im Hamburger Mietenspiegel überein.
+7.11.2 Bessere Ausstattung
+Wohnungen mit einer besseren Ausstattung als die einer Normalwohnung oder mit einer ent-
+sprechenden Modernisierung können preislich oberhalb des in der Mietenspiegeltabelle ange-
+gebenen arithmetischen Mittels liegen. Nach Abstimmung mit der Behörde für Stadtentwicklung
+und Wohnen und dem Arbeitskreis Mietenspiegel wurden die folgenden Merkmale als Beispiele
+der besseren Ausstattung für bestimmte Wohnungsmarktsegmente im Hamburger Mietenspie-
+gel genannt:
+▪ großzügige Badausstattung, z. B. zusätzliches Duschbad, zweiter Waschplatz, zweites
+WC, Bidet, aufwändige Fliesen, außer in Wohnungen ab 91 m² in den Spalten M und N
+sowie in Wohnungen ab 131 m² in guter Wohnlage;
+Methodenbericht zum Hamburger Mietenspiegel 2019 42
+▪ Bad mit Fenster, außer in Wohnungen der Spalte F, sowie in Wohnungen ab 131 m² der
+Spalten M und N in guter Wohnlage;
+▪ Einbauküchen, außer in Wohnungen der Spalten K, L, M und N und/oder zusätzliche Aus-
+stattung, z. B. Geschirrspüler, Kühlschrank, Tiefkühlschrank, außer in Wohnungen der
+Spalte N;
+▪ Aufzug bei Wohnungen in bis zu fünfgeschossigen Häusern außer in Wohnungen der
+Spalte N;
+▪ Fahrradkeller / überdachter Fahrradstellplatz, außer in den Gebäuden der Spalten K (nor-
+male Wohnlage), L, M sowie N.
+Methodenbericht zum Hamburger Mietenspiegel 2019 43
+8
+ERGÄNZENDE AUSWERTUNGEN
+8.1
+Mietenentwicklungen und Mietenstruktur im
+Hamburger Mietenspiegel 2019
+In den letzten zwei Jahren hat sich die durchschnittliche Nettokaltmiete in der Freien und Han-
+sestadt Hamburg um 2,6 % erhöht, welches einer jährlichen Mietsteigerung von 1,3 % ent-
+spricht (vgl. Tabelle 15). Gegenüber dem Hamburger Mietenspiegel 2017 ergab sich damit eine
+Erhöhung der durchschnittlichen Nettokaltmiete um 0,22 €/m² monatlich auf 8,66 €/m² nettokalt
+monatlich (gewichtet mit der Grundgesamtheit). Der Anstieg der Nettokaltmieten liegt – erst-
+mals – unter der allgemeinen Preisentwicklung von 3,3 % im Zeitraum von April 2017 bis April
+2019 (harmonisierter Verbraucherpreisindex des Statistischen Bundesamtes).
+Gründe für den Anstieg sind die anhaltende Modernisierungstätigkeit und die Mietpreissteige-
+rung von Wohnungsbeständen unterhalb der bisherigen ortsüblichen Vergleichsmiete, was zu
+einem Anstieg des Wertes der unteren 2/3-Spanne geführt hat (+4,6 %). Im oberen Preisseg-
+ment ergaben sich dagegen nur geringere Preissteigerungen bzw. Neuvermietungen erfolgen
+teilweise auf einem geringeren Niveau, was zu einem leichten Rückgang des Wertes der obe-
+ren 2/3-Spanne geführt hat (-0,5 %).
+Die Mittelwerte haben sich in den meisten Mietenspiegelfeldern im Vergleich zu 2017 erhöht,
+in 18 Feldern ist ein Rückgang der ortsüblichen Vergleichsmiete zu verzeichnen. Bei rund 47 %
+der ausgewiesenen Tabellenfelder der Mietenspiegeltabelle liegt die Mietpreisentwicklung un-
+terhalb der durchschnittlichen Mietpreissteigerung von 2,6 %.
+Die mittlere gewichtete Spannbreite der Mieten hat sich von 3,28 €/m² (2017) zu 2,91 €/m²
+(2019) verringert. Die günstigeren Mieten der unteren Spannenwerte steigen an, liegen mit
+4,6 % über der Steigerung der Mittelwerte. Die oberen Spannenwerte sinken dagegen um
+0,5 %. Hintergrund ist, dass durch die wohnungspolitischen Maßnahmen der Stadt Hamburg
+bei den Mieten ein leichter Dämpfungseffekt eintritt, wobei die hohe Spannbreite immer noch
+für einen sich ausdifferenzierenden Wohnungsmarkt spricht.
+Im Städtevergleich mit anderen Metropolen nimmt Hamburg hinsichtlich der Durchschnittsmiete
+eine Position im Mittelfeld ein. Während die Durchschnittsmiete Berlins mit 6,72 €/m² deutlich
+unter der Hamburger Durchschnittsmiete von 8,66 €/m² liegt, ist sie in den übrigen, ausgewähl-
+ten Vergleichsmetropolen höher:
+▪ München (Mietspiegel 2017 zu 2019): Anstieg der Durchschnittsmiete von 11,23 €/m²1 auf
+11,69 €/m²2 (Zuwachs 4,1 % bzw. 0,46 €/m²)
+1 Landeshauptstadt München 2017: Mietspiegel für München 2017: Statistik, Dokumentationen und Ana-
+lysen. Seite 136.
+https://2017.mietspiegel-muenchen.de/dokumentation/Dokumentation_MS17_170407.pdf
+2 Landeshauptstadt München 2019: Mietspiegel für München 2019: Statistik, Dokumentationen und Ana-
+lysen. Seite 128.
+Methodenbericht zum Hamburger Mietenspiegel 2019 44
+▪ Berlin (Mietspiegel 2017 zu 2019): Anstieg der Durchschnittsmiete von 6,39 €/m²3 auf
+6,72 €/m²4 (Zuwachs 5,2 % bzw. 0,33 €/m²)
+▪ Stuttgart (Mietspiegel 2016 zu 2018): Anstieg der Durchschnittsmiete von 8,95 €/m²5 auf
+9,60 €/m²6 (Zuwachs 7,3 % bzw. 0,65 €/m²)
+▪ Frankfurt (Mietspiegel 2016 zu 2018 - Indexfortschreibung): Anstieg der Durchschnittsmiete
+von 8,82 €/m7² auf 9,36 €/m²8 (Zuwachs 6,1 % bzw. 0,54 €/m²).
+Insgesamt kann in allen wesentlichen Wohnungsteilmärkten ein Anstieg der Miete 2019 gegen-
+über 2017 festgestellt werden, auch wenn sich in einigen Mietenspiegeltabellenfeldern gegen-
+läufige Tendenzen ergeben haben. Zusammengefasst nach unterschiedlichen Wohnungsteil-
+märkten zeigen sich gegenüber dem letzten Hamburger Mietenspiegel 2017 folgende Entwick-
+lungen, wobei zur Ermittlung der durchschnittlichen Mieten je Teilsegment eine Gewichtung der
+einzelnen Tabellenfelder mit der jeweiligen Grundgesamtheit erfolgt ist (vgl. auch Tabelle 14).
+▪ Die Mietenentwicklung ist in guten und normalen Wohnlagen unterschiedlich stark ausge-
+prägt. Wie auch im letzten Mietenspiegel, sind die Mieten von 2017 bis 2019 überwiegend
+in der guten Wohnlage um mehr als 4 % gestiegen. Die Mietendifferenz zwischen guter
+und normaler Wohnlage hat sich dadurch erhöht, da auch die Mieten in absoluten Beträgen
+in der guten Wohnlage stärker steigen. Lag der Unterschied zwischen den Durchschnitts-
+mieten der normalen und guten Wohnlage 2017 noch bei 2,14 €/m² (normale Wohnlage:
+7,89 €/m², gute Wohnlage: 10,03 €/m²), so hat sich diese Differenz 2019 auf 2,37 €/m²
+erhöht (normale Wohnlage: 8,07 €/m², gute Wohnlage: 10,44 €/m²).
+3 Berliner Mietspiegel Methodenbericht 2019: Grundlagendaten für den empirischen Mietspiegel und Ak-
+tualisierung des Wohnlagenverzeichnisses zum Berliner Mietspiegel 2019. Seite 41.
+https://www.stadtentwicklung.berlin.de/wohnen/mietspiegel/de/download/Mietspiegel2019_Berlin_Er-
+gebnisbericht.pdf
+4 Berliner Mietspiegel Methodenbericht 2019: Grundlagendaten für den empirischen Mietspiegel und Ak-
+tualisierung des Wohnlagenverzeichnisses zum Berliner Mietspiegel 2019. Seite 41.
+https://www.stadtentwicklung.berlin.de/wohnen/mietspiegel/de/download/Mietspiegel2019_Berlin_Ergeb-
+nisbericht.pdf
+5 Landeshauptstadt Stuttgart, Statistisches Amt 2016: Pressemitteilung 16.12.2016: Der Mietspiegel für
+2017 und 2018 liegt vor - Mieten in Stuttgart steigen weiter an.
+https://www.stuttgart.de/item/show/273273/1/9/617118?
+6 Landeshauptstadt Stuttgart, Statistisches Amt 2018: Pressemitteilung 15.12.2018: Stuttgarter Mietspie-
+gel 2019/2020 liegt vor.
+https://stuttgart.de/item/show/273273/1/9/665084?
+7 Mieterschutzverein Frankfurt am Main e.V. 2016: Pressemitteilung 23.05.2016: Magistrat beschließt Miet-
+spiegel 2016.
+https://www.mieterschutzverein-frankfurt.de/aktuelles/aktuelles-details/article/magistrat-beschliesst-miet-
+spiegel-2016.html
+8 Die ortsüblichen Vergleichsmieten in Frankfurt a. M. 2018. Gutachten zur Erstellung desqualifizierten
+Mietspiegels 2018. Seite 23.
+https://www.frankfurt.de/sixcms/media.php/738/gutachten_mspffm2018.pdf
+Methodenbericht zum Hamburger Mietenspiegel 2019 45
+▪ Im vollausgestatteten Altbau (Baualtersklasse bis 31.12.1918, Spalte C, 84.700 Wohnun-
+gen) ist eine überdurchschnittliche Mietpreissteigerung zu verzeichnen, die Durchschnitts-
+miete steigt erstmals auf über 10,50 €/m². Hier betragen die Mietsteigerungen zwischen
+0,18 €/m²) und 2,66 €/m². Die deutliche Mietpreissteigerung in Tabellenfeld C5 ist eine Aus-
+gleichsbewegung zur deutlichen Senkung im Mietenspiegel 2017. Die gewichtete Durch-
+schnittsmiete bei voll ausgestatteten (Bad und Sammelheizung) Altbauwohnungen (Baual-
+tersklasse bis 31.12.1918, Spalte C) steigt von 10,18 €/m² auf 10,64 €/m², was einer Stei-
+gerungsrate von gewichtet 4,5 % (normale Wohnlage: 4,6 %, gute Wohnlage: 4,4 %) ent-
+spricht (2017 gegenüber 2015 betrug die Steigerung in Spalte C 3,1 %, 2015 gegenüber
+2013 8,1 %).
+▪ Im nicht voll ausgestatteten Altbau (Baualtersklasse bis 31.12.1918, Spalte B, 4.300 Woh-
+nungen) sind die Mieten im Gegensatz zum Mietenspiegel 2017 unverändert geblieben
+(-0,01 €/m²). Dieser Wohnungsbestand nimmt aufgrund der Modernisierungstätigkeit stetig
+ab und der Anteil am mietenspiegelrelevanten Wohnungsbestand liegt unter 1 %.
+▪ In den Zwischenkriegsbauten (Baualtersklasse 1.1.1919 bis 20.6.1948, Spalte F, 63.500)
+sind heterogene Mietveränderungen zwischen 0,12 €/m² und 1,02 €/m² zu verzeichnen so-
+wie eine Mietpreissenkung von -0,02 €/m² (F4). Das Mietpreisniveau dieser Wohnungsbe-
+stände nähert sich dem Mietpreisniveau in der Baualtersklasse bis 31.12.1918 an. Bei den
+Zwischenkriegsbauten stieg die gewichtete Durchschnittsmiete von 8,63 €/m² auf
+9,06 €/m², was einer Steigerungsrate von gewichtet 5,0 % (normale Wohnlage: 4,6 %, gute
+Wohnlage: 6,5 %) entspricht. Damit liegt die Durchschnittsmiete in diesen Wohnungsbe-
+ständen erstmals über 9 €/m².
+▪ Die zahlenmäßig umfangreichste Baualtersklasse 21.6.1948 bis 31.12.1960 (Spalte H,
+164.100 Wohnungen) weist einen leicht unterdurchschnittlichen Mietpreisanstieg von 2,3 %
+auf. Die Mieten für Wohnungen in normaler Wohnlage stiegen um 1,4 % bzw. 4,8 % in guter
+Wohnlage. Die gewichtete Durchschnittsmiete beträgt 8,10 €/m².
+▪ In der Baualtersklasse 1961 bis 1967 (Spalte I, 90.500 Wohnungen) ist die Mietendynamik
+nur halb so hoch wie insgesamt. In Spalte I ergibt sich mit 1,6 % eine unterdurchschnittliche
+Mietenentwicklung gegenüber dem Mietenspiegel 2017. Die gewichtete Durchschnitts-
+miete beträgt 7,19 €/m² (2017: 7,08 €/m²).
+▪ In der jüngeren Baualtersklasse 1968 bis 1977 (Spalte K, 73.500 Wohnungen) gibt es nur
+einen geringen Mietpreisanstieg der Durchschnittsmiete gegenüber 2017. Die gewichtete
+Durchschnittsmiete beträgt weiterhin 7,41 €/m² (+0,02 €/m² bzw. 0,3 %). In der normalen
+Wohnlage ergibt sich eine Steigerung von 1,3 %, während es in der guten Wohnlage zu
+einer Mietpreissenkung von - 3,1 % kommt.
+▪ In der Baualtersklasse 1978 bis 1993 (Spalte L, 25.100 Wohnungen) ist ein Mietenrückgang
+festzustellen. Die gewichtete Durchschnittsmiete beträgt 8,90 €/m². Das sind -0,10 €/m²
+bzw. 1,1 % weniger als 2017 – da lag die gewichtete Durchschnittsmiete bei 9,00 €/m². Es
+gibt dabei Unterschiede nach Wohnlage festzustellen (normale Wohnlage +2,2 %, gute
+Wohnlage -0,1 %). Hinweis: Der Mietenrückgang ergibt sich aus dem hohen Anteil der aus
+der öffentlichen Förderung gefallenen Wohnungen an der Gesamtzahl der Wohnungen in
+dieser Spalte (rd. 20 %), die mietpreisdämpfend auf die Mietenentwicklung wirken.
+▪ Die gewichtete Durchschnittsmiete im Bereich der zweitjüngsten Baualtersklasse 1994 bis
+2010 (Spalte M, 25.800 Wohnungen) ist nur um 1,4 % auf 10,55 €/m² gestiegen (2017:
+10,40 €/m²). Wohnungen in normaler Wohnlage dieser Baualtersklasse verzeichnen durch-
+Methodenbericht zum Hamburger Mietenspiegel 2019 46
+schnittlich einen leichten Anstieg von 0,4 %, Mieten für Wohnungen in guter Wohnlage stie-
+gen dagegen um 5,3 %. Nur in den Wohnungsbeständen der normalen Wohnlage mit einer
+Wohnungsgröße von 25 m² bis unter 91 m² (M1 bis M3) liegen die durchschnittlichen Mie-
+ten in der zweitjüngsten Baualtersklasse noch unter 10 €/m².
+▪ Die höchsten Mieten finden sich in der neuen Baualtersklasse 2011 bis 2018 (Spalte N,
+18.500 Wohnungen), wo die gewichtete Durchschnittsmiete bei 12,87 €/m² liegt. Die hohen
+Mietwerte sind ein Ausdruck, dass diese Wohnungsbestände teilweise nicht der Mietpreis-
+bremse unterliegen und entsprechende Wohnungsmieten auf dem angespannten Hambur-
+ger Wohnungsmarkt umgesetzt werden können. Zusätzlich ergeben sich hohe Mietwerte
+auch aus den in den letzten Jahren gestiegenen Anforderungen im Baubereich und aus
+den gestiegenen Bodenpreisen in Hamburg, wodurch die Baukosten insgesamt deutlich
+angestiegen sind. Jedoch zeigt auch die verstärkte Neubautätigkeit der großen Wohnungs-
+anbieter im freifinanzierten Mietwohnungssegment leichte Dämpfungseffekte, da die ge-
+wichtete Durchschnittmiete leicht sinkt (-1,2 %).
+▪ Die Mittelwerte haben sich in den meisten Mietenspiegelfeldern im Vergleich zu 2017 er-
+höht, in 18 Feldern (B3, F4, H4, H8, I2, I4, K2, K4, K5, K6, K7, L3, L6, M1, M2, M4, N4 und
+N9) ist demgegenüber ein Rückgang der Durchschnittsmiete zu verzeichnen. Bei den Spal-
+ten K und L (Baujahre 1968 bis 1993) liegt dies sehr wahrscheinlich an der ausgelaufenen
+Förderung in diesem Segment. Überdurchschnittlich ist die Steigerung im Altbausegment
+bis 20.06.1948 (Baualtersklassen: bis 31.12.1918 = Spalten B und C, 1919 bis 20.06.1948
+= Spalte F). In diesem Segment liegen die Steigerungen zwischen 0,12 €/m² und 2,66 €/m².
+▪ Insgesamt liegt bei rd. 47 % der mietenspiegelrelevanten Wohnungen der im Mietenspiegel
+ausgewiesenen Tabellenfelder die Mietpreisentwicklung unterhalb der durchschnittlichen
+Mietpreissteigerung von 2,6 % bei 3 % gab es keine Mietpreisentwicklung, entsprechend
+liegt bei 50 % des Bestandes eine überdurchschnittliche Mietpreisentwicklung vor.
+▪ Wie schon bei den letzten Mietenspiegeln gilt auch 2019 nicht mehr, dass der Quadratme-
+terpreis einer Wohnung mit zunehmender Wohnungsgröße sinkt.
+▪ Wohnungen, die vermieterseitig entweder über eine Sammelheizung oder ein Bad verfü-
+gen, sind auf dem Wohnungsmarkt nur noch in geringem Umfang vorhanden (Spalte B,
+4.300 Wohnungen). Da aufgrund der Modernisierungstätigkeit dieser Bestand stetig ab-
+nimmt, konnten für diese Wohnungen nur zwei eingeschränkt gültige Mietenspiegelfelder
+ausgewiesen werden.
+Der Anstieg der Nettokaltmieten im Zeitraum von April 2017 bis April 2019 liegt mit 2,6 % –
+anders als in den vergangenen zehn Jahren – unterhalb der allgemeinen Preisentwicklung von
+3,3 %.
+Methodenbericht zum Hamburger Mietenspiegel 2019 47
+Abbildung 1 Entwicklung der durchschnittlichen Nettokaltmiete von 1995 bis 2019
+(gewichteter Mittelwert)
+10,00
+8,66
+8,44
+8,02
+8,00 7,56
+7,15
+6,76
+6,53
+6,13 6,26
+6,00 5,59 5,77 5,70 5,83 5,8 5,7 6,1
+5,2
+5,1
+4,3
+4,00 3,1 3,5 3,7 3,3
+3,2
+3,2 4,3 3,3
+3,3
+2,4 2,6
+2,00 2,3 2,4 2,1 1,5
+1,7 1,7
+0,00
+1995 1997 1999 2001 2003 2005 2007 2009 2011 2013 2015 2017 2019
+-1,2
+-2,00
+Netto-Kaltmiete in €/m²
+Entwicklung jeweils im Vergleich zum vorherigen Mietenspiegel
+Entwicklung des harmonisierten Verbraucherpreisindex
+© 2019
+Methodenbericht zum Hamburger Mietenspiegel 2019 48
+Tabelle 15: Mietveränderungen Hamburger Mietenspiegel 2017 zu 2019
+(gewichtete Mittelwerte)
+Netto-Kaltmiete in €/m² 2017 2019 Veränderung
+in €/m² in €/m² absolut relativ pro Jahr
+in €/m² in % in %
+Arithmetisches Mittel 8,44 8,66 0,22 2,6% 1,3%
+Unterer Wert der 2/3-Spanne 6,92 7,24 0,32 4,6% 2,3%
+Oberer Wert der 2/3-Spanne 10,20 10,15 -0,05 -0,5% -0,2%
+Spannbreite 3,28 2,91 -0,37 -11,3% -5,8%
+nach Baualtersklassen und Ausstattung
+bis 31.12.1918 10,10 10,61 0,51 5,0% 2,5%
+- voll ausgestattet (Spalte C) 10,18 10,64 0,46 4,5% 2,2%
+- Minderausstattung (Spalte B) 8,26 8,25 -0,01 -0,1% -0,1%
+1919 bis 20.6.1948 8,63 9,06 0,43 5,0% 2,5%
+21.6.1948 bis 1960 7,92 8,10 0,18 2,3% 1,1%
+1961 bis 1967 7,08 7,19 0,11 1,6% 0,8%
+1968 bis 1977 7,39 7,41 0,02 0,3% 0,1%
+1978 bis 1993 9,00 8,90 -0,10 -1,1% -0,6%
+1994 bis 2010 10,40 10,55 0,15 1,4% 0,7%
+2011 bis 2018 13,02 12,87 -0,15 -1,2% -0,6%
+nach Wohnlage
+normal 7,89 8,07 0,18 2,3% 1,1%
+gut 10,03 10,44 0,41 4,1% 2,0%
+nach Wohnungsgrößenklassen
+25 m² bis u. 41 m² 9,32 9,66 0,34 3,6% 1,8%
+41 m² bis u. 66 m² 8,15 8,30 0,15 1,8% 0,9%
+66 m² bis u. 91 m² 8,13 8,46 0,33 4,1% 2,0%
+ab 91 m² 10,07 10,22 0,15 1,5% 0,7%
+Ausstattung
+Spalte C: SHZ und Bad 10,18 10,64 0,46 4,5% 2,2%
+Spalte B: SHZ oder Bad 8,26 8,25 -0,01 -0,1% -0,1%
+© 2019
+Methodenbericht zum Hamburger Mietenspiegel 2019 49
+Tabelle 16: Entwicklung des arithmetischen Mittels und der Spannenwerte 2019 zu 2017 in Euro/m² Wohnfläche
+Mietenspiegel 2019 der Freien und Hansestadt Hamburg
+Veränderung der Nettokaltmiete ohne Heizung und ohne Betriebskosten 2019/2017 in Euro/m²
+Baualtersklasse/Bezugsfertigkeit bis 31.12.1918 01.01.1919 21.6.1948 bis 1961 bis 1967 1968 bis 1977 1978 bis 1993 1994 bis 2010 2011 bis 2018
+bis 20.6.1948 31.12.1960
+mit Bad oder mit Bad und mit Bad und mit Bad und mit Bad und mit Bad und mit Bad und mit Bad und mit Bad und
+Ausstattung
+Sammelheizung Sammelheizung Sammelheizung Sammelheizung Sammelheizung Sammelheizung Sammelheizung Sammelheizung Sammelheizung
+Wohnlage Wohnfläche B C F H I K L M N
+Mittelwert 1,45 0,64 0,09 0,00 0,55 -0,60
+25 m² bis unter
+1 Spanne 1,26 - 1,85 0,43 - 0,57 0,00 - 0,03 0,09 - 0,51 -0,07 - 0,91 -0,99 - 0,12
+41 m²
+Mittelwert 0,18 0,35 0,05 -0,05 -0,10 0,63 -0,10 0,43
+41 m² bis unter
+e la e g a 66 m² 2 Spanne 0,31 - -0,21 0,44 - 0,33 0,23 - -0,58 0,29 - -1,18 -0,05 - -0,23 1,00 - 0,41 0,22 - -0,48 0,21 - -0,01
+mln
+r o N h o W 66 m² bis unter 3 M S it p te a lw nn e e rt 0,79 - 0 - , 3 - 4 0,76 0,73 0 , - 5 4 0,35 0,36 0 , - 4 1 -0,05 0,41 0 , - 4 0 0,51 0,25 0 , - 0 8 -0,20 0,11 0 , - 1 8 0,30 -0,02 -0 , - 1 8 -0,12 0,00 0 , - 3 0 0,13 0,12 0 , - 0 0 0,08
+91 m²
+Mittelwert 0,61 -0,02 -1,22 -0,33 -0,34 0,06 -0,04 -0,15
+ab 91 m² 4 Spanne 0,81 - 1,44 0,25 - -0,39 0,06 - -3,22 0,08 - -0,76 0,00 - -1,33 -0,61 - -0,29 0,24 - -1,01 -0,27 - 0,07
+Mittelwert 2,66 0,68 0,70 -0,34
+25 m² bis unter
+5 Spanne 4,27 - 1,44 1,02 - -0,13 1,31 - 0,41 0,04 - -0,51
+41 m²
+Mittelwert 0,33 0,51 0,49 0,57 -0,75 -0,06 0,64 1,03
+41 m² bis unter
+6 Spanne 0,82 - 0,53 0,58 - 0,34 0,28 - -0,15 0,16 - 0,49 -0,24 - -1,44 -1,30 - 0,43 1,37 - 0,77 2,11 - -0,15
+66 m²
+e
+g Mittelwert 0,28 1,02 0,51 0,28 -0,08 0,33 0,78 0,03
+ea 66 m² bis unter
+tuln 7 Spanne 0,56 - -0,07 0,92 - 1,10 0,62 - 0,76 0,04 - -0,18 -0,29 - -0,35 -0,54 - 0,63 1,04 - 0,41 0,68 - -0,66
+Gh 91 m²
+o
+W
+Mittelwert 0,42 0,19 0,28 -0,18 1,01 0,33 0,10 0,71 0,01
+91 m² bis unter
+8 Spanne 1,56 - -0,78 0,42 - 0,24 0,51 - 0,58 -0,07 - -0,64 1,49 - 0,50 0,16 - -0,23 0,86 - -0,37 0,90 - 0,64 0,82 - -1,00
+131 m²
+Mittelwert 0,36 0,12 0,26 -1,13
+ab 131 m² 9 Spanne -0,10 - 0,57 -1,93 - 1,13 -0,34 - 0,49 1,77 - -5,38
+= Felder mit 10 bis 29 Fällen = kein Vergleich mit 2017 möglich, da dieses Feld 2019 keine ausreichende Fallzahl aufweist
+© 2019
+Methodenbericht zum Hamburger Mietenspiegel 2019 50
+Tabelle 17: Entwicklung des arithmetischen Mittels und der Spannenwerte 2019 zu 2017 in Prozent
+Mietenspiegel 2019 der Freien und Hansestadt Hamburg
+Veränderung der Nettokaltmiete ohne Heizung und ohne Betriebskosten 2019/2017 in Prozent
+Baualtersklasse/Bezugsfertigkeit bis 31.12.1918 01.01.1919 21.6.1948 bis 1961 bis 1967 1968 bis 1977 1978 bis 1993 1994 bis 2010 2011 bis 2018
+bis 20.6.1948 31.12.1960
+mit Bad oder mit Bad und mit Bad und mit Bad und mit Bad und mit Bad und mit Bad und mit Bad und mit Bad und
+Ausstattung
+Sammelheizung Sammelheizung Sammelheizung Sammelheizung Sammelheizung Sammelheizung Sammelheizung Sammelheizung Sammelheizung
+Wohnlage Wohnfläche B C F H I K L M N
+Mittelwert 13,62 7,34 1,09 0,00 6,29 -5,79
+25 m² bis unter
+1 Spanne 14,2 - 14,6 6,1 - 5,2 0,0 - 0,3 1,6 - 4,6 -1,2 - 8,3 -11,6 - 1,0
+41 m²
+Mittelwert 1,84 4,31 0,68 -0,73 -1,37 7,33 -1,07 3,49
+41 m² bis unter
+e la e g a 66 m² 2 Spanne 3,9 - -1,7 6,5 - 3,5 3,6 - -6,6 5,0 - -14,4 -0,9 - -2,5 14,5 - 4,0 2,8 - -4,3 2,1 - -0,1
+mln
+r o N h o W 66 m² bis unter 3 M S it p te a lw nn e e rt 11,3 -4 , - 0 7 -8,1 8,9 5 , - 5 6 3,0 5,4 5 , - 0 4 -0,5 6,4 5 , - 4 1 5,9 4,6 1 , - 3 1 -3,0 2,1 2 , - 9 8 4,5 -0,3 -2 , - 2 8 -1,3 0,0 3 , - 1 3 1,1 1,2 0 , - 0 0 0,6
+91 m²
+Mittelwert 6,73 -0,24 -14,56 -4,56 -5,25 0,70 -0,38 -1,14
+ab 91 m² 4 Spanne 10,9 - 13,6 3,8 - -3,7 0,9 - -28,9 1,3 - -9,3 0,0 - -16,9 -9,8 - -2,6 2,8 - -7,8 -2,5 - 0,5
+Mittelwert 25,60 6,74 6,18 -3,02
+25 m² bis unter
+5 Spanne 69,8 - 10,5 13,4 - -1,0 13,6 - 3,1 0,4 - -3,9
+41 m²
+Mittelwert 3,13 5,05 5,59 7,02 -7,61 -0,61 5,72 7,30
+41 m² bis unter
+6 Spanne 9,8 - 4,2 7,3 - 2,8 4,1 - -1,3 2,4 - 4,7 -3,2 - -11,3 -15,8 - 3,6 15,7 - 5,4 17,8 - -0,9
+66 m²
+e
+g Mittelwert 2,55 10,08 5,20 3,81 -0,88 3,36 7,21 0,21
+ea 66 m² bis unter
+tuln 7 Spanne 6,3 - -0,5 11,8 - 8,4 8,1 - 6,2 0,7 - -2,0 -4,4 - -2,9 -6,4 - 5,6 12,2 - 3,0 5,6 - -4,1
+Gh 91 m²
+o
+W
+Mittelwert 4,85 1,74 2,84 -1,68 11,07 3,15 0,99 5,78 0,07
+91 m² bis unter
+8 Spanne 26,5 - -6,9 4,9 - 1,8 6,3 - 4,7 -0,8 - -4,8 24,5 - 4,2 1,8 - -1,9 10,3 - -3,1 9,3 - 4,2 6,8 - -6,3
+131 m²
+Mittelwert 3,37 1,21 1,84 -7,09
+ab 131 m² 9 Spanne -1,2 - 4,3 -22,8 - 8,6 -3,2 - 2,7 15,1 - -26,0
+= Felder mit 10 bis 29 Fällen = kein Vergleich mit 2017 möglich, da dieses Feld 2019 keine ausreichende Fallzahl aufweist
+© 2019
+Methodenbericht zum Hamburger Mietenspiegel 2019 51
+8.2
+Neuvertragsmietenanteile im Hamburger
+Mietenspiegel 2019
+Für die Berechnung des Neuvertragsanteils wurden Mietverhältnisse berücksichtigt, die in den
+letzten vier Jahren (nach dem 1. April 2015) neu abgeschlossen wurden. In diesen Mietverhält-
+nissen können bereits Mietänderungen, z. B. aufgrund einer Staffelmietvereinbarung, erfolgt
+sein.
+Der ungewichtete Anteil der Neuvertragsmieten im Rahmen der Datenerhebung beträgt 32 %
+und liegt damit um elf Prozent unter dem Neuvermietungsanteil im Hamburger Mietenspiegel
+2017.
+Methodenbericht zum Hamburger Mietenspiegel 2019 52
+Tabelle 18: Anteil der Neuvertragsmieten
+Baualtersklasse/ bis 31.12.1918 1919 21.06.1948 bis 1961 1968 1978 1994 2011
+Bezugsfertigkeit bis 20.06.1948 31.12.1960 bis bis bis bis bis
+1967 1977 1993 2010 2018
+Ausstattung mit Bad mit Bad mit Bad mit Bad mit Bad mit Bad mit Bad mit Bad mit Bad
+oder und und und und und und und und
+Sammelheizung Sammelheizung Sammelheizung Sammelheizung Sammelheizung Sammelheizung Sammelheizung Sammelheizung Sammelheizung
+Wohn- Wohnfläche B C F H I K L M N
+lage
+Anteil NV 36 % 41 % 36 % 33 % 47 % 36 %
+25 m² bis
+unter 41 m²
+1
+N ges. 25 22 64 51 28 11
+Anteil NV 29 % 25 % 26 % 20 % 19 % 33 % 33 % 66 %
+41 m² bis
+e la
+m
+e g a
+ln
+unter 66 m²
+2
+N g es. 18 9 27 6 45 0 19 5 5 9 5 1 8 1 6 4
+ro n h o W 66 m² bis Anteil NV 0 % 32 % 25 % 31 % 11 % 14% 19 % 32 % 57 %
+3
+unter 91 m²
+N ges. 10 111 111 146 232 140 53 118 160
+Anteil NV 25 % 21 % 8 % 23 % 16% 55 % 43 % 58 %
+ab 91 m² 4
+N ges. 44 24 12 13 25 11 47 99
+Anteil NV 47 % 38 % 47 % 25 %
+25 m² bis
+5
+unter 41 m²
+N ges. 15 34 43 12
+Anteil NV 34 % 34 % 30 % 22 % 29 % 25 % 41 % 80 %
+41 m² bis
+6
+unter 66 m²
+N ges. 67 59 127 85 31 36 44 50
+e g Anteil NV 26 % 29 % 30 % 21 % 24 % 40 % 45 % 61 %
+e tu
+g
+a ln
+h o u
+6
+n
+6
+te
+m
+r 9
+²
+1
+b i
+m
+s
+²
+7
+N g es. 10 8 13 3 10 5 7 2 5 0 4 7 6 7 9 9
+W
+Anteil NV 0 % 22 % 23 % 28 % 46 % 33 % 38% 46 % 72 %
+91 m² bis
+8
+unter 131 m²
+N ges. 11 129 64 32 13 15 24 56 83
+Anteil NV 18 % 27 % 50 % 82 %
+ab 131 m² 9
+N ges. 77 15 16 11
+Anteil NV = Neuvertragsanteil, N ges. Anzahl aller Mietwerte © 2019
+Methodenbericht zum Hamburger Mietenspiegel 2019 53
+8.3
+Struktur der Nettokaltmieten nach Mietenstufen
+insgesamt und nach Wohnlage
+Die Struktur der Nettokaltmieten nach Mietenstufen zeigt die Verteilung des mietenspiegelrele-
+vanten Mietwohnraums in Hamburg. Aufgrund der disproportionalen Erhebungsmethode muss
+eine Gewichtung der erhobenen Daten mit der Grundgesamtheit erfolgen, da der Anteil der
+Neubauwohnungen ab 2011 mit den höheren Mieten im erhobenen Datenpool deutlich höher
+ist als der tatsächliche Anteil im Hamburger Wohnungsbestand. Da die Mietenspiegeltabelle
+für die einzelnen Baualtersklassen und Wohnlagen separat ausgewiesen wird, ist die Gewich-
+tung allerdings nur bei zusammenfassenden, tabellenfeldübergreifenden Auswertungen not-
+wendig.
+Tabelle 19: Verteilung der Nettokaltmieten nach Wohnlage (Angaben in Prozent) *
+Wohnlage Insgesamt
+Netto-Kaltmiete
+in €/m² normal gut kumuliert
+bis - 3,49 0,0 0,0 0,0 0,0
+3,50 - 3,99 0,0 0,0 0,0 0,0
+4,00 - 4,49 0,4 0,0 0,3 0,3
+4,50 - 4,99 0,7 0,1 0,6 0,9
+5,00 - 5,49 2,5 0,7 2,3 3,2
+5,50 - 5,99 7,3 1,6 6,7 9,9
+6,00 - 6,49 11,3 2,9 10,4 20,3
+6,50 - 6,99 13,9 3,4 12,8 33,1
+7,00 - 7,49 24,9 4,7 22,7 55,8
+7,50 - 7,99 7,7 5,4 7,5 63,3
+8,00 - 8,49 6,6 5,5 6,5 69,8
+8,50 - 8,99 3,7 8,1 4,2 74,0
+9,00 - 9,49 5,0 7,7 5,3 79,3
+9,50 - 9,99 4,7 8,2 5,0 84,3
+10,00 - 10,49 3,3 8,1 3,8 88,1
+10,50 - 10,99 2,2 7,5 2,8 90,9
+11,00 - 11,49 1,0 6,5 1,6 92,5
+11,50 - 11,99 1,3 4,3 1,7 94,2
+12,00 und mehr 3,5 25,3 5,8 100,0
+Insgesamt 100,0 100,0 100,0
+Mittelwert
+7,89 10,03 8,44
+(€/m²)
+* gewichtet mit der Grundgesamtheit © 2019
+Der Anteil der Mietwohnungen mit einer günstigeren Miete als 5 €/m² ist weniger als ein Prozent
+des mietenspiegelrelevanten Mietwohnraums in Hamburg (vgl. Tabelle 19). Der Anteil der Woh-
+nungen mit einer günstigeren Miete als 6,60 €/m² (Anfangsmiete im 1. Förderweg) liegt bei
+23,9 %, der Anteil mit einer günstigeren Miete als 8,70 €/m² (Anfangsmiete im 2 Förderweg)
+bei 71,4 %. Zum Vergleich im Jahr 2017 lag der Anteil der Wohnungen mit einer günstigeren
+Miete als 6,50 €/m² bei 22,7 %, der Anteil mit einer günstigeren Miete als 8,50 €/m² lag bei
+67,8 %.
+Methodenbericht zum Hamburger Mietenspiegel 2019 54
+Betrachtet man die Mietenstruktur differenziert nach den Wohnlagen, so kann festgestellt wer-
+den, dass der Mietwohnraum in der guten Wohnlage deutlich teurer ist. Liegt die Miethöhe mit
+12 €/m² und mehr in der normalen Wohnlage nur bei 3,5 % aller Mietwohnungen vor, so liegen
+in der guten Wohnlage bereits 25,3 % aller Mietwohnungen in diesem Preissegment.
+Abbildung 2 Mietenverteilung in Hamburg 2019 (Angaben in Prozent) *
+Anteil in %
+6,60 €/m² 8,70 €/m²
+25
+22,7
+20
+15
+12,8
+10,4
+10
+7,5
+6,7 6,5
+5,3 5,0
+5 4,2 3,8
+2,8
+2,3
+1,6 1,7
+0,0 0,0 0,3 0,6 1,2 0,8 0,9 0,7 0,6 0,6 0,7
+0
+€/m²
+* gewichtet mit der Grundgesamtheit © 2019
+Betrachtet man die Mietenverteilung, so ergibt sich eine sogenannte rechtsschiefe Verteilung.
+D. h die Mietenverteilung steigt im unteren Mietenbereich steil an und läuft dann im höheren
+Mietenbereich deutlich verlängert aus (vgl. Abbildung 2).
+8.4
+Mietenentwicklung bei zwei Hamburger
+Normalwohnungen
+Zur Veranschaulichung der allgemeinen Mietenentwicklung wird die Entwicklung am Beispiel
+zweier Hamburger „Normalwohnungen“ dargestellt.
+Dabei werden zwei Typen der „Normalwohnung“ unterschieden:
+▪ 60 m² große Altbauwohnung, Baualtersklasse bis 1918, gute Ausstattung (mit Bad und
+Sammelheizung), normale Wohnlage, Mietenspiegelfeld C2
+▪ 60 m² große Wohnung, Baualtersklasse 1968 bis 1977, gute Ausstattung (mit Bad und
+Sammelheizung), normale Wohnlage, Mietenspiegelfeld K2
+Methodenbericht zum Hamburger Mietenspiegel 2019 55
+In der ausgewählten Altbauwohnung ist die Durchschnittsmiete um 0,18 €/m² gestiegen, von
+9,76 €/m² (Mietenspiegel 2017) auf 9,94 €/m² im Mietenspiegel 2019. Mit einer Zunahme von
+1,84 % liegt die Mietsteigerung dieses Felds unter der allgemeinen Mietenentwicklung in Ham-
+burg. Der untere Wert der 2/3-Spanne hat sich um 0,31 €/m² erhöht und der obere Wert der
+2/3-Spanne ist um 0,21 €/m² gesunken (+3,9 % bzw. - 1,7 %).
+Bei der betrachteten „Normalwohnung“ der Baualtersklasse 1968 bis 1977 hat sich die Miete
+von 7,30 €/m² (Mietenspiegel 2017) auf 7,20 €/m² im Hamburger Mietenspiegel 2019 gesenkt
+(-0,10 €/m² bzw. -1,37 %). Der untere Wert der 2/3-Spanne ist um 0,05 €/m² gesunken und
+beim oberen Wert der 2/3-Spanne ergaben sich -0,23 €/m² (-0,9 % bzw. -2,5 %).
+8.5
+Alter der mietenspiegelrelevanten Verträge
+Für den mietenspiegelrelevanten Wohnungsbestand ergibt sich im Hamburger Mietenspiegel
+2019 ein durchschnittliches Alter der mietenspiegelrelevanten Verträge von 15,9 Jahren (vgl.
+Tabelle 20). Erfasst wurde im Rahmen der Datenerhebung das Datum des Mietvertragsab-
+schlusses, das als Grundlage für die Ermittlung der Alter der mietenspiegelrelevanten Verträge
+diente. Damit hat sich das durchschnittliche Alter der mietenspiegelrelevanten Verträge gegen-
+über dem Hamburger Mietenspiegel 2017 um 0,6 Jahre gesenkt (2017 = 16,5 Jahre). Über ein
+Drittel aller Mietverträge in Hamburg sind 20 Jahre und älter.
+Neben der Baualtersklasse 2011 bis 2018 findet sich in der Baualtersklasse 1994 bis 2010 das
+geringste durchschnittliche Alter der mietenspiegelrelevanten Verträge mit 7,5 Jahren. In der
+Baualtersklasse 1961 bis 1967 und der Baualtersklasse 1968 bis 1977 findet man das höchste
+durchschnittliche Alter der mietenspiegelrelevanten Verträge mit 20,6 bzw. 19,5 Jahren.
+Tabelle 20: Verteilung der mietenspiegelrelevanten Verträge nach durchschnittlichem
+Alter je Baualtersklassen (Angaben in Prozent) *
+Alter der mieten- insge- Baualtersklassen
+spiegelrelevanten samt bis 1919 21.06. 1961 1968 1978 1994 2011
+Verträge 1918 bis 1948 bis bis bis bis bis
+20.06. bis 1967 1977 1983 2010 2018
+1948 1960
+bis 2 Jahre 9,7 9,5 9,5 10,5 6,4 5,9 10,5 16,2 20,8
+2 bis 4 Jahre 16,7 19,6 18,1 17,1 10,8 10,9 18,6 21,8 38,5
+4 bis 6 Jahre 8,0 9,8 7,7 6,8 7,7 6,6 8,2 14,6 27,8
+6 bis 8 Jahre 5,7 6,7 6,4 5,1 5,4 5,5 7,3 6,4 12,3
+8 bis 10 Jahre 6,4 7,7 6,0 6,6 5,2 7,0 6,2 9,9 0,2
+10 bis 20 Jahre 25,8 21,4 28,8 28,5 21,0 25,5 23,2 28,3
+20 u. m. Jahre 27,8 25,3 23,5 25,3 43,5 38,6 25,9 2,8 0,4
+Insgesamt 100,0 100,0 100,0 100,0 100,0 100,0 100,0 100,0 100,0
+Mittelwert
+15,9 15,2 14,1 15,5 20,6 19,5 13,4 7,5 3,8
+(in Jahren)
+* gewichtet mit der Grundgesamtheit © 2019
+Das Alter der mietenspiegelrelevanten Verträge in den kleinen Wohnungen 25 m² bis unter
+41 m² Wohnfläche liegt mit durchschnittlich 19,3 Jahren über dem Durchschnitt aller Wohnun-
+gen in Hamburg (15,9 Jahre). Insgesamt sind in dieser Größenklasse rund 39 % aller Mietver-
+hältnisse 10 Jahre und älter (vgl. Tabelle 21). Die längsten Mietverträge finden sich in den
+Methodenbericht zum Hamburger Mietenspiegel 2019 56
+Wohnungen ab 131 m², wo rund 39 % aller mietenspiegelrelevanten Verträge 20 Jahre und
+älter sind. In diesen Wohnungen finden sich die Bevölkerungsgruppen, die bereits die Konsoli-
+dierung ihrer Lebenssituation hinter sich haben und zumeist aufgrund der Familienplanung grö-
+ßere Wohnungen benötigen und diese sich auch wirtschaftlich leisten können. Der Umzugs-
+wunsch dieser Bevölkerungsgruppen ist zumeist recht gering.
+Tabelle 21: Verteilung der mietenspiegelrelevanten Verträge nach durchschnittlichem
+Alter nach Wohnungsgrößenklassen (Angaben in Prozent) *
+Alter der mieten- insgesamt Wohnungsgrößenklasse
+spiegelrelevanten 25 m² 41 m² 66 m² 91 m² ab
+Verträge bis unter bis unter bis unter bis unter 131 m²
+41 m² 66 m² 91 m² 131 m²
+bis 2 Jahre 9,7 12,5 10,0 8,4 13,1 3,1
+2 bis 4 Jahre 16,7 23,7 16,8 15,3 20,9 18,5
+4 bis 6 Jahre 8,0 10,2 7,5 8,9 9,8 7,6
+6 bis 8 Jahre 5,7 6,7 5,4 6,2 6,8 8,4
+8 bis 10 Jahre 6,4 8,2 6,8 5,1 5,0 6,4
+10 bis 20 Jahre 25,8 22,2 28,4 19,3 19,5 17,2
+20 u. m. Jahre 27,8 16,4 25,1 36,7 24,8 38,7
+Insgesamt 100,0 100,0 100,0 100,0 100,0 100,0
+Mittelwert
+15,9 19,3 15,0 18,2 13,4 19,0
+(in Jahren)
+* gewichtet mit der Grundgesamtheit © 2019
+Bei der Analyse des Alters der mietenspiegelrelevanten Verträge nach dem Vermietertyp zeigt
+sich auch im Hamburger Mietenspiegel 2019, dass beim städtischen Wohnungsunternehmen
+SAGA GWG und den Wohnungsgenossenschaften der Anteil der langfristigen Mietverhältnisse
+höher ist als bei anderen Vermietern (vgl. Tabelle 22). Aufgrund der in der Regel niedrigeren
+Mieten und dem genossenschaftlichen Prinzip der „Miteigentümerschaft“ ist die Bindung der
+Mieterinnen und Mieter höher als bei anderen Vermietertypen. Außerdem dürfte auch ein hö-
+herer Anteil älterer Mieterinnen und Mieter bei den Wohnungsgenossenschaften leben, wes-
+halb die Mobilität geringer ist.
+Tabelle 22: Verteilung der mietenspiegelrelevanten Verträge nach durchschnittlichem
+Alter nach Vermietertyp (Angaben in Prozent) *
+Alter der mieten- insgesamt SAGA Genossen- Freie Woh- Private Sonstige
+spiegelrelevanten GWG schaften nungsun- Eigentümer
+Verträge ternehmen
+bis 2 Jahre 9,7 2,0 8,0 15,9 14,2 16,2
+2 bis 4 Jahre 16,7 11,1 15,6 19,0 21,8 15,1
+4 bis 6 Jahre 8,0 8,2 8,2 6,2 8,4 9,5
+6 bis 8 Jahre 5,7 5,1 5,7 6,6 5,9 4,0
+8 bis 10 Jahre 6,4 6,0 9,0 4,7 5,5 3,5
+10 bis 20 Jahre 25,8 32,9 27,0 23,0 19,4 26,6
+20 u. m. Jahre 27,8 34,7 26,5 24,5 24,8 25,1
+Insgesamt 100,0 100,0 100,0 100,0 100,0 100,0
+* gewichtet mit der Grundgesamtheit © 2019
+Methodenbericht zum Hamburger Mietenspiegel 2019 57
+8.6
+Mietveränderungserklärung mit Verweis auf den
+Hamburger Mietenspiegel
+Nach § 558 a BGB müssen Mieterhöhungen von der Vermieterin oder von dem Vermieter be-
+gründet werden. Es muss darlegt werden, dass die künftig verlangte Miete die ortsübliche Ver-
+gleichsmiete für vergleichbare Wohnungen nicht übersteigt. Die Miete kann darüber hinaus
+auch durch beiderseitiges Einvernehmen geändert werden. Nach § 558 a Abs. 2 BGB kann die
+Vermieterin bzw. der Vermieter die Mieterhöhung mit dem Mietenspiegel begründen. Nach der
+Mietrechtsreform 2001 muss im Erhöhungsverlangen auf den qualifizierten Mietenspiegel Be-
+zug genommen werden, auch wenn die Vermieterin und der Vermieter eine andere Möglichkeit
+der Darlegung, wie z. B. ein Sachverständigengutachten, verwendet.
+Zur Begründung nach § 558 a Abs. 2 BGB kann Bezug genommen werden auf:
+▪ einen Mietenspiegel,
+▪ eine Auskunft aus einer Mietdatenbank,
+▪ ein mit Gründen versehenes Gutachten eines öffentlich bestellten und vereidigten Sach-
+verständigen,
+▪ entsprechende Entgelte für einzelne vergleichbare Wohnungen; hierbei genügt die Benen-
+nung von drei Wohnungen.
+Tabelle 23: Begründung der Mieterhöhung nach Baualtersklasse (Angaben in Prozent) *
+n
+e
+Baualtersklasse le g e ip s n e te iM a b n ie r e V e g illiw g i n e r u F r
+th
+c a tu g n e g id n ä ts r e v h c a S n e g n u n h o w s h c ie lg r e V g n u r e is in r e d o M e te im le ffa tS e te im x e d n I n e g n u d n ü r g e B e g its n o S
+bis 31.12.1918 56,4 3,3 - 1,0 3,3 26,6 7,8 1,5
+01.01.1919 bis 20.06.1948 67,6 3,7 - 0,9 4,0 15,5 6,9 0,8
+21.06.1948 bis 31.12.1960 71,6 8,5 - 0,3 2,4 12,7 3,3 0,7
+1961 bis 1967 75,0 6,9 - 0,8 4,5 6,1 3,7 2,2
+1968 bis 1977 76,8 6,8 - - 4,5 7,6 2,8 1,6
+1978 bis 1993 60,3 2,9 - 1,0 2,0 20,7 8,8 3,3
+1994 bis 2010 51,4 4,9 - 2,0 1,6 28,9 8,8 2,0
+2011 bis 2018 17,6 5,9 - 0,7 - 30,3 43,7 0,9
+Insgesamt 67,9 6,7 - 0,6 3,0 14,7 5,5 1,1
+* gewichtet mit der Grundgesamtheit © 2019
+Methodenbericht zum Hamburger Mietenspiegel 2019 58
+Im Rahmen der Datenerhebung zum Hamburger Mietenspiegel 2019 wurden, wie auch in der
+Vergangenheit, weitere Begründungen der Mieterhöhung abgefragt: Staffelmiete, Indexmiete,
+Modernisierung.
+Unter Berücksichtigung aller abgefragten Mietänderungsbegründungen liegt der Anteil mit dem
+Änderungsgrund Hamburger Mietenspiegel bei 67,9 % und damit knapp um fast zwei Prozent-
+punkte über dem Anteil bei der Erhebung zum Mietenspiegel 2017. Der Hamburger Mieten-
+spiegel ist damit auch weiterhin die wichtigste Grundlage für die Vermieterinnen und Vermieter
+bei der Veränderung der Miete in bestehenden Mietverhältnissen. Der Anteil an Sachverstän-
+digengutachten als Mietänderungsbegründung ist den letzten Jahren stets rückläufig gewesen
+und ist im Hamburger Mietenspiegel 2019 nicht mehr als Mietänderungsgrund angeführt wor-
+den.
+Der Anteil der Staffelmietverträge über alle Baualtersklassen liegt weiterhin bei rund 14,7 %,
+doch insbesondere im Neubau ab 2011 steigt der Anteil dieser Vertragsart auf 30,3 % an. Na-
+türlich sind in diesen Wohnungsbeständen derzeit nur wenige Mietveränderungen ausgespro-
+chen worden und es ergeben sich nur die vertraglich festgelegten Änderungen, aber Staffel-
+und Indexmietveränderungen sind nicht von der Kappungsgrenzenverordnung betroffen.
+Methodenbericht zum Hamburger Mietenspiegel 2019 59
+ANLAGE A:
+FÖRDERPROGRAMME, DIE ZUM AUSSCHLUSS
+AUS DEM HAMBURGER MIETENSPIEGEL 2019
+GEFÜHRT HABEN
+Methodenbericht zum Hamburger Mietenspiegel 2019 60
+Mietenspiegelrelevante Förderprogramme
+1: Mietwohnungsneubau
+Förderung nach dem II. WoBauG
+▪ 1. Förderweg (§§ 6, 25 ff. II. WoBauG)
+▪ 3.-5. Förderweg (§§ 88 a-c II. WoBauG)
+▪ 3. Förderweg (§§ 88 a-c II. WoBauG)
+▪ Gen. Wohnprojekte (§§ 88 a-c II. WoBauG)
+▪ Vertragswohnungsbau (§§ 88 d II. WoBauG)
+▪ Förderumstellung 3. Förderweg
+Förderung nach dem WoFG/HmbWoFG
+▪ Besondere Wohnformen (Segment SW)
+▪ Ankauf von Belegungsbindungen
+▪ 1. Förderweg Mietwohnungen (M)
+▪ 1. Förderweg Neubau Mietwohnungen WA-Bindung
+▪ 1. Förderweg Neubau Mietwohnungen WA-Bindung (Segment E)
+▪ 1. Förderweg Neubau Mietwohnungen WA-Bindung (Segment Q)
+▪ 2. Förderweg Mietwohnungen (M)
+▪ Wohnungen für Studierende und Auszubildende (Segment S)
+▪ Baugemeinschaften
+▪ Neubau für vordringlich Wohnungssuchende
+2: Wohnungsmodernisierung
+▪ Mod. Programm A (mit Mietpreisbindung)
+▪ Mod. Programm B
+▪ Modernisierungen in Sanierungsgebieten
+▪ Modernisierungen für Studierende und Auszubildende
+▪ Barrierefreier Umbau von Mietwohnungen
+▪ Modernisierung in Gebieten der integrierten Stadtteilentwicklung
+Methodenbericht zum Hamburger Mietenspiegel 2019 61
+ANLAGE B:
+HISTOGRAMME
+Methodenbericht zum Hamburger Mietenspiegel 2019 62
+Mietenspiegelfeld B1
+Baualtersklasse bis 31.12.1918,
+mit Bad oder Sammelheizung,
+25 m² bis unter 41 m²,
+normale Wohnlage
+Keine ausreichende Anzahl an Mietwerten für die Ausweisung von Kennwerten
+im Mietenspiegelfeld vorhanden (Anzahl Mietwerte = 1).
+Mietenspiegelfeld B2
+Baualtersklasse bis 31.12.1918,
+mit Bad oder Sammelheizung,
+41 m² bis unter 66 m²,
+normale Wohnlage
+Keine ausreichende Anzahl an Mietwerten für die Ausweisung von Kennwerten
+im Mietenspiegelfeld vorhanden (Anzahl Mietwerte = 9).
+Methodenbericht zum Hamburger Mietenspiegel 2019 63
+Mietenspiegelfeld B3
+Baualtersklasse bis 31.12.1918,
+mit Bad oder Sammelheizung,
+66 m² bis unter 91 m²,
+normale Wohnlage
+Arithmetisches Mittel 8,01 €/m²
+Standardabweichung 0,45
+Unterer Wert der 2/3-Spanne 7,77 €/m²
+Oberer Wert der 2/3-Spanne 8,65 €/m²
+Minimum 7,24 €/m²
+Maximum 8,82 €/m²
+Anzahl Mietwerte 10
+Mietenspiegelfeld B4
+Baualtersklasse bis 31.12.1918,
+mit Bad oder Sammelheizung,
+ab 91 m²,
+normale Wohnlage
+Keine ausreichende Anzahl an Mietwerten für die Ausweisung von Kennwerten
+im Mietenspiegelfeld vorhanden (Anzahl Mietwerte = 8).
+Methodenbericht zum Hamburger Mietenspiegel 2019 64
+Mietenspiegelfeld B5
+Baualtersklasse bis 31.12.1918,
+mit Bad oder Sammelheizung,
+25 m² bis unter 41 m²,
+gute Wohnlage
+Keine ausreichende Anzahl an Mietwerten für die Ausweisung von Kennwerten
+im Mietenspiegelfeld vorhanden (Anzahl Mietwerte = 1).
+Mietenspiegelfeld B6
+Baualtersklasse bis 31.12.1918,
+mit Bad oder Sammelheizung,
+41 m² bis unter 66 m²,
+gute Wohnlage
+Keine ausreichende Anzahl an Mietwerten für die Ausweisung von Kennwerten
+im Mietenspiegelfeld vorhanden (Anzahl Mietwerte = 5).
+Methodenbericht zum Hamburger Mietenspiegel 2019 65
+Mietenspiegelfeld B7
+Baualtersklasse bis 31.12.1918,
+mit Bad oder Sammelheizung,
+66 m² bis unter 91 m²,
+gute Wohnlage
+Keine ausreichende Anzahl an Mietwerten für die Ausweisung von Kennwerten
+im Mietenspiegelfeld vorhanden (Anzahl Mietwerte = 8).
+Mietenspiegelfeld B8
+Baualtersklasse bis 31.12.1918,
+mit Bad oder Sammelheizung,
+91 m² bis unter 131 m²,
+gute Wohnlage
+Arithmetisches Mittel 9,08 €/m²
+Standardabweichung 1,34
+Unterer Wert der 2/3-Spanne 7,45 €/m²
+Oberer Wert der 2/3-Spanne 10,59 €/m²
+Minimum 6,70 €/m²
+Maximum 10,95 €/m²
+Anzahl Mietwerte 11
+Methodenbericht zum Hamburger Mietenspiegel 2019 66
+Mietenspiegelfeld B9
+Baualtersklasse bis 31.12.1918,
+mit Bad oder Sammelheizung,
+ab 131 m²,
+gute Wohnlage
+Keine ausreichende Anzahl an Mietwerten für die Ausweisung von Kennwerten
+im Mietenspiegelfeld vorhanden (Anzahl Mietwerte = 4).
+Methodenbericht zum Hamburger Mietenspiegel 2019 67
+Mietenspiegelfeld C1
+Baualtersklasse bis 31.12.1918,
+mit Bad und Sammelheizung,
+25 m² bis unter 41 m²,
+normale Wohnlage
+Arithmetisches Mittel 12,10 €/m²
+Standardabweichung 2,50
+Unterer Wert der 2/3-Spanne 10,12 €/m²
+Oberer Wert der 2/3-Spanne 14,55 €/m²
+Minimum 7,91 €/m²
+Maximum 17,50 €/m²
+Anzahl Mietwerte 25
+Mietenspiegelfeld C2
+Baualtersklasse bis 31.12.1918,
+mit Bad und Sammelheizung,
+41 m² bis unter 66 m²,
+normale Wohnlage
+Arithmetisches Mittel 9,94 €/m²
+Standardabweichung 2,16
+Unterer Wert der 2/3-Spanne 8,33 €/m²
+Oberer Wert der 2/3-Spanne 11,86 €/m²
+Minimum 5,10 €/m²
+Maximum 16,06 €/m²
+Anzahl Mietwerte 189
+Methodenbericht zum Hamburger Mietenspiegel 2019 68
+Mietenspiegelfeld C3
+Baualtersklasse bis 31.12.1918,
+mit Bad und Sammelheizung,
+66 m² bis unter 91 m²,
+normale Wohnlage
+Arithmetisches Mittel 10,26 €/m²
+Standardabweichung 1,91
+Unterer Wert der 2/3-Spanne 8,94 €/m²
+Oberer Wert der 2/3-Spanne 11,91 €/m²
+Minimum 6,09 €/m²
+Maximum 15,28 €/m²
+Anzahl Mietwerte 111
+Mietenspiegelfeld C4
+Baualtersklasse bis 31.12.1918,
+mit Bad und Sammelheizung,
+ab 91 m²,
+normale Wohnlage
+Arithmetisches Mittel 9,68 €/m²
+Standardabweichung 2,04
+Unterer Wert der 2/3-Spanne 8,22 €/m²
+Oberer Wert der 2/3-Spanne 12,02 €/m²
+Minimum 4,87 €/m²
+Maximum 14,00 €/m²
+Anzahl Mietwerte 44
+Methodenbericht zum Hamburger Mietenspiegel 2019 69
+Mietenspiegelfeld C5
+Baualtersklasse bis 31.12.1918,
+mit Bad und Sammelheizung,
+25 m² bis unter 41 m²,
+gute Wohnlage
+Arithmetisches Mittel 13,05 €/m²
+Standardabweichung 2,53
+Unterer Wert der 2/3-Spanne 10,39 €/m²
+Oberer Wert der 2/3-Spanne 15,19 €/m²
+Minimum 8,25 €/m²
+Maximum 16,83 €/m²
+Anzahl Mietwerte 15
+Mietenspiegelfeld C6
+Baualtersklasse bis 31.12.1918,
+mit Bad und Sammelheizung,
+41 m² bis unter 66 m²,
+gute Wohnlage
+Arithmetisches Mittel 10,89 €/m²
+Standardabweichung 2,19
+Unterer Wert der 2/3-Spanne 9,20 €/m²
+Oberer Wert der 2/3-Spanne 13,27 €/m²
+Minimum 4,77 €/m²
+Maximum 17,00 €/m²
+Anzahl Mietwerte 67
+Methodenbericht zum Hamburger Mietenspiegel 2019 70
+Mietenspiegelfeld C7
+Baualtersklasse bis 31.12.1918,
+mit Bad und Sammelheizung,
+66 m² bis unter 91 m²,
+gute Wohnlage
+Arithmetisches Mittel 11,28 €/m²
+Standardabweichung 2,14
+Unterer Wert der 2/3-Spanne 9,42 €/m²
+Oberer Wert der 2/3-Spanne 13,70 €/m²
+Minimum 6,51 €/m²
+Maximum 16,42 €/m²
+Anzahl Mietwerte 108
+Mietenspiegelfeld C8
+Baualtersklasse bis 31.12.1918,
+mit Bad und Sammelheizung,
+91 m² bis unter 131 m²,
+gute Wohnlage
+Arithmetisches Mittel 11,14 €/m²
+Standardabweichung 2,38
+Unterer Wert der 2/3-Spanne 9,00 €/m²
+Oberer Wert der 2/3-Spanne 13,88 €/m²
+Minimum 5,13 €/m²
+Maximum 16,27 €/m²
+Anzahl Mietwerte 129
+Methodenbericht zum Hamburger Mietenspiegel 2019 71
+Mietenspiegelfeld C9
+Baualtersklasse bis 31.12.1918,
+mit Bad und Sammelheizung,
+ab 131 m²,
+gute Wohnlage
+Arithmetisches Mittel 11,05 €/m²
+Standardabweichung 2,68
+Unterer Wert der 2/3-Spanne 8,54 €/m²
+Oberer Wert der 2/3-Spanne 13,83 €/m²
+Minimum 5,11 €/m²
+Maximum 17,70 €/m²
+Anzahl Mietwerte 77
+Methodenbericht zum Hamburger Mietenspiegel 2019 72
+Mietenspiegelfeld F1
+Baualtersklasse 1919 bis 20.06.1948,
+mit Bad und Sammelheizung,
+25 m² bis unter 41 m²,
+normale Wohnlage
+Arithmetisches Mittel 9,36 €/m²
+Standardabweichung 2,51
+Unterer Wert der 2/3-Spanne 7,46 €/m²
+Oberer Wert der 2/3-Spanne 11,57 €/m²
+Minimum 6,36 €/m²
+Maximum 15,68 €/m²
+Anzahl Mietwerte 22
+Mietenspiegelfeld F2
+Baualtersklasse 1919 bis 20.06.1948,
+mit Bad und Sammelheizung,
+41 m² bis unter 66 m²,
+normale Wohnlage
+Arithmetisches Mittel 8,47 €/m²
+Standardabweichung 1,51
+Unterer Wert der 2/3-Spanne 7,24 €/m²
+Oberer Wert der 2/3-Spanne 9,80 €/m²
+Minimum 5,30 €/m²
+Maximum 13,07 €/m²
+Anzahl Mietwerte 276
+Methodenbericht zum Hamburger Mietenspiegel 2019 73
+Mietenspiegelfeld F3
+Baualtersklasse 1919 bis 20.06.1948,
+mit Bad und Sammelheizung,
+66 m² bis unter 91 m²,
+normale Wohnlage
+Arithmetisches Mittel 8,54 €/m²
+Standardabweichung 1,91
+Unterer Wert der 2/3-Spanne 7,06 €/m²
+Oberer Wert der 2/3-Spanne 9,96 €/m²
+Minimum 5,10 €/m²
+Maximum 14,60 €/m²
+Anzahl Mietwerte 111
+Mietenspiegelfeld F4
+Baualtersklasse 1919 bis 20.06.1948,
+mit Bad und Sammelheizung,
+ab 91 m²,
+normale Wohnlage
+Arithmetisches Mittel 8,23 €/m²
+Standardabweichung 1,66
+Unterer Wert der 2/3-Spanne 6,89 €/m²
+Oberer Wert der 2/3-Spanne 10,11 €/m²
+Minimum 6,21 €/m²
+Maximum 11,55 €/m²
+Anzahl Mietwerte 24
+Methodenbericht zum Hamburger Mietenspiegel 2019 74
+Mietenspiegelfeld F5
+Baualtersklasse 1919 bis 20.06.1948,
+mit Bad und Sammelheizung,
+25 m² bis unter 41 m²,
+gute Wohnlage
+Keine ausreichende Anzahl an Mietwerten für die Ausweisung von Kennwerten
+im Mietenspiegelfeld vorhanden (Anzahl Mietwerte = 5).
+Mietenspiegelfeld F6
+Baualtersklasse 1919 bis 20.06.1948,
+mit Bad und Sammelheizung,
+41 m² bis unter 66 m²,
+gute Wohnlage
+Arithmetisches Mittel 10,61 €/m²
+Standardabweichung 2,15
+Unterer Wert der 2/3-Spanne 8,57 €/m²
+Oberer Wert der 2/3-Spanne 12,53 €/m²
+Minimum 5,78 €/m²
+Maximum 16,04 €/m²
+Anzahl Mietwerte 59
+Methodenbericht zum Hamburger Mietenspiegel 2019 75
+Mietenspiegelfeld F7
+Baualtersklasse 1919 bis 20.06.1948,
+mit Bad und Sammelheizung,
+66 m² bis unter 91 m²,
+gute Wohnlage
+Arithmetisches Mittel 11,14 €/m²
+Standardabweichung 2,67
+Unterer Wert der 2/3-Spanne 8,72 €/m²
+Oberer Wert der 2/3-Spanne 14,21 €/m²
+Minimum 5,16 €/m²
+Maximum 17,33 €/m²
+Anzahl Mietwerte 133
+Mietenspiegelfeld F8
+Baualtersklasse 1919 bis 20.06.1948,
+mit Bad und Sammelheizung,
+91 m² bis unter 131 m²,
+gute Wohnlage
+Arithmetisches Mittel 10,14 €/m²
+Standardabweichung 2,16
+Unterer Wert der 2/3-Spanne 8,60 €/m²
+Oberer Wert der 2/3-Spanne 13,00 €/m²
+Minimum 5,16 €/m²
+Maximum 14,60 €/m²
+Anzahl Mietwerte 64
+Methodenbericht zum Hamburger Mietenspiegel 2019 76
+Mietenspiegelfeld F9
+Baualtersklasse 1919 bis 20.06.1948,
+mit Bad und Sammelheizung,
+ab 131 m²,
+gute Wohnlage
+Arithmetisches Mittel 10,03 €/m²
+Standardabweichung 3,18
+Unterer Wert der 2/3-Spanne 6,52 €/m²
+Oberer Wert der 2/3-Spanne 14,24 €/m²
+Minimum 5,63 €/m²
+Maximum 16,37 €/m²
+Anzahl Mietwerte 15
+Methodenbericht zum Hamburger Mietenspiegel 2019 77
+Mietenspiegelfeld H1
+Baualtersklasse 21.06.1948 bis 31.12.1960,
+mit Bad und Sammelheizung,
+25 m² bis unter 41 m²,
+normale Wohnlage
+Arithmetisches Mittel 8,33 €/m²
+Standardabweichung 1,50
+Unterer Wert der 2/3-Spanne 7,00 €/m²
+Oberer Wert der 2/3-Spanne 10,00 €/m²
+Minimum 4,66 €/m²
+Maximum 12,14 €/m²
+Anzahl Mietwerte 64
+Mietenspiegelfeld H2
+Baualtersklasse 21.06.1948 bis 31.12.1960,
+mit Bad und Sammelheizung,
+41 m² bis unter 66 m²,
+normale Wohnlage
+Arithmetisches Mittel 7,40 €/m²
+Standardabweichung 1,13
+Unterer Wert der 2/3-Spanne 6,56 €/m²
+Oberer Wert der 2/3-Spanne 8,15 €/m²
+Minimum 4,00 €/m²
+Maximum 10,95 €/m²
+Anzahl Mietwerte 450
+Methodenbericht zum Hamburger Mietenspiegel 2019 78
+Mietenspiegelfeld H3
+Baualtersklasse 21.06.1948 bis 31.12.1960,
+mit Bad und Sammelheizung,
+66 m² bis unter 91 m²,
+normale Wohnlage
+Arithmetisches Mittel 7,79 €/m²
+Standardabweichung 1,48
+Unterer Wert der 2/3-Spanne 6,80 €/m²
+Oberer Wert der 2/3-Spanne 9,21 €/m²
+Minimum 4,30 €/m²
+Maximum 12,02 €/m²
+Anzahl Mietwerte 146
+Mietenspiegelfeld H4
+Baualtersklasse 21.06.1948 bis 31.12.1960,
+mit Bad und Sammelheizung,
+ab 91 m²,
+normale Wohnlage
+Arithmetisches Mittel 7,16 €/m²
+Standardabweichung 0,96
+Unterer Wert der 2/3-Spanne 6,56 €/m²
+Oberer Wert der 2/3-Spanne 7,93 €/m²
+Minimum 4,88 €/m²
+Maximum 8,26 €/m²
+Anzahl Mietwerte 12
+Methodenbericht zum Hamburger Mietenspiegel 2019 79
+Mietenspiegelfeld H5
+Baualtersklasse 21.06.1948 bis 31.12.1960,
+mit Bad und Sammelheizung,
+25 m² bis unter 41 m²,
+gute Wohnlage
+Arithmetisches Mittel 10,77 €/m²
+Standardabweichung 1,93
+Unterer Wert der 2/3-Spanne 8,62 €/m²
+Oberer Wert der 2/3-Spanne 12,99 €/m²
+Minimum 7,95 €/m²
+Maximum 14,85 €/m²
+Anzahl Mietwerte 34
+Mietenspiegelfeld H6
+Baualtersklasse 21.06.1948 bis 31.12.1960,
+mit Bad und Sammelheizung,
+41 m² bis unter 66 m²,
+gute Wohnlage
+Arithmetisches Mittel 9,26 €/m²
+Standardabweichung 2,26
+Unterer Wert der 2/3-Spanne 7,04 €/m²
+Oberer Wert der 2/3-Spanne 11,09 €/m²
+Minimum 5,62 €/m²
+Maximum 15,38 €/m²
+Anzahl Mietwerte 127
+Methodenbericht zum Hamburger Mietenspiegel 2019 80
+Mietenspiegelfeld H7
+Baualtersklasse 21.06.1948 bis 31.12.1960,
+mit Bad und Sammelheizung,
+66 m² bis unter 91 m²,
+gute Wohnlage
+Arithmetisches Mittel 10,32 €/m²
+Standardabweichung 2,42
+Unterer Wert der 2/3-Spanne 8,26 €/m²
+Oberer Wert der 2/3-Spanne 13,00 €/m²
+Minimum 5,09 €/m²
+Maximum 16,51 €/m²
+Anzahl Mietwerte 105
+Mietenspiegelfeld H8
+Baualtersklasse 21.06.1948 bis 31.12.1960,
+mit Bad und Sammelheizung,
+91 m² bis unter 131 m²,
+gute Wohnlage
+Arithmetisches Mittel 10,54 €/m²
+Standardabweichung 2,60
+Unterer Wert der 2/3-Spanne 8,30 €/m²
+Oberer Wert der 2/3-Spanne 12,61 €/m²
+Minimum 5,52 €/m²
+Maximum 16,05 €/m²
+Anzahl Mietwerte 32
+Methodenbericht zum Hamburger Mietenspiegel 2019 81
+Mietenspiegelfeld H9
+Baualtersklasse 21.06.1948 bis 31.12.1960,
+mit Bad und Sammelheizung,
+ab 131 m²,
+gute Wohnlage
+Keine ausreichende Anzahl an Mietwerten für die Ausweisung von Kennwerten
+im Mietenspiegelfeld vorhanden (Anzahl Mietwerte = 2).
+Methodenbericht zum Hamburger Mietenspiegel 2019 82
+Mietenspiegelfeld I1
+Baualtersklasse 1961 bis 1967,
+mit Bad und Sammelheizung,
+25 m² bis unter 41 m²,
+normale Wohnlage
+Arithmetisches Mittel 8,45 €/m²
+Standardabweichung 2,54
+Unterer Wert der 2/3-Spanne 5,79 €/m²
+Oberer Wert der 2/3-Spanne 11,70 €/m²
+Minimum 4,71 €/m²
+Maximum 12,95 €/m²
+Anzahl Mietwerte 51
+Mietenspiegelfeld I2
+Baualtersklasse 1961 bis 1967,
+mit Bad und Sammelheizung,
+41 m² bis unter 66 m²,
+normale Wohnlage
+Arithmetisches Mittel 6,76 €/m²
+Standardabweichung 0,89
+Unterer Wert der 2/3-Spanne 6,10 €/m²
+Oberer Wert der 2/3-Spanne 7,00 €/m²
+Minimum 5,27 €/m²
+Maximum 9,61 €/m²
+Anzahl Mietwerte 195
+Methodenbericht zum Hamburger Mietenspiegel 2019 83
+Mietenspiegelfeld I3
+Baualtersklasse 1961 bis 1967,
+mit Bad und Sammelheizung,
+66 m² bis unter 91 m²,
+normale Wohnlage
+Arithmetisches Mittel 6,17 €/m²
+Standardabweichung 0,79
+Unterer Wert der 2/3-Spanne 5,63 €/m²
+Oberer Wert der 2/3-Spanne 6,50 €/m²
+Minimum 4,53 €/m²
+Maximum 9,01 €/m²
+Anzahl Mietwerte 232
+Mietenspiegelfeld I4
+Baualtersklasse 1961 bis 1967,
+mit Bad und Sammelheizung,
+ab 91 m²,
+normale Wohnlage
+Arithmetisches Mittel 6,90 €/m²
+Standardabweichung 0,63
+Unterer Wert der 2/3-Spanne 6,28 €/m²
+Oberer Wert der 2/3-Spanne 7,42 €/m²
+Minimum 5,91 €/m²
+Maximum 8,00 €/m²
+Anzahl Mietwerte 13
+Methodenbericht zum Hamburger Mietenspiegel 2019 84
+Mietenspiegelfeld I5
+Baualtersklasse 1961 bis 1967,
+mit Bad und Sammelheizung,
+25 m² bis unter 41 m²,
+gute Wohnlage
+Arithmetisches Mittel 12,02 €/m²
+Standardabweichung 1,30
+Unterer Wert der 2/3-Spanne 10,96 €/m²
+Oberer Wert der 2/3-Spanne 13,54 €/m²
+Minimum 7,91 €/m²
+Maximum 13,86 €/m²
+Anzahl Mietwerte 43
+Mietenspiegelfeld I6
+Baualtersklasse 1961 bis 1967,
+mit Bad und Sammelheizung,
+41 m² bis unter 66 m²,
+gute Wohnlage
+Arithmetisches Mittel 8,69 €/m²
+Standardabweichung 2,01
+Unterer Wert der 2/3-Spanne 6,72 €/m²
+Oberer Wert der 2/3-Spanne 10,91 €/m²
+Minimum 5,02 €/m²
+Maximum 13,47 €/m²
+Anzahl Mietwerte 85
+Methodenbericht zum Hamburger Mietenspiegel 2019 85
+Mietenspiegelfeld I7
+Baualtersklasse 1961 bis 1967,
+mit Bad und Sammelheizung,
+66 m² bis unter 91 m²,
+gute Wohnlage
+Arithmetisches Mittel 7,63 €/m²
+Standardabweichung 1,55
+Unterer Wert der 2/3-Spanne 6,09 €/m²
+Oberer Wert der 2/3-Spanne 8,85 €/m²
+Minimum 5,67 €/m²
+Maximum 11,88 €/m²
+Anzahl Mietwerte 72
+Mietenspiegelfeld I8
+Baualtersklasse 1961 bis 1967,
+mit Bad und Sammelheizung,
+91 m² bis unter 131 m²,
+gute Wohnlage
+Arithmetisches Mittel 10,13 €/m²
+Standardabweichung 2,92
+Unterer Wert der 2/3-Spanne 7,57 €/m²
+Oberer Wert der 2/3-Spanne 12,31 €/m²
+Minimum 5,79 €/m²
+Maximum 15,26 €/m²
+Anzahl Mietwerte 13
+Methodenbericht zum Hamburger Mietenspiegel 2019 86
+Mietenspiegelfeld I9
+Baualtersklasse 1961 bis 1967,
+mit Bad und Sammelheizung,
+ab 131 m²,
+gute Wohnlage
+Keine ausreichende Anzahl an Mietwerten für die Ausweisung von Kennwerten
+im Mietenspiegelfeld vorhanden (Anzahl Mietwerte = 2).
+Methodenbericht zum Hamburger Mietenspiegel 2019 87
+Mietenspiegelfeld K1
+Baualtersklasse 1968 bis 1977,
+mit Bad und Sammelheizung,
+25 m² bis unter 41 m²,
+normale Wohnlage
+Arithmetisches Mittel 9,29 €/m²
+Standardabweichung 2,80
+Unterer Wert der 2/3-Spanne 6,01 €/m²
+Oberer Wert der 2/3-Spanne 11,91 €/m²
+Minimum 4,94 €/m²
+Maximum 16,29 €/m²
+Anzahl Mietwerte 28
+Mietenspiegelfeld K2
+Baualtersklasse 1968 bis 1977,
+mit Bad und Sammelheizung,
+41 m² bis unter 66 m²,
+normale Wohnlage
+Arithmetisches Mittel 7,20 €/m²
+Standardabweichung 1,60
+Unterer Wert der 2/3-Spanne 5,50 €/m²
+Oberer Wert der 2/3-Spanne 8,94 €/m²
+Minimum 4,73 €/m²
+Maximum 12,38 €/m²
+Anzahl Mietwerte 59
+Methodenbericht zum Hamburger Mietenspiegel 2019 88
+Mietenspiegelfeld K3
+Baualtersklasse 1968 bis 1977,
+mit Bad und Sammelheizung,
+66 m² bis unter 91 m²,
+normale Wohnlage
+Arithmetisches Mittel 6,22 €/m²
+Standardabweichung 0,95
+Unterer Wert der 2/3-Spanne 5,41 €/m²
+Oberer Wert der 2/3-Spanne 6,90 €/m²
+Minimum 4,22 €/m²
+Maximum 9,00 €/m²
+Anzahl Mietwerte 140
+Mietenspiegelfeld K4
+Baualtersklasse 1968 bis 1977,
+mit Bad und Sammelheizung,
+ab 91 m²,
+normale Wohnlage
+Arithmetisches Mittel 6,14 €/m²
+Standardabweichung 0,71
+Unterer Wert der 2/3-Spanne 5,56 €/m²
+Oberer Wert der 2/3-Spanne 6,56 €/m²
+Minimum 4,79 €/m²
+Maximum 7,96 €/m²
+Anzahl Mietwerte 25
+Methodenbericht zum Hamburger Mietenspiegel 2019 89
+Mietenspiegelfeld K5
+Baualtersklasse 1968 bis 1977,
+mit Bad und Sammelheizung,
+25 m² bis unter 41 m²,
+gute Wohnlage
+Arithmetisches Mittel 10,93 €/m²
+Standardabweichung 2,19
+Unterer Wert der 2/3-Spanne 9,00 €/m²
+Oberer Wert der 2/3-Spanne 12,73 €/m²
+Minimum 6,92 €/m²
+Maximum 14,67 €/m²
+Anzahl Mietwerte 12
+Mietenspiegelfeld K6
+Baualtersklasse 1968 bis 1977,
+mit Bad und Sammelheizung,
+41 m² bis unter 66 m²,
+gute Wohnlage
+Arithmetisches Mittel 9,10 €/m²
+Standardabweichung 2,03
+Unterer Wert der 2/3-Spanne 7,16 €/m²
+Oberer Wert der 2/3-Spanne 11,34 €/m²
+Minimum 6,60 €/m²
+Maximum 14,04 €/m²
+Anzahl Mietwerte 31
+Methodenbericht zum Hamburger Mietenspiegel 2019 90
+Mietenspiegelfeld K7
+Baualtersklasse 1968 bis 1977,
+mit Bad und Sammelheizung,
+66 m² bis unter 91 m²,
+gute Wohnlage
+Arithmetisches Mittel 9,03 €/m²
+Standardabweichung 2,48
+Unterer Wert der 2/3-Spanne 6,29 €/m²
+Oberer Wert der 2/3-Spanne 11,78 €/m²
+Minimum 5,92 €/m²
+Maximum 15,27 €/m²
+Anzahl Mietwerte 50
+Mietenspiegelfeld K8
+Baualtersklasse 1968 bis 1977,
+mit Bad und Sammelheizung,
+91 m² bis unter 131 m²,
+gute Wohnlage
+Arithmetisches Mittel 10,81 €/m²
+Standardabweichung 1,67
+Unterer Wert der 2/3-Spanne 9,25 €/m²
+Oberer Wert der 2/3-Spanne 11,77 €/m²
+Minimum 8,54 €/m²
+Maximum 14,90 €/m²
+Anzahl Mietwerte 15
+Methodenbericht zum Hamburger Mietenspiegel 2019 91
+Mietenspiegelfeld K9
+Baualtersklasse 1968 bis 1977,
+mit Bad und Sammelheizung,
+ab 131 m²,
+gute Wohnlage
+Keine ausreichende Anzahl an Mietwerten für die Ausweisung von Kennwerten
+im Mietenspiegelfeld vorhanden (Anzahl Mietwerte = 4).
+Methodenbericht zum Hamburger Mietenspiegel 2019 92
+Mietenspiegelfeld L1
+Baualtersklasse 1978 bis 1993,
+mit Bad und Sammelheizung,
+25 m² bis unter 41 m²,
+normale Wohnlage
+Keine ausreichende Anzahl an Mietwerten für die Ausweisung von Kennwerten
+im Mietenspiegelfeld vorhanden (Anzahl Mietwerte = 9).
+Mietenspiegelfeld L2
+Baualtersklasse 1978 bis 1993,
+mit Bad und Sammelheizung,
+41 m² bis unter 66 m²,
+normale Wohnlage
+Arithmetisches Mittel 9,22 €/m²
+Standardabweichung 1,43
+Unterer Wert der 2/3-Spanne 7,92 €/m²
+Oberer Wert der 2/3-Spanne 10,71 €/m²
+Minimum 5,93 €/m²
+Maximum 12,22 €/m²
+Anzahl Mietwerte 51
+Methodenbericht zum Hamburger Mietenspiegel 2019 93
+Mietenspiegelfeld L3
+Baualtersklasse 1978 bis 1993,
+mit Bad und Sammelheizung,
+66 m² bis unter 91 m²,
+normale Wohnlage
+Arithmetisches Mittel 7,71 €/m²
+Standardabweichung 1,57
+Unterer Wert der 2/3-Spanne 6,30 €/m²
+Oberer Wert der 2/3-Spanne 9,26 €/m²
+Minimum 5,49 €/m²
+Maximum 12,50 €/m²
+Anzahl Mietwerte 53
+Mietenspiegelfeld L4
+Baualtersklasse 1978 bis 1993,
+mit Bad und Sammelheizung,
+ab 91 m²,
+normale Wohnlage
+Arithmetisches Mittel 8,59 €/m²
+Standardabweichung 2,40
+Unterer Wert der 2/3-Spanne 5,62 €/m²
+Oberer Wert der 2/3-Spanne 10,80 €/m²
+Minimum 5,62 €/m²
+Maximum 13,04 €/m²
+Anzahl Mietwerte 11
+Methodenbericht zum Hamburger Mietenspiegel 2019 94
+Mietenspiegelfeld L5
+Baualtersklasse 1978 bis 1993,
+mit Bad und Sammelheizung,
+25 m² bis unter 41 m²,
+gute Wohnlage
+Keine ausreichende Anzahl an Mietwerten für die Ausweisung von Kennwerten
+im Mietenspiegelfeld vorhanden (Anzahl Mietwerte = 3).
+Mietenspiegelfeld L6
+Baualtersklasse 1978 bis 1993,
+mit Bad und Sammelheizung,
+41 m² bis unter 66 m²,
+gute Wohnlage
+Arithmetisches Mittel 9,84 €/m²
+Standardabweichung 2,38
+Unterer Wert der 2/3-Spanne 6,95 €/m²
+Oberer Wert der 2/3-Spanne 12,23 €/m²
+Minimum 6,53 €/m²
+Maximum 14,95 €/m²
+Anzahl Mietwerte 36
+Methodenbericht zum Hamburger Mietenspiegel 2019 95
+Mietenspiegelfeld L7
+Baualtersklasse 1978 bis 1993,
+mit Bad und Sammelheizung,
+66 m² bis unter 91 m²,
+gute Wohnlage
+Arithmetisches Mittel 10,15 €/m²
+Standardabweichung 2,22
+Unterer Wert der 2/3-Spanne 7,91 €/m²
+Oberer Wert der 2/3-Spanne 11,82 €/m²
+Minimum 6,65 €/m²
+Maximum 15,60 €/m²
+Anzahl Mietwerte 47
+Mietenspiegelfeld L8
+Baualtersklasse 1978 bis 1993,
+mit Bad und Sammelheizung,
+91 m² bis unter 131 m²,
+gute Wohnlage
+Arithmetisches Mittel 10,25 €/m²
+Standardabweichung 1,61
+Unterer Wert der 2/3-Spanne 9,17 €/m²
+Oberer Wert der 2/3-Spanne 11,59 €/m²
+Minimum 6,81 €/m²
+Maximum 12,71 €/m²
+Anzahl Mietwerte 24
+Methodenbericht zum Hamburger Mietenspiegel 2019 96
+Mietenspiegelfeld L9
+Baualtersklasse 1978 bis 1993,
+mit Bad und Sammelheizung,
+ab 131 m²,
+gute Wohnlage
+Keine ausreichende Anzahl an Mietwerten für die Ausweisung von Kennwerten
+im Mietenspiegelfeld vorhanden (Anzahl Mietwerte = 8).
+Methodenbericht zum Hamburger Mietenspiegel 2019 97
+Mietenspiegelfeld M1
+Baualtersklasse 1994 bis 2010,
+mit Bad und Sammelheizung,
+25 m² bis unter 41 m²,
+normale Wohnlage
+Arithmetisches Mittel 9,77 €/m²
+Standardabweichung 1,85
+Unterer Wert der 2/3-Spanne 7,51 €/m²
+Oberer Wert der 2/3-Spanne 12,37 €/m²
+Minimum 7,21 €/m²
+Maximum 12,96 €/m²
+Anzahl Mietwerte 11
+Mietenspiegelfeld M2
+Baualtersklasse 1994 bis 2010,
+mit Bad und Sammelheizung,
+41 m² bis unter 66 m²,
+normale Wohnlage
+Arithmetisches Mittel 9,28 €/m²
+Standardabweichung 1,57
+Unterer Wert der 2/3-Spanne 8,00 €/m²
+Oberer Wert der 2/3-Spanne 10,72 €/m²
+Minimum 5,97 €/m²
+Maximum 13,72 €/m²
+Anzahl Mietwerte 81
+Methodenbericht zum Hamburger Mietenspiegel 2019 98
+Mietenspiegelfeld M3
+Baualtersklasse 1994 bis 2010,
+mit Bad und Sammelheizung,
+66 m² bis unter 91 m²,
+normale Wohnlage
+Arithmetisches Mittel 9,90 €/m²
+Standardabweichung 1,98
+Unterer Wert der 2/3-Spanne 8,00 €/m²
+Oberer Wert der 2/3-Spanne 11,53 €/m²
+Minimum 4,81 €/m²
+Maximum 15,96 €/m²
+Anzahl Mietwerte 118
+Mietenspiegelfeld M4
+Baualtersklasse 1994 bis 2010,
+mit Bad und Sammelheizung,
+ab 91 m²,
+normale Wohnlage
+Arithmetisches Mittel 10,55 €/m²
+Standardabweichung 1,89
+Unterer Wert der 2/3-Spanne 8,79 €/m²
+Oberer Wert der 2/3-Spanne 11,93 €/m²
+Minimum 6,66 €/m²
+Maximum 14,60 €/m²
+Anzahl Mietwerte 47
+Methodenbericht zum Hamburger Mietenspiegel 2019 99
+Mietenspiegelfeld M5
+Baualtersklasse 1994 bis 2010,
+mit Bad und Sammelheizung,
+25 m² bis unter 41 m²,
+gute Wohnlage
+Keine ausreichende Anzahl an Mietwerten für die Ausweisung von Kennwerten
+im Mietenspiegelfeld vorhanden (Anzahl Mietwerte = 0).
+Mietenspiegelfeld M6
+Baualtersklasse 1994 bis 2010,
+mit Bad und Sammelheizung,
+41 m² bis unter 66 m²,
+gute Wohnlage
+Arithmetisches Mittel 11,82 €/m²
+Standardabweichung 2,61
+Unterer Wert der 2/3-Spanne 10,11 €/m²
+Oberer Wert der 2/3-Spanne 15,00 €/m²
+Minimum 8,25 €/m²
+Maximum 18,16 €/m²
+Anzahl Mietwerte 44
+Methodenbericht zum Hamburger Mietenspiegel 2019 100
+Mietenspiegelfeld M7
+Baualtersklasse 1994 bis 2010,
+mit Bad und Sammelheizung,
+66 m² bis unter 91 m²,
+gute Wohnlage
+Arithmetisches Mittel 11,60 €/m²
+Standardabweichung 2,41
+Unterer Wert der 2/3-Spanne 9,54 €/m²
+Oberer Wert der 2/3-Spanne 14,20 €/m²
+Minimum 7,17 €/m²
+Maximum 18,04 €/m²
+Anzahl Mietwerte 67
+Mietenspiegelfeld M8
+Baualtersklasse 1994 bis 2010,
+mit Bad und Sammelheizung,
+91 m² bis unter 131 m²,
+gute Wohnlage
+Arithmetisches Mittel 12,99 €/m²
+Standardabweichung 3,00
+Unterer Wert der 2/3-Spanne 10,60 €/m²
+Oberer Wert der 2/3-Spanne 16,00 €/m²
+Minimum 7,91 €/m²
+Maximum 20,61 €/m²
+Anzahl Mietwerte 56
+Methodenbericht zum Hamburger Mietenspiegel 2019 101
+Mietenspiegelfeld M9
+Baualtersklasse 1994 bis 2010,
+mit Bad und Sammelheizung,
+ab 131 m²,
+gute Wohnlage
+Arithmetisches Mittel 14,39 €/m²
+Standardabweichung 4,00
+Unterer Wert der 2/3-Spanne 10,29 €/m²
+Oberer Wert der 2/3-Spanne 18,37 €/m²
+Minimum 8,32 €/m²
+Maximum 21,17 €/m²
+Anzahl Mietwerte 16
+Methodenbericht zum Hamburger Mietenspiegel 2019 102
+Mietenspiegelfeld N1
+Baualtersklasse ab 01.01.2011 bis 2018,
+mit Bad und Sammelheizung,
+25 m² bis unter 41 m²,
+normale Wohnlage
+Keine ausreichende Anzahl an Mietwerten für die Ausweisung von Kennwerten
+im Mietenspiegelfeld vorhanden (Anzahl Mietwerte = 6).
+Mietenspiegelfeld N2
+Baualtersklasse ab 01.01.2011 bis 2018,
+mit Bad und Sammelheizung,
+41 m² bis unter 66 m²,
+normale Wohnlage
+Arithmetisches Mittel 12,75 €/m²
+Standardabweichung 2,44
+Unterer Wert der 2/3-Spanne 10,00 €/m²
+Oberer Wert der 2/3-Spanne 15,04 €/m²
+Minimum 7,12 €/m²
+Maximum 19,38 €/m²
+Anzahl Mietwerte 64
+Methodenbericht zum Hamburger Mietenspiegel 2019 103
+Mietenspiegelfeld N3
+Baualtersklasse ab 01.01.2011 bis 2018,
+mit Bad und Sammelheizung,
+66 m² bis unter 91 m²,
+normale Wohnlage
+Arithmetisches Mittel 12,28 €/m²
+Standardabweichung 2,15
+Unterer Wert der 2/3-Spanne 10,22 €/m²
+Oberer Wert der 2/3-Spanne 14,51 €/m²
+Minimum 7,49 €/m²
+Maximum 17,60 €/m²
+Anzahl Mietwerte 160
+Mietenspiegelfeld N4
+Baualtersklasse ab 01.01.2011 bis 2018,
+mit Bad und Sammelheizung,
+ab 91 m²,
+normale Wohnlage
+Arithmetisches Mittel 12,98 €/m²
+Standardabweichung 2,09
+Unterer Wert der 2/3-Spanne 10,64 €/m²
+Oberer Wert der 2/3-Spanne 15,29 €/m²
+Minimum 9,20 €/m²
+Maximum 17,63 €/m²
+Anzahl Mietwerte 99
+Methodenbericht zum Hamburger Mietenspiegel 2019 104
+Mietenspiegelfeld N5
+Baualtersklasse ab 01.01.2011 bis 2018,
+mit Bad und Sammelheizung,
+25 m² bis unter 41 m²,
+gute Wohnlage
+Keine ausreichende Anzahl an Mietwerten für die Ausweisung von Kennwerten
+im Mietenspiegelfeld vorhanden (Anzahl Mietwerte = 5).
+Mietenspiegelfeld N6
+Baualtersklasse ab 01.01.2011 bis 2018,
+mit Bad und Sammelheizung,
+41 m² bis unter 66 m²,
+gute Wohnlage
+Arithmetisches Mittel 15,14 €/m²
+Standardabweichung 1,29
+Unterer Wert der 2/3-Spanne 13,97 €/m²
+Oberer Wert der 2/3-Spanne 16,16 €/m²
+Minimum 11,54 €/m²
+Maximum 18,00 €/m²
+Anzahl Mietwerte 50
+Methodenbericht zum Hamburger Mietenspiegel 2019 105
+Mietenspiegelfeld N7
+Baualtersklasse ab 01.01.2011 bis 2018,
+mit Bad und Sammelheizung,
+66 m² bis unter 91 m²,
+gute Wohnlage
+Arithmetisches Mittel 14,18 €/m²
+Standardabweichung 1,26
+Unterer Wert der 2/3-Spanne 12,88 €/m²
+Oberer Wert der 2/3-Spanne 15,34 €/m²
+Minimum 11,10 €/m²
+Maximum 16,51 €/m²
+Anzahl Mietwerte 99
+Mietenspiegelfeld N8
+Baualtersklasse ab 01.01.2011 bis 2018,
+mit Bad und Sammelheizung,
+91 m² bis unter 131 m²,
+gute Wohnlage
+Arithmetisches Mittel 13,91 €/m²
+Standardabweichung 1,34
+Unterer Wert der 2/3-Spanne 12,82 €/m²
+Oberer Wert der 2/3-Spanne 15,00 €/m²
+Minimum 10,70 €/m²
+Maximum 17,12 €/m²
+Anzahl Mietwerte 83
+Methodenbericht zum Hamburger Mietenspiegel 2019 106
+Mietenspiegelfeld N9
+Baualtersklasse ab 01.01.2011 bis 2018,
+mit Bad und Sammelheizung,
+ab 131 m²,
+gute Wohnlage
+Arithmetisches Mittel 14,81 €/m²
+Standardabweichung 1,35
+Unterer Wert der 2/3-Spanne 13,50 €/m²
+Oberer Wert der 2/3-Spanne 15,31 €/m²
+Minimum 13,19 €/m²
+Maximum 18,18 €/m²
+Anzahl Mietwerte 11
+Methodenbericht zum Hamburger Mietenspiegel 2019 107
+ANLAGE C:
+ANALYSE DER AUSSTATTUNGSMERKMALE
+Methodenbericht zum Hamburger Mietenspiegel 2019 108
+Tabelle 1: Badezimmer mit Dusche und/oder Badewanne (Angaben in Prozent)
+Baualtersklasse/ Altbau bis 31.12.1918 1919 21.06.1948 1961 1968 1978 1994 2011 insgesamt
+Bezugsfertigkeit bis bis bis bis bis bis bis bis
+20.06.1948 20.06.1948 31.12.1960 1967 1977 1993 2010 2018
+Ausstattung insgesamt insgesamt mit Bad mit Bad mit Bad mit Bad mit Bad mit Bad mit Bad mit Bad mit Bad
+oder und und und und und und und und
+Sammel- Sammel- Sammel- Sammel- Sammel- Sammel- Sammel- Sammel- Sammel-
+heizung heizung heizung heizung heizung heizung heizung heizung heizung
+Wohn Wohnfläche B bis F B und C B C F H I K L M N B bis N
+lage
+Grundgesamtheit 152.500 89.000 4.300 84.700 63.500 164.100 90.500 73.500 25.100 25.800 18.500 550.000
+25 m² bis
+1 100,0 100,0 100,0 100,0 100,0 100,0 100,0 100,0 100,0
+unter 41 m²
+e
+e
+g
+41 m² bis
+2 100,0 100,0 100,0 100,0 100,0 100,0 100,0 100,0 100,0 100,0 100,0
+laa unter 66 m²
+mln
+ro h o 66 m² bis
+nW 3 100,0 99,9 77,8 100,0 100,0 100,0 100,0 100,0 100,0 100,0 100,0 100,0
+unter 91 m²
+ab 91 m² 4 100,0 100,0 100,0 100,0 100,0 100,0 100,0 100,0 100,0 100,0 100,0
+normale Wohnlage
+100,0 100,0 77,8 100,0 100,0 100,0 100,0 100,0 100,0 100,0 100,0 100,0
+insgesamt
+25 m² bis
+5 100,0 100,0 100,0 100,0 100,0 100,0 100,0
+unter 41 m²
+41 m² bis
+6 100,0 100,0 100,0 100,0 100,0 100,0 100,0 100,0 100,0 100,0 100,0
+e unter 66 m²
+g
+e tu
+g
+a ln
+h o
+6
+u
+6
+n t
+m
+er
+²
+9
+b
+1
+is
+m ²
+7 100,0 100,0 100,0 100,0 100,0 100,0 100,0 100,0 100,0 100,0 100,0
+W
+91 m² bis
+8 100,0 100,0 83,3 100,0 100,0 100,0 100,0 100,0 100,0 100,0 100,0
+unter 131 m²
+ab 131 m² 9 100,0 100,0 100,0 100,0 100,0 100,0 100,0
+gute Wohnlage
+100,0 100,0 83,3 100,0 100,0 100,0 100,0 100,0 100,0 100,0 100,0 100,0
+insgesamt
+insgesamt 100,0 100,0 78,7 100,0 100,0 100,0 100,0 100,0 100,0 100,0 100,0 100,0
+Methodenbericht zum Hamburger Mietenspiegel 2019 109
+Tabelle 2: Badezimmer und WC getrennt (Angaben in Prozent)
+Baualtersklasse/ Altbau bis 31.12.1918 1919 21.06.1948 1961 1968 1978 1994 2011 insgesamt
+Bezugsfertigkeit bis bis bis bis bis bis bis bis
+20.061948 20.06.1948 31.12.1960 1967 1977 1993 2010 2018
+Ausstattung insgesamt insgesamt mit Bad mit Bad mit Bad mit Bad mit Bad mit Bad mit Bad mit Bad mit Bad
+oder und und und und und und und und
+Sammelhei- Sammelhei- Sammelhei- Sammelhei- Sammelhei- Sammelhei- Sammelhei- Sammelhei- Sammelhei-
+zung zung zung zung zung zung zung zung zung
+Wohn Wohnfläche B bis F B und C B C F H I K L M N B bis N
+lage
+Grundgesamtheit 152.500 89.000 4.300 84.700 63.500 164.100 90.500 73.500 25.100 25.800 18.500 550.000
+25 m² bis
+1 11,1 18,2 18,2 0,0 7,3 0,0 0,0 0,0 5,2
+unter 41 m²
+e e g 41 m² bis 2 4,2 6,1 6,1 3,0 1,7 6,3 0,0 6,7 0,0 1,9 2,7
+la
+m
+a
+ln
+unter 66 m²
+ro n h o W 66 m² bis 3 16,0 23,6 50,0 23,5 4,3 19,2 24,0 18,0 18,6 5,7 6,4 17,5
+unter 91 m²
+ab 91 m² 4 46,1 51,2 51,2 11,1 0,0 40,0 47,1 33,3 23,3 16,1 29,1
+normale Wohnlage
+6,8 11,5 50,0 11,5 3,1 3,1 14,6 12,5 13,0 5,2 8,1 6,2
+insgesamt
+25 m² bis
+5 0,0 0,0 40,0 0,0 0,0 0,0 4,2
+unter 41 m²
+41 m² bis
+6 40,0 40,0 19,4 0,0 4,4 4,3 0,0 0,0 0,0 0,0 6,7
+e
+unter 66 m²
+g
+e tu
+g
+ln
+h o
+a 6
+u
+6
+n t
+m
+er
+²
+9
+b
+1
+is
+m ²
+7 14,0 19,4 53,3 3,5 10,9 25,4 13,6 20,0 10,0 17,2 21,7
+W
+91 m² bis
+8 32,0 53,3 50,0 63,7 22,2 21,9 21,4 13,6 14,0 28,2 47,3
+unter 131 m²
+ab 131 m² 9 57,1 63,7 59,5 20,0 25,0 45,5 57,9
+gute Wohnlage
+35,8 47,7 50,0 47,7 5,1 7,1 11,2 8,8 11,5 8,8 19,0 20,1
+insgesamt
+insgesamt 13,4 23,2 50,0 23,2 3,4 3,5 14,1 12,2 12,7 6,1 9,7 8,2
+Methodenbericht zum Hamburger Mietenspiegel 2019 110
+Tabelle 3: Zusätzliches WC in der Wohnung (Angaben in Prozent)
+Baualtersklasse/ Altbau bis 31.12.1918 1919 21.06.1948 1961 1968 1978 1994 2011 insgesamt
+Bezugsfertigkeit bis bis bis bis bis bis bis bis
+20.061948 20.06.1948 31.12.1960 1967 1977 1993 2010 2018
+Ausstattung insgesamt insgesamt mit Bad mit Bad mit Bad mit Bad mit Bad mit Bad mit Bad mit Bad mit Bad
+oder und und und und und und und und
+Sammel- Sammel- Sammel- Sammel- Sammel- Sammel- Sammel- Sammel- Sammel-
+heizung heizung heizung heizung heizung heizung heizung heizung heizung
+Wohnl Wohnfläche B bis F B und C B C F H I K L M N B bis N
+age
+Grundgesamtheit 152.500 89.000 4.300 84.700 63.500 164.100 90.500 73.500 25.100 25.800 18.500 550.000
+25 m² bis
+1 0,0 0,0 0,0 0,0 2,4 0,0 4,3 0,0 1,9
+unter 41 m²
+e
+e
+g
+41 m² bis
+2 1,1 1,2 1,2 1,0 0,7 2,1 2,1 2,3 2,8 3,8 1,0
+laa unter 66 m²
+mln
+ro h o 66 m² bis
+nW 3 3,6 6,0 33,3 5,9 0,0 2,0 12,0 11,2 16,3 22,6 28,1 11,0
+unter 91 m²
+ab 91 m² 4 43,5 47,5 47,5 16,7 25,0 0,0 52,9 66,7 73,3 77,4 63,3
+normale Wohnlage
+2,1 3,5 33,3 3,5 0,9 0,8 6,8 9,1 10,6 20,4 36,3 3,9
+insgesamt
+25 m² bis
+5 0,0 0,0 6,7 0,0 0,0 0,0 0,7
+unter 41 m²
+41 m² bis
+6 6,7 6,7 3,2 1,9 1,8 1,4 3,4 0,0 0,0 2,1 2,0
+e unter 66 m²
+g
+e tu
+g
+a ln
+h o
+6
+u
+6
+n t
+m
+er
+²
+9
+b
+1
+is
+m ²
+7 2,9 3,2 6,7 4,4 5,9 5,2 20,5 27,5 47,5 60,2 11,4
+W
+91 m² bis
+8 5,7 6,7 10,0 34,1 11,1 35,5 92,9 77,3 80,4 74,7 39,9
+unter 131 m²
+ab 131 m² 9 30,5 34,1 68,9 66,7 100,0 54,5 69,4
+gute Wohnlage
+17,5 22,3 10,0 22,3 5,2 4,2 2,5 17,3 23,9 45,0 58,3 13,7
+insgesamt
+insgesamt 5,6 9,6 25,8 9,6 1,5 1,2 6,2 9,8 13,6 26,1 39,5 5,3
+Methodenbericht zum Hamburger Mietenspiegel 2019 111
+Tabelle 4: Bad mit Fenster (Angaben in Prozent)
+Baualtersklasse/ Altbau bis 31.12.1918 1919 21.06.1948 1961 1968 1978 1994 2011 insgesamt
+Bezugsfertigkeit bis bis bis bis bis bis bis bis
+20.061948 20.06.1948 31.12.1960 1967 1977 1993 2010 2018
+Ausstattung insgesamt insgesamt mit Bad mit Bad mit Bad mit Bad mit Bad mit Bad mit Bad mit Bad mit Bad
+oder und und und und und und und und
+Sammel- Sammel- Sammel- Sammel- Sammel- Sammel- Sammel- Sammel- Sammel-
+heizung heizung heizung heizung heizung heizung heizung heizung heizung
+Wohnl Wohnfläche B bis F B und C B C F H I K L M N B bis N
+age
+Grundgesamtheit 152.500 89.000 4.300 84.700 63.500 164.100 90.500 73.500 25.100 25.800 18.500 550.000
+25 m² bis
+1 67,3 63,2 63,2 73,3 35,0 3,1 9,1 30,0 28,9
+unter 41 m²
+e g
+e 41 m² bis
+2 82,1 71,1 71,1 89,3 63,3 33,3 25,6 34,1 27,8 24,1 64,9
+laa unter 66 m²
+mln
+ro h o 66 m² bis
+nW 3 76,8 69,7 33,3 69,8 88,2 59,4 36,6 32,9 23,7 27,9 33,8 46,9
+unter 91 m²
+ab 91 m² 4 57,4 53,7 53,7 83,3 87,5 60,0 31,3 55,6 36,6 40,9 45,1
+normale Wohnlage
+80,7 70,1 33,3 70,2 89,0 62,3 33,6 29,2 29,8 28,6 34,7 60,0
+insgesamt
+25 m² bis
+5 0,0 0,0 40,0 30,0 54,8 50,0 42,2
+unter 41 m²
+41 m² bis
+6 40,0 40,0 58,1 82,1 54,3 45,7 43,3 17,9 21,4 26,5 54,0
+e unter 66 m²
+g
+e tu
+g
+a ln
+h o
+6
+u
+6
+n t
+m
+er
+²
+9
+b
+1
+is
+m ²
+7 65,0 58,1 47,6 76,3 60,2 66,1 45,5 41,5 45,9 23,2 57,3
+W
+91 m² bis
+8 60,2 47,6 30,0 49,6 87,3 81,3 64,3 54,5 82,0 33,7 58,2
+unter 131 m²
+ab 131 m² 9 55,6 49,5 60,8 66,7 81,3 81,8 61,4
+gute Wohnlage
+60,4 52,8 30,0 52,8 79,1 56,1 54,2 45,9 34,1 49,4 27,3 55,7
+insgesamt
+insgesamt 76,1 64,6 32,3 64,6 87,8 61,7 36,8 30,9 30,9 33,5 33,6 59,4
+Methodenbericht zum Hamburger Mietenspiegel 2019 112
+Tabelle 5: Einbauküche – Unter- und Oberschränke, Einbauherd, Einbauspüle (Angaben in Prozent)
+Baualtersklasse/ Altbau bis 31.12.1918 1919 21.06.1948 1961 1968 1978 1994 2011 insgesamt
+Bezugsfertigkeit bis bis bis bis bis bis bis bis
+20.061948 20.06.1948 31.12.1960 1967 1977 1993 2010 2018
+Ausstattung insgesamt insgesamt mit Bad mit Bad mit Bad mit Bad mit Bad mit Bad mit Bad mit Bad mit Bad
+oder und und und und und und und und
+Sammel- Sammel- Sammel- Sammel- Sammel- Sammel- Sammel- Sammel- Sammel-
+heizung heizung heizung heizung heizung heizung heizung heizung heizung
+Wohnl Wohnfläche B bis F B und C B C F H I K L M N B bis N
+age
+Grundgesamtheit 152.500 89.000 4.300 84.700 63.500 164.100 90.500 73.500 25.100 25.800 18.500 550.000
+25 m² bis
+1 35,7 42,9 42,9 25,0 42,9 66,7 82,6 100,0 70,0 53,1
+unter 41 m²
+e
+e
+g
+41 m² bis
+2 38,1 47,1 47,1 32,0 38,8 45,4 50,0 89,1 79,5 100,0 40,3
+laa unter 66 m²
+mln
+ro h o 66 m² bis
+nW 3 40,8 42,8 16,7 42,9 37,6 45,5 43,0 62,9 71,7 80,7 95,8 55,5
+unter 91 m²
+ab 91 m² 4 49,3 53,5 53,5 21,1 50,0 80,0 35,3 88,9 95,6 93,5 74,7
+normale Wohnlage
+38,7 46,2 16,7 46,3 32,6 39,4 45,2 59,9 80,8 81,5 95,5 44,3
+insgesamt
+25 m² bis
+5 0,0 0,0 73,3 76,7 90,5 63,6 81,2
+unter 41 m²
+41 m² bis
+6 73,3 73,3 45,3 45,3 45,2 70,0 63,3 93,1 97,6 98,0 52,2
+e unter 66 m²
+g
+e tu
+g
+a ln
+h o u
+6
+n
+6
+te
+m
+r 9
+²
+1
+b i
+m
+s
+²
+7 45,3 45,3 42,9 63,5 57,3 44,1 75,0 87,8 91,7 94,7 58,6
+W
+91 m² bis
+8 51,7 42,9 25,0 46,5 41,8 56,3 85,7 85,7 96,1 95,2 55,7
+unter 131 m²
+ab 131 m² 9 45,7 46,4 56,8 60,0 100,0 90,0 57,7
+gute Wohnlage
+49,4 46,9 25,0 46,9 55,8 51,5 63,6 71,0 89,6 94,4 95,2 56,5
+insgesamt
+insgesamt 41,1 46,5 19,0 46,5 35,5 40,6 47,9 60,9 82,8 84,4 95,5 46,1
+Methodenbericht zum Hamburger Mietenspiegel 2019 113
+Tabelle 6: Zusätzliche Ausstattung in der Küche, z. B. Kühlschrank, Geschirrspüler, Gefrierschrank (Angaben in Prozent)
+Baualtersklasse/ Altbau bis 31.12.1918 1919 21.06.1948 1961 1968 1978 1994 2011 insgesamt
+Bezugsfertigkeit bis bis bis bis bis bis bis bis
+20.061948 20.06.1948 31.12.1960 1967 1977 1993 2010 2018
+Ausstattung insgesamt insgesamt mit Bad mit Bad mit Bad mit Bad mit Bad mit Bad mit Bad mit Bad mit Bad
+oder und und und und und und und und
+Sammel- Sammel- Sammel- Sammel- Sammel- Sammel- Sammel- Sammel- Sammel-
+heizung heizung heizung heizung heizung heizung heizung heizung heizung
+Wohnl Wohnfläche B bis F B und C B C F H I K L M N B bis N
+age
+Grundgesamtheit 152.500 89.000 4.300 84.700 63.500 164.100 90.500 73.500 25.100 25.800 18.500 550.000
+25 m² bis
+1 8,5 10,0 10,0 6,3 11,9 45,5 56,5 40,0 24,9
+unter 41 m²
+e
+e
+g
+41 m² bis
+2 14,1 15,7 15,7 13,1 7,0 5,4 14,6 46,3 32,9 73,6 9,7
+laa unter 66 m²
+mln
+ro h o 66 m² bis
+nW 3 17,3 15,8 0,0 15,8 19,6 12,2 7,1 4,6 9,3 34,3 52,1 15,7
+unter 91 m²
+ab 91 m² 4 25,0 26,2 26,2 16,7 37,5 40,0 6,3 44,4 61,4 62,0 45,1
+normale Wohnlage
+14,7 15,9 0,0 15,9 13,8 7,5 8,0 10,5 27,6 36,3 54,8 11,8
+insgesamt
+25 m² bis
+5 0,0 0,0 42,9 23,3 11,9 9,1 19,7
+unter 41 m²
+41 m² bis
+6 42,9 42,9 23,8 13,5 15,9 23,2 26,7 32,1 47,6 98,0 20,6
+e unter 66 m²
+g
+e tu
+g
+a ln
+h o
+6
+u
+6
+n t
+m
+er
+²
+9
+b
+1
+is
+m ²
+7 21,0 23,8 25,7 23,7 24,5 19,3 36,6 53,7 61,7 86,3 29,9
+W
+91 m² bis
+8 24,9 25,7 12,5 26,4 27,8 31,3 57,1 61,9 55,1 91,5 35,4
+unter 131 m²
+ab 131 m² 9 26,6 26,4 38,4 26,7 68,8 100,0 38,8
+gute Wohnlage
+25,8 27,5 12,5 27,5 21,5 19,9 20,3 32,5 46,4 56,6 89,3 27,0
+insgesamt
+insgesamt 17,2 19,6 3,4 19,6 14,8 8,8 9,8 12,4 32,0 41,0 60,0 14,0
+Methodenbericht zum Hamburger Mietenspiegel 2019 114
+Tabelle 8: Fahrradkeller/überdachter Fahrradstellplatz (Angaben in Prozent)
+Baualtersklasse/ Altbau bis 31.12.1918 1919 21.06.1948 1961 1968 1978 1994 2011 insgesamt
+Bezugsfertigkeit bis bis bis bis bis bis bis bis
+20.061948 20.06.1948 31.12.1960 1967 1977 1993 2010 2018
+Ausstattung insgesamt insgesamt mit Bad mit Bad mit Bad mit Bad mit Bad mit Bad mit Bad mit Bad mit Bad
+oder und und und und und und und und
+Sammel- Sammel- Sammel- Sammel- Sammel- Sammel- Sammel- Sammel- Sammel-
+heizung heizung heizung heizung heizung heizung heizung heizung heizung
+Wohn Wohnfläche B bis F B und C B C F H I K L M N B bis N
+lage
+Grundgesamtheit 152.500 89.000 4.300 84.700 63.500 164.100 90.500 73.500 25.100 25.800 18.500 550.000
+25 m² bis
+1 36,8 39,1 39,1 33,3 65,9 66,7 69,6 90,0 62,7
+unter 41 m²
+e
+e
+g
+41 m² bis
+2 41,5 43,0 43,0 40,5 61,1 61,9 70,8 76,1 84,6 77,8 56,7
+laa unter 66 m²
+mln
+ro h o 66 m² bis
+nW 3 50,2 45,7 16,7 45,8 57,3 74,7 62,4 68,8 70,2 85,3 91,6 68,0
+unter 91 m²
+ab 91 m² 4 58,8 58,1 58,1 63,2 50,0 40,0 70,6 66,7 88,9 91,4 78,0
+normale Wohnlage
+43,1 44,0 16,7 44,0 42,4 62,1 62,3 69,4 73,0 85,4 91,0 59,4
+insgesamt
+25 m² bis
+5 0,0 0,0 66,7 54,8 61,0 45,5 57,9
+unter 41 m²
+41 m² bis
+6 66,7 66,7 45,3 51,8 63,9 65,8 66,7 75,0 85,7 91,8 60,5
+e unter 66 m²
+g
+e tu
+g
+a ln
+h o
+6
+u
+6
+n t
+m
+er
+²
+9
+b
+1
+is
+m ²
+7 47,1 45,3 44,8 65,5 56,2 73,3 50,0 64,3 81,7 90,5 59,5
+W
+91 m² bis
+8 53,8 44,8 80,0 48,4 67,3 50,0 53,3 77,3 82,0 93,8 57,4
+unter 131 m²
+ab 131 m² 9 51,5 48,5 62,7 66,7 100,0 81,8 63,5
+gute Wohnlage
+52,6 48,8 80,0 48,8 62,0 60,2 67,8 55,3 70,3 83,1 91,7 59,7
+insgesamt
+insgesamt 45,2 45,5 37,1 45,5 44,9 61,9 63,1 68,2 72,4 84,9 91,1 59,5
+Methodenbericht zum Hamburger Mietenspiegel 2019 115
+Tabelle 9: Fahrstuhl (Angaben in Prozent)
+Baualtersklasse/ Altbau bis 31.12.1918 1919 21.06.1948 1961 1968 1978 1994 2011 insgesamt
+Bezugsfertigkeit bis bis bis bis bis bis bis bis
+20.061948 20.06.1948 31.12.1960 1967 1977 1993 2010 2018
+Ausstattung insgesamt insgesamt mit Bad mit Bad mit Bad mit Bad mit Bad mit Bad mit Bad mit Bad mit Bad
+oder und und und und und und und und
+Sammel- Sammel- Sammel- Sammel- Sammel- Sammel- Sammel- Sammel- Sammel-
+heizung heizung heizung heizung heizung heizung heizung heizung heizung
+Wohnl Wohnfläche B bis F B und C B C F H I K L M N B bis N
+age
+Grundgesamtheit 152.500 89.000 4.300 84.700 63.500 164.100 90.500 73.500 25.100 25.800 18.500 550.000
+25 m² bis
+1 4,5 0,0 0,0 11,1 8,7 47,1 63,6 30,0 22,9
+unter 41 m²
+e
+e
+g
+41 m² bis
+2 1,0 1,7 1,7 0,5 4,6 18,8 51,1 20,0 29,7 84,7 6,2
+laa unter 66 m²
+mln
+ro h o 66 m² bis
+nW 3 0,6 1,0 0,0 1,0 0,0 4,7 17,6 35,2 20,0 46,8 88,0 24,8
+unter 91 m²
+ab 91 m² 4 9,7 7,1 7,1 27,8 10,0 0,0 35,3 11,1 78,7 92,6 57,4
+normale Wohnlage
+1,1 1,7 0,0 1,7 0,6 4,7 19,4 41,1 19,8 43,9 88,7 11,0
+insgesamt
+25 m² bis
+5 0,0 0,0 6,7 6,7 30,2 18,2 17,0
+unter 41 m²
+41 m² bis
+6 6,7 6,7 9,5 3,6 8,5 35,4 13,8 11,8 68,2 85,7 15,0
+e unter 66 m²
+g
+e tu
+g
+a ln
+h o
+6
+u
+6
+n t
+m
+er
+²
+9
+b
+1
+is
+m ²
+7 7,8 9,5 10,5 8,6 18,4 14,9 20,5 11,1 45,2 86,3 18,4
+W
+91 m² bis
+8 9,7 10,5 30,0 21,9 29,1 20,7 20,0 20,8 61,1 89,2 30,9
+unter 131 m²
+ab 131 m² 9 23,0 21,9 48,6 53,3 68,8 72,7 49,2
+gute Wohnlage
+16,4 18,8 30,0 18,8 10,2 12,4 27,4 18,2 12,6 55,5 87,1 20,0
+insgesamt
+insgesamt 4,4 7,1 9,7 7,1 1,8 5,5 20,7 39,1 18,0 46,6 88,5 12,3
+Methodenbericht zum Hamburger Mietenspiegel 2019 116
+Tabelle 10: Fahrstuhl im Haus bei bis zu einschließlich 5 Stockwerken (Angaben in Prozent)
+Baualtersklasse/ Altbau bis 31.12.1918 1919 21.06.1948 1961 1968 1978 1994 2011 insgesamt
+Bezugsfertigkeit bis bis bis bis bis bis bis bis
+20.061948 20.06.1948 31.12.1960 1967 1977 1993 2010 2018
+Ausstattung insgesamt insgesamt mit Bad mit Bad mit Bad mit Bad mit Bad mit Bad mit Bad mit Bad mit Bad
+oder und und und und und und und und
+Sammel- Sammel- Sammel- Sammel- Sammel- Sammel- Sammel- Sammel- Sammel-
+heizung heizung heizung heizung heizung heizung heizung heizung heizung
+Wohn Wohnfläche B bis F B und C B C F H I K L M N B bis N
+lage
+Grundgesamtheit 152.500 89.000 4.300 84.700 63.500 164.100 90.500 73.500 25.100 25.800 18.500 550.000
+25 m² bis
+1 2,6 0,0 0,0 5,9 4,8 10,0 11,1 0,0 5,6
+unter 41 m²
+e
+e
+g
+41 m² bis
+2 0,8 1,4 1,4 0,5 2,3 1,3 20,7 14,6 21,2 81,3 2,5
+laa unter 66 m²
+mln
+ro h o 66 m² bis
+nW 3 0,6 1,1 0,0 1,1 0,0 0,0 6,7 7,9 11,1 33,0 85,9 14,4
+unter 91 m²
+ab 91 m² 4 6,1 3,0 3,0 25,0 0,0 0,0 15,4 11,1 64,3 90,4 49,2
+normale Wohnlage
+0,9 1,3 0,0 1,3 0,5 2,2 4,3 11,5 12,9 30,5 86,5 5,4
+insgesamt
+25 m² bis
+5 0,0 0,0 7,1 0,0 0,0 18,2 2,1
+unter 41 m²
+41 m² bis
+6 7,1 7,1 6,7 4,3 6,3 13,8 7,4 9,1 48,1 85,7 8,6
+e unter 66 m²
+g
+e tu
+g
+a ln
+h o
+6
+u
+6
+n t
+m
+er
+²
+9
+b
+1
+is
+m ²
+7 6,0 6,7 9,5 9,1 8,7 12,3 14,6 9,5 34,0 85,1 14,1
+W
+91 m² bis
+8 9,3 9,5 33,3 21,1 15,8 15,4 14,3 20,8 53,3 87,1 27,7
+unter 131 m²
+ab 131 m² 9 20,4 21,1 40,4 55,6 66,7 70,0 41,3
+gute Wohnlage
+13,9 15,6 33,3 15,6 8,7 7,0 11,7 12,6 10,9 43,0 85,7 14,2
+insgesamt
+insgesamt 3,5 6,0 10,0 6,0 1,3 2,7 5,5 11,6 12,4 33,3 86,4 6,6
+Methodenbericht zum Hamburger Mietenspiegel 2019 117
+ANLAGE D:
+FRAGEBOGEN
+Methodenbericht zum Hamburger Mietenspiegel 2019 118
+Fragebogen Hamburger Mietenspiegel 2019
+Kennung: Interviewernummer:
+└─┴─┴─┴─┴─┴─┴─┴─┘ └─┴─┴─┘
+Lfd.-Nummer: └─┴─┴─┘
+Datum der Befragung: . 2019 Dauer des Interviews: Minuten
+└─┴─┘└─┴─┘ └─┴─┘
+Interview oder Ausfall
+Mieter angetroffen □ Ja (Interview) □ Nein (Ausfall) □ Mieter/Wohnung nicht gefunden (Ausfall)
+□ Sonstiges (Ausfall)
+Die Befragung zum Hamburger Mietenspiegel 2019 ist freiwillig. Alle Angaben werden
+streng vertraulich behandelt und unterliegen den gesetzlichen Datenschutzbestimmungen.
+Über die Datenverarbeitung und meine Rechte als von der Befragung betroffene Person
+0 Ja □ Nein □
+wurde im Schreiben der Behörde für Stadtentwicklung und Wohnen informiert. Mit der vo-
+rübergehenden Speicherung und zweckgebundenen Verarbeitung meiner Daten bin ich ein-
+verstanden.
+I Sind Sie Eigentümer dieser Wohnung? Ja □ Nein □
+Liegt Ihre Wohnung in einem Wohngebäude mit weniger als drei Wohnungen? Ja □ Nein □
+II
+(z.B. Einfamilien-, Zweifamilien- oder Reihenhaus.)
+Sind Sie Untermieter (also nicht der Hauptmieter) der Wohnung? Ja □ Nein □
+III (Erläuterung: Als Untermieter gelten nicht Lebenspartner des Hauptmieters. Bei Untermietverhältnis-
+sen liegt ein gesonderter Mietvertrag vor.)
+Gehört Ihre Wohnung oder das Gebäude z. B. einem Freund, Angehörigen oder nä- Ja □ Nein □
+IV heren Verwandten von Ihnen oder einem Haushaltsmitglied und zahlen Sie deshalb
+eine niedrigere Miete (Gefälligkeitsmiete)?
+Handelt es sich bei Ihrer Wohnung noch um eine mit öffentlichen Mitteln geförderte Ja □ Nein □
+Wohnung?
+(Erläuterung: Ihrer Wohnung wurde mit öffentlichen Mitteln der Stadt, des Landes oder des Bundes
+V gefördert und hat demnach eine festgelegte Miete und unterliegt somit einer Mietpreisbindung (Sozi-
+alwohnung, sonstige Förderwege einschließlich geförderter Modernisierungsprogramme). Ist die Miet-
+preisbindung bereits ausgelaufen und wurde danach die Miete verändert, gilt die Wohnung nicht mehr
+als eine mit öffentlichen Mittel geförderte Wohnung und die Frage ist mit „Nein“ zu beantworten.)
+Ist Ihre Wohnung ein Teil eines Wohnheimes, eines sonstigen Heimes oder einer Ja □ Nein □
+VI heimähnlichen Unterkunft (z. B. Studenten-, Alten-, Aussiedler-, Schwesternwohnheim,
+Behinderteneinrichtungen, Pflege-, Obdachlosenheim, soziale Wohngruppe)?
+Handelt es sich bei Ihrer Wohnung um eine Werks- oder Dienst- oder Geschäftsmiet- Ja □ Nein □
+VII wohnung (auch Hausmeisterwohnung oder Landes-/Bundesbedienstetenwohnung) für
+die Sie eine ermäßigte Miete zahlen?
+Haben Sie Ihre Wohnung oder einen Teil Ihrer Wohnung gemäß Mietvertrag gewerb- Ja □ Nein □
+VIII
+lich angemietet?
+Haben Sie Ihre Wohnung als möblierte oder teilmöblierte Wohnung gemietet? Ja □ Nein □
+IX
+(nicht gemeint sind Einbauküchen, Küchenmöbel und/oder Einbauschränke o. ä.)
+X Liegt Ihre Wohnung in einem Kellergeschoss? Ja □ Nein □
+Hinweis: Wurde eine der Fragen I bis X mit „Ja“ beantwortet, führt dies zum Abbruch des Interviews.
+Seite 1 © F+B GmbH 2019
+Fragebogen Hamburger Mietenspiegel 2019
+Mietbelege (Hinweis für Interviewer: Die Fragen 4, 5 und 7 beantworten Sie möglichst anhand der vorgelegten Belege)
+Vorhanden Einsichtnahme Datum
+Ja Nein Ja Nein Monat Jahr
+Mietvertrag □ □ □ □
+└─┴─┘ └─┴─┴─┴─┘
+Letzte Erklärung zur Veränderung der Miete □ □ □ □
+└─┴─┘ └─┴─┴─┴─┘
+Letzte Betriebskostenabrechnung □ □ □ □
+└─┴─┘ └─┴─┴─┴─┘
+Letzte Heizkosten-/Warmwasserabrechnung □ □ □ □
+└─┴─┘ └─┴─┴─┴─┘
+Überweisungsquittung/Kontoauszug □ □ □ □
+└─┴─┘ └─┴─┴─┴─┘
+Sonstige Belege □ □ □ □ └─┴─┘ └─┴─┴─┴─┘
+Frage 1
+Wer ist gegenwärtig der Eigentümer Ihrer Wohnung?
+□ Städtische Wohnungsbaugesellschaften (SAGA GWG) □ Private Eigentümer
+□ Wohnungs(bau)genossenschaft □ Sonstige (z. B. Bund, Post, Bahn usw.)
+□ Freies Wohnungsunternehmen
+Frage 2
+2.1 Wann wurde Ihre Wohnung das erste Mal bezugsfertig?
+(Baujahr des Gebäudes bzw. bei später errichteten Wohnungen in bestehen- Baujahr
+└─┴─┴─┴─┘
+den Gebäuden - z. B. Dachgeschossausbau - das Baujahr der Wohnung)
+2.2 Falls Sie nicht genau wissen, wann Ihre Wohnung das erste Mal bezugsfertig geworden ist, geben Sie
+bitte an, in welche Baualtersklasse die Wohnung fällt.
+□ bis 1918 □ 1961 bis 1967 □ 1994 bis 2010
+□ 1919 bis 20.06.1948 □ 1968 bis 1977 □ ab 01.01.2011
+□ 21.06.1948 bis 1960 □ 1978 bis 1993 □ nicht bekannt
+Frage 3
+3.1 Wie viele Stockwerke hat das Gebäude (inkl. Erdgeschoss und zu
+Wohnzwecken ausgebautem Dachgeschoss)? Stockwerke
+└─┴─┘
+3.2 In welchem Stockwerk liegt Ihre Wohnung? (Erdgeschoss = 0)
+Die Wohnung befindet sich im Untergeschoss/Souterrain □ Stockwerk
+└─┴─┘
+3.3 Ist Ihre Wohnung eine Dachgeschosswohnung? □ Ja □ Nein
+Falls Ja: Wurde sie nachträglich ausgebaut □ Ja □ Nein □ unbekannt
+Frage 4
+4.1 Seit wann wohnen Sie bzw. Ihr Haushalt in Ihrer Wohnung?
+(Beginn des Mietvertrags)
+└─┴─┘ └─┴─┴─ ┴─┘
+(Monat) (Jahr)
+4.2 War Ihre Wohnung zum Zeitpunkt des Mietvertragsabschlusses □ Ja □ Nein □ unbekannt
+eine Sozialwohnung?
+4.3 Bestand bei Ihrer Wohnung zum Zeitpunkt des Mietvertragsab- □ unbekannt
+schlusses eine Mietpreisobergrenze aufgrund einer Förderung im □ Ja □ Nein
+Rahmen eines Modernisierungsprogramms?
+Seite 2 © F+B GmbH 2019
+Fragebogen Hamburger Mietenspiegel 2019
+Frage 5
+Wie hoch war Ihre Mietzahlung an Ihren Vermieter/Verwalter im April 2019
+5.1 Gesamtzahlung April 2019 Wie viel haben Sie für den Monat April 2019
+insgesamt an Ihren Vermieter bezahlt bzw. überwiesen? , Euro
+└─┴─┴─┴─┘└─┴─┘
+5.2 Netto-Kalt-Miete bzw. Grundmiete
+Grundmiete und ggf. Modernisierungszuschlag ohne Kosten für Heizung und
+Warmwasser sowie ohne kalte Betriebskosten und ohne weitere Zuschläge , Euro
+└─┴─┴─┴─┘└─┴─┘
+(z.B. für Garagen- und/oder Gartennutzung) per Stichtag 1. April 2019
+5.3 Modernisierungszuschlag nach §559 BGB, + , Euro
+wenn nicht in NKM enthalten ist └─┴─┴─┴─┘└─┴─┘
++ Euro
+5.4 kalte Betriebskosten Vorauszahlung/Pauschale └─┴─┴─┴─┘,└─┴─┘
+□ kalte Betriebskosten sind nicht gesondert ausgewiesen
+(im Mietvertrag, in der Mieterhöhung oder in der Betriebskostenabrechnung)
+5.5 Heizung und/oder Warmwasser Vorauszahlung/Pauschale + Euro
+an Vermieter/Verwalter (siehe auch Frage 6) └─┴─┴─┴─┘,└─┴─┘
+5.6 kalte Betriebskosten und Heizung/Warmwasser insgesamt
+Vorauszahlung/Pauschale, soweit nicht differenziert ausgewiesen + Euro
+└─┴─┴─┴─┘,└─┴─┘
+5.7 Weitere Beträge, soweit nicht in den Vorauszahlungen/Pauschalen für
+kalte Betriebskosten oder für Heizung/Warmwasser enthalten + , Euro
+└─┴─┴─┴─┘└─┴─┘
+- Garagenmiete/Stellplatzmiete , Euro
+└─┴─┴─┴─┘ └─┴─┘
+- Gartennutzung , Euro
+└─┴─┴─┴─┘ └─┴─┘
+- Untermietzuschläge , Euro
+└─┴─┴─┴─┘ └─┴─┘
+- Sonstige Beträge , Euro
+└─┴─┴─┴─┘ └─┴─┘
+5.8 Ermäßigungen Sind in Ihrer monatlichen Gesamtzahlung (Frage 5.1)
+durch angerechnete Mietvorauszahlungen, Mieterdarlehen oder Kür-
+-
+zungen wie z.B. Mietminderungen berücksichtig oder vermindert sich , Euro
+└─┴─┴─┴─┘ └─┴─┘
+die Zahlung durch Gartenarbeit, Hausmeister- oder andere Tätigkeiten?
+5.9 Außergewöhnliche Gutschriften (G) oder Nachzahlungen (N)
+die in der Mietzahlung vom April 2019enthalten sind G N
+- Jahresabrechnung kalte Betriebskosten
+└─┴─┴─┴─┘
+,
+└─┴─┘
+Euro □ □
+- Jahresabrechnung Heizkosten/Warmwasser
+└─┴─┴─┴─┘
+,
+└─┴─┘
+Euro □ □
+- Sonstige Beträge
+└─┴─┴─┴─┘
+,
+└─┴─┘
+Euro □ □
+5.10 Gesamtmiete, die im April 2017 gezahlt wurde , Euro
+(Summe 5.2 bis 5.9; bei Abweichung mit 5.1 bitte Einzelangaben prüfen!) └─┴─┴─┴─┘ └─┴─┘
+Frage 6
+6.1 Heizungs- und Warmwasserkosten werden direkt an □ Ja □ Nein
+das Versorgungsunternehmen gezahlt?
+6.2 Kaltwasserkosten werden direkt an die Hamburger Wasserwerke □ Ja □ Nein
+(HWW) gezahlt?
+Seite 3 © F+B GmbH 2019
+Fragebogen Hamburger Mietenspiegel 2019
+Frage 7
+Wie groß ist die Wohnfläche der gesamten Wohnung laut aktuellem Mietver-
+trag/letzter Mietänderungserklärung? (einschließlich Küche, Bad, WC, Flur, Nebenräume in , m²
+der Wohnung und anrechenbarem Balkon bzw. Terrassenflächen) └─┴─┴─┘ └─┴─┘
+Frage 8
+Letzte Änderung Ihrer derzeitigen Netto-Kalt-Miete (April 2019)
+(Ausgenommen sind hier reine Änderungen der Betriebskosten gemäß § 560 BGB) └─┴─┘ └─┴─┴─ ┴─┘
+(Monat) (Jahr)
+Miete wurde seit dem Einzug nicht geändert □
+Frage 9
+Womit wurde die letzte Mietpreisänderung begründet?
+□ Mietenspiegel □ Sachverständigengutachten □ Keine Begründung
+□ Freiwillige Vereinbarung □ Modernisierung □ Sonstiges, und zwar:
+□ Vergleichswohnungen □ Staffelmiete
+(drei oder mehr) □ Indexmiete
+Frage 10
+Bestand bei der letzten Mietpreisänderung eine Mietpreisobergrenze, weil sich die Wohnung noch als Sozialwoh-
+nung in einer Mietpreisbindung befand oder aufgrund einer Modernisierungsförderung?
+□ Ja (Sozialwohnung) □ Ja (Modernisierung) □ nein □ unbekannt
+Frage 11
+Wie ist diese Wohnung im Hinblick auf die Heizung und Warmwasserversorgung ausgestattet?
+(Bitte kreuzen Sie nur an, was vom Vermieter gestellt wird. Eigenleistungen des Mieters gehören nicht dazu.) Ja Nein
+11.1 Heizung, die alle Wohnräume sowie Küche und Bad angemessen erwärmt □ □
+(z. B. Zentral- oder Gasetagenheizung; Nachtspeicherheizung in allen Wohnräumen)
+11.2 Heizung, die nur alle Wohnräume angemessen erwärmt. Küche und/oder Bad sowie gege- □ □
+benenfalls halbe Zimmer (ehemals Mädchenzimmer) verfügen über keine Heizung
+11.3 Einzelöfen oder eine Etagenheizung mit Brennstoffnachfüllung von Hand □ □
+11.4 Zentrale Warmwasserversorgung □ □
+11.5 Durchlauferhitzer und/oder großer Boiler □ □
+Frage 12
+Wie ist diese Wohnung im Hinblick auf das Bad ausgestattet?
+(Bitte kreuzen Sie nur an, was vom Vermieter gestellt wird. Eigenleistungen des Mieters gehören nicht dazu.) Ja Nein
+12.1 Dusche vorhanden (hierbei ist nicht der Duschkopf über der Badewanne gemeint) □ □
+12.2 Badewanne vorhanden □ □
+12.3 Bad und WC getrennt □ □
+12.4 Zusätzliches WC in der Wohnung □ □
+12.5 Bad mit Fenster □ □
+Seite 4 © F+B GmbH 2019
+Fragebogen Hamburger Mietenspiegel 2019
+Frage 13
+Wie ist diese Wohnung im Hinblick auf die Küche ausgestattet?
+(Bitte kreuzen Sie nur an, was vom Vermieter gestellt wird. Eigenleistungen des Mieters gehören nicht dazu.) Ja Nein
+13.1 Arbeitsplatte mit Unterschrank □ □
+13.2 Einbauküche (Unter- und Oberschränke, Einbauherd, Einbauspüle) □ □
+13.3 Zusätzliche Ausstattung (z. B. Kühlschrank, Geschirrspüler, Gefrierschrank) □ □
+13.4 Wohnküche (>10m²) □ □
+Frage 14
+Welche der folgenden weiteren Merkmale weist Ihr Gebäude/Ihre Wohnanlage auf?
+(Bitte kreuzen Sie nur an, was vom Vermieter gestellt wird. Eigenleistungen des Mieters gehören nicht dazu.) Ja Nein
+14.1 Fahrradkeller/überdachter Fahrradstellplatz □ □
+14.2 Fahrstuhl/Aufzug □ □
+Frage 15
+Im Rahmen der Auswertung kann es im Einzelfall eventuell erforderlich sein, dass bestimmte Woh- Ja Nein
+nungsinformationen bei Ihnen nacherhoben werden müssen. Sind Sie damit einverstanden, unter □ □
+der Bedingung, dass Ihre Adresse und Ihr Name den datenschutzrechtlichen Bestimmungen ent-
+sprechend bis zum Ende der Fertigstellung des Mietenspiegels 2019 verwahrt wird?
+Vielen Dank für Ihre Teilnahme!
+Seite 5 © F+B GmbH 2019
+Fragebogen Hamburger Mietenspiegel 2019
+Ich bestätige die korrekte Durchführung des Interviews und die Richtigkeit der oben gemachten Angaben.
+____________ ________________ _______________________ __________________________
+(Datum) (Interviewernummer) (Name) (Unterschrift)
+Dieses Feld wird von F+B ausgefüllt!
+Sichtkontrolle □ positiv □ negativ Beanstandete Fragen:
+□ □ □ □
+Telefonkontrolle positiv negativ, weil: Telefonnummer falsch dreimal nicht erreicht
+□ □ □ □
+Interviewer nicht da gewesen Kritik an Interviewer Belege nicht vorgelegt Sonstiges
+Kontrollanruf erfolgt am: Mieter mit Durchführung des Interviews zufrieden? □ Ja □ Nein
+Kontrollanruf durchgeführt von: Kontrollierte Daten in Ordnung? □ Ja □ Nein
+Anmerkungen:
+Seite 6 © F+B GmbH 2019
+ANLAGE E:
+ANSCHREIBEN DER BEHÖRDE FÜR
+STADTENTWICKLUNG UND WOHNEN
+Methodenbericht zum Hamburger Mietenspiegel 2019 125
+
+
+
+
+ANLAGE F:
+ANSCHREIBEN DER MIETERVERBÄNDE
+Methodenbericht zum Hamburger Mietenspiegel 2019 130
+Hamburg, April 2019
+Betrifft: Hamburger Mietenspiegel 2019
+Sehr geehrte Mieterin, sehr geehrter Mieter,
+die Arbeiten zur Erhebung zur Fortschreibung des Hamburger Mietenspiegels 2019 werden durch
+einen beratenden Arbeitskreis begleitet. Als Vertreter der Mieterseite sind dort der Mieterverein
+zu Hamburg und der Mieterverein Mieter helfen Mietern beteiligt.
+Wir bitten Sie, die Datenerhebung für den Mietenspiegel zu unterstützen.
+Der Mietenspiegel dient zwar auch den Vermietern zur Begründung von Mieterhöhungen, er hat
+aber zugleich mieterschützende Wirkungen: Gibt es keinen Mietenspiegel, dann begründen
+Vermieter die Mieterhöhungen mit den Mieten von ausgewählten Vergleichswohnungen oder
+Sachverständigengutachten - erfahrungsgemäß fallen diese Mieten deutlich höher aus als die
+Mietenspiegelwerte. Nur auf der Grundlage des Mietenspiegels können überzogene
+Mieterhöhungen in der Rechtsberatung eingeschätzt und zurückgewiesen werden. Ohne
+Mietenspiegel müssten bei Streitfällen teure Gutachten eingeholt werden. Der Mietenspiegel ist
+auch die Grundlage für die Anwendung der in Hamburg geltenden Mietpreisbremse und kann so
+der Senkung einer zu hohen Miete dienen.
+Wir halten es daher für wichtig, dass ein zuverlässiger und von den Gerichten anerkannter
+Mietenspiegel zustande kommt.
+Bitte beteiligen Sie sich an der Erhebung, indem Sie den Mitarbeiterinnen und Mitarbeitern von
+F+B Forschung und Beratung für Wohnen, Immobilien und Umwelt die nötigen Auskünfte erteilen.
+Ihre Angaben werden streng vertraulich behandelt. Das Erhebungsverfahren ist mit dem
+Hamburgischen Datenschutzbeauftragten abgestimmt.
+Wenn Sie noch Fragen haben und wir Ihnen mit Auskünften behilflich sein können,
+rufen Sie uns an.
+Mit freundlichen Grüßen
+Mieterverein zu Hamburg Hamburger Mieterverein e. V
+von 1890 r. V. Mieter helfen Mietern
+Telefon: 040 / 879 79-0 Telefon: 040/43 13 94-0
+ANLAGE G:
+ANSCHREIBEN DER VERMIETERVERBÄNDE
+Methodenbericht zum Hamburger Mietenspiegel 2019 132
+Hamburg, Mai 2019
+Betrifft: Hamburger Mietenspiegel 2019
+Sehr geehrte Damen und Herren,
+die Arbeiten zum Hamburger Mietenspiegel 2019 werden - wie auch bei den voran-
+gegangenen Mietenspiegeln - durch einen Arbeitskreis, an dem auch Vertreter der
+unten genannten Verbände teilnehmen, fachlich begleitet.
+Bei dem Verfahren zur Erstellung des Mietenspiegels hat sich bewährt, neben ein-
+zelnen Mieterhaushalten auch Vermieterinnen und Vermieter mit größeren Woh-
+nungsbeständen zu befragen, um die erforderlichen Angaben einzuholen.
+Demnächst erhalten Sie im Rahmen dieser Mietenspiegelbefragung den bereits be-
+kannten Fragebogen zur Wohnungsausstattung und zum Mietvertrag. Dieser Frage-
+bogen ist mit allen Akteuren im Arbeitskreis Mietenspiegel - auch mit den Unterzeich-
+nern dieses Schreibens - abgestimmt. Wir bitten um Ihre Unterstützung bei der Er-
+stellung des neuen Mietenspiegel indem Sie die erforderlichen Auskünfte erteilen.
+Die Daten werden selbstverständlich anonymisiert und ausschließlich für die Erstel-
+lung des Mietenspiegels und für wohnungswirtschaftliche Auswertungen verwendet.
+Der Mietenspiegel ist eine von den Hamburger Gerichten anerkannte Orientierungs-
+hilfe für die Bestimmung der ortsüblichen Vergleichsmiete. Bestimmt liegt es auch in
+Ihrem Interesse, dass der neue Mietenspiegel die tatsächlichen Verhältnisse in Ham-
+burg richtig wiedergibt.
+Wir bedanken uns für Ihre Auskunftsbereitschaft und sind bei weiteren Fragen
+gerne behilflich. Rufen Sie uns einfach an.
+Mit freundlichen Grüßen
+Grundeigentümer-Verband Immobilienverband Deutschland IVD
+Hamburg von 1832 e. V. Nord e. V.
+Telefon: 040 / 30 96 72 – 0 Telefon: 040 / 35 75 99 - 0
+BFW Bundesverband Freier Immobilien- Verband norddeutscher Wohnungs-
+und Wohnungsunternehmen unternehmen e. V. Hamburg -
+Landesverband Nord Mecklenburg-Vorpommern -
+Telefon: 040/46 89 777-0 Schleswig-Holstein e. V.
+Telefon: 040 / 520 11 - 0

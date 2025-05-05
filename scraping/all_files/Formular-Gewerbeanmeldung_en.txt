@@ -1,0 +1,150 @@
+Name der entgegennehmenden Gemeinde Gemeindekennzahl Betriebsstätte (Sitz) GewA 1
+Freie und Hansestadt Hamburg 02000000
+IGN
+Gewerbe-Anmeldung nach § 14 GewO oder § 55 c GewO Bitte vollständig und gut lesbar ausfüllen sowie die
+zutreffenden Kästchen ankreuzen.
+Bei Personengesellschaften (z.B. OHG) ist für jeden geschäftsführenden Gesellschafter ein eigener Vordruck auszufüllen. Bei juristischen
+Angaben zum Betriebsinhaber Personen ist bei Feld Nr. 3 bis 9 und Feld Nr. 30 und 31 der gesetzliche Vertreter anzugeben (bei inländischer AG wird auf diese Angaben
+verzichtet). Die Angaben für weitere gesetzliche Vertreter zu diesen Nummern sind ggf. auf Beiblättern zu ergänzen.
+1 Im Handels-, Genossenschafts- oder Vereinsregister eingetragener Name 2 Ort und Nr. des Registereintrages
+mit Rechtsform (ggf. bei GbR: Angabe der weiteren Gesellschafter)
+Angaben zur Person
+3 Name 4 Vornamen 4a Geschlecht
+■ männl. ■ weibl.
+5 Geburtsname (nur bei Abweichung vom Namen) 6 Geburtsdatum 7 Geburtsort und -land
+8 Staatsangehörigkeit(en) ■ deutsch ■ andere:
+9 Anschrift der Wohnung
+Straße Haus-Nr. PLZ Ort
+Telefon Telefax freiwillig: E-Mail/Web
+Angaben zum Betrieb
+10 Zahl der geschäftsführenden Gesellschafter (nur bei Personengesellschaften) / Zahl der gesetzlichen Vertreter (nur bei juristischen Personen)
+11 Vertretungsberechtigte Person / Betriebsleiter (nur bei inländischen Aktiengesellschaften, Zweigniederlassungen und unselbständigen Zweigstellen)
+Name Vornamen
+Anschriften (Straße, Haus-Nr. PLZ, Ort)
+12 Betriebsstätte
+Straße Haus-Nr. PLZ Ort
+Telefon Telefax freiwillig: E-Mail/Web
+13 Hauptniederlassung (falls Betriebsstätte lediglich Zweigstelle ist)
+Straße Haus-Nr. PLZ Ort
+Telefon Telefax freiwillig: E-Mail/Web
+14 Frühere Betriebsstätte
+Straße Haus-Nr. PLZ Ort
+Telefon Telefax freiwillig: E-Mail/Web
+15 Angemeldete Tätigkeit –ggf. ein Beiblatt verwenden –(genau angeben: z.B. Herstellung von Möbeln, Elektroinstallationen und Elektroeinzelhandel, Großhandel mit Lebensmitteln usw.;
+bei mehreren Tätigkeiten bitte Schwerpunkt untersteichen) [Hinweis: Im elektronischen Formular ist ein Unterstreichen technisch nicht möglich. Bitte daher entweder den Schwerpunkt
+nach dem Ausdruck unterstreichen oder den ScHWERPUNKTin Großbuchstaben angeben.]
+16 Wird die Tätigkeit (vorerst) im Nebenerwerb betrieben? 17 Datum des Beginns der angemeldeten Tätigkeit
+■ ■
+Ja Nein
+18 Art des angemeldeten Betriebes ■ Industrie ■ Handwerk ■ Handel ■ Sonstiges
+19 Zahl der bei Geschäftsaufnahme tätigen Personen (ohne Inhaber) Vollzeit Teilzeit Keine
+Die Anmeldung 20 eine Hauptniederlassung eine Zweigniederlassung eine unselbständige Zweigstelle
+wird erstattet 21 ein Automatenaufstellungsgewerbe
+für 22 ein Reisegewerbe
+23 24 Neuerrichtung/ Neugründung Wiedereröffnung nach Verlegung aus einem anderen Meldebezirk
+Übernahme
+Grund Wechsel der Rechtsform Gründung nach Umwandlungsgesetz (z.B. Verschmelzung, Spaltung)
+Gesellschaftereintritt Erbfolge/Kauf/Pacht
+26 Name des früheren Gewerbetreibenden oder früherer Firmenname
+Falls der Betriebsinhaber für die angemeldete Tätigkeit eine Erlaubnis benötigt, in die Handwerksrolle einzutragen oder Ausländer ist:
+■ ■ Liegt eine Erlaubnis vor? Ja Nein Wenn Ja, Ausstellungsdatum und erteilende Behörde:
+Nur für Handwerksbetriebe ■ ■
+Ja Nein Wenn Ja, Ausstellungsdatum und Name der Handwerkskammer:
+Liegt eine Handwerkskarte vor?
+Liegt eine Aufenthaltsgenehmigung vor? ■ Ja ■ Nein Wenn Ja, Ausstellungsdatum und erteilende Behörde:
+Enthält die Aufenthaltsgenehmigung ■ ■
+Ja Nein Wenn Ja, sie enthält folgende Auflagen bzw. Beschränkungen:
+eine Auflage oder Beschränkung?
+Hinweis: Diese Anzeige berechtigt nicht zum Beginn des Gewerbebetriebes, wenn noch eine Erlaubnis oder eine Eintragung in die Handwerksrolle not-
+wendig ist. Zuwiderhandlungen können mit Geldbuße oder Geldstrafe oder Freiheitsstrafe geahndet werden. Diese Anzeige ist keine Genehmi-
+gung zur Errichtung einer Betriebsstätte entsprechend dem Planungs- und Baurecht.
+Datum Unterschrift
+01.80
+–
+3/08.37
+–
+Z
+/
+SV
+28
+29
+30
+31
+32 33
+Name of municipality receiving registration
+Municipality code no. for permanent establishment
+Registration of business pursuant to Section 14 / Section 55c of the Trade Regulation Act
+Please complete this form fully and legibly, crossing the relevant boxes
+Details of the business owner
+In the case of non-incorporated firms (e.g. OHGs), a separate form must be completed by each
+managing partner. In the case of legal persons, the legal representative should be cited in fields
+3-9 and fields 30-31 (in the case of a domestic AG, these data are not required). The details of
+additional legal representatives to be cited under these numbers should be provided on extra
+sheets as necessary.
+1) Name entered in the Commercial Register, Register of Co-operatives or Register of Associations
+citing legal structure (if necessary in case of GbR: details of the other shareholders)
+2) Place and no. of entry in register
+Personal data
+3) Surname
+4) Given names
+4a) Gender male female
+5) Name at birth (if different from surname)
+6) Date of birth
+7) Place and country of birth
+8) Nationality(ies) German other
+9) Residential address (street, house no., postcode, place)
+street house-no. postcode place
+Tel.no. Fax.no optional: Email/web
+Details of the business
+10) Number of managing partners (only in case of non-incorporated companies) / Number of legal
+representatives (only in case of legal persons)
+11) Persons/managers authorised as representatives (only in case of domestic AGs, branches and
+dependent branches)
+Surname given names
+Addresses (street, house no., postcode, place)
+12) Permanent establishment
+street house-no. postcode place
+Tel.no. Fax.no optional: Email/web
+13) Principal establishment (if permanent establishment is merely branch)
+street house-no. postcode place
+Tel.no. Fax.no optional: Email/web
+14) Former permanent establishment
+street house-no. postcode place
+Tel.no. Fax.no optional: Email/web
+15) Registered activity - if necessary use extra sheet (give precise description: e.g. manufacture of
+furniture, electrical installations and electronic retail, food wholesale, etc.; in case of several
+activities, please underline main activity)
+16) Is the business (initially) being run as a sideline?
+Yes No
+17) Date of commencement of registered activity
+18) Type of business registered Industry Crafts Trade Other
+19) Number of persons active when business activity commenced (excluding owner)
+Full-time Part-time None
+The registration applies to
+20) a principal establishment a branch a dependent branch
+21) a business installing vending machines
+22) an itinerant trader
+- 2 -
+Reason
+23) New establishment/ New start-up Re-opening following relocation
+24) take-over from a different district of
+registration
+Change of legal structure Founding of business pursuant
+to the Reorganisation Act (e.g.
+merger, split)
+Admission of partner Inheritance/purchase/lease
+26) Name of former operator or former business name
+If the business owner requires a licence/permit to work in the registered field of activity,
+has to be entered into the Roll of Craftsmen, or is a foreigner
+28) Does a licence/permit exist? Yes No If so, date of issue and issuing authority
+29) Only for craft-based firms Yes No If so, date of issue and name of chamber
+Does a craft card exist? of crafts
+30) Does a residence permit exist? Yes No If so, date of issue and issuing authority
+31) Is the residence permit Yes No If yes, it contains the following conditions
+subject to a condition or restriction? or restrictions
+Note: This notification does not entitle the applicant to commence commercial operations
+if a licence, permit or entry in the Roll of Craftsmen is still required. Violations can be
+punished by a fine or imprisonment. This notification is not a licence or permit to establish
+a permanent establishment under planning and construction law.
+32) Date
+33) Signature

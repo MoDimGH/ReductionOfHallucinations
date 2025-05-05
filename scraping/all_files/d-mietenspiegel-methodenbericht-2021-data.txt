@@ -1,0 +1,4139 @@
+unabhängig. kompetent. praxisorientiert.
+Expertise für Wohnungsmarkt und Stadtentwicklung
+Dokumentation zum
+Hamburger Mietenspiegel 2021
+Inhaltsverzeichnis
+Inhaltsverzeichnis
+Tabellenverzeichnis ....................................................................................................... III
+Abbildungsverzeichnis ................................................................................................... V
+1 Vorbemerkung ..................................................................................................... 1
+2 Vorgaben und Ablauf der Erhebung .................................................................. 2
+2.1 Vorgaben für die Erhebung ........................................................................................................ 2
+2.2 Datenschutz ...................................................................................................................................... 3
+2.3 Ablauf der Erhebung und Auswertung ................................................................................... 3
+2.4 Veröffentlichung und Online-Mietenspiegel ........................................................................ 4
+3 Arbeitskreis Mietenspiegel ................................................................................. 5
+4 Datenschutz .......................................................................................................... 6
+5 Grundgesamtheit und Stichprobe ...................................................................... 7
+5.1 Tabellenaufbau ................................................................................................................................ 7
+5.2 Grundgesamtheit ............................................................................................................................ 8
+5.3 Ziehung der Stichprobe .............................................................................................................. 12
+6 Datenerhebung .................................................................................................. 17
+6.1 Mieterbefragung ........................................................................................................................... 17
+6.2 Vermieterbefragung .................................................................................................................... 18
+6.3 Feldkontrollen ................................................................................................................................ 19
+7 Datenbereinigung und -auswertung ............................................................... 20
+7.1 Überblick .......................................................................................................................................... 20
+7.2 Datenbereinigung ......................................................................................................................... 21
+7.3 Herstellung der Repräsentativität in Bezug auf den Vermietertyp ............................ 22
+7.4 Ausreißerbereinigung .................................................................................................................. 24
+7.5 Unzureichende Feldbesetzung ................................................................................................ 25
+7.6 Feldbesetzung ................................................................................................................................ 25
+7.7 Festlegung der Nettokaltmiete als Berechnungsgrundlage ......................................... 27
+7.8 Ermittlung der durchschnittlichen Nebenkosten .............................................................. 27
+7.8.1 Durchschnittliche kalte Betriebskostenvorauszahlungen .............................................. 27
+Dokumentation Hamburger Mietenspiegel 2021 I
+Inhaltsverzeichnis
+7.8.2 Durchschnittliche Vorauszahlung für Heizung und Warmwasser .............................. 28
+7.9 Charakterisierung der ortsüblichen Vergleichsmiete ...................................................... 29
+7.10 Berechnung der ortsüblichen Vergleichsmiete ................................................................. 30
+7.10.1 Durchschnittliche Nettokaltmietwerte .................................................................................. 30
+7.10.2 Spannenbildung beim Hamburger Mietenspiegel 2021................................................ 30
+7.11 Mietenspiegeltabelle Hamburger Mietenspiegel 2021 .................................................. 31
+7.12 Ausstattungsmerkmale ............................................................................................................... 33
+7.12.1 Standardausstattung ................................................................................................................... 34
+7.12.2 Bessere Ausstattung .................................................................................................................... 34
+8 Ergänzende Auswertungen ............................................................................... 36
+8.1 Mietenvergleich und Mietenstruktur im Hamburger Mietenspiegel 2021 ............. 36
+8.2 Neuvertragsmietenanteil im Hamburger Mietenspiegel ............................................... 44
+8.3 Struktur der Nettokaltmieten nach Mietenstufen insgesamt und nach Wohnlage
+46
+8.4 Mietenverteilung bei zwei Hamburger Normalwohnungen ......................................... 48
+8.5 Alter der mietenspiegelrelevanten Verträge ...................................................................... 48
+8.6 Mietveränderungserklärung mit Verweis auf den Hamburger Mietenspiegel ...... 52
+9 Energetische Beschaffenheit ............................................................................. 55
+9.1 Datenerhebung .............................................................................................................................. 55
+9.2 Auswertungen und Methode ................................................................................................... 55
+Anlage A: Förderprogramme ....................................................................................... 58
+Anlage B: Histogramme ............................................................................................... 60
+Anlage C: Analyse der Ausstattungsmerkmale ........................................................ 106
+Anlage D: Fragebögen ................................................................................................ 115
+Anlage E: Anschreiben der Behörde für Stadtentwicklung und Wohnen ............. 124
+Anlage F: Anschreiben der Mieterverbände............................................................. 130
+Anlage G: Anschreiben der Vermieterverbände ...................................................... 132
+Dokumentation Hamburger Mietenspiegel 2021 II
+Tabellenverzeichnis
+Tabellenverzeichnis
+Tabelle 1: Berechnungssystematik für die Grundgesamtheit des Hamburger
+Mietenspiegels 2021 .......................................................................................................................... 9
+Tabelle 2: Grundgesamtheit zum Hamburger Mietenspiegel 2021 ........................................ 11
+Tabelle 3: Bruttostichprobe nach Befragungsclustern .................................................................. 14
+Tabelle 4: Verteilung der Bruttostichprobe nach Vermieterstruktur* ..................................... 14
+Tabelle 5: Verteilung der Bruttostichprobe nach Erhebungstyp* ............................................. 16
+Tabelle 6: Feldverlauf Mieterbefragung - Stichprobenausschöpfung .................................... 18
+Tabelle 7: Feldverlauf Vermieterbefragung - Stichprobenausschöpfung ............................. 19
+Tabelle 8: Ergebnisse der Datenbereinigung im Hamburger Mietenspiegel 2021 ............ 20
+Tabelle 9: Anteil der Vermietertypen an Grundgesamtheit nach Baualter, Wohnlage und
+Wohnungsgröße in % ...................................................................................................................... 23
+Tabelle 10: Ergebnisse der Ausreißerbereinigung im Hamburger Mietenspiegel 2021 .. 24
+Tabelle 11: Feldbesetzung zum Hamburger Mietenspiegel 2021 vor und nach
+Ausreißerbereinigung ...................................................................................................................... 26
+Tabelle 12: Durchschnittliche kalte Betriebskostenvorauszahlungen nach Baualter und
+Ausstattung in €/m² 2017 bis 2021 (ohne Kaltwasserkosten) .......................................... 28
+Tabelle 13: Durchschnittliche Vorauszahlungen für Heizung und Warmwasser nach
+Baualter und Ausstattung in €/m² 2021 im Vergleich zu 2019 ........................................ 29
+Tabelle 14: Hamburger Mietenspiegel 2021 .................................................................................... 32
+Tabelle 15: Mietveränderungen Hamburger Mietenspiegel 2019 zu 2021 (gewichtete
+Mittelwerte) ......................................................................................................................................... 41
+Tabelle 16: Entwicklung des arithmetischen Mittels und der Spannenwerte 2021 zu 2019
+in Euro/m² Wohnfläche ................................................................................................................... 42
+Tabelle 17: Entwicklung des arithmetischen Mittels und der Spannenwerte 2021 zu 2019
+in Prozent.............................................................................................................................................. 43
+Tabelle 18: Anteil der Neuvertragsmieten......................................................................................... 45
+Tabelle 19: Verteilung der Nettokaltmieten nach Wohnlage (Angaben in Prozent) * ..... 46
+Tabelle 20: Verteilung der mietenspiegelrelevanten Verträge nach durchschnittlichem
+Alter je Baualtersklasse (Angaben in Prozent) * ..................................................................... 50
+Dokumentation Hamburger Mietenspiegel 2021 III
+Tabellenverzeichnis
+Tabelle 21: Verteilung der mietenspiegelrelevanten Verträge nach durchschnittlichem
+Alter und Wohnungsgrößenklassen (Angaben in Prozent) * ............................................ 51
+Tabelle 22: Verteilung der mietenspiegelrelevanten Verträge nach durchschnittlichem
+Alter und Vermietertyp (Angaben in Prozent) * .................................................................... 52
+Tabelle 23: Begründung der Mieterhöhung nach Baualtersklasse (Angaben in Prozent) *
+.................................................................................................................................................................. 53
+Tabelle 24: Energiekennwerte 2021 ..................................................................................................... 57
+Dokumentation Hamburger Mietenspiegel 2021 IV
+Abbildungsverzeichnis
+Abbildungsverzeichnis
+Abbildung 1: Entwicklung der durchschnittlichen Nettokaltmiete von 1997 bis 2021
+(gewichteter Mittelwert) ................................................................................................................. 40
+Abbildung 2: Mietenverteilung in Hamburg 2021 (Angaben in Prozent) * .......................... 47
+Dokumentation Hamburger Mietenspiegel 2021 V
+Vorbemerkung
+1 Vorbemerkung
+Der vorliegende qualifizierte Hamburger Mietenspiegel 2021 wurde im Auftrag der Be-
+hörde für Stadtentwicklung und Wohnen, Amt für Wohnen, Stadterneuerung und Bo-
+denordnung durch das ALP Institut für Wohnen und Stadtentwicklung GmbH erstellt. Der
+Hamburger Mietenspiegel 2021 ist, wie seine Vorgänger, ein nach anerkannten wissen-
+schaftlichen Methoden erstellter „qualifizierter Mietspiegel“ gemäß § 558d BGB.
+Der Mietenspiegel findet seine Grundlage im Bürgerlichen Gesetzbuch (BGB). Er stellt
+eine Übersicht der in Hamburg am 1. April 2021 – dem Stichtag der Erhebung – gezahlten
+Mieten für nicht preisgebundenen Wohnraum vergleichbarer Art, Größe, Ausstattung,
+Beschaffenheit und Lage einschließlich der energetischen Ausstattung und Beschaffen-
+heit dar. Nach den gesetzlichen Vorschriften sind in den Mietenspiegel nur solche Mieten
+einbezogen, die in den letzten sechs Jahren neu vereinbart (Neuverträge) oder, von einer
+Erhöhung nach § 560 BGB (Betriebskostenänderung) abgesehen, geändert worden sind
+(Mietänderungen). Die ausgewiesenen Mieten werden kurz „ortsübliche Vergleichsmie-
+ten“ genannt. Der Betrachtungszeitraum von sechs Jahren geht auf eine Gesetzesände-
+rung zurück, die zum 1. Januar 2020 in Kraft getreten ist. Zuvor wurden im Hamburger
+Mietenspiegel entsprechend der gesetzlichen Regelungen nur Mieten berücksichtigt, die
+in den letzten vier Jahren neu vereinbart oder (von Betriebskostenänderungen abgese-
+hen) geändert worden sind.
+Der Mietenspiegel bietet den Mietvertragsparteien bei bestehenden Mietverhältnissen
+die Möglichkeit, in eigener Verantwortung die ortsübliche Vergleichsmiete nach
+§ 558 BGB zu ermitteln, ohne selbst Vergleichsobjekte benennen oder erhebliche Kosten
+und Zeit für Gutachten aufwenden zu müssen. Die Mieterinnen und Mieter können an-
+hand des Mietenspiegels unproblematisch prüfen, ob ein Mietänderungsbegehren der
+Vermieterin oder des Vermieters gerechtfertigt ist.
+Das Gleiche gilt für Neuabschlüsse von Mietverträgen. Nach § 556d BGB darf die Miete
+zu Beginn des Mietverhältnisses in Gebieten mit einem angespannten Wohnungsmarkt
+die ortsübliche Vergleichsmiete grundsätzlich höchstens um 10 % überschreiten. Mit der
+Verordnung über die Einführung der Mietpreisbegrenzung nach § 556d BGB (Mietpreis-
+begrenzungsverordnung) wurde festgestellt, dass die Freie und Hansestadt Hamburg ein
+Gebiet mit einem angespannten Wohnungsmarkt im Sinne des § 556d Abs. 1 BGB ist. Die
+geltende Verordnung ist seit 1. Juli 2020 in Kraft.
+Der Gesetzgeber sieht vor, dass Mietenspiegel im Abstand von zwei Jahren der Markt-
+entwicklung angepasst werden sollen. Beim Hamburger Mietenspiegel 2021 handelt es
+sich um eine Neuerhebung auf Basis einer repräsentativen Zufallsstichprobe mit dem
+Erhebungsstichtag 1. April 2021.
+Dieser Methodenbericht dokumentiert die Arbeitsschritte und -ergebnisse der Erstellung
+des qualifizierten Hamburger Mietenspiegels 2021.
+Dokumentation Hamburger Mietenspiegel 2021 1
+Vorgaben und Ablauf der Erhebung
+2 Vorgaben und Ablauf der Erhebung
+2.1 Vorgaben für die Erhebung
+Die methodischen Rahmenbedingungen für die Erstellung des Mietenspiegels ergaben
+sich aus der Ausschreibung zum Hamburger Mietenspiegel 2021, sie orientierten sich an
+den bisherigen Methoden, die im Hamburger Mietenspiegel verwendet wurden (Metho-
+denkonstanz). Das Ziel ist eine hohe Akzeptanz bei den verschiedenen Wohnungsmarkt-
+akteuren. Daher wurden die Rahmenbedingungen des neuen qualifizierten Hamburger
+Mietenspiegels auch im Arbeitskreis Mietenspiegel diskutiert.
+Folgende Vorgaben wurden für den qualifizierten Hamburger Mietenspiegel 2021 fest-
+gelegt:
+○ Tabellenmietenspiegel mit Original-Erhebungsdaten und einer angestrebten
+Mindestfeldbesetzung von 30 Mietwerten je Tabellenfeld für das gesamte Stadt-
+gebiet Hamburgs
+○ Überprüfung einer möglichen Veränderung der Tabellenstruktur auf Basis einer
+Analyse der Erhebungsdaten
+○ Ziehung einer disproportional geschichteten Zufallsstichprobe
+○ Ausfilterung des nicht-mietenspiegelrelevanten Wohnraums, z. B. Wohnraum, bei
+dem die Miethöhe durch Gesetz oder im Zusammenhang mit einer Förderzusage
+festgelegt worden ist
+○ Überarbeitung und Aktualisierung des Fragebogens
+○ Erstellung eines Konzepts zur Öffentlichkeitsarbeit (Pressemitteilungen, Informa-
+tionsschreiben)
+○ Durchführung einer empirischen Repräsentativerhebung von Mietdaten für ca.
+11.500 mietenspiegelrelevante Wohnungen (voll gültige Datensätze) in Hamburg,
+davon rund ein Drittel bei Mietern und zwei Dritteln bei Vermietern
+○ Manuelle Rücklaufkontrollen, unmittelbare Plausibilitätskontrollen (manuell und
+mittels skriptbasierter Prüfung) und zusätzliche Kontrollbefragungen
+○ Ermittlung der Nettokaltmiete unter Ausschluss sachfremder Zu- und Abschläge
+○ Berechnung der Mietkennwerte: Mittelwerte, Spannen und Spannweiten auf Basis
+der Nettokaltmiete für jedes Tabellenfeld der Hamburger Mietenspiegeltabelle
+○ Berechnung der durchschnittlichen Pauschalen für kalte Betriebskosten und Kos-
+ten für Heizung und Warmwasser
+○ Durchführung von Sonderauswertungen zu im Fragebogen enthaltenen Merkma-
+len und Fragestellungen
+○ Befragung der Vermieterinnen und Vermieter zur energetischen Beschaffenheit
+○ Auswertung der Energiekennwerte mit Ausweisung von Mittelwerten und Span-
+nen
+○ Vergleich der Mietpreise mit dem vorangegangen Hamburger Mietenspiegel
+○ Darstellung der Mietenverteilung für alle Mietenspiegelfelder anhand von Dia-
+grammen, sogenannten Histogrammen
+Dokumentation Hamburger Mietenspiegel 2021 2
+Vorgaben und Ablauf der Erhebung
+○ Vorbereitung und Durchführung der Arbeitskreissitzungen mit Ergebnispräsenta-
+tion
+○ Einhaltung des Hamburger Datenschutzgesetzes und der Vorgaben des Hambur-
+gischen Beauftragten für Datenschutz und Informationsfreiheit
+2.2 Datenschutz
+Die Durchführung der Befragungen zum Hamburger Mietenspiegel 2021 und die weite-
+ren Arbeiten erfolgten auf Grundlage der von der Freien und Hansestadt Hamburg am
+24. November 2020 erlassenen Mietenspiegelbefragungsverordnung (HmbGVBl. 2020, S.
+588).
+Gemäß den Anforderungen des Datenschutzes wurde von ALP neben dem allgemeinen
+ALP-Datenschutzkonzept ein Löschkonzept erstellt (vgl. Kapitel 4). Die Mitarbeiterinnen
+und Mitarbeiter von ALP sind im Rahmen ihrer Tätigkeit auf die Einhaltung des Daten-
+schutzes verpflichtet.
+Im Anschreiben an die Haushalte im Rahmen der Mieterbefragung wurde auf die Freiwil-
+ligkeit der Erhebung hingewiesen.
+2.3 Ablauf der Erhebung und Auswertung
+Die Vorbereitungen zur Erstellung des Hamburger Mietenspiegels 2021 wurden im De-
+zember 2020 begonnen. Auf der Grundlage des Hamburger Mietenspiegels 2019 er-
+folgte eine Überarbeitung der Befragungsunterlagen durch ALP; aufgrund der Corona-
+Pandemie wurde auf eine persönliche Befragung durch Interviewende verzichtet und die
+Auftraggeberin hat sich nach Beratung mit dem Arbeitskreis Mietenspiegel stattdessen
+für eine schriftliche Befragung entschieden. Die Fragebögen für Mieterinnen und Mieter
+sowie Vermieterinnen und Vermieter wurden dem Arbeitskreis Mietenspiegel vorgestellt
+und Änderungswünsche aufgenommen.
+Auf Basis der von der Auftraggeberin zur Verfügung gestellten Daten wurde von ALP eine
+Datei mit der Befragungsgrundgesamtheit aller mietenspiegelrelevanten Wohnungen für
+Hamburg erstellt. Mietenspiegelrelevant sind alle bis zum 31.12.2020 bezugsfertig ge-
+wordenen Hamburger Wohnungen in Mehrfamilienhäusern, die keine rechtlichen oder
+vertraglichen Mietpreisbindungen aufgrund einer Förderung mit öffentlichen Mitteln
+aufweisen. Im Rahmen der Mieterbefragung wurden einer Stichprobe in Höhe von 54.450
+Mieterhaushalten ein Anschreiben der Behörde für Stadtentwicklung und Wohnen, ein
+Anschreiben der Mieterverbände und der Fragebogen zugesendet. Nach der Mieterbe-
+fragung wurden 6.313 Vermieterinnen und Vermieter bzw. Verwalterinnen und Verwalter
+mit einem Stichprobenumfang von 56.573 Haushalten/Wohnungen angeschrieben.
+Die Mieterbefragung fand von Anfang April bis Juni 2021 statt, wobei auch später einge-
+troffene Antworten Berücksichtigung fanden. Der Stichtag der Erhebung, auf den sich die
+erhobenen Daten beziehen, ist der 1. April 2021. Anschließend erfolgte die Befragung
+Dokumentation Hamburger Mietenspiegel 2021 3
+Vorgaben und Ablauf der Erhebung
+der Vermieterinnen und Vermieter sowie Verwalterinnen und Verwalter im Zeitraum Ende
+Juni bis Anfang Oktober 2021.
+Für die eingegangenen Antworten wurde zunächst geprüft, ob die Mietverhältnisse für
+die Erstellung des Hamburger Mietenspiegels 2021 von Bedeutung sind. Anschließend
+erfolgte die Plausibilisierungsphase, in der widersprüchliche oder fehlende Angaben
+wenn möglich durch Rückfragen bei den Befragten korrigiert oder ergänzt wurden. Nach-
+dem danach die Repräsentativität des Rücklaufs hergestellt wurde, konnten die Durch-
+schnittsmieten und Spannen für die Tabellenfelder des Hamburger Mietenspiegels 2021
+berechnet werden.
+2.4 Veröffentlichung und Online-Mietenspiegel
+Im Rahmen eines Pressegesprächs der Behörde für Stadtentwicklung und Wohnen am
+13. Dezember 2021 wurde der qualifizierte Hamburger Mietenspiegel 2021 der Öffent-
+lichkeit vorgestellt. Mit dem Zeitpunkt der Veröffentlichung erlangt der Hamburger Mie-
+tenspiegel 2021 seine Rechtsgültigkeit.
+Parallel zum Pressegespräch wurde der Online-Mietenspiegel unter www.mietenspie-
+gel.hamburg.de veröffentlicht. Neben der Hamburger Mietenspiegeltabelle 2021 und der
+zugehörigen Broschüre, die zum Download bereitsteht, können Nutzerinnen und Nutzer
+in einem gesonderten Abfragefenster das einschlägige Mietenspiegelfeld für die eigene
+Wohnung ermitteln. Durch die Eingabe der Adresse zur Bestimmung der Wohnlage, dem
+Baufertigstellungsdatum der Wohnung, der Wohnfläche sowie der Ausstattung wird der
+Mittelwert sowie die Spanne des entsprechenden Mietenspiegelfeldes aus der Mieten-
+spiegeltabelle 2021 angezeigt.- Die Bestimmung der ortsüblichen Vergleichsmiete kann
+dann anhand der Anwendungshinweise in der Broschüre zum Hamburger Mietenspiegel
+2021 erfolgen.
+Dokumentation Hamburger Mietenspiegel 2021 4
+Arbeitskreis Mietenspiegel
+3 Arbeitskreis Mietenspiegel
+Die Vorbereitung, Durchführung und Auswertung der Erhebung wurde durch den Ar-
+beitskreis Mietenspiegel begleitet. In diesem wirkten außer den Vertreterinnen und Ver-
+tretern der Behörde für Stadtentwicklung und Wohnen und von ALP Vertreterinnen und
+Vertreter folgender Verbände und Institutionen mit:
+Als Vertreter der Mieterinteressen:
+○ Mieter helfen Mietern, Hamburger Mieterverein e.V.
+○ Mieterverein zu Hamburg von 1890 r.V. Landesverband im Deutschen Mieter-
+bund
+Als Vertreter der Vermieterinteressen:
+○ Grundeigentümer-Verband Hamburg von 1832 e.V.
+○ Immobilienverband Deutschland IVD Verband der Immobilienberater, Makler,
+Verwalter und Sachverständigen Region Nord e.V.
+○ Verband norddeutscher Wohnungsunternehmen Landesverband Hamburg e.V.
+○ Bundesverband Freier Immobilien- und Wohnungsunternehmen e.V. Landesver-
+band Nord e.V.
+Sonstige Institutionen und Personen:
+○ Richterinnen und Richter vom Landgericht und den Amtsgerichten Hamburgs
+○ Öffentliche Rechtsauskunft- und Vergleichsstelle (ÖRA)
+Die Mitwirkung bezog sich auf methodische und rechtliche Fragestellungen, wie etwa die
+Methodik der Datenerhebung sowie die Auswertung und Interpretation der Daten. Den
+Mitwirkenden wurden alle relevanten Unterlagen zur Verfügung gestellt, sodass eine ef-
+fektive und zielgerichtete Zusammenarbeit möglich war. Die Sitzungen wurden von Ver-
+treterinnen und Vertretern der Behörde für Stadtentwicklung und Wohnen geleitet.
+Dokumentation Hamburger Mietenspiegel 2021 5
+Datenschutz
+4 Datenschutz
+Die Datenschutzbestimmungen wurden von ALP bei der Erstellung des qualifizierten
+Hamburger Mietenspiegels 2021 strikt eingehalten. Neben den Festlegungen in der Mie-
+tenspiegelbefragungsverordnung der Freien und Hansestadt Hamburg wurden die da-
+tenschutzrechtlichen Belange in einem Datenschutz-, Datensicherungs- und Datenlösch-
+konzept festgelegt. Die Bearbeitung des Hamburger Mietenspiegels 2021 erfolgte nach
+den derzeit geltenden Vorschriften des Hamburgischen Datenschutzgesetzes (HmbDSG)
+und des Bundesdatenschutzgesetztes (BDSG).
+Die datenschutzrechtlichen Belange wurden von ALP u.a. durch folgende Maßnahmen
+gewährleistet:
+○ Die Nutzerkonten der mit der Erstellung des Hamburger Mietenspiegels betrau-
+ten Mitarbeiterinnen und Mitarbeiter sind mit individuellen Passwörtern gesi-
+chert. Auf die datenschutzrechtlich relevanten Grundlagen- und Erhebungsdaten
+hatten keine anderen Mitarbeitenden Zugriff.
+○ Bei ALP erfolgte die Bearbeitung der Erhebungsunterlagen tagsüber in abschließ-
+baren Büroräumen, außerhalb der Arbeitszeiten wurden die Unterlagen in einem
+gesonderten Datenschutzraum mit begrenztem Zugangsrecht gelagert.
+○ Die für die Befragung benötigten Hilfsmerkmale (Adresse, Telefonnummer der
+Befragten) wurden mit den Erhebungsdaten nur zur Zuspielung der Wohnlage
+und für eventuelle Rückfragen bei festgestellten Datenunstimmigkeiten ver-
+knüpft. Die zur Identifizierung des Befragten generierte Schlüssel-Kennung wurde
+nach Abschluss dieser Arbeiten gelöscht und es besteht keine Möglichkeit eines
+Rückschlusses aus dem Erhebungsdatensatz auf die befragte Person mehr.
+○ Nach Abschluss der Erhebung und den notwendigen Prüfkontrollen wurden die
+personenbezogenen Fragebögen gemäß den datenschutzrechtlichen Bestim-
+mungen vernichtet.
+○ Die Auswertung der Erhebungsdaten erfolgte auf Basis der anonymisierten Da-
+ten. Die Ausweisung der Ergebnisse erfolgt nur in aggregierter Form und orien-
+tiert sich hierbei an dem Tabellenraster des Mietenspiegels. Ein Rückschluss auf
+den Einzelfall ist hierdurch nicht möglich.
+○ Im Anschreiben wurden sowohl Mieterinnen und Mieter als auch Vermieterinnen
+und Vermieter auf die Freiwilligkeit der Befragung hingewiesen.
+Dokumentation Hamburger Mietenspiegel 2021 6
+Grundgesamtheit und Stichprobe
+5 Grundgesamtheit und Stichprobe
+Im Hamburger Mietenspiegel 2021 werden die Mieten des mietenspiegelrelevanten
+Wohnungsbestandes der gesamten Freien und Hansestadt Hamburg abgebildet. Um die
+Mietenentwicklung im mietenspiegelrelevanten Wohnungsbestand seit der letzten Mie-
+tenspiegelerstellung repräsentativ abzubilden, wurde eine neue Zufallsstichprobe gezo-
+gen (vgl. Kapitel 5.3). Die Stichprobe soll dabei die jeweilige Grundgesamtheit, also den
+mietenspiegelrelevanten Hamburger Wohnungsbestand, möglichst gut widerspiegeln
+und gleichzeitig den Befragungsaufwand so gering wie möglich halten.
+5.1 Tabellenaufbau
+Der Hamburger Mietwohnungsmarkt verändert sich, wie jeder andere Wohnungsmarkt
+auch, permanent. Es werden neue Wohnungen gebaut, es werden Wohnungen moder-
+nisiert, die Wohnungsausstattungen werden in vielen Fällen modernen, zeitgemäßen An-
+sprüchen angepasst. Auch die Wohnlagen der Wohnungen können sich verändern, z.B.
+durch Stadtentwicklungsmaßnahmen.
+Das Grundraster der Tabelle des Hamburger Mietenspiegels 2021 entspricht dem Aufbau
+der Mietenspiegeltabelle 2019. Die Baualtersklassen blieben auf Wunsch des Arbeitskrei-
+ses Mietenspiegel weitüberwiegend unverändert, mit Ausnahme der Baualtersklasse
+2011 bis 2015 (Spalte N), die aufgrund der neu eingeführten Baualtersklasse 2016 bis
+2020 nicht mehr die Jahre 2016 bis 2018 umfasst, und Streichung der Spalte B. Insgesamt
+bilden vier der Wohnwertmerkmale der ortsüblichen Vergleichsmiete die Struktur der
+Mietenspiegeltabelle:
+○ Größe der Wohnung, definiert durch Größenklassen
+○ Ausstattung, definiert durch Ausstattungskategorien
+○ Beschaffenheit der Wohnung, definiert durch Baualtersklassen
+○ Lage der Wohnung, definiert durch Wohnlagen Hamburgs
+Das fünfte Wohnwertmerkmal „Art“ wurde bereits über die Eingrenzung des mietenspie-
+gelrelevanten Wohnungsbestandes auf den Wohnungsbestand in Gebäuden mit drei
+und mehr Wohnungen festgelegt. Die Hamburger Mietenspiegeltabelle 2021 gliedert
+sich in neun Spalten, die durch die Baualters- und Ausstattungsklassen definiert werden:
+○ Spalte C: bis 31.12.1918, mit Bad und Sammelheizung
+○ Spalte F: 01.01.1919 bis 20.06.1948, mit Bad und Sammelheizung
+○ Spalte H: 21.06.1948 bis 31.12.1960, mit Bad und Sammelheizung
+○ Spalte I: 1961 bis 1967, mit Bad und Sammelheizung
+○ Spalte K: 1968 bis 1977, mit Bad und Sammelheizung
+○ Spalte L: 1978 bis 1993, mit Bad und Sammelheizung
+○ Spalte M: 1994 bis 2010, mit Bad und Sammelheizung
+○ Spalte N: 2011 bis 2015, mit Bad und Sammelheizung
+○ Spalte O: 2016 bis 2020, mit Bad und Sammelheizung
+Dokumentation Hamburger Mietenspiegel 2021 7
+Grundgesamtheit und Stichprobe
+Die Spalte B: bis 31.12.1918, mit Bad oder Sammelheizung wurde im Rahmen der Aus-
+wertung ebenfalls geprüft, konnte jedoch nicht ausgewiesen werden (siehe Kapitel 7.2).
+Neben den neun Spalten wird die Hamburger Mietenspiegeltabelle 2021 durch neun
+Zeilen charakterisiert, die sich aus den vier bzw. fünf Größenklassen und den zwei Wohn-
+lagen ergeben:
+○ Zeilen 1 bis 4: normale Wohnlage;
+o 25 m² bis unter 41 m²
+o 41 m² bis unter 66 m²
+o 66 m² bis unter 91 m²
+o ab 91 m²
+○ Zeilen 5 bis 9: gute Wohnlage;
+o 25 m² bis unter 41 m²
+o 41 m² bis unter 66 m²
+o 66 m² bis unter 91 m²
+o 91 m² bis unter 131 m²
+o ab 131 m²
+Die Hamburger Mietenspiegeltabelle 2021 umfasst damit 81 Tabellenfelder.
+5.2 Grundgesamtheit
+Die Grundgesamtheit der mietenspiegelrelevanten Wohnungen besteht aus allen Ham-
+burger Wohnungen, die folgende Kriterien erfüllen:
+○ Lage in einem Mehrfamilienhaus (mehr als zwei Wohnungen)
+○ freifinanzierte Wohnungen
+○ Wohnungen mit einer Bezugsfertigkeit bis zum 31.12.2020
+Im Rahmen der Erstellung des Hamburger Mietenspiegels 2015 wurde die Grundgesamt-
+heit auf der Grundlage der Ergebnisse der Gebäude- und Wohnungszählung 2011 (Zen-
+sus 2011) neu berechnet. Für den Hamburger Mietenspiegel 2021 erfolgte auf Basis der
+Grundgesamtheit 2019 eine Fortschreibung. Für diese Fortschreibung wurden die fol-
+genden Daten herangezogen:
+○ Wohnungsneubau von Wohngebäuden mit drei und mehr Wohnungen der Jahre
+2019 und 2020 (Quelle: Statistisches Amt für Hamburg und Schleswig-Holstein)
+○ Geförderter Wohnungsneubau von Wohngebäuden mit drei und mehr Wohnun-
+gen der Jahre 2019 und 2020 (Daten der Behörde für Stadtentwicklung und Woh-
+nen und Hamburgische Investitions- und Förderbank)
+○ Sozialwohnungsbestand, der in den Jahren 2019 und 2020 aus der Mietpreisbin-
+dung gefallen ist (Quelle: Behörde für Stadtentwicklung und Wohnen und der
+Hamburgischen Investitions- und Förderbank)
+Dokumentation Hamburger Mietenspiegel 2021 8
+Grundgesamtheit und Stichprobe
+○ Baufertigstellungen der Modernisierungsprogramme Mod A (mit Mietpreisbin-
+dung) und Mod B der Jahre 2019 und 2020 (Behörde für Stadtentwicklung und
+Wohnen und Hamburgische Investitions- und Förderbank)
+Der Wohnungsneubau 2019 und 2020 wurde durch einen geschätzten Anteil an selbst-
+genutzten Eigentumswohnungen verringert. Es wird wie bei der Berechnung der Grund-
+gesamtheit für den letzten Mietenspiegel davon ausgegangen, dass rund 1/3 der Woh-
+nungen in Gebäuden mit Eigentumswohnungen vermietet werden. Die Tabelle 1 zeigt
+die zusammengefasste Berechnungssystematik der Neuberechnung.
+Tabelle 1: Berechnungssystematik für die Grundgesamtheit des Hamburger Mietenspiegels 2021
+Freifinanzierter Wohnungsbestand in Gebäuden mit
+549.935 Wohnungen
+drei und mehr Wohnungen 2019
+Neubau von Wohnungen in Gebäuden mit drei und mehr
++11.358 Wohnungen
+Wohnungen 2019 und 2020
+Geförderter Wohnungsneubau in Gebäuden mit drei und
+-7.068 Wohnungen
+mehr Wohnungen 2019 und 2020
+Förderprogramm Mod A und B 2019 und 2020 -1.950 Wohnungen
+Bindungsende von geförderten Wohnungen in Gebäu-
++10.140 Wohnungen
+den mit drei und mehr Wohnungen 2019 und 2020
+Modernisierung von Wohnungen der Minderausstattung
++565 Wohnungen
+(ehemalige Spalten A, E und G)
+Grundgesamtheit Hamburger Mietenspiegel 2021
+562.980 Wohnungen
+(=Wohnungsbestand 31.12.2020)
+Die in den Jahren 2019 und 2020 ermittelten Fertigstellungen an Wohnungen in Gebäu-
+den mit drei und mehr Wohnungen mussten um die geförderten Neubaumietwohnun-
+gen mit Mietpreis- und Belegungsbindung verringert werden, da es sich hierbei um einen
+nicht mietenspiegelrelevanten Wohnungsbestand handelt. Weiterhin durften auch die im
+Rahmen der Modernisierungsprogramme Mod A (mit Mietpreisbindung) und Mod B in
+den Jahren 2019 und 2020 neu geförderten Wohnungen entsprechend nicht berücksich-
+tigt werden, da diese ebenfalls über eine Mietpreisbindung verfügen.
+In den Jahren 2019 und 2020 sind zudem Wohnungen aus der öffentlichen Bindung ge-
+fallen und werden daher in der Grundgesamtheit 2021 als mietenspiegelrelevanter Woh-
+nungsbestand entsprechend berücksichtigt.
+Vor dem Hintergrund der fortschreitenden Wohnungsmodernisierung müssen entspre-
+chende Wohnungen der Minderausstattung aus den ehemaligen Mietenspiegelspalten
+A, E und G in den entsprechenden voll ausgestatteten Mietenspiegelspalten C, F und H
+berücksichtigt werden, wenn sie modernisiert wurden. Hier liegen keine amtlichen Sta-
+tistiken vor. Analog zum Vorgehen im Mietenspiegel 2019 wird davon ausgegangen, dass
+rund 6 % der minderausgestatteten Wohnungen in den Jahren 2019 und 2020 entspre-
+chend modernisiert wurden.
+Dokumentation Hamburger Mietenspiegel 2021 9
+Grundgesamtheit und Stichprobe
+Aus den Berechnungen ergibt sich die in der Tabelle 2 dargestellte Grundgesamtheit des
+mietenspiegelrelevanten Wohnungsbestands in der Freien und Hansestadt Hamburg im
+Raster der Mietenspiegeltabelle, die als Grundlage für die Berechnung von gewichteten
+Kennwerten für den gesamten mietenspiegelrelevanten Wohnungsbestand und von
+Wohnungsteilmärkten (vgl. Tabelle 2) dient.
+Dokumentation Hamburger Mietenspiegel 2021 10
+Grundgesamtheit und Stichprobe
+Tabelle 2: Grundgesamtheit zum Hamburger Mietenspiegel 2021
+01.01.19
+Baualtersklassen/ 21.06.48 1961 bis 1968 bis 1978 bis 1994 bis 2011 bis 2016 bis
+Bis 31.12.1918 bis
+Bezugsfertigkeit bis 1960 1967 1977 1993 2010 2015 2020
+20.06.48
+Mit Bad Mit Bad Mit Bad Mit Bad Mit Bad Mit Bad Mit Bad Mit Bad Mit Bad Mit Bad insge-
+oder und und und und und und und und und samt
+Ausstattung
+Sammel- Sammel- Sammel- Sammel- Sammel- Sammel- Sammel- Sammel- Sammel- Sammel-
+heizung heizung heizung heizung heizung heizung heizung heizung heizung heizung
+Wohn- Wohnfläche
+B C F H I K L M N O
+lage
+25 m² bis
+1 < 1.000 5.400 4.600 17.600 8.300 9.400 1.500 1.300 < 1.000 1.000 50.300
+unter 41 m²
+nor-
+41 m² bis
+male 2 1.200 27.000 33.000 88.800 30.900 22.400 9.100 7.100 2.800 1.800 224.100
+unter 66 m²
+Wohn-
+66 m² bis
+lage 3 < 1.000 13.300 9.400 20.600 30.800 28.200 9.500 7.300 3.000 2.400 125.200
+unter 91 m²
+ab 91 m² 4 < 1.000 4.200 1.400 1.300 1.400 4.400 1.800 2.800 1.700 2.800 22.200
+25 m² bis
+5 < 1.000 2.500 < 1.000 5.200 3.500 1.900 < 1.000 < 1.000 < 1.000 < 1.000 15.600
+unter 41 m²
+41 m² bis
+6 < 1.000 12.400 5.600 15.900 7.800 3.900 2.800 2.400 < 1.000 < 1.000 52.300
+gute unter 66 m²
+Wohn- 66 m² bis
+7 < 1.000 8.600 5.800 11.800 6.500 4.600 2.400 3.200 < 1.000 1.600 45.800
+lage unter 91 m²
+91 m² bis
+8 < 1.000 6.000 2.600 3.000 1.100 1.200 1.200 2.000 < 1.000 1.300 19.000
+unter 131 m²
+ab 131 m² 9 < 1.000 5.800 < 1.000 < 1.000 < 1.000 < 1.000 < 1.000 < 1.000 < 1.000 < 1.000 8.500
+insgesamt 4.100 85.200 63.600 164.300 90.500 76.300 29.400 26.900 10.300 12.400 563.000
+Dokumentation Hamburger Mietenspiegel 2021 11
+Grundgesamtheit und Stichprobe
+5.3 Ziehung der Stichprobe
+Der Hamburger Mietenspiegel 2021 ist eine Neuerhebung auf Basis einer neuen dispro-
+portionalen Zufallsstichprobe aus der mietenspiegelrelevanten Grundgesamtheit.
+Grundlage für die Stichprobenziehung war eine Grundgesamtheitsdatei, die alle mieten-
+spiegelrelevanten Wohnungen in Hamburg umfasst. Die genaue Abgrenzung dieses
+Wohnungsbestands ist aus den vorliegenden Grundlagendateien, die durch die Behörde
+für Stadtentwicklung und Wohnen und anderer Hamburger Behörden zur Verfügung ge-
+stellt wurden, nicht möglich. Ein wesentlicher Faktor der Abgrenzung der mietenspiegel-
+relevanten Befragungsgrundgesamtheit ist die 6-Jahresregel, nach der nur solche Mieten
+einbezogen werden, die in den letzten sechs Jahren neu vereinbart oder, von einer Erhö-
+hung nach § 560 BGB (Betriebskostenänderung) abgesehen, geändert worden sind. Für
+diesen Sachverhalt liegen keine Statistiken oder Datengrundlagen vor, da die Vertrags-
+bestandteile nur den Vertragspartnern bekannt sind. Die zur Verfügung gestellten Da-
+tengrundlagen enthalten ebenfalls keine Informationen zur Wohnungsgröße und zur
+Wohnungsausstattung, so dass diese Kriterien im Rahmen der Stichprobenziehung nicht
+berücksichtigt werden können.
+Für die Erarbeitung der Befragungsgrundgesamtheit wurden folgen Dateien zur Verfü-
+gung gestellt:
+○ Datei mit allen aktuellen Hamburger Adressen (Quelle: Statistisches Amt für Ham-
+burg und Schleswig-Holstein)
+○ Adressdatei des geförderten Wohnungsbestandes in Hamburg (Quelle: IFB)
+○ Stromzählerdatei mit der Zahl der privat genutzten Stromzähler (Quelle: Strom-
+netz Hamburg)
+○ Baujahresdatei (Quelle: Landesbetrieb Geoinformation und Vermessung)
+○ Datei mit den Studierenden- und Alterswohnheimen in Hamburg (Quelle: Inter-
+netrecherche und Behörde für Arbeit, Gesundheit, Soziales, Familie und Integra-
+tion)
+○ Abfallwirtschaftsdatei zur Ermittlung der Eigentümer und Verwalter (Quelle:
+Stadtreinigung Hamburg)
+○ Wohnlagendatei (Quelle: Analyse & Konzepte)
+Die aufgebaute Befragungsgrundgesamtheit stellte die Grundlage für die Stichproben-
+ziehung dar, wobei eine Differenzierung nach Wohnlage und Baualtersklassen erfolgte
+(disproportionales Stichprobenkonzept). Diese Form der Schichtung nach Wohnlage und
+Baualtersklassen wurde angewandt, um auch in Befragungsclustern mit vergleichsweise
+kleinem Wohnungsbestand einen ausreichend hohen Rücklauf zu erhalten, mit dem sich
+die entsprechenden Felder der Mietenspiegeltabelle füllen lassen. Die Stichprobengröße
+wurde so angelegt, dass in jedem Befragungscluster ein ausreichend hoher Rücklauf er-
+wartet werden konnte.
+Dokumentation Hamburger Mietenspiegel 2021 12
+Grundgesamtheit und Stichprobe
+Insgesamt ergab sich auf Basis der zur Verfügung stehenden Datengrundlage eine Be-
+fragungsgrundgesamtheit von rund 727.000 Wohnungen. Die Befragungsgrundgesamt-
+heit umfasste hierbei alle Wohnungen in Mehrfamilienhäusern, die keine rechtlichen oder
+vertraglichen Mietpreisbindungen aufgrund einer Förderung mit öffentlichen Mitteln
+aufweisen. Zusätzlich wurde die Grundgesamtheit um die Wohnheimplätze und die von
+Eigentümern selbst bewohnten Wohnungen (soweit entsprechende Angaben zur Verfü-
+gung standen) bereinigt. Die Zahl der Wohnungen in der Befragungsgrundgesamtheit
+wurde aus der Zahl der Stromzähler abgeleitet. Diese Zahl ist höher als die Grundge-
+samtheit der Mietwohnungen in Hamburg. Die Differenz beträgt rund 160.000 Fälle.
+Gründe hierfür sind:
+○ Häufig findet sich neben den reinen Wohnungszählern auch noch ein Stromzäh-
+ler für Allgemeinstrom in den Wohnobjekten oder in anderen Gebäuden an den
+vorliegenden Adressen (z. B. Gartenhäuschen).
+○ Zusätzlich konnten beim Aufbau der Befragungsgrundgesamtheit die selbstnut-
+zenden Wohnungseigentümer – insbesondere in Wohneigentumsanlagen – nicht
+bereinigt werden, da zu diesem Zeitpunkt ein Abgleich zwischen Eigentümer und
+gemeldeten Personen aus datenschutzrechtlichen Gründen nicht erfolgen
+konnte.
+Aufgrund dieser Datenungenauigkeiten kommt es zu einer deutlichen Abweichung von
+der in Tabelle 2 ausgewiesenen Grundgesamtheit. Im Rahmen der Datenerhebung wird
+durch entsprechende Filterfragen eine Reduktion der Stichprobenfälle auf den mieten-
+spiegelrelevanten Wohnungsbestand gewährleistet.
+Aus diesen Datenbeständen wurde eine Stichprobe von 166.260 Wohnungen gezogen
+mit dem Grundprinzip von 8.900 Bruttostichprobenfällen bzw. der maximal verfügbaren
+Fallzahl pro Befragungscluster (vgl. Tabelle 3). Falls in der Befragungsgrundgesamtheit
+keine ausreichende Anzahl vorlag, wurden die gesamten vorhandenen Befragungsfälle
+im Rahmen der Datenerhebung zum Hamburger Mietenspiegel berücksichtigt.
+Dokumentation Hamburger Mietenspiegel 2021 13
+Grundgesamtheit und Stichprobe
+Tabelle 3: Bruttostichprobe nach Befragungsclustern
+Wohnlage
+Baualtersklasse
+Normal Gut Insgesamt
+Bis 1918 8.900 8.574 17.474
+1919 bis 1948 8.900 7.863 16.763
+1949 bis 1960 8.900 8.900 17.800
+1961 bis 1967 8.900 8.900 17.800
+1968 bis 1977 8.900 8.900 17.800
+1978 bis 1993 8.900 8.900 17.800
+1994 bis 2010 8.900 8.900 17.800
+2011 bis 2015 8.900 4.754 13.654
+2016 bis 2021 8.900 2.669 11.569
+ohne Baualtersinformation 8.900 8.900 17.800
+Insgesamt 89.000 77.260 166.260
+Tabelle 4: Verteilung der Bruttostichprobe nach Vermieterstruktur*
+Vermieter/Verwalter Wohnungsbestand
+Anteil in % Anteil in %
+Vermieterstruktur Befragungs- Befragungs-
+grundge- Stichprobe grundge- Stichprobe
+samtheit samtheit
+5.000 und mehr
+0,1% 0,1% 24,2% 16,4%
+Wohnungen
+1.000 bis 4.999
+0,7% 0,9% 24,3% 22,9%
+Wohnungen
+500 bis 999 Wohnungen 0,7% 0,9% 9,9% 11,3%
+weniger als 500
+98,6% 98,0% 33,7% 40,8%
+Wohnungen
+Kein Vermieter identifi-
+7,8% 8,6%
+ziert
+100,0% 100,0% 100,0% 100,0%
+Insgesamt
+14.630 10.820 727.201 166.260
+*Verteilung vor der Datenlieferung durch das Einwohnermeldeamt
+Die Bruttostichprobe von 166.260 Stichprobenfällen wurde an das Bezirksamt Harburg/
+Einwohneramt übermittelt, das aus dem Melderegister zufällig gezogene volljährige Per-
+sonen auswählte und der Stichprobe zuspielte. Die vom Einwohneramt zurückgemeldete
+Bruttostichprobe enthielt noch rund 160.000 Stichprobenfälle für die Datenerhebung
+zum Hamburger Mietenspiegel 2021. Durch die Festlegung der Zahl der Wohnungen an
+einer Adresse auf Basis der Stromzählerdatei wurden an einigen Adressen mehr Stich-
+probefälle ausgewählt, als gemeldete Personen vorhanden waren. Daneben kann durch
+einen Wohnungswechsel eine Wohnung meldetechnisch leer stehen, obwohl vielleicht
+Dokumentation Hamburger Mietenspiegel 2021 14
+Grundgesamtheit und Stichprobe
+bereits ein neuer Mietvertrag besteht. Dieses führt zu einer Verringerung der Bruttostich-
+probe.
+Aufgrund der Corona-Pandemie konnte anders als bei den vorherigen Mietenspiegel-
+Erstellungen keine Befragung der Mieterinnen und Mieter durch Interviewerinnen und
+Interviewer durchgeführt werden. Deshalb wurde auf eine schriftliche Befragung gewech-
+selt. Da ein höherer Rücklauf der Fragebögen für dieses Verfahren als für eine persönliche
+Befragung zu erwarten war, wurde aus der Stichprobe per Zufall eine Substichprobe für
+die mieterseitige Befragung gezogen. Die Stichprobe beinhaltete 55.017 Datensätze. Sie
+wurde um Datensätze mit fehlenden Angaben bereinigt. Zudem wurden Personen mit
+gleichem Nachnamen nur einmal befragt, da in diesen Fällen von gleichen Haushalten
+ausgegangen wurde. Es verblieben 54.450 Personen, die für die Mieterbefragung kon-
+taktiert wurden.
+Ausgehend vom vorläufigen Rücklauf der Mieterbefragung wurde für die Vermieterbe-
+fragung eine Stichprobengröße von 56.400 Wohnungen festgelegt, um das angestrebte
+Rücklaufverhältnis von zwei Dritteln durch Vermieterinnen und Vermieter und einem
+Drittel durch Mieterinnen und Mieter zu erreichen. Am 25. Juni 2021 wurde die Vermie-
+terstichprobe aufbereitet. Zu diesem Zeitpunkt hatten 11.960 Mieterinnen und Mieter
+einen Fragebogen an ALP zurückgesendet bzw. online an der Befragung teilgenommen.
+Die verbliebenen 42.490 Wohnungen aus der Mieterbefragung wurden in der Vermieter-
+befragung erneut abgefragt. Darüber hinaus wurden Wohnungen aus der Mieterbefra-
+gung erneut für die Vermieterbefragung berücksichtigt, wenn die angegebenen Miet-
+werte nicht plausibilisiert werden konnten oder die Angaben zu einer Einstufung in Spalte
+B (Minderausstattung) führten.
+Die ermittelten Wohnungen für die Vermieterbefragung wurden um Fälle bereinigt, für
+die Vermieterinnen und Vermieter nicht bekannt waren. Es verblieben 39.965 Wohnun-
+gen für die Vermieterbefragung. Ergänzend wurde die Differenz zu den angestrebten
+56.400 Wohnungen zu gleichen Teilen aus den Befragungsclustern in Tabelle 3 gezogen.
+Zusätzlich wurden 500 Wohnungen aus dem verwertbaren Rücklauf der Mieterbefragung
+gezogen, für die Kontrollbefragungen durchgeführt werden sollten. Die Stichprobe von
+nun 56.900 Wohnungen der Vermieterbefragung wurde noch um nicht anschreibbare
+Vermieterinnen und Vermieter (etwa, weil die Adresse unvollständig war) mit 227 Woh-
+nungen bereinigt, sodass letztlich 6.313 Vermieterinnen und Vermieter zu 56.573 Woh-
+nungen befragt wurden. Durch dieses Verfahren sind Mieter- und Vermieterstichprobe
+im Grundsatz im Hinblick auf die Vermieterstruktur weitestgehend strukturgleich (vgl.
+Tabelle 5): Da die Vermieterstichprobe zu großen Teilen auf den Wohnungen beruht, für
+die mieterseitig keine Antworten vorlagen, kann es zu leichten Verschiebungen der Ver-
+mieterstruktur kommen, wenn die Rücklaufquoten von Mieterinnen und Mietern in be-
+stimmten Clustern über- bzw. unterdurchschnittlich ausgefallen sind. Dies ist im Hinblick
+auf die repräsentative Abbildung des mietenspiegelrelevanten Wohnungsbestandes ein
+gewünschter Effekt, da auf Seiten der Vermieter dann die Segmente des Wohnungsmark-
+tes befragt werden, aus denen in der Mieterbefragung unterproportional viele Rückmel-
+dungen gegeben wurden.
+Dokumentation Hamburger Mietenspiegel 2021 15
+Grundgesamtheit und Stichprobe
+Da zudem für 4.630 Befragungsfälle der Mieterstichprobe keine Vermieterin oder keinen
+Vermieter identifiziert werden konnte, ergeben sich weitere geringfügige Abweichungen
+in der Struktur.
+Tabelle 5: Verteilung der Bruttostichprobe nach Erhebungstyp*
+Mieterbefragung Vermieterbefragung
+Vermieterstruktur
+Anteil in % Anteil in %
+5.000 und mehr Wohnungen 16,3% 18,5%
+1.000 und mehr Wohnungen 23,5% 25,6%
+500 bis 999 Wohnungen 12,1% 12,9%
+Weniger als 500 Wohnungen 39,7% 43,0%
+Kein Vermieter identifiziert 8,4%
+Insgesamt 100,0% 100,0%
+*Verteilung nach der Datenlieferung durch das Einwohnermeldeamt
+Dokumentation Hamburger Mietenspiegel 2021 16
+Datenerhebung
+6 Datenerhebung
+Die Datenerhebung wurde von ALP als eine kombinierte Mieter-/Vermieterbefragung
+vollständig in eigener Regie durchgeführt, wodurch eine besonders effiziente Datener-
+hebung und Ergebniskontrolle möglich war. Die Befragungen erfolgten schriftlich, mittels
+Online-Maske und als Datenbankabfrage aus den wohnungswirtschaftlichen Program-
+men der Unternehmen.
+Die Erhebungsmaterialien – Fragebogen (vgl. Anhang D) und Anschreiben (vgl. Anhänge
+E bis G) wurden in Abstimmung mit der Behörde für Stadtentwicklung und Wohnen von
+ALP erstellt und mit dem Arbeitskreis Mietenspiegel abgestimmt.
+6.1 Mieterbefragung
+Anders als bisher wurde die Mieterbefragung aufgrund der Corona-Pandemie als rein
+schriftliche Befragung durchgeführt, wobei ebenfalls die Möglichkeit bestand, online an
+der Befragung teilzunehmen. Mieterinnen und Mietern wurde der Fragebogen postalisch
+zugesandt, die Zugangsdaten für die Online-Maske waren auf dem beigefügten An-
+schreiben abgedruckt.
+Die von der Auftraggeberin oder anderen Behörden in Amtshilfe zur Verfügung gestell-
+ten Grundlagendaten ermöglichten nicht die Bereinigung der Stichprobe um alle nicht-
+mietenspiegelrelevanten Wohnungen. Insbesondere für die Sechs-Jahresregel liegen
+amtlicherseits keine Informationen vor: Hiervon haben nur die beiden Mietparteien
+Kenntnis. Im Fragebogen wurden deshalb zu Anfang Filterfragen gestellt, mit denen nicht
+mietenspiegelrelevante Wohnungen aussortiert wurden.
+Der Fragebogen konnte von den angeschriebenen Haushalten auch online ausgefüllt
+werden. Um ein doppeltes Ausfüllen (schriftlich wie online) auszuschließen und sicherzu-
+stellen, dass nur die Personen der Mieterstichprobe an der Befragung teilnehmen, wurde
+jeder von der Befragung betroffenen Person eine eigene Zugangskennung übermittelt,
+die nach einmaliger Verwendung nicht erneut genutzt werden konnte. Insgesamt haben
+32,4 % der Rückmeldenden diesen digitalen Weg gewählt. Die schriftliche Befragung bei
+den Mieterinnen und Mietern begann im April 2021. Insgesamt wurden 54.450 Haushalte
+kontaktiert.
+Dokumentation Hamburger Mietenspiegel 2021 17
+Datenerhebung
+Tabelle 6: Feldverlauf Mieterbefragung - Stichprobenausschöpfung
+Anzahl Anteil
+Stichprobenfälle in %
+Bruttostichprobe 54.450 100,0%
+Keine Rückmeldung 42.267 77,6%
+Rückmeldung 12.183 22,4%
+Ausschluss nach Filterfragen 4.954 40,7%
+Davon:
+○ Selbstnutzende Eigentümer 2.176 43,9%
+○ 6-Jahresregel 1.657 33,4%
+○ Weniger als drei Wohnungen 153 3,1%
+○ Andere Gründe (z.B. Mietpreisbin- 968 19,5%
+dung, möblierte Wohnung)
+Mietenspiegelrelevant laut Filterfragen 7.229 59,3%
+6.2 Vermieterbefragung
+Die Vermieterbefragung erfolgte getrennt für zwei Gruppen. Hierbei wurde zwischen
+Vermieterinnen und Vermietern mit einem großen Wohnungsbestand und Eigentüme-
+rinnen und Eigentümern mit einem geringen Wohnungsbestand (Kleinvermieter/innen)
+unterschieden. Die Vermieterbefragung erfolgte via Online-Maske bei den Vermieterin-
+nen und Vermietern mit wenig Wohnungsbestand sowie als Datenbankabfrage aus den
+wohnungswirtschaftlichen Programmen der Wohnungsunternehmen.
+Die Bruttostichprobe umfasste 6.313 Eigentümerinnen und Eigentümer bzw. Vermiete-
+rinnen und Vermieter mit 56.573 Wohnungen, woraus 15.472 Daten vor der Datenberei-
+nigung gewonnen werden konnten. Insgesamt haben 1.378 Vermieterinnen und Vermie-
+ter mietenspiegelrelevante Daten geliefert.
+Der Fragebogen der Vermieterbefragung unterschied sich vom Mieterfragebogen nur
+dahingehend, dass auf Seiten der Vermieterinnen und Vermieter zusätzlich Fragen zur
+Energetik abgefragt wurden. Die erstellte Datenmaske für die elektronische Abfrage ent-
+sprach dem Fragebogen. Die Befragungsunterlagen wurden mit dem Arbeitskreis Mie-
+tenspiegel abgestimmt.
+Dokumentation Hamburger Mietenspiegel 2021 18
+Datenerhebung
+Tabelle 7: Feldverlauf Vermieterbefragung - Stichprobenausschöpfung
+Vermieter nach Anzahl
+Insgesamt
+Stichprobenfälle
+Anzahl
+150 und 50 bis Stich- Anteil in
+Unter 50
+mehr 149 proben- %
+fälle
+Bruttostichprobe
+○ Stichprobenfälle 19.225 14.928 22.420 56.573 100,0%
+○ Vermieter/in 51 174 6.088 6.313 100,0%
+Keine Rückmeldung
+○ Stichprobenfälle 9.832 12.640 18.629 41.101 72,7%
+○ Vermieter/in 30 142 4.763 4.935 78,2%
+Rücklauf
+○ Stichprobenfälle 9.393 2.288 3.791 15.472 27,3%
+○ Vermieter/in 21 32 1.325 1.378 21,8%
+Die Feldphase wurde von einer intensiven telefonischen Betreuung durch Mitarbeiterin-
+nen und Mitarbeiter von ALP begleitet, welche viele Fragen von Vermieterinnen oder
+Vermietern direkt beantworten konnten. Der Erhebungszeitraum erstreckte sich von
+Ende Juni 2021 bis Anfang Oktober 2021.
+6.3 Feldkontrollen
+Die ausgefüllten Fragebogen, die entweder online oder als Papierfragebogen bei ALP
+eingegangen sind, wurden zunächst erfasst und für die weitere Verwertung aufbereitet.
+Die Daten wurden nachfolgend in einer ersten Prüfung auf Vollständigkeit der Angaben
+oder unplausible Kombinationen überprüft. Auftretende Datenlücken und Unplausibili-
+täten wurden durch Rückfragen bei den befragten Mieterinnen und Mietern sowie Ver-
+mieterinnen und Vermietern geklärt. Konnte keine Klärung erzielt werden, z. B. weil wich-
+tige Unterlagen nicht mehr vorlagen, wurden die Daten im weiteren Arbeitslauf der Er-
+stellung des Hamburger Mietenspiegels 2021 nicht mehr berücksichtigt.
+Zusätzlich erfolgte eine Kontrollerhebung auf der jeweils anderen Vertragsseite. Insge-
+samt lagen für 431 Wohnungen sowohl mieter- wie auch vermieterseitig Angaben vor.
+Die Kontrollbefragung ergab keine relevanten Abweichungen. Der Umfang der Kontroll-
+befragungen war höher als bei den Mietspiegelerhebungen 2017 und 2019, da bei der
+schriftlichen Befragung einerseits eine größere Unsicherheit bezüglich der Richtigkeit der
+Angaben vorlag und andererseits Mieterinnen und Mieter erst nach dem Stichtag für die
+Vermieterbefragung antworteten. Dies führte dazu, dass die entsprechenden Wohnun-
+gen ebenfalls auf Seiten der Vermieterinnen und Vermieter abgefragt wurden.
+Dokumentation Hamburger Mietenspiegel 2021 19
+Datenbereinigung und -auswertung
+7 Datenbereinigung und -auswertung
+7.1 Überblick
+Die bei Mieterinnen und Mietern sowie Vermieterinnen und Vermietern erhobenen Woh-
+nungsdaten wurden gemeinsam aufbereitet. Zur Auswertung des Datenmaterials wurden
+zusammengefasst folgende Schritte durchgeführt:
+○ Kennzeichnung und Ausfilterung nicht mietenspiegelrelevanter Wohnungen
+○ Prüfung der Datensätze durch IT-gestützte Plausibilitätskontrollen
+○ Abstellung auf den Mietbegriff der Nettokaltmiete
+○ Kennzeichnung der Daten mit dem zugehörigen Tabellenfeld des abgestimmten
+Mietenspiegelrasters
+○ Aufbereitung der repräsentativen Datenbasis aller mietenspiegelrelevanten Woh-
+nungen
+○ Durchführung einer Ausreißerbereinigung
+○ Durchführung von statistischen Zusatzanalysen
+Tabelle 8: Ergebnisse der Datenbereinigung im Hamburger Mietenspiegel 2021
+Absolut In %
+Eingegangene Rückmeldungen 27.655 100,0%
+Davon:
+Mieterbefragung 12.183 44,1%
+Vermieterbefragung 15.472 55,9%
+Abzüglich Kontrollbefragung 431 1,6%
+Unplausible bzw. nicht mietenspiegelrelevante Datensätze 13.301 48,1%
+Davon:
+- Filterfragen 4.887
+- 6-Jahresregel 3.704
+- Fehlende/unplausible Daten (Baujahr, Nettokaltmiete, etc.) 939
+- Wohnung kleiner als 25 m² 64
+- Herstellung der Repräsentativität in Bezug auf den Vermieter- 3.707
+typ
+Plausible und mietenspiegelrelevante Datensätze 13.923 50,4%
+Ausreißerbereinigung (99 %-Vertrauensintervall) 254 1,8%1
+Gering besetzte Felder (weniger als 10 Mietwerte, Spalte B) 113 0,8%1
+In die Mietenspiegeltabelle eingeflossene Datensätze 13.556 49,0%
+Nach der Befragung von Mieterinnen und Mietern sowie Vermieterinnen und Vermietern
+standen für die Erstellung des Hamburger Mietenspiegels 2021 27.655 Datensätze zur
+Verfügung (vgl. Kapitel 6). Im Rücklauf wurden zu Beginn die Kontrollbefragungen iden-
+tifiziert und aus der Datenbasis herausgenommen. Anschließend wurde sie um die Fälle
+1 Anteil bezieht sich auf die plausiblen und mietenspiegelrelevanten Datensätze
+Dokumentation Hamburger Mietenspiegel 2021 20
+Datenbereinigung und -auswertung
+bereinigt, die aufgrund der Filterfragen nicht für die Erstellung des Mietenspiegels in
+Frage kamen. Danach folgte eine IT-gestützte Plausibilitätskontrolle und Wohnungen mit
+zu kleiner Wohnfläche wurden aussortiert. Nachdem in einem weiteren Schritt sicherge-
+stellt wurde, dass die Vermietertypen im richtigen Verhältnis in die Tabellenfelder einge-
+hen, verblieben 13.923 Datensätze, die plausibel und mietenspiegelrelevant waren. Durch
+die Reduzierung des Datenpools um die Ausreißerwerte, die Streichung der Spalte B (auf-
+grund zu niedrigen Rücklaufs bzw. abweichender Antworten bezüglich der Minderaus-
+stattungen in den Fällen, in denen Kontrollbefragungen vorlagen) und die Daten in Ta-
+bellenfeldern mit weniger als zehn Datensätzen sind in die Mietenspiegeltabelle insge-
+samt 13.556 vollgültige Datensätze eingeflossen, davon 5.406 vollgültige Mieterinter-
+views.
+7.2 Datenbereinigung
+Nach der Zusammenfassung der Daten und den während der Erhebung durchgeführten
+Überprüfungen zur Vollständigkeit und Plausibilität erfolgte eine IT-gestützte Datenbe-
+reinigung.
+Die von den Mieterinnen und Mietern sowie von den Vermieterinnen und Vermietern zur
+Verfügung gestellten Daten wurden von ALP auf inhaltliche Plausibilität überprüft und
+Unstimmigkeiten geklärt. Konnte keine Klärung erfolgen, wurde der Datensatz entspre-
+chend gekennzeichnet und nicht mehr in den weiteren Auswertungsschritten zum Ham-
+burger Mietenspiegel 2021 berücksichtigt. Gründe, die zu einem Ausschluss geführt ha-
+ben, waren:
+○ Es bestand kein Mietverhältnis (z. B. selbstnutzende Eigentümer),
+○ Mietverträge bzw. Mietänderungserklärungen außerhalb der 6-Jahresregel,
+○ Mietverhältnis ist aufgrund anderer Filterfrage nicht mietenspiegelrelevant,
+○ fehlende bzw. falsche Angaben zum Baualter,
+○ fehlende bzw. unplausible Angaben zu den Mietvertragsdaten,
+○ fehlende Angaben zur Miete, der Wohnfläche oder zu Ausstattungsmerkmalen,
+die für die Einordnung in das Mietenspiegelraster notwendig sind,
+○ unplausible Mietangaben,
+○ Wohnfläche ist kleiner als 25 m²,
+○ unlogische Datenkombinationen.
+Im Rahmen dieser Datenprüfungen wurden 9.594 Datensätze gekennzeichnet und in den
+weiteren Arbeitsschritten nicht mehr berücksichtigt.
+Zusätzlich erfolgte bei 431 Wohnungsdatensätzen eine Überprüfung der Angaben auf
+der jeweils anderen Vertragsseite. Da eine Befragung durch Interviewerinnen und Inter-
+viewer für den Hamburger Mietenspiegel nicht möglich war, fiel die Zahl der Kontrollbe-
+fragungen höher aus als in vergangenen Mietenspiegeln. Es wurden insbesondere die
+Wohnungen in Kontrollbefragungen erneut abgefragt, für die eine Minderausstattung
+Dokumentation Hamburger Mietenspiegel 2021 21
+Datenbereinigung und -auswertung
+angegeben wurde. Die Auswertung hat ergeben, dass für keine Wohnung mit Minder-
+ausstattung eine Kontrollbefragung vorlag, die diese Minderausstattung bestätigte. Für
+andere Angaben konnten keine unerklärbaren Unstimmigkeiten in den Kontrollbefra-
+gungen festgestellt werden. Die 431 Wohnungsdatensätze der Kontrollbefragung wur-
+den entsprechend gekennzeichnet und in den weiteren Arbeitsschritten nicht mehr be-
+rücksichtigt.
+Aufgrund des Rücklaufs aus den Kontrollbefragungen, die Minderaustattungen nicht be-
+stätigen konnten, wurde entschieden, die bisher ausgewiesene Spalte B, die Wohnungen
+mit Baualtersklasse bis 1918 mit Bad oder Sammelheizung, nicht erneut auszuweisen.
+Schon in vergangenen Mietenspiegeln wurden nur wenige Felder der Spalte ausgewie-
+sen, darüber hinaus wird der Wohnungsbestand in dieser Spalte durch Modernisie-
+rungstätigkeiten stetig kleiner.
+7.3 Herstellung der Repräsentativität in Bezug auf den Vermietertyp
+Nachdem die Datenbasis in Hinblick auf unvollständige und unplausible Datensätze be-
+reinigt wurde, konnte im nächsten Schritt die Repräsentativität der Datenbasis hergestellt
+werden. Es ist grundsätzlich so, dass das Antwortverhalten nicht für alle Vermietertypen
+gleich ist. Damit Vermietertypen, die zuverlässiger antworten, in der Auswertung des
+Mietenspiegels nicht überrepräsentiert werden, muss eine Anpassung erfolgen. Hierzu
+erfolgte eine Orientierung an Tabelle 9, die von der Behörde für Stadtentwicklung und
+Wohnen bereitgestellt wurde. In der Tabelle werden die Vermietertypen „kommunales
+Wohnungsunternehmen“ (SAGA), „Genossenschaften“ und „Andere“ sowie ihre Anteile
+in der Grundgesamtheit gegliedert in die Tabellenfelder des Hamburger Mietenspiegels
+ausgewiesen. Damit die Datenbasis in möglichst allen Tabellenfeldern repräsentativ ist,
+wurden für jedes Tabellenfeld getrennt nach Vermietertyp Stichproben für die Erstellung
+der Mietenspiegeltabelle gezogen.
+Die Größe der Stichprobe orientierte sich dabei am ausgewiesenen Anteil des Vermieter-
+typs im entsprechenden Tabellenfeld, sodass das Verhältnis der Vermietertypen in der
+Datenbasis so nahe wie möglich an dem in Tabelle 9 ausgewiesenen liegt. Für den am
+stärksten unterrepräsentierten Vermietertyp werden dabei alle Datensätze beibehalten.
+Die Größe der Stichproben der beiden verbliebenen Vermietertypen orientieren sich an
+der Zahl der Datensätze dieses Vermietertyps. So wird die Zahl der Datensätze, die durch
+das beschriebene Verfahren nicht weiter berücksichtigt werden, minimiert. Sollten für ei-
+nen Vermietertyp keine Datensätze zur Verfügung stehen, wurden die verbliebenen bei-
+den Vermietertypen in das zueinander passende Verhältnis gesetzt.
+Die in Tabelle 9 ausgewiesenen Prozentwerte werden in Feldern mit niedrigen Fallzahlen
+nur näherungsweise erreicht. Dies liegt daran, dass beispielsweise in einem Feld mit 20
+Datensätzen jeder Datensatz allein 5 % ausmacht. Je höher die Fallzahl, desto genauer
+wird der Zielwert erreicht.
+Dokumentation Hamburger Mietenspiegel 2021 22
+Datenbereinigung und -auswertung
+Tabelle 9: Anteil der Vermietertypen an Grundgesamtheit nach Baualter, Wohnlage und Wohnungsgröße in %
+Baualtersklasse Bis 1919 bis 21.6.1948 1961 bis 1968 bis 1978 bis 1994 bis 2011 bis 2016 bis
+31.12.1918 20.6.1948 bis 1960 1967 1977 1993 2010 2015 2020
+C F H I K L M N O
+SAGA 7% 21% 23% 37% 20% 1% 2% <1% <1%
+25 bis u.
+1 Genossenschaften 1% 11% 21% 18% 12% 4% 6% 10% <1%
+41 m²
+Andere 92% 68% 56% 45% 68% 95% 92% 90% 100%
+SAGA 7% 22% 25% 49% 20% 11% 5% 3% 5%
+41 bis u.
+l a 66 m²
+2 Genossenschaften 7% 18% 23% 17% 31% 25% 32% 20% 20%
+m Andere 86% 60% 52% 34% 49% 64% 63% 77% 75%
+r o SAGA 9% 16% 25% 51% 31% 19% 3% 1% 5%
+n 66 bis u.
+3 Genossenschaften 2% 26% 21% 21% 38% 30% 34% 25% 20%
+91 m²
+Andere 89% 58% 54% 28% 31% 51% 63% 74% 75%
+SAGA 10% 6% 14% 39% 33% 17% <1% 2% 5%
+ab 91 m² 4 Genossenschaften 2% 25% 30% 18% 33% 22% 22% 20% 20%
+Andere 88% 69% 56% 43% 34% 61% 78% 78% 75%
+SAGA 1% 7% 6% <1% 6% <1% <1% <1% <1%
+25 bis u.
+5 Genossenschaften 2% 6% 15% 4% 5% 1% 5% 5% <1%
+41 m²
+Andere 97% 87% 79% 96% 89% 99% 95% 95% 100%
+SAGA 3% 8% 4% 5% 9% 5% 1% <1% 5%
+41 bis u.
+6 Genossenschaften <1% 2% 22% 27% 5% 14% 9% 20% 3%
+66 m²
+Andere 97% 90% 74% 68% 86% 81% 90% 80% 92%
+SAGA 2% 12% 1% 3% 11% 2% 2% 2% 5%
+t 66 bis u.
+u 7 Genossenschaften <1% 6% 9% 39% 10% 11% 14% 20% 4%
+g 91 m²
+Andere 98% 82% 90% 58% 79% 87% 84% 78% 91%
+SAGA 1% 10% <1% <1% <1% <1% <1% 2% <1%
+91 bis u.
+8 Genossenschaften 1% 2% 5% 23% 4% 4% 12% 20% 1%
+131 m²
+Andere 98% 88% 95% 77% 96% 96% 88% 78% 99%
+SAGA 1% 10% <1% <1% <1% <1% <1% 2% 0%
+ab 131 m² 9 Genossenschaften 1% 2% 5% 23% 4% 4% 12% 20% 1%
+Andere 98% 88% 95% 77% 96% 96% 88% 78% 99%
+Quelle: Berechnung BSW auf Basis der Gebäude- und Wohnungszählung im Rahmen des Zensus 2011
+Dokumentation Hamburger Mietenspiegel 2021
+2 3
+Datenbereinigung und -auswertung
+7.4 Ausreißerbereinigung
+Vor Ermittlung der Feldbesetzung für die einzelnen Tabellenfelder der Mietenspiegelta-
+belle und der Berechnung der Mietkennwerte erfolgte für jedes Tabellenfeld eine Berei-
+nigung um sogenannte Ausreißerwerte. Bei Ausreißerwerten handelt es sich um Miet-
+werte, die nicht als marktüblich anzusehen sind bzw. signifikant von den anderen Miet-
+werten eines Tabellenfeldes abweichen und deshalb nicht in die weitere Berechnung ein-
+bezogen werden sollen.
+Auf Wunsch der Auftraggeberin und in Absprache mit dem Arbeitskreis Mietenspiegel
+wurde für den Hamburger Mietenspiegel 2021 das gleiche statistische Verfahren zur Aus-
+reißerbereinigung wie im Hamburger Mietenspiegel 2019 angewendet. Die Kappungs-
+grenze wurde damit erneut auf das 99 %-Vertrauensintervall festgelegt.
+Bei diesem statistischen Verfahren werden nicht pauschal 1 % der Mietwerte bereinigt,
+sondern nur solche Mietwerte als Ausreißerwerte gekennzeichnet, die außerhalb des fest-
+gelegten Vertrauensintervalls liegen. Diese Bereinigung wurde für jedes Mietenspiegel-
+feld getrennt berechnet. Durch dieses Verfahren ergibt sich nicht zwangsläufig in jedem
+Tabellenfeld eine Ausreißerbereinigung, z. B. wenn bei einer Verteilung die erhobenen
+Mietwerte eng um den Mittelwert liegen, werden in der Regel keine Mietwerte als Aus-
+reißerwerte gekennzeichnet.
+Durch die Ausreißerbereinigung wurden 254 Mietwerte nicht mehr in den weiteren Ar-
+beitsschritten zur Erstellung des Hamburger Mietenspiegels 2021 berücksichtigt.
+Tabelle 10: Ergebnisse der Ausreißerbereinigung im Hamburger Mietenspiegel 2021
+absolut relativ
+Mietwerte vor der
+13.923 100,0%
+Ausreißerbereinigung
+Anzahl der von der Ausreißerbe- Insgesamt: 254
+reinigung betroffenen Mietwerte davon: 24
+1,8%
+238 am oberen Ende
+16 am unteren Ende
+Mietwerte nach
+13.669 98,2%
+Ausreißerbereinigung
+Anzahl der Mietenspiegelfelder in
+denen durch die Ausreißerbereini-
+60 von 90 66,7%
+gung Mietwerte aus der Datenaus-
+wertung ausgeschlossen wurden
+Für die Ausreißerbereinigung wird die Spalte B noch berücksichtigt, sie entfällt anschließend für die Auswer-
+tung.
+Dokumentation Hamburger Mietenspiegel 2021 24
+Datenbereinigung und -auswertung
+7.5 Unzureichende Feldbesetzung
+Nach der zuvor beschriebenen Datenbereinigung erfolgte eine Auswertung der verblie-
+benen Daten bzw. die Ermittlung der Zahl der Datensätze je Tabellenfeld des abgestimm-
+ten Tabellenrasters.
+In Tabellenfeldern, die eine Fallzahl von weniger als 10 Mietwerten aufweisen, erfolgte
+keine weitere Berechnung von Mietkennwerten, obwohl es sich um mietenspiegelrele-
+vante Wohnungen handelte. Dieses Vorgehen ist auch in anderen Mietspiegeln üblich,
+da die Aussagekraft der Datenbasis für diese Felder als zu gering gesehen wird. Ebenso
+konnte die Minderausstattung von Wohnungen in Spalte B nicht durch Kontrollbefra-
+gungen bestätigt werden. In Abstimmung mit der Behörde für Stadtentwicklung und
+Wohnen sowie dem Arbeitskreis Mietenspiegel wurde festgestellt, dass für diese Tabel-
+lenfelder keine ausreichende Fallzahl für eine statistisch gesicherte Aussage vorlag.
+In den betroffenen Tabellenfeldern befanden sich insgesamt 113 Datensätze, die bei der
+weiteren Erstellung des Hamburger Mietenspiegels 2021 nicht mehr berücksichtigt wur-
+den (vgl. Tabelle 8).
+7.6 Feldbesetzung
+Im Hamburger Mietenspiegel 2021 konnte für die überwiegende Zahl der Tabellenfelder
+eine Feldbesetzung von 10 oder mehr vollgültigen Mietwerten erhoben werden (vgl. Ta-
+belle 11).
+Insgesamt konnten 76 Tabellenfelder bzw. 94 % aller Tabellenfelder im Hamburger Mie-
+tenspiegel 2021 ausgewiesen werden.2 In fünf Tabellenfeldern bzw. 6 % aller Tabellenfel-
+der erfolgte keine Ausweisung.
+25
+2 Die Spalte B, welche noch im Mietenspiegel 2019 ausgewiesen wurde, ist nicht Teil des Ham-
+burger Mietenspiegels 2021.
+Dokumentation Hamburger Mietenspiegel 2021 25
+Datenbereinigung und -auswertung
+Tabelle 11: Feldbesetzung zum Hamburger Mietenspiegel 2021 vor und nach Ausreißerbereinigung
+Bis 1919 bis 21.6.1948 bis 1961 bis 1968 bis 1978 bis 1994 bis 2011 bis 2016 bis Insgesamt
+Baualtersklasse
+31.12.1918 20.6.1948 1960 1967 1977 1993 2010 2015 2020
+Bad und Bad und Bad und Bad und Bad und Bad und Bad und Bad und Bad und
+Ausstattung Sammelhei- Sammelhei- Sammelhei- Sammelhei- Sammel- Sammel- Sammelhei- Sammelhei- Sammelhei-
+zung zung zung zung heizung heizung zung zung zung
+Wohn- Wohn- C F H I K L M N O
+lage fläche Vor Nach Vor Nach Vor Nach Vor Nach Vor Nach Vor Nach Vor Nach Vor Nach Vor Nach Vor Nach
+25 bis u.
+e 56 55 72 70 156 154 167 164 78 78 20 19 15 15 17 17 5 5 586 577
+g 41 m²
+a
+ln
+h 41 bis u.
+o 551 544 740 720 1.029 1.000 568 548 184 181 165 162 187 185 143 141 209 208 3.776 3.689
+W 66 m²
+e
+la 66 bis u.
+m 315 309 257 251 384 376 471 456 381 367 186 184 359 353 279 275 271 267 2.903 2.838
+r 91 m²
+o
+N
+ab 91 m² 167 164 32 31 23 23 16 15 52 50 31 31 115 113 185 183 140 134 761 744
+26
+25 bis u.
+42 41 28 28 100 98 83 81 32 32 18 18 9 9 4 4 10 10 326 321
+41 m²
+e 41 bis u.
+g 361 357 300 293 494 489 220 215 78 77 114 114 129 125 40 39 91 90 1.827 1.799
+a ln 66 m²
+h
+o 66 bis u.
+W 390 384 385 381 293 289 156 155 91 91 118 117 231 229 179 179 159 158 2.002 1.983
+e 91 m²
+t
+u
+G 91 bis u.
+409 405 183 181 89 89 38 37 55 55 70 69 156 153 129 127 89 87 1.218 1.203
+131 m²
+ab 131 m² 254 249 49 48 13 13 6 6 4 4 18 18 33 32 28 27 33 33 438 430
+Insgesamt 2.545 2.508 2.046 2.003 2.581 2.531 1.725 1.677 955 890 740 732 1.234 1.214 1.004 992 1.007 992 13.837 13.584
+In der Spalte B, die nicht ausgewiesen wurde, befand sich ein Ausreißer im Feld B8.
+Dokumentation Hamburger Mietenspiegel 2021 26
+Datenbereinigung und -auswertung
+7.7 Festlegung der Nettokaltmiete als Berechnungsgrundlage
+In Abstimmung mit dem Arbeitskreis Mietenspiegel wurde beim Hamburger Mietenspie-
+gel 2021, wie auch in den vorangegangenen Mietenspiegeln, die Nettokaltmiete zur Er-
+mittlung der Mietenspiegel-Kennwerte verwendet. Dies ist die Miete der Wohnung ein-
+schließlich gegebenenfalls erhobener Modernisierungszuschläge gemäß § 559 Abs. 1
+BGB ohne kalte Betriebskosten sowie ohne Kosten für Heizung und Warmwasser gemäß
+der Betriebskostenverordnung (BetrKV) sowie ohne Möblierungs-, Untermieterzuschläge
+und/oder Zuschläge für andere Nutzungen.
+7.8 Ermittlung der durchschnittlichen Nebenkosten
+Im Rahmen der Datenerhebung zum Hamburger Mietenspiegel wurden neben den Net-
+tokaltmieten auch die monatlichen Vorauszahlungen für die kalten Betriebskosten und
+die Vorauszahlungen für Heizung und Warmwasser erfasst. Es erfolgte keine Erhebung
+der tatsächlich gezahlten Betriebskosten gemäß der Betriebskostenabrechnung, sondern
+die am Stichtag der Datenerhebung gezahlte Vorauszahlung. Die auf dieser Datenbasis
+ermittelten durchschnittlichen Betriebskosten nach Baujahr und Ausstattung sind damit
+nur Richtwerte.
+Bei den nachfolgend ausgewiesenen Betriebskosten handelt es sich um Durchschnitts-
+werte ohne Differenzierung nach dem Umfang der enthaltenen Betriebskostenarten ge-
+mäß der Betriebskostenverordnung. D. h. es ist nicht bekannt, in welchem Umfang zum
+Beispiel Kosten für die Gartennutzung, Kosten für den Aufzug oder unterschiedliche
+Energiearten in den jeweiligen Vorauszahlungen enthalten sind.
+7.8.1 Durchschnittliche kalte Betriebskostenvorauszahlungen
+Die kalten Betriebskosten umfassen alle Betriebskosten (z B. Grundsteuer, Straßenreini-
+gung, Müllbeseitigung, Gebäudeversicherung) ohne die Kosten für Heizung und Warm-
+wasser. Die genaue Auflistung aller auf die Mieterin und den Mieter umlegbaren Be-
+triebskosten findet sich in § 2 der Betriebskostenverordnung (BetrKV). Die in Tabelle 12
+aufgeführten durchschnittlichen kalten Betriebskosten je m² Wohnfläche basieren auf
+den Betriebskostenvorauszahlungen der Mietenspiegelerhebung 2021 bei den Mieterin-
+nen und Mietern sowie Vermieterinnen und Vermietern. Die Kosten für Kaltwasser wur-
+den in der Berechnung nicht berücksichtigt, da ein Großteil der Haushalte diese direkt
+mit dem Versorger abrechnet. Die erfassten absoluten Betriebskostenvorauszahlungen
+wurden auf Betriebskosten je m² Wohnfläche umgerechnet. Wie auch bei den letzten
+Hamburger Mietenspiegeln wurden Werte unter 0,50 €/m² als unplausibel niedrige
+Werte nicht in der Auswertung berücksichtigt. Die durchschnittlichen kalten Betriebskos-
+ten sind in den Altbaubeständen bis 20.06.1948 weiterhin am niedrigsten. Die höchsten
+durchschnittlichen kalten Betriebskosten finden sich in den neueren Wohnungsbestän-
+den Hamburgs.
+Dokumentation Hamburger Mietenspiegel 2021 27
+Datenbereinigung und -auswertung
+Tabelle 12: Durchschnittliche kalte Betriebskostenvorauszahlungen nach Baualter und Ausstat-
+tung in €/m² 2017 bis 2021 (ohne Kaltwasserkosten)
+2021 2019 2017
+Baualtersklasse Spalte Ausstattung
+€/m² €/m² €/m²
+Bis 31.12.1918 C Bad und Sammelheizung 1,28 1,20 1,13
+1.1.1919 bis
+F Bad und Sammelheizung 1,28 1,23 1,19
+20.6.1948
+21.6.1948 bis
+H Bad und Sammelheizung 1,46 1,41 1,36
+31.12.1960
+1961 bis 1967 I Bad und Sammelheizung 1,54 1,45 1,43
+1968 bis 1977 K Bad und Sammelheizung 1,57 1,48 1,48
+1978 bis 1993 L Bad und Sammelheizung 1,51 1,51 1,50
+1994 bis 2010 M Bad und Sammelheizung 1,67 1,63 1,59
+2011 bis 2015 N Bad und Sammelheizung 1,73 1,85*
+2016 bis 2020 O Bad und Sammelheizung 1,86 1,85*
+*Eingeschränkte Vergleichbarkeit, da Baualtersklassen unterschiedlich zugeschnitten waren. Die neuen Bau-
+altersklassen N und O wurden beide mit Baualtersklasse N aus dem Mietenspiegel 2019 verglichen.
+7.8.2 Durchschnittliche Vorauszahlung für Heizung und Warmwasser
+Neben den Vorauszahlungen für die kalten Betriebskosten wurden im Rahmen des Ham-
+burger Mietenspiegels 2021 auch die Vorauszahlungen für Heizung und Warmwasser
+erhoben. Diese wurden auf Kosten je m² Wohnfläche umgerechnet.
+Dokumentation Hamburger Mietenspiegel 2021 28
+Datenbereinigung und -auswertung
+Tabelle 13: Durchschnittliche Vorauszahlungen für Heizung und Warmwasser nach Baualter und
+Ausstattung in €/m² 2021 im Vergleich zu 2019
+Baualters- 2021 2019
+klasse Ohne
+e
+t ZWV Ohne ZWV ZWV
+l a Ausstattung ZWV
+p
+S In In In In In In
+€/m² % €/m² % €/m² €/m²
+Bis Bad und Sammelhei-
+C 1,26 0,0 1,10 0,0 1,26 1,10
+31.12.1918 zung
+1.1.1919
+Bad und Sammelhei-
+bis F 1,24 6,9 1,09 0,0 1,16 1,09
+zung
+20.6.1948
+21.6.1948
+Bad und Sammelhei-
+bis H 1,36 12,4 1,08 -2,7 1,21 1,11
+zung
+31.12.1960
+1961 bis Bad und Sammelhei-
+I 1,37 11,4 1,05 1,0 1,23 1,04
+1967 zung
+1968 bis Bad und Sammelhei-
+K 1,23 8,8 1,00 -9,1 1,13 1,10
+1977 zung
+1978 bis Bad und Sammelhei-
+L 1,20 2,6 1,11 15,6 1,17 0,96*
+1993 zung
+1995 bis Bad und Sammelhei-
+M 1,06 2,9 1,06 9,3 1,03 0,97*
+2010 zung
+2011 bis Bad und Sammelhei-
+N 1,00 4,2 1,00* 0,96**
+2015 zung
+2016 bis Bad und Sammelhei-
+O 1,04 8,3 0,98 0,96**
+2020 zung
+*Weniger als 30 Fälle. **Eingeschränkte Vergleichbarkeit, da Baualtersklassen unterschiedlich zugeschnitten
+waren. Die neuen Baualtersklassen N und O wurden beide mit Baualtersklasse N aus dem Mietenspiegel
+2019 verglichen. ZWV= Zentrale Warmwasserversorgung
+7.9 Charakterisierung der ortsüblichen Vergleichsmiete
+Nach der Normierung der Daten auf den einheitlichen Begriff der Nettokaltmiete wurden
+die vorliegenden Daten entsprechend des mit dem Arbeitskreis Mietenspiegel abge-
+stimmten Tabellenrasters, das 81 Tabellenfelder umfasst, ausgewertet. Hierbei wurden
+nur Mietkennwerte für Tabellenfelder ermittelt, für die eine ausreichende Fallzahl von
+mindestens 10 Mietwerten vorlag (vgl. Kapitel 7.11). Die ortsübliche Vergleichsmiete wird
+in Form der durchschnittlichen Miethöhe und der jeweiligen Streuung und Spannweite
+der Mieten pro Feld beschrieben:
+○ arithmetischer Mittelwert nach Ausreißerbereinigung
+○ unterer und oberer Wert der 2/3-Spanne
+Dokumentation Hamburger Mietenspiegel 2021 29
+Datenbereinigung und -auswertung
+7.10 Berechnung der ortsüblichen Vergleichsmiete
+7.10.1 Durchschnittliche Nettokaltmietwerte
+In Abstimmung mit dem Arbeitskreis Mietenspiegel wird im Hamburger Mietenspiegel
+weiterhin das arithmetische Mittel als Mietkennwert ausgewiesen. Beim arithmetischen
+Mittel handelt es sich um das statistische Mittel aller vollgültigen mietenspiegelrelevan-
+ten Mietwerte. Die Berechnung dieser statistischen Kennwerte erfolgte nach der Ausrei-
+ßerbereinigung.
+7.10.2 Spannenbildung beim Hamburger Mietenspiegel 2021
+Die im Hamburger Mietenspiegel zur Bildung der Tabellenstruktur verwendeten Merk-
+male Baualter (Beschaffenheit), Wohnungsgröße, Ausstattung und Wohnlage entspre-
+chenden Wohnwertmerkmalen, welche durch die gesetzliche Regelung in § 558 BGB vor-
+gegeben sind. Durch die Ausweisung eines unteren und oberen Spannenwertes für jedes
+Tabellenfeld im Hamburger Mietenspiegel 2021 wird Unterschieden bei der ortsüblichen
+Vergleichsmiete innerhalb der Vergleichsgruppe eines Mietenspiegelfeldes Rechnung
+getragen. Die Gründe, die dazu führen, dass unterschiedlich hohe Mieten innerhalb eines
+Mietenspiegelfeldes gezahlt werden, sind:
+○ Unterschiedliche Qualitäten von weiteren Ausstattungsmerkmalen und die kon-
+krete Mikrolage innerhalb einer Wohnlage und eines Gebäudes führen dazu, dass
+sich in den durch die Mietenspiegelfelder definierten Wohnungsteilmärkten un-
+terschiedlich hohe Mieten ergeben.
+○ Zusätzlich beeinflussen weitere externe oder individuelle Kriterien, wie z. B. Dauer
+des Mietverhältnisses oder individuelle Wohnwünsche, die Höhe der Miete. Diese
+lässt der gesetzlich definierte Begriff der ortsüblichen Vergleichsmiete unberück-
+sichtigt.
+○ Darüber hinaus ist die ortsübliche Vergleichsmiete eine vom Gesetzgeber ge-
+wollte Mischung aus veränderten Bestandsmieten und Neuvertragsmieten. Beide
+Mietarten unterliegen aber erfahrungsgemäß unterschiedlichen Marktbedingun-
+gen. Bestandsmietenveränderungen erfolgen zumeist geprägt durch die gesetz-
+lichen Bestimmungen in Abhängigkeit vom Wohnwert der Wohnung, während
+sich Neuvertragsmieten, begrenzt durch die Mietpreisbremse, in ihrer Höhe an
+den Marktmieten orientieren, die im Regelfall über den ortsüblichen Vergleichs-
+mieten liegen.
+Durch die Spannenwerte sollen die ortsüblichen Vergleichsmieten abgebildet werden.
+Bei der „Üblichkeit“ handelt es sich um einen unbestimmten Rechtsbegriff, der vom Ge-
+setzgeber oder der Rechtsprechung bisher nicht konkret definiert wurde. Vor diesem
+Hintergrund ist auch die Spannenweite nicht gesetzlich festgelegt. Es ist jedoch vom Ge-
+setzgeber durch Anknüpfung an die üblichen Entgelte vorgesehen, dass nicht alle erho-
+benen Mietwerte für die Ausweisung der Mietkennwerte herangezogen werden sollen.
+Durch eine Ausreißerbereinigung und die Ausweisung eines unteren und oberen Span-
+nenwertes erfolgt vielmehr eine Verdichtung der Mietwerte auf das Übliche.
+Dokumentation Hamburger Mietenspiegel 2021 30
+Datenbereinigung und -auswertung
+In den „Hinweisen zur Erstellung von Mietspiegeln“ des Bundesinstituts für Bau-, Stadt-
+und Raumforschung (BBSR) im Bundesamt für Bauwesen und Raumordnung (BBR) wird
+kein genauer Wert für die Spannenweite angegeben. In der aktuellen Fassung aus dem
+Jahr 2020 heißt es, dass „in der Praxis [...] bei Tabellenmietenspiegeln häufig eine 2/3-
+Spanne als ‚üblich‘ angesehen“ werde.
+In Abstimmung mit dem Arbeitskreis Mietenspiegel wurde am Spannenmodell aus dem
+Hamburger Mietenspiegel 2019 festgehalten. Hierbei handelt es sich um die Ausweisung
+des unteren und oberen Wertes der 2/3-Spanne.
+7.11 Mietenspiegeltabelle Hamburger Mietenspiegel 2021
+In der nachfolgenden Tabelle 14 zum Hamburger Mietenspiegel 2021 sind der aus der
+empirischen Erhebung und der nachfolgenden Daten- und Ausreißerbereinigung ermit-
+telte arithmetische Mittelwert sowie die unteren und oberen Spannenwerte der 2/3-
+Spanne für jedes Mietenspiegeltabellenfeld mit einer Feldbesetzung von 10 und mehr
+Mietwerten dargestellt. Die Mittelwerte und Spannen in Mietenspiegelfeldern, die mit *
+markiert sind, haben wegen einer geringen Zahl an erhobenen Mietwerten nur eine be-
+dingte Aussagekraft (* = Feldbesetzung von 10 bis 29 Mietwerte). In alle anderen ausge-
+wiesenen Felder gingen mindestens 30 Mietwerte ein.
+Dokumentation Hamburger Mietenspiegel 2021 31
+Datenbereinigung und -auswertung
+Tabelle 14: Hamburger Mietenspiegel 2021
+Nettokaltmiete ohne Heizung und ohne Betriebskosten (in Euro/m²)
+Bis 1919 bis 21.6.1948 bis 1961 bis 1978 bis 1994 bis 2011 bis 2016 bis
+Baualtersklasse/Bezugsfertigkeit 1968 bis 1977
+31.12.1918 20.6.1948 1960 1967 1993 2010 2015 2020
+Bad und Sam- Bad und Sam- Bad und Sam- Bad und Sam- Bad und Sam- Bad und Sam- Bad und Sam- Bad und Sam- Bad und Sam-
+Ausstattung
+melheizung melheizung melheizung melheizung melheizung melheizung melheizung melheizung melheizung
+Wohnlage Wohnfläche C F H I K L M N O
+Mittelwert 12,12 9,76 9,18 8,76 9,27 10,13 12,52 15,15
+25 bis u. 41 m²
+1 Spanne 9,06-14,81 8,25-11,86 7,41-11,32 6,58-10,80 6,67-11,46 8,48-12,04 10,53-14,83 13,61-16,69
+e
+Anzahl 19* 15* 17*
+g
+a Mittelwert 10,65 9,06 8,19 7,41 7,78 9,13 9,95 13,22 14,03
+ln
+h
+41 bis u . 66 m²
+2 Spanne 8,50-13,22 7,53-10,71 7,06-9,88 6,44-8,64 5,92-9,94 6,55-11,17 8,11-11,68 10,56-15,55 10,92-17,08
+o
+W Anzahl
+e Mittelwert 10,64 9,03 8,09 6,64 6,38 8,15 9,95 12,94 13,73
+la
+m 66 bis u. 91 m² 3 Spanne 8,80-12,68 7,06-11,15 6,88-9,36 5,87-7,57 5,45-7,06 6,30-10,30 8,00-11,80 10,26-15,27 11,36-16,42
+r o Anzahl
+N
+Mittelwert 9,85 8,46 8,66 8,60 6,54 8,61 11,69 13,07 13,87
+ab 91 m²
+4 Spanne 8,21-11,78 6,90-9,49 7,16-10,87 7,17-10,09 5,75-6,77 6,58-10,12 8,99-14,65 10,63-15,27 11,53-16,46
+Anzahl 23* 15*
+Mittelwert 12,75 10,79 12,04 12,41 11,97 13,20 18,14
+25 bis u. 41 m²
+5 Spanne 10,21-15,18 9,17-12,87 8,33-14,96 10,62-14,02 7,90-15,96 10,60-15,75 15,72-19,16
+Anzahl 28* 18* 10*
+Mittelwert 11,88 10,54 9,64 9,29 10,55 10,78 11,97 13,13 15,43
+e
+41 bis u. 66 m² 6 Spanne 9,73-14,33 8,47-12,80 7,35-12,28 6,97-11,73 7,32-13,31 7,61-13,61 9,61-13,76 11,51-16,00 11,55-18,29
+g Anzahl
+a
+ln Mittelwert 12,11 11,08 10,70 8,70 9,94 10,64 11,82 14,11 14,40
+h
+o 66 bis u 91 m² 7 Spanne 9,57-14,94 8,33-13,70 8,28-13,38 6,06-11,72 6,67-13,33 8,66-13,00 9,5-14,35 11,75-16,56 11,51-17,36
+W
+e
+Anzahl
+t u Mittelwert 11,77 11,44 11,81 11,42 11,25 11,70 13,13 14,12 15,33
+G 91 bis u. 131 m²
+8 Spanne 9,40-14,82 9,25-14,15 9,36-14,15 7,91-14,49 9,28-13,56 9,34-14,25 10,48-15,75 11,93-16,22 12,93-17,52
+Anzahl
+Mittelwert 11,64 11,64 13,86 11,91 13,96 16,65 17,21
+ab 131 m² 9 Spanne 9,25-14,34 10,03-13,93 12,56-14,74 8,07-16,07 11,47-15,98 14,71-19,16 13,65-21,88
+Anzahl 13* 18* 27*
+Bei Leerfeldern können aufgrund der zu geringen Datenbasis keine statistisch belastbaren Aussagen getroffen werden.
+*Für Felder mit weniger als 30 Datensätzen ist die Aussage eingeschränkt
+Dokumentation Hamburger Mietenspiegel 2021 32
+Datenbereinigung und -auswertung
+7.12 Ausstattungsmerkmale
+In der Mietenspiegeltabelle werden die wesentlichen Wohnwertmerkmale gemäß § 558
+BGB ausgewiesen. Daneben gibt es weitere Einflussgrößen, die es als gerechtfertigt er-
+scheinen lassen, den ausgewiesenen Mittelwert eines Tabellenfeldes um einen Zu- oder
+Abschlag zu erhöhen bzw. zu vermindern.
+Im Rahmen der Mietenspiegelerhebung wurden deshalb zahlreiche zusätzliche Ausstat-
+tungsmerkmale erhoben, die nicht zur Einordnung in das Mietenspiegeltabellenraster
+benötigt wurden. Die Datenerhebung diente als Grundlage, welche Ausstattungsmerk-
+male in den einzelnen Wohnungsmarktsegmenten (Tabellenfeldern) üblicherweise als
+„normale Ausstattung“ oder Merkmale der überdurchschnittlichen bzw. „besseren Aus-
+stattung“ angesehen werden können.
+Im Rahmen der Datenanalyse wird für jedes erhobene Ausstattungsmerkmal überprüft,
+wie hoch der Anteil im jeweiligen Tabellenfeld des Hamburger Mietenspiegels 2021 ist.
+Im Hamburger Mietenspiegel gilt ein Ausstattungsmerkmal als „normal“, wenn mindes-
+tens 2/3 der Wohnungen dieses Ausstattungsmerkmal aufweisen. Neben der feldweisen
+Betrachtung erfolgt die Analyse differenziert nach Baualter und Wohnlage. Diese sachli-
+che Zusammenfassung führt, in Abstimmung mit der Behörde für Stadtentwicklung und
+Wohnen und dem Arbeitskreis Mietenspiegel, zur Festlegung der in der Mietenspiegel-
+broschüre ausgewiesenen Ausstattungsmerkmale der Standardausstattung sowie der
+besseren Ausstattung.
+Die in der Mietenspiegelbroschüre ausgewiesenen Ausstattungsmerkmale sollen dem
+Anwender des Hamburger Mietenspiegels eine Hilfestellung zur Einordnung einer Woh-
+nung innerhalb der ausgewiesenen Mietenspanne geben.
+Maßgeblich ist die Ausstattung der Wohnung, wie sie von der Vermieterin oder vom
+Vermieter gestellt wird. Von der Mieterin oder von dem Mieter geschaffene Ausstat-
+tungsmerkmale bleiben unberücksichtigt.
+Die Tabelle geht von zwei Ausstattungsklassen aus:
+○ Wohnungen mit Bad oder mit Sammelheizung (nicht ausgewiesen, da Spalte B zu
+gering besetzt war),
+○ Wohnungen mit Bad und mit Sammelheizung.
+Unter einem Bad ist ein Wannen- oder Duschbad in einem besonderen Raum (mit oder
+ohne WC) in der Wohnung zu verstehen. Ein Bad wird in der Regel dann einen geringeren
+Mietwert haben, wenn aufgrund der Größe des Bades der Bewegungsradius erheblich
+eingeschränkt ist sowie ein Waschbecken fehlt. Sammelheizungen sind alle Heizungsar-
+ten, bei denen die Wärme- und Energieversorgung von einer zentralen Stelle aus erfolgt
+und die sämtliche Wohnräume sowie Küche und Bad angemessen erwärmen. Baualters-
+typische Besonderheiten sind zu berücksichtigen. Gleichzusetzen sind alle Etagen- und
+Dokumentation Hamburger Mietenspiegel 2021 33
+Datenbereinigung und -auswertung
+Wohnungsheizungen, die automatisch, also ohne Brennstoffnachfüllung von Hand, ar-
+beiten. Dabei können Nachtstromspeicherheizungen niedriger bewertet werden als an-
+dere Zentralheizungsarten.
+Die in Kapitel 7.12.1 und 7.12.2 aufgeführten Merkmale sind nicht Bestandteil des quali-
+fizierten Mietenspiegels. Es muss berücksichtigt werden, dass diese Merkmalsauflistung
+nicht abschließend ist und im Einzelfall weitere Merkmale bei der Spanneneinordnung
+herangezogen werden können. Die Übersicht der Auswertungsergebnisse für die erho-
+benen Ausstattungsmerkmale findet sich in der Anlage C.
+7.12.1 Standardausstattung
+Wesentliche Merkmale einer normal ausgestatteten Wohnung sind nach Abstimmung
+mit der Behörde für Stadtentwicklung und Wohnen und dem Arbeitskreis Mietenspiegel
+außer den in der Mietenspiegeltabelle genannten Ausstattungen:
+○ Küche mit einer Mindestausstattung (Spüle, Herd) und zusätzlichen Stellflächen;
+bei Wohnungen unter ca. 50 m² sind auch Kochnischen ausreichend;
+○ Warmwasserversorgung in Bad und Küche;
+○ Wohnungskaltwasserzähler – es sei denn, es liegt eine Ausnahmegenehmigung
+vor;
+○ Fußboden aus Dielen, Steinholz oder mit Linoleum, Kunststoff oder gleichwerti-
+gem Belag, in Küche, Bad und WC auch aus keramischen Platten oder Steinzeug;
+○ Abstellflächen innerhalb und/oder außerhalb der Wohnung;
+○ Aufzug in Gebäuden ab dem sechsten Geschoss;
+○ überwiegend Isolierverglasung oder Doppelfenster;
+○ Kabel- / Satellitenanschluss;
+○ Gegensprechanlage mit Türöffner;
+○ Balkon, Loggia oder Terrasse
+Je nach Baualtersklasse können auch Arbeitsfläche und Schrankraum in der Küche sowie
+Wandfliesen in Küche, Bad und WC zur Normalausstattung gehören.
+Diese Merkmale stimmen mit den bisherigen Merkmalen einer normal ausgestatteten
+Wohnung im Hamburger Mietenspiegel überein.
+7.12.2 Bessere Ausstattung
+Wohnungen mit einer besseren Ausstattung als die einer normal ausgestatteten Woh-
+nung oder mit einer entsprechenden Modernisierung können preislich oberhalb des in
+der Mietenspiegeltabelle angegebenen arithmetischen Mittels liegen. Nach Abstimmung
+mit der Behörde für Stadtentwicklung und Wohnen und dem Arbeitskreis Mietenspiegel
+wurden die folgenden Merkmale als Beispiele der besseren Ausstattung für bestimmte
+Wohnungsmarktsegmente im Hamburger Mietenspiegel genannt:
+Dokumentation Hamburger Mietenspiegel 2021 34
+Datenbereinigung und -auswertung
+○ Großzügige Badausstattung, z. B. zusätzliches Duschbad, zweiter Waschplatz,
+zweites WC, Bidet, aufwändige Fliesen, außer in Wohnungen ab 91 m² in den
+Spalten L, M, N und O sowie in Wohnungen ab 131 m² in guter Wohnlage;
+○ Bad mit Fenster, außer in Wohnungen der Spalte F;
+○ Einbauküchen, außer in Wohnungen der Spalten M, N und O, in Wohnungen ab
+41 m² in der Spalte L, sowie in Wohnungen der Spalten I und K in guter Wohnlage
+und / oder zusätzliche Ausstattung, z. B. Geschirrspüler, Kühlschrank, Tiefkühl-
+schrank, außer in Wohnungen der Spalten M, N und O in guter Wohnlage sowie
+Wohnungen ab 91 m² der Spalte L in guter Wohnlage;
+○ Aufzug bei Wohnungen in bis zu fünfgeschossigen Häusern außer bei Wohnun-
+gen der Spalte O in normaler Wohnlage und bei Wohnungen ab 41 m² in der
+Spalte N in normaler Wohnlage sowie bei Wohnungen ab 91 m² in den Spalten
+N und O in guter Wohnlage;
+○ Fahrradkeller/überdachter Fahrradstellplatz, außer bei Wohnungen der Spalte K
+in normaler Wohnlage und bei Wohnungen der Spalten N und O sowie bei Woh-
+nungen ab 66 m² in der Spalte L und bei Wohnungen ab 41 m² in der Spalte M.
+Dokumentation Hamburger Mietenspiegel 2021 35
+Ergänzende Auswertungen
+8 Ergänzende Auswertungen
+8.1 Mietenvergleich und Mietenstruktur im Hamburger Mietenspiegel 2021
+Zum Vergleich der Mietenspiegel wird die gewichtete Durchschnittsmiete ermittelt. Diese
+Kennzahl setzt sich aus den durchschnittlichen Nettokaltmieten bzw. Mittelwerten der
+Mietenspiegelfelder gewichtet mit dem jeweiligen Wohnungsbestand zusammen. Die
+gewichtete Durchschnittsmiete ist ein statistischer Kennwert, der dazu dient, das allge-
+meine Mietniveau für den gesamten mietenspiegelrelevanten Wohnungsbestand der
+Hansestadt Hamburg zwischen zwei Mietenspiegeln zu vergleichen. Sie hat keine recht-
+liche Aussagekraft und kann nicht für Mietpreisänderungen herangezogen werden.
+Die gewichtete Durchschnittsmiete im Hamburger Mietenspiegel 2021 beträgt 9,29 €/m².
+Im Vergleich zum Hamburger Mietenspiegel 2019, bei dem es sich um eine Fortschrei-
+bung handelte, ist sie um 0,63 €/m² bzw. 7,3 % höher.
+Im Vergleich zur letzten Neuerhebung des Hamburger Mietenspiegels 2017 ergab sich
+eine Steigerung um insgesamt 10,1 % (von 8,44 €/m² in 2017), das sind 2,5 % pro Jahr.
+Diese jährliche Steigerung liegt in etwa auf dem Niveau zwischen den beiden Neuerhe-
+bungen 2015 und 2017 von 5,2 %, das sind 2,6 % pro Jahr.
+Die Mittelwerte sind in den meisten Mietenspiegelfeldern im Vergleich zu 2019 höher, in
+acht Feldern ist eine niedrigere ortsüblichen Vergleichsmiete zu verzeichnen. Dies hängt
+zum Teil mit dem Neuzuschnitt der Spalte N / Baualtersklasse 2011 bis 2016 zusammen.
+Bei rund 54 % der ausgewiesenen Tabellenfelder der Mietenspiegeltabelle liegen die neu
+ausgewiesenen Mieten weniger als die durchschnittlichen 7,3 % über den ausgewiesenen
+Werten im Mietenspiegel 2019.
+Die mittlere gewichtete Spannbreite der Mieten lag 2019 bei 2,91 €/m² und 2021 bei
+3,71 €/m². Die günstigeren Mieten der unteren Spannenwerte sind 3,9 % höher als 2019.
+Die oberen Spannenwerte sind mit 10,6 % sogar deutlich höher.
+Im Städtevergleich mit anderen Metropolen nimmt Hamburg hinsichtlich der Durch-
+schnittsmiete eine Position im Mittelfeld ein. Während die Durchschnittsmiete Berlins mit
+6,79 €/m² deutlich unter der Hamburger Durchschnittsmiete von 9,29 €/m² liegt, ist sie
+in den übrigen, ausgewählten Vergleichsmetropolen höher:
+○ München (Mietspiegel 2019 zu 2021 - Indexfortschreibung): Anstieg der Durch-
+schnittsmiete von 11,69 €/m² auf 12,05 €/m² (Zuwachs 3,1 % bzw. 0,36 €/m²)3
+3 Mietspiegel für München 2021-Statistik, Dokumentation und Analysen, S. 16,
+https://2021.mietspiegel-muenchen.de/broschueren/Dokumentation_MS21.pdf
+Dokumentation Hamburger Mietenspiegel 2021 36
+Ergänzende Auswertungen
+○ Berlin (Mietspiegel 2019 zu 2021 - Indexfortschreibung): Anstieg der Durch-
+schnittsmiete von 6,72 €/m² auf 6,79 €/m² (Zuwachs 1,0 % bzw. 0,07 €/m²)4
+○ Stuttgart (Mietspiegel 2019/2020 zu 2021/2022): Anstieg der Durchschnittsmiete
+von 9,60 €/m² auf 10,34 €/m² (Zuwachs 7,7 % bzw. 0,74 €/m²)5
+○ Frankfurt (Mietspiegel 2018 zu 2020 - Indexfortschreibung): Anstieg der Durch-
+schnittsmiete von 9,36 €/m² auf 9,69 €/m² (Zuwachs 3,5 % bzw. 0,33 €/m²)6.
+Insgesamt kann in allen wesentlichen Wohnungsteilmärkten eine höhere Miete im Mie-
+tenspiegel 2021 gegenüber 2019 festgestellt werden, auch wenn sich in einigen Mieten-
+spiegeltabellenfeldern gegenläufige Tendenzen ergeben haben. Zusammengefasst nach
+unterschiedlichen Wohnungsteilmärkten zeigen sich gegenüber dem Hamburger Mie-
+tenspiegel 2019 folgende Unterschiede, wobei zur Ermittlung der durchschnittlichen
+Mieten je Teilsegment eine Gewichtung der einzelnen Tabellenfelder mit der jeweiligen
+Grundgesamtheit erfolgt ist (vgl. auch Tabelle 14).
+○ Die Mieten in guten und normalen Wohnlagen sind 7,3 % bzw. 7,1 % höher als
+2019. Da das Mietenniveau in der guten Wohnlage 2019 bereits höher war als in
+der normalen Wohnlage, ist die absolute Differenz mit 0,74 € in der guten Wohn-
+lage allerdings erneut höher als in der normalen Wohnlage (0,59 €).
+○ Im vollausgestatteten Altbau (Baualtersklasse bis 31.12.1918, Spalte C, 85.200
+Wohnungen) liegen die Mietwerte überdurchschnittlich deutlich über denen des
+Mietenspiegels 2019. Die Durchschnittsmiete liegt erstmals über 11 €/m². Hier
+betragen die Unterschiede im Vergleich zum Mietenspiegel 2019 zwischen +0,02
+und +0,99 €/m². Die gewichtete Durchschnittsmiete bei voll ausgestatteten (Bad
+und Sammelheizung) Altbauwohnungen (Baualtersklasse bis 31.12.1918, Spalte
+C) lag 2019 bei 10,64 €/m² und 2021 bei 11,24 €/m², was ein um 5,6 % höherer
+Wert (normale Wohnlage: 4,9 %, gute Wohnlage: 6,5 %) ist (2019 gegenüber 2017
+betrug die Steigerung in Spalte C 4,5 %, 2017 gegenüber 2015 3,1 %).
+○ In den Zwischenkriegsbauten (Baualtersklasse 1.1.1919 bis 20.6.1948, Spalte F,
+63.600) liegen die Mieten zwischen 0,06 und 1,61 €/m² über denen des Mieten-
+spiegels 2019, in zwei Fällen liegen die Miete -0,06 und -0,07 €/m² (F6, F7) unter
+denen des letzten Mietenspiegels. Das Mietpreisniveau dieser Wohnungsbe-
+stände ist jetzt dichter an dem Mietpreisniveau in der Baualtersklasse bis
+31.12.1918. Bei den Zwischenkriegsbauten lag die gewichtete Durchschnittsmiete
+2019 bei 9,06 €/m² und 2021 bei 9,55 €/m², was ein um 5,4 % (normale Wohnlage:
+4 Dokumentation zum Berliner Mietspiegel, S. 8, https://www.stadtentwicklung.berlin.de/woh-
+nen/mietspiegel/de/download/Mietspiegel2021_Dokumentation.pdf
+5 Statistisches Amt legt neuen Wohnungsmarktbericht vor, https://www.stuttgart.de/pressemittei-
+lungen/2021/mai/statistisches-amt-legt-neuen-wohnungsmarktbericht-vor.php
+6 Frankfurter Mietspiegel 2020, S. 3, https://frankfurt.de/themen/planen-bauen-und-woh-
+nen/wohnen/informationen-zum-wohnungsmarkt/mietspiegelhttps://frankfurt.de/themen/planen-
+bauen-und-wohnen/wohnen/informationen-zum-wohnungsmarkt/mietspiegel
+Dokumentation Hamburger Mietenspiegel 2021 37
+Ergänzende Auswertungen
+6,3 %, gute Wohnlage: 2,2 %) höherer Wert ist. Insbesondere in der guten Wohn-
+lage ist der Unterschied zum Mietenspiegel 2019 vergleichsweise gering. Die
+Durchschnittsmiete liegt in diesen Wohnungsbeständen erstmals über 9,50 €/m².
+○ Die zahlenmäßig umfangreichste Baualtersklasse 21.6.1948 bis 31.12.1960 (Spalte
+H, 164.300 Wohnungen) weist einen um 8,6 % höheren Mittelwert im Vergleich
+zu 2019 auf. Die Unterschiede liegen zwischen 0,30 und 1,50 €/m². Der um
+1,50 €/m² höhere Wert in Feld H4 lässt sich durch Schwankungen aufgrund einer
+geringen Feldbesetzung erklären, die Durchschnittsmiete dieses Feldes ist 2019
+deutlich niedriger gewesen als im Mietenspiegel 2017. Die Mieten für Wohnun-
+gen in normaler Wohnlage sind um 9,6 % bzw. 6,0 % in guter Wohnlage höher
+als 2019. Die gewichtete Durchschnittsmiete beträgt 8,80 €/m².
+○ In der Baualtersklasse 1961 bis 1967 (Spalte I, 90.500 Wohnungen) ergibt sich ein
+8,3 % höherer Mittelwert als im Mietenspiegel 2019. Dies ist ein vergleichsweise
+hoher Unterschied, nachdem der Unterschied der Mieten in Spalte I zwischen
+2017 und 2019 vergleichsweise klein war. Ein besonders hoher Unterschied von
+1,70 €/m² ergab sich in Feld I4. Da es mit wenigen Fällen besetzt ist, ergibt sich
+aber auch eine relativ hohe Streuung. Die gewichtete Durchschnittsmiete der
+Spalte I beträgt 7,79 €/m² (2019: 7,19 €/m²).
+○ In der jüngeren Baualtersklasse 1968 bis 1977 (Spalte K, 76.300 Wohnungen) gibt
+es einen vergleichsweise niedrigen Unterschied zwischen den Durchschnittmieten
+von 2019 und 2021. Die gewichtete Durchschnittsmiete beträgt 7,80 €/m²
+(+0,39 €/m² bzw. 5,3 %). In der normalen Wohnlage ergibt sich ein 4,0 % höherer
+Wert, während es in der guten Wohnlage zu einem 11,5 % höheren Wert kommt.
+Der Mietenspiegel 2019 wies noch niedrigere Mieten für die gute Wohnlage aus
+als der Mietenspiegel 2017.
+○ In der Baualtersklasse 1978 bis 1993 (Spalte L, 29.400 Wohnungen) liegen die
+Mieten um 5,2 % über denen aus dem Mietenspiegel 2019. Die gewichtete Durch-
+schnittsmiete beträgt 9,36 €/m². Das sind 0,46 €/m² mehr als 2019 – da lag die
+gewichtete Durchschnittsmiete bei 8,90 €/m². Es sind dabei Unterschiede nach
+Wohnlage festzustellen (normale Wohnlage +3,1 %, gute Wohnlage +11,5 %).
+Hinweis: Der nur wenig höhere Mittelwert der Mieten ergibt sich aus dem hohen
+Anteil der aus der öffentlichen Förderung gefallenen Wohnungen an der Gesamt-
+zahl der Wohnungen in dieser Spalte (rd. 15 %), die mietdämpfend auf die Mie-
+tenentwicklung wirken. Dieser Effekt fällt umso mehr auf, wenn man berücksich-
+tigt, dass die Mieten im Mietenspiegel 2019 im Vergleich zu 2017 sogar gesunken
+sind.
+○ Die gewichtete Durchschnittsmiete im Bereich der Baualtersklasse 1994 bis 2010
+(Spalte M, 26.900 Wohnungen) ist mit 10,97 €/m² nur 4,0 % höher als 2019 (10,55
+€/m²). Wohnungen in normaler Wohnlage dieser Baualtersklasse verzeichnen
+durchschnittlich einen 6,4 % höheren Wert, bei Mieten für Wohnungen in guter
+Wohnlage sind es dagegen nur 1,4 %. Nur in den Wohnungsbeständen der nor-
+malen Wohnlage mit einer Wohnungsgröße von 41 m² bis unter 91 m² (M2 und
+M3) liegen die durchschnittlichen Mieten in der Baualtersklasse noch unter
+10 €/m². Der Unterschied der Durchschnittsmiete in Feld M1 ist mit +2,75 €/m²
+hoch. Allerdings war die Durchschnittsmiete im Mietenspiegel 2019 in diesem
+Dokumentation Hamburger Mietenspiegel 2021 38
+Ergänzende Auswertungen
+Feld 0,60 €/m² niedriger als 2017. Da das Feld sowohl 2019 als auch 2021 gering
+besetzt war, können statistische Schwankungen die Diskrepanz für dieses Feld
+erklären.
+○ Die zweitjüngste Baualtersklasse 2011 bis 2015 (Spalte N, 10.300 Wohnungen)
+lässt sich aufgrund des Neuzuschnitts der Baualtersklassen nur bedingt mit der
+Baualtersklasse von 2011 bis 2018 aus dem Mietenspiegel 2019 vergleichen. Die
+gewichtete Durchschnittsmiete liegt bei 13,42 €/m². Dies entspricht einem 4,3 %
+höheren Wert im Vergleich zum Mietenspiegel 2019. Der geringe Unterschied
+lässt sich dadurch erklären, dass die neueren Wohnungen aus den Baujahren
+2016 bis 2018 in die neue Baualtersklasse 2016 bis 2020 einsortiert wurden.
+○ Die neugebildete Baualtersklasse 2016 bis 2020 (Spalte O, 12.400 Wohnungen)
+weist eine Durchschnittsmiete von 14,47 €/m² auf. Dies entspricht einem Unter-
+schied im Vergleich zu Spalte N aus dem Mietenspiegel 2019 von 12,4 %. Dieser
+Vergleich berücksichtigt allerdings nicht, dass in der neuen Spalte O die teureren
+Neuvertragsmieten der Baujahre 2019 und 2020 einfließen, während die Baujahre
+2011 bis 2015 in dieser Spalte nicht enthalten sind. Die hohen Mietwerte sind ein
+Indiz dafür, dass diese Wohnungsbestände nicht der Mietpreisbremse unterlie-
+gen und entsprechende Wohnungsmieten auf dem angespannten Hamburger
+Wohnungsmarkt umgesetzt werden können. Zusätzlich ergeben sich hohe Miet-
+werte auch aus den in den letzten Jahren gestiegenen Anforderungen im Baube-
+reich und der gestiegenen Bodenpreise in Hamburg, wodurch die Baukosten ins-
+gesamt deutlich angestiegen sind.
+○ Der höchste prozentuale Unterschied zwischen den Mietenspiegeln 2019 und
+2021 mit fast 16 % in vollgültigen Feldern im Rahmen der gesamten Mietenspie-
+gelerhebung weist das Mietenspiegelfeld K6 (+1,45 €/m²) auf. In diesem Feld war
+die Miete im Mietenspiegel 2019 über 7 % niedriger als 2017.
+○ Die Mittelwerte sind in den meisten Mietenspiegelfeldern im Vergleich zu 2019
+höher, in 8 Feldern (C5, F6, F7, K1, L2, M9, N6, N7) ist demgegenüber eine niedri-
+gere Durchschnittsmiete zu verzeichnen. Dies kann unter anderem mit dem Neu-
+zuschnitt der Baualtersklassen und auslaufenden Förderungen zusammenhän-
+gen.
+○ Wie schon bei den letzten Mietenspiegeln gilt auch 2021 nicht mehr, dass der
+Quadratmeterpreis einer Wohnung mit zunehmender Wohnungsgröße sinkt.
+Dokumentation Hamburger Mietenspiegel 2021 39
+Ergänzende Auswertungen
+Abbildung 1: Entwicklung der durchschnittlichen Nettokaltmiete von 1997 bis 2021 (ge-
+wichteter Mittelwert)
+Dokumentation Hamburger Mietenspiegel 2021 40
+Ergänzende Auswertungen
+Tabelle 15: Mietveränderungen Hamburger Mietenspiegel 2019 zu 2021 (gewichtete Mittel-
+werte)
+Veränderung
+2019 2021
+Nettokaltmiete in €/m² absolut relativ pro Jahr
+in €/m² in €/m²
+in €/m² in % in %
+Arithmetisches Mittel 8,66 9,29 0,63 7,3% 3,6%
+Unterer Wert 2/3 Spanne 7,24 7,52 0,28 3,9% 1,9%
+Oberer Wert 2/3 Spanne 10,15 11,23 1,08 10,6% 5,2%
+Spannbreite 2,91 3,71 0,80 27,5% 12,9%
+nach Baualtersklassen und Ausstattung
+bis 1918 (voll ausgestattet) 10,64 11,24 0,60 5,6% 2,8%
+1919-20.06.1948 9,06 9,55 0,49 5,4% 2,7%
+21.06.1948-1960 8,10 8,80 0,70 8,6% 4,2%
+1961-1967 7,19 7,79 0,60 8,3% 4,1%
+1968-1977 7,41 7,80 0,39 5,3% 2,6%
+1978-1993 8,90 9,36 0,46 5,2% 2,6%
+1994-2010 10,55 10,97 0,42 4,0% 2,0%
+2011-2015* 12,87 13,42 0,55 4,3% 2,1%
+2016-2020* 12,87 14,47 1,60 12,4% 6,0%
+nach Wohnlage
+normal 8,07 8,66 0,59 7,3% 3,6%
+gut 10,44 11,18 0,74 7,1% 3,5%
+nach Wohnungsgrößenklassen
+25 bis u. 41 m² 9,66 10,34 0,68 7,0% 3,5%
+41 bis u. 66 m² 8,30 9,03 0,73 8,8% 4,3%
+66 bis u. 91 m² 8,46 8,80 0,34 4,0% 2,0%
+ab 91 m² 10,22 11,11 0,89 8,7% 4,3%
+*Vergleichbarkeit nur eingeschränkt möglich, da Zuschnitt der Baualtersklassen unterschiedlich ist.
+Dokumentation Hamburger Mietenspiegel 2021 41
+Ergänzende Auswertungen
+Tabelle 16: Entwicklung des arithmetischen Mittels und der Spannenwerte 2021 zu 2019 in Euro/m² Wohnfläche
+Mietenspiegel 2021 der Freien und Hansestadt Hamburg
+Veränderung der Nettokaltmiete ohne Heizung und ohne Betriebskosten 2021/2019 in Euro/m²
+Bis 1919 bis 21.6.1948 bis 1961 bis 1968 bis 1978 bis 1994 bis 2011 bis 2016 bis
+Baualtersklasse/Bezugsfertigkeit
+31.12.1918 20.6.1948 1960 1967 1977 1993 2010 2015 2020
+Bad und Sam- Bad und Sam- Bad und Sam- Bad und Sam- Bad und Sam- Bad und Sam- Bad und Sam- Bad und Sam- Bad und Sam-
+Ausstattung
+melheizung melheizung melheizung melheizung melheizung melheizung melheizung melheizung melheizung
+Wohnlage Wohnfläche C F H I K L M N O
+Mittelwert 0,02 0,4 0,85 0,31 -0,02 2,75
+25 bis u. 41 m² 1 Spanne -1,06 - 0,26 0,79 - 0,29 0,41 - 1,32 0,79 - -0,9 0,66 - -0,45 3,02 - 2,46
+Anzahl
+e
+g Mittelwert 0,71 0,59 0,79 0,65 0,58 -0,09 0,67 0,47 1,28
+a
+ln 41 bis u. 66 m² 2 Spanne 0,17 - 1,36 0,29 - 0,91 0,50 - 1,73 0,34 - 1,64 0,42 - 1,00 -1,37 - 0,46 0,11 - 0,96 0,56 - 0,51 0,92 - 2,04
+h
+o W Anzahl
+e Mittelwert 0,38 0,49 0,30 0,47 0,16 0,44 0,05 0,66 1,45
+la
+m 66 bis u. 91 m² 3 Spanne -0,14 - 0,77 0,00 - 1,19 0,08 - 0,15 0,24 - 1,07 0,04 - 0,16 0,00 - 1,04 0,00 - 0,27 0,04 - 0,76 1,14 - 1,91
+r
+o Anzahl
+N
+Mittelwert 0,17 0,23 1,50 1,70 0,40 0,02 1,14 0,09 0,89
+ab 91 m² 4 Spanne -0,01 - -0,24 0,01 - -0,62 0,60 - 2,94 0,89 - 2,67 0,19 - 0,21 0,96 - -0,68 0,20 - 2,72 -0,01 - -0,02 0,89 - 1,17
+Anzahl
+Mittelwert -0,30 1,27 0,39 1,04
+25 bis u. 41 m² 5 Spanne -0,18 - -0,01 -0,29 - 1,97 -0,34 - 0,48 -1,10 - 3,23
+Anzahl
+Mittelwert 0,99 -0,07 0,38 0,60 1,45 0,94 0,15 -2,01 0,29
+41 bis u. 66 m² 6 Spanne 0,53 - 1,06 -0,10 - 0,27 0,31 - 1,19 0,25 - 0,82 0,16 - 1,97 0,66 - 1,38 -0,50 - -1,24 -2,46 - -0,16 -2,42 - 2,13
+e g Anzahl
+a
+ln Mittelwert 0,83 -0,06 0,38 1,07 0,91 0,49 0,22 -0,07 0,22
+h
+o 66 bis u 91 m² 7 Spanne 0,15 - 1,24 -0,39 - -0,51 0,02 - 0,38 -0,03 - 2,87 0,38 - 1,55 0,75 - 1,18 -0,04 - 0,15 -1,13 - 1,22 -1,37 - 2,02
+W
+e Anzahl
+t
+u Mittelwert 0,63 1,30 1,27 1,29 0,44 1,45 0,14 0,21 1,42
+G
+91 bis u. 131 m² 8 Spanne 0,40 - 0,94 0,65 - 1,15 1,06 - 1,54 0,34 - 2,18 0,03 - 1,79 0,17 - 2,66 -0,12 - -0,25 -0,89 - 1,22 0,11 - 2,52
+Anzahl
+Mittelwert 0,59 1,61 -0,43 1,84 2,40
+ab 131 m² 9 Spanne 0,71 - 0,51 3,51 - -0,31 1,18 - -2,39 1,21 - 3,85 0,15 - 6,57
+Anzahl
+Felder mit 10 bis 29 Fällen kein Vergleich mit 2019 möglich, da dieses Feld 2019 nicht ausgewiesen wurde
+Dokumentation Hamburger Mietenspiegel 2021 42
+Ergänzende Auswertungen
+Tabelle 17: Entwicklung des arithmetischen Mittels und der Spannenwerte 2021 zu 2019 in Prozent
+Mietenspiegel 2021 der Freien und Hansestadt Hamburg
+Veränderung der Nettokaltmiete ohne Heizung und ohne Betriebskosten 2021/2019 in Euro/m²
+Bis 1919 bis 21.6.1948 1961 bis 1968 bis 1978 bis 1994 bis 2011 bis 2016 bis
+Baualtersklasse/Bezugsfertigkeit
+31.12.1918 20.6.1948 bis 1960 1967 1977 1993 2010 2015 2020
+Bad und Sam- Bad und Sam- Bad und Sam- Bad und Sam- Bad und Sam- Bad und Sam- Bad und Sam- Bad und Sam- Bad und Sam-
+Ausstattung
+melheizung melheizung melheizung melheizung melheizung melheizung melheizung melheizung melheizung
+Wohnlage Wohnfläche C F H I K L M N O
+Mittelwert 0,17 4,27 10,2 3,67 -0,22 28,15
+25 bis u. 41 m² 1 Spanne -10,5 - 1,8 10,6 - 2,5 5,9 - 13,2 13,6 - -7,7 11,0 - -3,8 40,2 - 19,9
+e
+Anzahl
+g Mittelwert 7,14 6,97 10,68 9,62 8,06 -0,98 7,22 3,69 10,04
+a
+ln
+41 bis u. 66 m² 2 Spanne 2,0 - 11,5 4,0 - 9,3 7,6 - 21,2 5,6 - 23,4 7,6 - 11,2 -17,3 - 4,3 1,4 – 9,0 5,6 - 3,4 9,2 - 13,6
+h
+o W Anzahl
+e Mittelwert 3,7 5,74 3,85 7,62 2,57 5,71 0,51 5,37 11,81
+la
+m 66 bis u. 91 m² 3 Spanne -1,6 - 6,5 0,0 - 11,9 1,2 - 1,6 4,3 - 16,5 0,7 - 2,3 0,0 - 11,2 0,0 - 2,3 0,4 - 5,2 11,2 - 13,2
+r o Anzahl
+N
+Mittelwert 1,76 2,79 20,95 24,64 6,51 0,23 10,81 0,69 6,86
+ab 91 m² 4 Spanne -0,1 - -2,0 0,1 - -6,1 9,1 - 37,1 14,2 - 36 3,4 - 3,2 17,1 - -6,3 2,3 - 22,8 -0,1 - -0,1 8,4 - 7,7
+Anzahl
+Mittelwert -2,3 11,79 3,24 9,52
+25 bis u. 41 m² 5 Spanne -1,7 - -0,1 -3,4 - 15,2 -3,1 - 3,5 -12,2 - 25,4
+Anzahl
+Mittelwert 9,09 -0,66 4,1 6,9 15,93 9,55 1,27 -13,28 1,92
+41 bis u. 66 m² 6 Spanne 5,8 – 8,0 -1,2 - 2,2 4,4 - 10,7 3,7 - 7,5 2,2 - 17,4 9,5 - 11,3 -4,9 - -8,3 -17,6 - -1,0 -17,3 - 13,2
+e
+g Anzahl
+a
+ln Mittelwert 7,36 -0,54 3,68 14,02 10,08 4,83 1,9 -0,49 1,55
+h
+o 66 bis u 91 m² 7 Spanne 1,6 - 9,1 -4,5 - -3,6 0,2 - 2,9 -0,5 - 32,4 6,0 - 13,2 9,5 – 10,0 -0,4 - 1,1 -8,8 – 8,0 -10,6 - 13,2
+W
+e
+Anzahl
+t
+u Mittelwert 5,66 12,82 12,05 12,73 4,07 14,15 1,08 1,51 10,21
+G
+91 bis u. 131 m² 8 Spanne 4,4 - 6,8 7,6 - 8,8 12,8 - 12,2 4,5 - 17,7 0,3 - 15,2 1,9 – 23,0 -1,1 - -1,6 -6,9 - 8,1 0,9 - 16,8
+Anzahl
+Mittelwert 5,34 16,05 -2,99 12,42 16,21
+ab 131 m² 9 Spanne 8,3 - 3,7 53,8 - -2,2 11,5 - -13 9,0 - 25,1 1,1 - 42,9
+Anzahl
+Felder mit 10 bis 29 Fällen kein Vergleich mit 2019 möglich, da dieses Feld 2019 nicht ausgewiesen wurde
+Dokumentation Hamburger Mietenspiegel 2021 43
+Ergänzende Auswertungen
+8.2 Neuvertragsmietenanteil im Hamburger Mietenspiegel
+Für die Berechnung des Neuvertragsanteils wurden Mietverhältnisse berücksichtigt, die
+in den letzten sechs Jahren (nach dem 1. April 2015) neu abgeschlossen wurden. In diesen
+Mietverhältnissen können bereits Mietänderungen, z. B. aufgrund einer Staffelmietver-
+einbarung, erfolgt sein.
+Der Anteil der Neuvertragsmieten im Rahmen der Datenerhebung beträgt
+46 % und liegt damit deutlich über dem Neuvermietungsanteil im Hamburger Mieten-
+spiegel 2019.
+Ein Grund für den deutlich höheren Neuvertragsmietenanteil im Mietenspiegel 2021 ist
+die Verlängerung des Betrachtungszeitraums von vier auf sechs Jahre. Diese hat dazu
+geführt, dass Mietverhältnisse, die vor mehr als vier, aber höchstens sechs Jahren abge-
+schlossen wurden, jetzt als Neuvertragsmieten gelten, auch dann, wenn anschließend
+Mietänderungen stattgefunden haben. In den vorherigen Hamburger Mietenspiegeln
+galten die entsprechenden Mieten nicht als Neuvertragsmieten. Ferner sind die Mietver-
+hältnisse, die nur durch die Verlängerung des Betrachtungszeitraums auf sechs Jahre für
+den Mietenspiegel relevant sind, vergleichsweise häufig Neuvertragsmieten im o.g.
+Sinne.
+Ein weiterer Grund ist, dass es sich 2019 um eine Fortschreibung der Mietenspiegels han-
+delte, die anteilig auf Basis von Wiederholungsbefragungen erstellt wurde.
+Dokumentation Hamburger Mietenspiegel 2021 44
+Ergänzende Auswertungen
+Tabelle 18: Anteil der Neuvertragsmieten
+Bis 1919 bis 21.6.1948 bis 1961 bis 1968 bis 1978 bis 1994 bis 2011 bis 2016 bis
+Baualtersklasse/Bezugsfertigkeit
+31.12.1918 20.6.1948 1960 1967 1977 1993 2010 2015 2020
+Bad und Sam- Bad und Sam- Bad und Sam- Bad und Sam- Bad und Sam- Bad und Sam- Bad und Sam- Bad und Sam- Bad und Sam-
+Ausstattung
+melheizung melheizung melheizung melheizung melheizung melheizung melheizung melheizung melheizung
+Wohnlage Wohnfläche C F H I K L M N O
+Anteil NV 58 % 46 % 49 % 49 % 52 % 39% 71 % 88 %
+25 bis u. 41 m² 1
+N ges. 30 31 69 72 39 7 10 15
+e
+g Anteil NV 51 % 46 % 40 % 31 % 45 % 51% 52 % 76 % 100 %
+a
+ln 41 bis u. 66 m² 2
+h
+o W N ges. 255 297 364 145 72 74 91 103 193
+e Anteil NV 42 % 40 % 38 % 26 % 23 % 44% 50 % 74 % 100 %
+la
+m 66 bis u. 91 m² 3
+r
+o N ges. 126 95 140 106 74 75 169 189 244
+N
+Anteil NV 34 % 24 % 22 % 38 % 17 % 37% 48 % 79 % 100 %
+ab 91 m² 4
+N ges. 54 7 5 5 8 11 54 135 124
+Anteil NV 52 % 46 % 56 % 60 % 50 % 72% 100 %
+25 bis u. 41 m² 5
+N ges. 21 12 50 47 15 13 10
+Anteil NV 48 % 43 % 40 % 44 % 44 % 60% 63 % 65 % 100 %
+41 bis u. 66 m² 6
+e g N ges. 168 121 181 85 32 65 73 24 89
+a
+ln Anteil NV 48 % 44 % 43 % 42 % 48 % 56% 58 % 71 % 100 %
+h
+o 66 bis u 91 m² 7
+W
+e N ges. 178 158 121 62 40 64 128 109 156
+t
+u Anteil NV 34 % 43 % 47 % 57 % 60 % 54 % 58 % 67 % 100 %
+G
+91 bis u. 131 m² 8
+N ges. 134 77 40 20 31 37 86 78 86
+Anteil NV 33 % 48 % 62 % 67 % 52 % 78 % 100 %
+ab 131 m² 9
+N ges. 80 23 8 12 16 21 28
+Dokumentation Hamburger Mietenspiegel 2021 45
+Ergänzende Auswertungen
+8.3 Struktur der Nettokaltmieten nach Mietenstufen insgesamt und nach
+Wohnlage
+Die Struktur der Nettokaltmieten nach Mietenstufen zeigt die Verteilung des mietenspie-
+gelrelevanten Mietwohnraums in Hamburg. Aufgrund der disproportionalen Erhebungs-
+methode muss eine Gewichtung der erhobenen Daten mit der Grundgesamtheit erfol-
+gen, da zum Beispiel der Anteil der Neubauwohnungen ab 2016 mit den höheren Mieten
+im erhobenen Datenpool deutlich höher ist als der tatsächliche Anteil im Hamburger
+Wohnungsbestand. Da die Mietenspiegeltabelle für die einzelnen Baualtersklassen und
+Wohnlagen separat ausgewiesen wird, ist die Gewichtung allerdings nur bei zusammen-
+fassenden, tabellenfeldübergreifenden Auswertungen notwendig.
+Tabelle 19: Verteilung der Nettokaltmieten nach Wohnlage (Angaben in Prozent) *
+Nettokalt- Wohnlage Insgesamt
+miete in €/m² normal gut kumuliert
+bis 4,49 0,07 0,14 0,08 0,09
+4,50 - 4,99 0,56 0,18 0,46 0,55
+5,00 - 5,49 1,95 0,61 1,61 2,16
+5,50 - 5,99 5,21 0,96 4,15 6,32
+6,00 - 6,49 11,13 2,81 9,06 15,37
+6,50 - 6,99 9,26 2,92 7,68 23,05
+7,00 - 7,49 13,56 3,69 11,10 34,15
+7,50 - 7,99 7,17 3,59 6,28 40,43
+8,00 - 8,49 9,20 4,51 8,03 48,47
+8,50 - 8,99 4,75 4,63 4,72 53,19
+9,00 - 9,49 6,27 5,99 6,20 59,39
+9,50 - 9,99 5,54 6,53 5,78 65,17
+10,00 - 10,49 4,42 7,21 5,11 70,28
+10,50 - 10,99 4,34 6,36 4,84 75,12
+11,00 - 11,49 3,36 6,56 4,16 79,28
+11,50 - 11,99 2,23 5,21 2,97 82,26
+12,00 - 12,49 2,22 5,14 2,95 85,20
+12,50 - 12,99 1,96 5,41 2,82 88,02
+13,00 - 13,49 1,59 5,19 2,48 90,51
+13,50 - 13,99 1,22 4,51 2,04 92,55
+14,00 - 14,49 0,98 4,06 1,75 94,30
+14,50 - 14,99 0,85 3,01 1,39 95,69
+15,00 und
+2,17 10,78 4,31 100,00
+mehr
+Mittelwert
+8,66 11,18 9,29
+(€/m²)
+*gewichtet mit der Grundgesamtheit
+Dokumentation Hamburger Mietenspiegel 2021 46
+Ergänzende Auswertungen
+Der Anteil der Mietwohnungen mit einer günstigeren Miete als 5,00 €/m² ist kleiner als
+ein Prozent des mietenspiegelrelevanten Mietwohnraums in Hamburg (vgl. Tabelle 19).
+Der Anteil der Wohnungen mit einer günstigeren Miete als 6,80 €/m² (Anfangsmiete im
+1. Förderweg) liegt bei 20,1 %, der Anteil mit einer günstigeren Miete als 8,90 €/m² (An-
+fangsmiete im 2 Förderweg) bei 52,2 %. Zum Vergleich: Im Jahr 2019 lag der Anteil der
+Wohnungen mit einer günstigeren Miete als 6,60 €/m²(damalige Anfangsmiete im 1. För-
+derweg) bei 23,9 %, der Anteil mit einer günstigeren Miete als 8,70 €/m² (damalige An-
+fangsmiete im 2. Förderweg) lag bei 71,4 %.
+Betrachtet man die Mietenstruktur differenziert nach den Wohnlagen, so kann festge-
+stellt werden, dass der Mietwohnraum in der guten Wohnlage deutlich teurer ist. Liegt
+die Miethöhe mit 15 €/m² und mehr in der normalen Wohnlage nur bei 2,2 % aller Miet-
+wohnungen vor, so liegen in der guten Wohnlage bereits 10,8 % aller Mietwohnungen
+in diesem Preissegment.
+Abbildung 2: Mietenverteilung in Hamburg 2021 (Angaben in Prozent) *
+*gewichtet mit der Grundgesamtheit
+In der Mietenverteilung ergibt sich eine sogenannte rechtsschiefe Verteilung. D. h die
+Mietenverteilung steigt im unteren Mietenbereich steil an und läuft dann im höheren
+Mietenbereich deutlich verlängert aus (vgl. Abbildung 2).
+Dokumentation Hamburger Mietenspiegel 2021 47
+Ergänzende Auswertungen
+8.4 Mietenverteilung bei zwei Hamburger Normalwohnungen
+Zur Veranschaulichung der allgemeinen Mietenentwicklung wird die Entwicklung am Bei-
+spiel zweier Hamburger „Normalwohnungen“ dargestellt. Dabei werden zwei Typen der
+„Normalwohnung“ unterschieden:
+○ 60 m² große Altbauwohnung, Baualtersklasse bis 1918, gute Ausstattung (mit
+Bad und Sammelheizung), normale Wohnlage, Mietenspiegelfeld C2
+○ 60 m² große Wohnung, Baualtersklasse 1968 bis 1977, gute Ausstattung (mit
+Bad und Sammelheizung), normale Wohnlage, Mietenspiegelfeld K2
+In der ausgewählten Altbauwohnung ist die Durchschnittsmiete um 0,71 €/m² gestiegen,
+von 9,94 €/m² (Mietenspiegel 2019) auf 10,65 €/m² im Mietenspiegel 2021. Mit einer
+Zunahme von 7,14 % liegt die Mietsteigerung dieses Felds unter der allgemeinen Mie-
+tenentwicklung in Hamburg. Der untere Wert der 2/3-Spanne hat sich um 0,17 €/m² er-
+höht und der obere Wert der 2/3-Spanne ist um 1,36 €/m² gestiegen (+2,0 % bzw.
++11,5 %).
+Bei der betrachteten „Normalwohnung“ der Baualtersklasse 1968 bis 1977 hat sich die
+Miete von 7,20 €/m² (Mietenspiegel 2019) auf 7,78 €/m² im Hamburger Mietenspiegel
+2021 gesteigert (+0,58 €/m² bzw. +8,06 %). Der untere Wert der 2/3-Spanne ist um 0,42
+€/m² gestiegen und beim oberen Wert der 2/3-Spanne ergaben sich +1,00 €/m² (+7,6 %
+bzw. +11,2 %).
+8.5 Alter der mietenspiegelrelevanten Verträge
+Für den mietenspiegelrelevanten Wohnungsbestand ergibt sich im Hamburger Mieten-
+spiegel 2021 ein durchschnittliches Alter der mietenspiegelrelevanten Verträge von 13,1
+Jahren (vgl.
+Dokumentation Hamburger Mietenspiegel 2021 48
+Ergänzende Auswertungen
+Tabelle 20). Erfasst wurde im Rahmen der Datenerhebung das Datum des Mietvertrags-
+abschlusses, das als Grundlage für die Ermittlung der Alter der mietenspiegelrelevanten
+Verträge diente. Das durchschnittliche Alter der mietenspiegelrelevanten Verträge hat
+sich gegenüber dem Hamburger Mietenspiegel 2019 um 2,8 Jahre gesenkt (2019 = 15,9
+Jahre). Über 20 % aller Mietverträge in Hamburg sind 20 Jahre und älter. Neben der Bau-
+altersklasse 2016 bis 2020 findet sich in der Baualtersklasse 2011 bis 2015 das geringste
+durchschnittliche Alter der mietenspiegelrelevanten Verträge mit 4,0 Jahren. In der Bau-
+altersklasse 1961 bis 1967 und der Baualtersklasse 1968 bis 1977 findet man das höchste
+durchschnittliche Alter der mietenspiegelrelevanten Verträge mit 16,5 bzw. 14,9 Jahren.
+Dokumentation Hamburger Mietenspiegel 2021 49
+Ergänzende Auswertungen
+Tabelle 20: Verteilung der mietenspiegelrelevanten Verträge nach durchschnittlichem Alter je
+Baualtersklasse (Angaben in Prozent) *
+Alter der mie- ins- Baualtersklassen
+tenspiegelrele- ge- Bis 1919 21.6. 1961 1968 1978 1994 2011 2016
+vanten Ver- samt 1918 bis 1948 bis bis bis bis bis bis
+träge 20.6. bis 1967 1977 1993 2010 2015 2020
+1948 1960
+bis 2 Jahre 17,0% 19,1% 17,5% 14,6% 11,8% 14,3% 20,4% 22,6% 30,2% 55,5%
+2 bis 4 Jahre 14,5% 14,2% 15,1% 14,9% 10,8% 12,6% 14,7% 16,9% 24,2% 31,1%
+4 bis 6 Jahre 11,8% 12,4% 10,1% 11,7% 11,5% 9,6% 14,2% 14,0% 20,2% 13,4%
+6 bis 8 Jahre 6,2% 5,5% 6,4% 5,6% 7,2% 5,4% 6,4% 8,4% 16,8% 0,0%
+8 bis 10 Jahre 5,4% 5,2% 5,5% 5,8% 5,6% 4,4% 4,5% 7,4% 7,7% 0,0%
+10 bis 20 Jahre 22,1% 19,8% 24,5% 23,0% 21,5% 26,1% 23,3% 24,8% 0,9% 0,0%
+20 u. m. Jahre 23,1% 23,7% 20,8% 24,4% 31,6% 27,5% 16,4% 6,0% 0,0% 0,0%
+Insgesamt 100% 100% 100% 100% 100% 100% 100% 100% 100% 100%
+Mittelwert
+13,1 12,8 12,5 13,7 16,5 14,9 10,2 7,5 4,0 2,0
+(in Jahren)
+*gewichtet mit der Grundgesamtheit
+Das Alter der mietenspiegelrelevanten Verträge in den kleinen Wohnungen 25 m² bis
+unter 41 m² Wohnfläche liegt mit durchschnittlich 10,0 Jahren unter dem Durchschnitt
+aller Wohnungen in Hamburg (13,1 Jahre). Insgesamt sind in dieser Größenklasse rund
+35 % aller Mietverhältnisse 10 Jahre und älter (vgl. Tabelle 21). Die längsten Mietverträge
+finden sich in den Wohnungen von 66 m² bis unter 91 m², wo rund 28 % aller mieten-
+spiegelrelevanten Verträge 20 Jahre und älter sind. Auch in der größten Wohnungsgrö-
+ßenklasse mit Wohnungen ab 131 m² sind die durchschnittlichen mietenspiegelrelevan-
+ten Verträge relativ alt (14,3 Jahre).
+Dokumentation Hamburger Mietenspiegel 2021 50
+Ergänzende Auswertungen
+Tabelle 21: Verteilung der mietenspiegelrelevanten Verträge nach durchschnittlichem Alter und
+Wohnungsgrößenklassen (Angaben in Prozent) *
+Alter der mieten- insge- Baualtersklassen
+spiegelrelevan- samt 25 m² bis 41 m² bis 66 m² bis 91 m² bis
+ten Verträge unter 41 unter 66 unter 91 unter ab 131 m²
+m² m² m² 131 m²
+bis 2 Jahre 17,0% 24,6% 15,8% 15,6% 19,1% 16,6%
+2 bis 4 Jahre 14,5% 14,0% 15,6% 12,5% 15,9% 14,7%
+4 bis 6 Jahre 11,8% 14,4% 12,0% 10,7% 10,9% 10,6%
+6 bis 8 Jahre 6,2% 5,9% 6,3% 6,0% 6,4% 5,5%
+8 bis 10 Jahre 5,4% 6,4% 5,5% 4,9% 4,7% 5,6%
+10 bis 20 Jahre 22,1% 17,8% 23,3% 22,0% 20,6% 22,5%
+20 u. m. Jahre 23,1% 17,0% 21,4% 28,3% 22,4% 24,6%
+Insgesamt 100% 100% 100% 100% 100% 100%
+Mittelwert
+13,1 10,0 12,6 15,3 12,4 14,3
+(in Jahren)
+*gewichtet mit der Grundgesamtheit
+Bei der Analyse des Alters der mietenspiegelrelevanten Verträge nach dem Vermietertyp
+zeigt sich auch im Hamburger Mietenspiegel 2021, dass beim städtischen Wohnungsun-
+ternehmen SAGA/GWG (18,5 Jahre) und den Wohnungsgenossenschaften (15,3 Jahre)
+die durchschnittliche Dauer des Mietvertrages höher ist als bei anderen Vermieterinnen
+und Vermietern (vgl. Tabelle 22). Aufgrund der in der Regel niedrigeren Mieten und dem
+genossenschaftlichen Prinzip der „Miteigentümerschaft“ ist die Bindung der Mieterinnen
+und Mieter höher als bei anderen Vermietertypen. Außerdem dürfte auch ein höherer
+Anteil älterer Mieterinnen und Mieter bei den Wohnungsgenossenschaften leben, wes-
+halb die Mobilität geringer ist.
+Dokumentation Hamburger Mietenspiegel 2021 51
+Ergänzende Auswertungen
+Tabelle 22: Verteilung der mietenspiegelrelevanten Verträge nach durchschnittlichem Alter und
+Vermietertyp (Angaben in Prozent) *
+Alter der mie- insge- Vermietertyp
+tenspiegelrele- samt Freie Woh- Private
+Genossen-
+vanten Ver- SAGA/GWG nungsun- Eigentü- Sonstige
+schaften
+träge ternehmen mer
+bis 2 Jahre 17,0% 2,5% 11,4% 20,8% 23,5% 22,0%
+2 bis 4 Jahre 14,5% 6,9% 10,4% 18,4% 17,3% 17,9%
+4 bis 6 Jahre 11,8% 7,6% 11,5% 13,6% 13,1% 9,8%
+6 bis 8 Jahre 6,2% 7,6% 6,4% 5,9% 5,6% 6,4%
+8 bis 10 Jahre 5,4% 6,0% 6,8% 4,7% 4,7% 8,3%
+10 bis 20 Jahre 22,1% 34,1% 27,0% 18,1% 17,0% 17,1%
+20 u. m. Jahre 23,1% 35,3% 26,4% 18,5% 18,8% 18,5%
+Insgesamt 100% 100% 100% 100% 100% 100%
+Mittelwert
+13,1 18,5 15,3 10,9 11,0 11,4
+(in Jahren)
+*gewichtet mit der Grundgesamtheit
+8.6 Mietveränderungserklärung mit Verweis auf den Hamburger Mietenspiegel
+Nach § 558a BGB müssen Mieterhöhungen von der Vermieterin oder von dem Vermieter
+begründet werden. Es muss darlegt werden, dass die künftig verlangte Miete die ortsüb-
+liche Vergleichsmiete für vergleichbare Wohnungen nicht übersteigt. Die Miete kann dar-
+über hinaus auch durch beiderseitiges Einvernehmen geändert werden. Nach § 558a
+Abs. 2 BGB kann die Vermieterin bzw. der Vermieter die Mieterhöhung mit dem Mieten-
+spiegel begründen. Nach der Mietrechtsreform 2001 muss im Erhöhungsverlangen auf
+den qualifizierten Mietenspiegel Bezug genommen werden, auch wenn die Vermieterin
+und der Vermieter eine andere Möglichkeit der Darlegung, wie z. B. ein Sachverständi-
+gengutachten, verwendet.
+Zur Begründung nach § 558a Abs. 2 BGB kann Bezug genommen werden auf:
+○ einen Mietenspiegel,
+○ eine Auskunft aus einer Mietdatenbank,
+○ ein mit Gründen versehenes Gutachten eines öffentlich bestellten und vereidigten
+Sachverständigen,
+○ entsprechende Entgelte für einzelne vergleichbare Wohnungen; hierbei genügt
+die Benennung von drei Wohnungen.
+Dokumentation Hamburger Mietenspiegel 2021 52
+Ergänzende Auswertungen
+Tabelle 23: Begründung der Mieterhöhung nach Baualtersklasse (Angaben in Prozent) *
+n
+e
+g
+t
+h n
+n c e
+u a n g
+r a t u e g n
+b g n u
+n n u d
+Baualtersklasse
+l e
+g e i p s n e t e i M
+i e r e
+V e g i l l i w i e r F
+e g i d
+n ä t s r e v h c a S
+n h o
+w s h c i e l g r e V
+g n u
+r e i s i n r e d o M e t e i m l e f f a t S e t e i m x e d n I
+n ü r g
+e B e g i t s n o S
+Bis 31.12.1918 60,5% 2,4% - 0,6% 3,4% 21,4% 9,3% 1,6%
+1919 bis
+63,4% 1,7% - 0,5% 3,3% 16,1% 12,8% 1,7%
+20.06.1948
+21.06.1948 bis
+69,1% 3,5% - 0,4% 5,1% 12,4% 6,6% 1,8%
+1960
+1961 bis 1967 75,4% 3,3% - 0,2% 4,9% 9,4% 5,2% 1,2%
+1968 bis 1977 75,0% 4,5% - 0,8% 6,9% 7,3% 3,8% 0,6%
+1978 bis 1993 60,1% 3,3% - 2,2% 4,2% 14,6% 8,8% 5,4%
+1994 bis 2010 47,7% 6,2% - 0,6% 1,3% 28,0% 10,4% 2,9%
+2011 bis 2015 17,5% 2,0% - 0,7% 0,0% 34,2% 42,8% 1,5%
+2016 bis 2020 11,8% 4,1% - 0,3% 0,0% 47,0% 31,2% 4,1%
+Insgesamt 66,6% 3,3% - 0,5% 4,5% 14,2% 8,0% 1,7%
+*gewichtet mit der Grundgesamtheit
+Im Rahmen der Datenerhebung zum Hamburger Mietenspiegel 2021 wurden, wie auch
+in der Vergangenheit, weitere Begründungen der Mieterhöhung abgefragt: Staffelmiete,
+Indexmiete, Modernisierung. Die Differenzen zu 100 % sind jeweils Fälle, in denen keine
+Begründung angegeben wurde.
+Unter Berücksichtigung aller abgefragten Mietänderungsbegründungen liegt der Anteil
+mit dem Änderungsgrund Hamburger Mietenspiegel bei 66,6 % und damit um etwa ei-
+nen Prozentpunkt unter dem Anteil bei der Erhebung zum Mietenspiegel 2019. Der Ham-
+burger Mietenspiegel ist damit auch weiterhin die wichtigste Grundlage für die Vermie-
+terinnen und Vermieter bei der Veränderung der Miete in bestehenden Mietverhältnis-
+sen. Der Anteil an Sachverständigengutachten als Mietänderungsbegründung ist den
+letzten Jahren stets rückläufig gewesen und ist im Hamburger Mietenspiegel 2021, wie
+auch im Mietenspiegel 2019, nicht mehr als Mietänderungsgrund angeführt worden.
+Der Anteil der Staffelmietverträge über alle Baualtersklassen liegt bei rund 14,2 %, doch
+insbesondere im Neubau ab 2016 steigt der Anteil dieser Vertragsart auf 47,0 % an. Na-
+türlich sind in diesen Wohnungsbeständen derzeit nur wenige Mietveränderungen aus-
+gesprochen worden und es ergeben sich nur die vertraglich festgelegten Änderungen,
+Dokumentation Hamburger Mietenspiegel 2021 53
+Ergänzende Auswertungen
+aber Staffel- und Indexmietveränderungen sind nicht von der Kappungsgrenzenverord-
+nung betroffen.
+Dokumentation Hamburger Mietenspiegel 2021 54
+Energetische Beschaffenheit
+9 Energetische Beschaffenheit
+Im Rahmen der Erstellung des Hamburger Mietenspiegels wurde erstmals seit dem Mie-
+tenspiegel 2013 wieder die energetische Beschaffenheit der Wohnungen erhoben. Dazu
+wurden bei den Vermieterinnen und Vermietern neben den Angaben aus der Befragung
+zum Mietenspiegel auch Angaben zum Gebäude und zu Energiekennwerten aus Ener-
+gieausweisen nach dem Gebäudeenergiegesetz (GEG) bzw. der früheren Energieeinspar-
+verordnung (EnEV) erhoben. Diese Erhebung wurde bei allen Vermieterinnen und Ver-
+mietern aus der Stichprobe durchgeführt.
+9.1 Datenerhebung
+Ausgewertet wurden die Energieausweise der Datensätze, die auch in die Mietenspiegel-
+tabelle eingegangen sind. Analog zur Erhebung 2013 war der Rücklauf der Daten zu Be-
+darfsausweisen geringer als jener zu den Verbrauchsausweisen, insgesamt lagen aber
+deutlich mehr Daten vor: Es konnten verwertbare Angaben zu 3.972 Verbrauchsauswei-
+sen und 1.352 Bedarfsausweisen gewonnen werden. Aufgrund der grundsätzlich anderen
+Erstellungsmethodik der beiden Ausweistypen lassen sich die Angaben nicht ohne wei-
+teres kombinieren. Da ausreichend Datensätze für die Auswertung beider Ausweistypen
+vorlagen, wurde entschieden, anders als 2013, beide Kennwerte auszuwerten.
+9.2 Auswertungen und Methode
+Die Auswertungsmethodik wurde im Vergleich zum Mietenspiegel 2013 etwas ange-
+passt. Vor den eigentlichen Auswertungen wurden folgende Arbeitsschritte durchge-
+führt:
+○ Einteilung in Größenklassen. Wie auch im Mietenspiegel 2013 wurden die Wirt-
+schaftseinheiten in Größenklassen eingeteilt. In Absprache mit dem Arbeitskreis
+Mietenspiegel wurden erneut zwei Größenklassen gebildet: Kleinere Wirtschafts-
+einheiten mit bis zu 750 m² Gebäudenutzfläche und größere Wirtschaftseinheiten
+mit mehr als 750 m² Gebäudenutzfläche. Bei Wohnungen der SAGA lag keine
+Angabe zur Gebäudenutzfläche vor, hier wurde auf die Anzahl der Wohnungen
+abgestellt: Bei mehr als 9 Wohnungen wird die Wirtschaftseinheit als größere
+Wirtschaftseinheit gezählt, sonst als kleinere.
+○ Um die Anwendung zu erleichtern, wird in Tabellen die Zahl der Wohnungen aus-
+gewiesen und nicht die Gebäudenutzfläche. Es wird angenommen, dass Gebäude
+mit bis zu 9 Wohnungen eine Gebäudenutzfläche von höchstens 750 m² haben.
+○ Einteilung in die Baualtersklassen des Mietenspiegels. Um die bestandstypischen
+Eigenschaften berücksichtigen zu können, erfolgte die Auswertung getrennt nach
+Baualtersklassen.
+Dokumentation Hamburger Mietenspiegel 2021 55
+Energetische Beschaffenheit
+○ Vereinheitlichung der Datenbasis der Energieverbrauchsausweise auf Energie-
+kennwerte mit Warmwassererzeugung. Bezogen auf Energieverbrauchsausweise
+mit und ohne Angabe der Warmwasserversorgung wurde entschieden, einen
+Pauschalwert von 20 kWh/m²a auf Energieverbrauchskennwerte ohne Warmwas-
+serbereitung aufzuschlagen, um die Werte vergleichbar zu machen.7
+Bei der Auswertung wurden als Kenngrößen der Median sowie die auch im eigentlichen
+Mietenspiegel verwendete 2/3-Spanne berechnet. Diese sind Tabelle 24 zu entnehmen.
+Die Tabelle enthält zudem noch die Fallzahlen für die jeweiligen Felder. Es sind insgesamt
+vier Felder für Bedarfsausweise ausgewiesen, in denen eine Fallzahl zwischen 10 und 29
+Fällen ermittelt wurde. Für sie ist die Aussagekraft eingeschränkt.
+Die Auswertung zeigt, dass sowohl die Verbrauchs- als auch Bedarfskennwerte für große
+Wirtschaftseinheiten niedriger sind als für kleine. Darüber hinaus sinken die Energiekenn-
+werte mit abnehmendem Baualter. Auch die Spannen sind in den jüngeren Baualtersklas-
+sen kleiner als in den älteren.
+Die folgende Anwendung im Mietenspiegel ist eine Empfehlung des Arbeitskreises Miet-
+spiegel, sie ist nicht Teil des qualifizierten Mietspiegels: Wohnungen in Gebäuden, die
+nach Einordnung in Größen- und Baualtersklasse gemäß Tabelle 24 einen Verbrauchs-
+oder Bedarfskennwert unterhalb der 2/3-Spanne aufweisen, werden im Rahmen der
+Spanneneinordnung als energetisch besonders vorteilhaft angesehen. Entsprechend
+werden Wohnungen, deren Verbrauchs- bzw. Bedarfskennwerte oberhalb der 2/3-
+Spanne liegen, als energetisch besonders nachteilig eingestuft. Es ist zu beachten, dass
+bei Vorliegen eines Verbrauchsausweises, der einen Energiekennwert exklusive Warm-
+wasserbereitung enthält, vor der Einordnung zunächst 20 kWh/m²a hinzugerechnet wer-
+den müssen.
+7 Analog zu § 82 Abs. 2 Satz 2 GEG.
+Dokumentation Hamburger Mietenspiegel 2021 56
+Energetische Beschaffenheit
+Tabelle 24: Energiekennwerte 2021
+Energiekennwerte für Energiekennwerte für
+Verbrauchsausweise Bedarfsausweise
+(in kWh/m² und Jahr) (in kWh/m² und Jahr)
+Kleinere Wirt- Größere Wirt- Kleinere Wirt- Größere Wirt-
+Baualtersklasse
+schaftseinhei- schaftseinhei- schaftseinhei- schaftseinhei-
+ten mit bis zu ten mit zehn ten mit bis zu ten mit zehn
+neun Woh- Wohnungen neun Woh- Wohnungen
+nungen und mehr nungen und mehr
+Mittelwert 152,8 122,5 175,0 153,1
+Bis
+Spanne 117,1 - 212,0 100,0 - 159,8 133,6 - 234,7 123,8 - 197,5
+31.12.1918
+Anzahl 136 410 83 115
+01.01.1919 Mittelwert 152,0 141,8 179,0 138,6
+bis Spanne 124,9 - 178,0 102,7 - 179,3 152,4 - 219,6 67,6 - 193,1
+20.06.1948 Anzahl 86 437 43 92
+Mittelwert 141,5 137,0 146,1 102,4
+21.06.1948
+Spanne 110,5 - 177,2 102,9 - 168,1 121,0 - 183,3 75,8 - 187,9
+bis 1960
+Anzahl 160 945 152 110
+Mittelwert 149,1 131,0 144,4 102,0
+1961 bis
+Spanne 115,0 - 172,5 86,0 - 177,0 115,2 - 188,8 62,2 - 127,0
+1967
+Anzahl 66 683 86 89
+Mittelwert 167,6 134,1 132,4* 76,0
+1968 bis
+Spanne 146,0 - 198,0 101,2 - 160,3 101,2 - 148,7 64,0 - 133,7
+1977
+Anzahl 31 315 20 103
+Mittelwert 127,2 122,9 111,0 89,8*
+1978 bis
+Spanne 107,4 - 154,6 104,0 - 148,0 106,7 - 154,7 48,5 - 96,3
+1993
+Anzahl 46 178 33 21
+Mittelwert 95,0 88,5 117,2* 93,0*
+1994 bis
+Spanne 79,5 - 128,9 73,0 - 109,6 79,4 - 152,7 31,3 - 120,4
+2009
+Anzahl 51 376 23 21
+Mittelwert 60,8 47,5 56,0
+2011 bis
+Spanne 47,8 - 77,0 25,7 - 112,2 46,0 - 68,2
+2015
+Anzahl 4 48 32 181
+Mittelwert 41,5 51,0
+2016 bis
+Spanne 35,3 - 55,8 38,6 - 63,7
+2020
+Anzahl 0 0 30 118
+*Eingeschränkte Aussagekraft, da weniger als 30 Fälle vorlagen.
+Dokumentation Hamburger Mietenspiegel 2021 57
+Anlagen
+Anlage A: Förderprogramme
+Dokumentation Hamburger Mietenspiegel 2021 58
+Anlagen
+Mietenspiegelrelevante Förderprogramme
+Die nachfolgend aufgelisteten Förderprogramme haben bei entsprechenden Wohnun-
+gen zum Ausschluss aus dem Hamburger Mietenspiegel 2021 geführt.
+1. Mietwohnungsneubau
+Förderung nach dem II. WoBauG
+○ 1. Förderweg (§§ 6, 25 ff. II. WoBauG)
+○ 3.-5. Förderweg (§§ 88 a-c II. WoBauG)
+○ 3. Förderweg (§§ 88 a-c II. WoBauG)
+○ Gen. Wohnprojekte (§§ 88 a-c II. WoBauG)
+○ Vertragswohnungsbau (§§ 88 d II. WoBauG)
+Förderung nach dem WoFG/HmbWoFG
+○ Förderumstellung 3. Förderweg Förderung nach dem WoFG/HmbWoFG
+○ Besondere Wohnformen (Segment SW)
+○ 1. Förderweg Mietwohnungen (M)
+○ 1. Förderweg Neubau Mietwohnungen WA-Bindung
+○ 1. Förderweg Neubau Mietwohnungen WA-Bindung (Segment E)
+○ 1. Förderweg Neubau Mietwohnungen WA-Bindung (Segment Q)
+○ 2. Förderweg Mietwohnungen (M)
+○ Wohnungen für Studierende und Auszubildende (Segment S)
+○ Baugemeinschaften
+○ Neubau für vordringlich Wohnungssuchende
+2. Wohnungsmodernisierung
+○ Mod. Programm A (mit Mietpreisbindung)
+○ Mod. Programm B
+○ Modernisierungen in Sanierungsgebieten
+○ Modernisierungen für Studierende und Auszubildende
+○ Barrierefreier Umbau von Mietwohnungen
+○ Modernisierung in Gebieten der integrierten Stadtteilentwicklung
+3. Wohnungsbestand
+○ Ankauf von Belegungsbindungen
+○ Bindungsverlängerung
+Dokumentation Hamburger Mietenspiegel 2021 59
+Anlagen
+Anlage B: Histogramme
+Dokumentation Hamburger Mietenspiegel 2021 60
+Anlagen
+MMiieetteennssppiieeggeellffeelldd CC11
+BBaauuaalltteerrsskkllaassssee bbiiss 3311..1122..11991188,,
+mmiitt BBaadd uunndd SSaammmmeellhheeiizzuunngg,,
+2255 mm²² bbiiss uunntteerr 4411 mm²²,,
+nnoorrmmaallee WWoohhnnllaaggee
+Arithmetisches Mittel 12,12 €/m²
+Arithmetisches Mittel 12,12 €/m²
+Standardabweichung 2,83
+Standardabweichung 2,83
+Unterer Wert der 2/3- 9,06 €/m²
+Unterer Wert der 2/3 9,06 €/m²
+Spanne
+Spanne
+Oberer Wert der 2/3- 14,81 €/m²
+Oberer Wert der 2/3 14,81 €/m²
+Spanne
+Spanne
+Minimum 6,35 €/m²
+Minimum 6,35 €/m²
+Maximum 19,84 €/m²
+Maximum 19,84 €/m²
+Anzahl Mietwerte 55
+Anzahl Mietwert 55
+Mietenspiegelfeld C2
+Baualtersklasse bis 31.12.1918,
+mit Bad und Sammelheizung,
+41 m² bis unter 66 m²,
+normale Wohnlage
+Arithmetisches Mittel 10,65 €/m²
+Standardabweichung 2,44
+Unterer Wert der 2/3- 8,50 €/m²
+Spanne
+Oberer Wert der 2/3- 13,22 €/m²
+Spanne
+Minimum 4,74 €/m²
+Maximum 17,40 €/m²
+Anzahl Mietwerte 544
+Dokumentation Hamburger Mietenspiegel 2021 61
+Anlagen
+MMiieetteennssppiieeggeellffeelldd CC31
+BBaauuaalltteerrsskkllaassssee bbiiss 3311..1122..11991188,,
+mmiitt BBaadd uunndd SSaammmmeellhheeiizzuunngg,,
+2656 mm²² bbiiss uunntteerr 4911 mm²²,,
+nnoorrmmaallee WWoohhnnllaaggee
+Arithmetisches Mittel 10,64 €/m²
+Arithmetisches Mittel 12,12 €/m²
+Standardabweichung 2,35
+Standardabweichung 2,83
+Unterer Wert der 2/3- 8,80 €/m²
+Unterer Wert der 2/3 9,06 €/m²
+Spanne
+Spanne
+Oberer Wert der 2/3- 12,68 €/m²
+Oberer Wert der 2/3 14,81 €/m²
+Spanne
+Spanne
+Minimum 4,76 €/m²
+Minimum 6,35 €/m²
+Maximum 17,43 €/m²
+Maximum 19,84 €/m²
+Anzahl Mietwerte 309
+Anzahl Mietwert 55
+Mietenspiegelfeld C4
+Baualtersklasse bis 31.12.1918,
+mit Bad und Sammelheizung,
+ab 91 m²,
+normale Wohnlage
+Arithmetisches Mittel 9,85 €/m²
+Standardabweichung 2,16
+Unterer Wert der 2/3- 8,21 €/m²
+Spanne
+Oberer Wert der 2/3- 11,78 €/m²
+Spanne
+Minimum 5,86 €/m²
+Maximum 16,18 €/m²
+Anzahl Mietwerte 164
+Dokumentation Hamburger Mietenspiegel 2021 62
+Anlagen
+MMiieetteennssppiieeggeellffeelldd CC51
+BBaauuaalltteerrsskkllaassssee bbiiss 3311..1122..11991188,,
+mmiitt BBaadd uunndd SSaammmmeellhheeiizzuunngg,,
+2255 mm²² bbiiss uunntteerr 4411 mm²²,,
+ngourtem Waleo hWnolahgnela ge
+Arithmetisches Mittel 12,75 €/m²
+Arithmetisches Mittel 12,12 €/m²
+Standardabweichung 2,82
+Standardabweichung 2,83
+Unterer Wert der 2/3- 10,21 €/m²
+Unterer Wert der 2/3 9,06 €/m²
+Spanne
+Spanne
+Oberer Wert der 2/3- 15,18 €/m²
+Oberer Wert der 2/3 14,81 €/m²
+Spanne
+Spanne
+Minimum 5,16 €/m²
+Minimum 6,35 €/m²
+Maximum 18,40 €/m²
+Maximum 19,84 €/m²
+Anzahl Mietwerte 41
+Anzahl Mietwert 55
+Mietenspiegelfeld C6
+Baualtersklasse bis 31.12.1918,
+mit Bad und Sammelheizung,
+41 m² bis unter 66 m²,
+gute Wohnlage
+Arithmetisches Mittel 11,88 €/m²
+Standardabweichung 2,40
+Unterer Wert der 2/3- 9,73 €/m²
+Spanne
+Oberer Wert der 2/3- 14,33 €/m²
+Spanne
+Minimum 5,44 €/m²
+Maximum 18,48 €/m²
+Anzahl Mietwerte 357
+Dokumentation Hamburger Mietenspiegel 2021 63
+Anlagen
+MMiieetteennssppiieeggeellffeelldd CC71
+BBaauuaalltteerrsskkllaassssee bbiiss 3311..1122..11991188,,
+mmiitt BBaadd uunndd SSaammmmeellhheeiizzuunngg,,
+2656 mm²² bbiiss uunntteerr 4911 mm²²,,
+ngourtem Waleo hWnolahgnela ge
+Arithmetisches Mittel 12,11 €/m²
+Arithmetisches Mittel 12,12 €/m²
+Standardabweichung 2,74
+Standardabweichung 2,83
+Unterer Wert der 2/3- 9,57 €/m²
+Unterer Wert der 2/3 9,06 €/m²
+Spanne
+Spanne
+Oberer Wert der 2/3- 14,94 €/m²
+Oberer Wert der 2/3 14,81 €/m²
+Spanne
+Spanne
+Minimum 5,27 €/m²
+Minimum 6,35 €/m²
+Maximum 19,76 €/m²
+Maximum 19,84 €/m²
+Anzahl Mietwerte 384
+Anzahl Mietwert 55
+Mietenspiegelfeld C8
+Baualtersklasse bis 31.12.1918,
+mit Bad und Sammelheizung,
+91 m² bis unter 131 m²,
+gute Wohnlage
+Arithmetisches Mittel 11,77 €/m²
+Standardabweichung 2,69
+Unterer Wert der 2/3- 9,40 €/m²
+Spanne
+Oberer Wert der 2/3- 14,82 €/m²
+Spanne
+Minimum 4,67 €/m²
+Maximum 18,95 €/m²
+Anzahl Mietwerte 405
+Dokumentation Hamburger Mietenspiegel 2021 64
+Anlagen
+MMiieetteennssppiieeggeellffeelldd CC91
+BBaauuaalltteerrsskkllaassssee bbiiss 3311..1122..11991188,,
+mmiitt BBaadd uunndd SSaammmmeellhheeiizzuunngg,,
+2ab5 m13²1 b mis ²u, nter 41 m²,
+ngourtem Waleo hWnolahgnela ge
+Arithmetisches Mittel 11,64 €/m²
+Arithmetisches Mittel 12,12 €/m²
+Standardabweichung 2,73
+Standardabweichung 2,83
+Unterer Wert der 2/3- 9,25 €/m²
+Unterer Wert der 2/3 9,06 €/m²
+Spanne
+Spanne
+Oberer Wert der 2/3- 14,34 €/m²
+Oberer Wert der 2/3 14,81 €/m²
+Spanne
+Spanne
+Minimum 4,19 €/m²
+Minimum 6,35 €/m²
+Maximum 18,79 €/m²
+Maximum 19,84 €/m²
+Anzahl Mietwerte 249
+Anzahl Mietwert 55
+Dokumentation Hamburger Mietenspiegel 2021 65
+Anlagen
+MMiieetteennssppiieeggeellffeelldd FC11
+BBaauuaalltteerrsskkllaassssee 1b.i1s .13911.192 .b1i9s1 280, .6.1948,
+mmiitt BBaadd uunndd SSaammmmeellhheeiizzuunngg,,
+2255 mm²² bbiiss uunntteerr 4411 mm²²,,
+nnoorrmmaallee WWoohhnnllaaggee
+Arithmetisches Mittel 9,76 €/m²
+Arithmetisches Mittel 12,12 €/m²
+Standardabweichung 1,78
+Standardabweichung 2,83
+Unterer Wert der 2/3- 8,25 €/m²
+Unterer Wert der 2/3 9,06 €/m²
+Spanne
+Spanne
+Oberer Wert der 2/3- 11,86 €/m²
+Oberer Wert der 2/3 14,81 €/m²
+Spanne
+Spanne
+Minimum 6,02 €/m²
+Minimum 6,35 €/m²
+Maximum 14,88 €/m²
+Maximum 19,84 €/m²
+Anzahl Mietwerte 70
+Anzahl Mietwert 55
+Mietenspiegelfeld F2
+Baualtersklasse 1.1.1919 bis 20.6.1948,
+mit Bad und Sammelheizung,
+41 m² bis unter 66 m²,
+normale Wohnlage
+Arithmetisches Mittel 9,06 €/m²
+Standardabweichung 1,83
+Unterer Wert der 2/3- 7,53 €/m²
+Spanne
+Oberer Wert der 2/3- 10,71 €/m²
+Spanne
+Minimum 5,34 €/m²
+Maximum 14,76 €/m²
+Anzahl Mietwerte 720
+Dokumentation Hamburger Mietenspiegel 2021 66
+Anlagen
+MMiieetteennssppiieeggeellffeelldd FC31
+BBaauuaalltteerrsskkllaassssee 1b.i1s .13911.192 .b1i9s1 280, .6.1948,
+mmiitt BBaadd uunndd SSaammmmeellhheeiizzuunngg,,
+2656 mm²² bbiiss uunntteerr 4911 mm²²,,
+nnoorrmmaallee WWoohhnnllaaggee
+Arithmetisches Mittel 9,03 €/m²
+Arithmetisches Mittel 12,12 €/m²
+Standardabweichung 2,15
+Standardabweichung 2,83
+Unterer Wert der 2/3- 7,06 €/m²
+Unterer Wert der 2/3 9,06 €/m²
+Spanne
+Spanne
+Oberer Wert der 2/3- 11,15 €/m²
+Oberer Wert der 2/3 14,81 €/m²
+Spanne
+Spanne
+Minimum 4,62 €/m²
+Minimum 6,35 €/m²
+Maximum 15,29 €/m²
+Maximum 19,84 €/m²
+Anzahl Mietwerte 251
+Anzahl Mietwert 55
+Mietenspiegelfeld F4
+Baualtersklasse 1.1.1919 bis 20.6.1948,
+mit Bad und Sammelheizung,
+ab 91 m²,
+normale Wohnlage
+Arithmetisches Mittel 8,46 €/m²
+Standardabweichung 2,20
+Unterer Wert der 2/3- 6,90 €/m²
+Spanne
+Oberer Wert der 2/3- 9,49 €/m²
+Spanne
+Minimum 4,87 €/m²
+Maximum 13,87 €/m²
+Anzahl Mietwerte 31
+Dokumentation Hamburger Mietenspiegel 2021 67
+Anlagen
+MMiieetteennssppiieeggeellffeelldd FC51
+BBaauuaalltteerrsskkllaassssee 1b.i1s .13911.192 .b1i9s1 280, .6.1948,
+mmiitt BBaadd uunndd SSaammmmeellhheeiizzuunngg,,
+2255 mm²² bbiiss uunntteerr 4411 mm²²,,
+ngourtem Waleo hWnolahgnela ge
+Arithmetisches Mittel 10,79 €/m²
+Arithmetisches Mittel 12,12 €/m²
+Standardabweichung 2,02
+Standardabweichung 2,83
+Unterer Wert der 2/3- 9,17 €/m²
+Unterer Wert der 2/3 9,06 €/m²
+Spanne
+Spanne
+Oberer Wert der 2/3- 12,87 €/m²
+Oberer Wert der 2/3 14,81 €/m²
+Spanne
+Spanne
+Minimum 6,67 €/m²
+Minimum 6,35 €/m²
+Maximum 15,15 €/m²
+Maximum 19,84 €/m²
+Anzahl Mietwerte 28
+Anzahl Mietwert 55
+Mietenspiegelfeld F6
+Baualtersklasse 1.1.1919 bis 20.6.1948,
+mit Bad und Sammelheizung,
+41 m² bis unter 66 m²,
+gute Wohnlage
+Arithmetisches Mittel 10,54 €/m²
+Standardabweichung 2,24
+Unterer Wert der 2/3- 8,47 €/m²
+Spanne
+Oberer Wert der 2/3- 12,80 €/m²
+Spanne
+Minimum 6,24 €/m²
+Maximum 16,92 €/m²
+Anzahl Mietwerte 293
+Dokumentation Hamburger Mietenspiegel 2021 68
+Anlagen
+MMiieetteennssppiieeggeellffeelldd FC71
+BBaauuaalltteerrsskkllaassssee 1b.i1s .13911.192 .b1i9s1 280, .6.1948,
+mmiitt BBaadd uunndd SSaammmmeellhheeiizzuunngg,,
+2656 mm²² bbiiss uunntteerr 4911 mm²²,,
+ngourtem Waleo hWnolahgnela ge
+Arithmetisches Mittel 11,08 €/m²
+Arithmetisches Mittel 12,12 €/m²
+Standardabweichung 2,65
+Standardabweichung 2,83
+Unterer Wert der 2/3- 8,33 €/m²
+Unterer Wert der 2/3 9,06 €/m²
+Spanne
+Spanne
+Oberer Wert der 2/3- 13,70 €/m²
+Oberer Wert der 2/3 14,81 €/m²
+Spanne
+Spanne
+Minimum 4,98 €/m²
+Minimum 6,35 €/m²
+Maximum 17,94 €/m²
+Maximum 19,84 €/m²
+Anzahl Mietwerte 381
+Anzahl Mietwert 55
+Mietenspiegelfeld F8
+Baualtersklasse 1.1.1919 bis 20.6.1948,
+mit Bad und Sammelheizung,
+91 m² bis unter 131 m²,
+gute Wohnlage
+Arithmetisches Mittel 11,44 €/m²
+Standardabweichung 2,50
+Unterer Wert der 2/3- 9,25 €/m²
+Spanne
+Oberer Wert der 2/3- 14,15 €/m²
+Spanne
+Minimum 5,32 €/m²
+Maximum 17,47 €/m²
+Anzahl Mietwerte 181
+Dokumentation Hamburger Mietenspiegel 2021 69
+Anlagen
+MMiieetteennssppiieeggeellffeelldd FC91
+BBaauuaalltteerrsskkllaassssee 1b.i1s .13911.192 .b1i9s1 280, .6.1948,
+mmiitt BBaadd uunndd SSaammmmeellhheeiizzuunngg,,
+2ab5 m13²1 b mis ²u, nter 41 m²,
+ngourtem Waleo hWnolahgnela ge
+Arithmetisches Mittel 11,64 €/m²
+Arithmetisches Mittel 12,12 €/m²
+Standardabweichung 1,99
+Standardabweichung 2,83
+Unterer Wert der 2/3- 10,03 €/m²
+Unterer Wert der 2/3 9,06 €/m²
+Spanne
+Spanne
+Oberer Wert der 2/3- 13,93 €/m²
+Oberer Wert der 2/3 14,81 €/m²
+Spanne
+Spanne
+Minimum 8,49 €/m²
+Minimum 6,35 €/m²
+Maximum 16,50 €/m²
+Maximum 19,84 €/m²
+Anzahl Mietwerte 48
+Anzahl Mietwert 55
+Dokumentation Hamburger Mietenspiegel 2021 70
+Anlagen
+MMiieetteennssppiieeggeellffeelldd HC11
+BBaauuaalltteerrsskkllaassssee 2b1is. 63.119.1428.1 b9i1s8 1, 960,
+mmiitt BBaadd uunndd SSaammmmeellhheeiizzuunngg,,
+2255 mm²² bbiiss uunntteerr 4411 mm²²,,
+nnoorrmmaallee WWoohhnnllaaggee
+Arithmetisches Mittel 9,18 €/m²
+Arithmetisches Mittel 12,12 €/m²
+Standardabweichung 2,16
+Standardabweichung 2,83
+Unterer Wert der 2/3- 7,41 €/m²
+Unterer Wert der 2/3 9,06 €/m²
+Spanne
+Spanne
+Oberer Wert der 2/3- 11,32 €/m²
+Oberer Wert der 2/3 14,81 €/m²
+Spanne
+Spanne
+Minimum 5,35 €/m²
+Minimum 6,35 €/m²
+Maximum 14,91 €/m²
+Maximum 19,84 €/m²
+Anzahl Mietwerte 154
+Anzahl Mietwert 55
+Mietenspiegelfeld H2
+Baualtersklasse 21.6.1948 bis 1960,
+mit Bad und Sammelheizung,
+41 m² bis unter 66 m²,
+normale Wohnlage
+Arithmetisches Mittel 8,19 €/m²
+Standardabweichung 1,59
+Unterer Wert der 2/3- 7,06 €/m²
+Spanne
+Oberer Wert der 2/3- 9,88 €/m²
+Spanne
+Minimum 5,21 €/m²
+Maximum 13,22 €/m²
+Anzahl Mietwerte 1000
+Dokumentation Hamburger Mietenspiegel 2021 71
+Anlagen
+MMiieetteennssppiieeggeellffeelldd HC13
+BBaauuaalltteerrsskkllaassssee 2b1is. 63.119.1428.1 b9i1s8 1, 960,
+mmiitt BBaadd uunndd SSaammmmeellhheeiizzuunngg,,
+2656 mm²² bbiiss uunntteerr 4911 mm²²,,
+nnoorrmmaallee WWoohhnnllaaggee
+Arithmetisches Mittel 8,09 €/m²
+Arithmetisches Mittel 12,12 €/m²
+Standardabweichung 1,51
+Standardabweichung 2,83
+Unterer Wert der 2/3- 6,88 €/m²
+Unterer Wert der 2/3 9,06 €/m²
+Spanne
+Spanne
+Oberer Wert der 2/3- 9,36 €/m²
+Oberer Wert der 2/3 14,81 €/m²
+Spanne
+Spanne
+Minimum 4,46 €/m²
+Minimum 6,35 €/m²
+Maximum 13,67 €/m²
+Maximum 19,84 €/m²
+Anzahl Mietwerte 376
+Anzahl Mietwert 55
+Mietenspiegelfeld H4
+Baualtersklasse 21.6.1948 bis 1960,
+mit Bad und Sammelheizung,
+ab 91 m²,
+normale Wohnlage
+Arithmetisches Mittel 8,66 €/m²
+Standardabweichung 2,10
+Unterer Wert der 2/3- 7,16 €/m²
+Spanne
+Oberer Wert der 2/3- 10,87 €/m²
+Spanne
+Minimum 5,10 €/m²
+Maximum 13,83 €/m²
+Anzahl Mietwerte 23
+Dokumentation Hamburger Mietenspiegel 2021 72
+Anlagen
+MMiieetteennssppiieeggeellffeelldd HC15
+BBaauuaalltteerrsskkllaassssee 2b1is. 63.119.1428.1 b9i1s8 1, 960,
+mmiitt BBaadd uunndd SSaammmmeellhheeiizzuunngg,,
+2255 mm²² bbiiss uunntteerr 4411 mm²²,,
+ngourtem Waleo hWnolahgnela ge
+Arithmetisches Mittel 12,04 €/m²
+Arithmetisches Mittel 12,12 €/m²
+Standardabweichung 3,21
+Standardabweichung 2,83
+Unterer Wert der 2/3- 8,33 €/m²
+Unterer Wert der 2/3 9,06 €/m²
+Spanne
+Spanne
+Oberer Wert der 2/3- 14,96 €/m²
+Oberer Wert der 2/3 14,81 €/m²
+Spanne
+Spanne
+Minimum 4,63 €/m²
+Minimum 6,35 €/m²
+Maximum 19,21 €/m²
+Maximum 19,84 €/m²
+Anzahl Mietwerte 98
+Anzahl Mietwert 55
+Mietenspiegelfeld H6
+Baualtersklasse 21.6.1948 bis 1960,
+mit Bad und Sammelheizung,
+41 m² bis unter 66 m²,
+gute Wohnlage
+Arithmetisches Mittel 9,64 €/m²
+Standardabweichung 2,53
+Unterer Wert der 2/3- 7,35 €/m²
+Spanne
+Oberer Wert der 2/3- 12,28 €/m²
+Spanne
+Minimum 3,23 €/m²
+Maximum 16,55 €/m²
+Anzahl Mietwerte 489
+Dokumentation Hamburger Mietenspiegel 2021 73
+Anlagen
+MMiieetteennssppiieeggeellffeelldd HC17
+BBaauuaalltteerrsskkllaassssee 2b1is. 63.119.1428.1 b9i1s8 1, 960,
+mmiitt BBaadd uunndd SSaammmmeellhheeiizzuunngg,,
+2656 mm²² bbiiss uunntteerr 4911 mm²²,,
+ngourtem Waleo hWnolahgnela ge
+Arithmetisches Mittel 10,70 €/m²
+Arithmetisches Mittel 12,12 €/m²
+Standardabweichung 2,38
+Standardabweichung 2,83
+Unterer Wert der 2/3- 8,28 €/m²
+Unterer Wert der 2/3 9,06 €/m²
+Spanne
+Spanne
+Oberer Wert der 2/3- 13,38 €/m²
+Oberer Wert der 2/3 14,81 €/m²
+Spanne
+Spanne
+Minimum 5,12 €/m²
+Minimum 6,35 €/m²
+Maximum 16,35 €/m²
+Maximum 19,84 €/m²
+Anzahl Mietwerte 289
+Anzahl Mietwert 55
+Mietenspiegelfeld H8
+Baualtersklasse 21.6.1948 bis 1960,
+mit Bad und Sammelheizung,
+91 m² bis unter 131 m²,
+gute Wohnlage
+Arithmetisches Mittel 11,81 €/m²
+Standardabweichung 2,76
+Unterer Wert der 2/3- 9,36 €/m²
+Spanne
+Oberer Wert der 2/3- 14,15 €/m²
+Spanne
+Minimum 5,13 €/m²
+Maximum 18,66 €/m²
+Anzahl Mietwerte 89
+Dokumentation Hamburger Mietenspiegel 2021 74
+Anlagen
+MMiieetteennssppiieeggeellffeelldd HC19
+BBaauuaalltteerrsskkllaassssee 2b1is. 63.119.1428.1 b9i1s8 1, 960,
+mmiitt BBaadd uunndd SSaammmmeellhheeiizzuunngg,,
+2ab5 m13²1 b mis ²u, nter 41 m²,
+ngourtem Waleo hWnolahgnela ge
+Arithmetisches Mittel 13,86 €/m²
+Arithmetisches Mittel 12,12 €/m²
+Standardabweichung 1,84
+Standardabweichung 2,83
+Unterer Wert der 2/3- 12,56 €/m²
+Unterer Wert der 2/3 9,06 €/m²
+Spanne
+Spanne
+Oberer Wert der 2/3- 14,74 €/m²
+Oberer Wert der 2/3 14,81 €/m²
+Spanne
+Spanne
+Minimum 11,25 €/m²
+Minimum 6,35 €/m²
+Maximum 18,00 €/m²
+Maximum 19,84 €/m²
+Anzahl Mietwerte 13
+Anzahl Mietwert 55
+Dokumentation Hamburger Mietenspiegel 2021 75
+Anlagen
+MMiieetteennssppiieeggeellffeelldd IC11
+BBaauuaalltteerrsskkllaassssee 1b9is6 311 b.1is2 .11996178,,
+mmiitt BBaadd uunndd SSaammmmeellhheeiizzuunngg,,
+2255 mm²² bbiiss uunntteerr 4411 mm²²,,
+nnoorrmmaallee WWoohhnnllaaggee
+Arithmetisches Mittel 8,76 €/m²
+Arithmetisches Mittel 12,12 €/m²
+Standardabweichung 2,08
+Standardabweichung 2,83
+Unterer Wert der 2/3- 6,58 €/m²
+Unterer Wert der 2/3 9,06 €/m²
+Spanne
+Spanne
+Oberer Wert der 2/3- 10,80 €/m²
+Oberer Wert der 2/3 14,81 €/m²
+Spanne
+Spanne
+Minimum 4,92 €/m²
+Minimum 6,35 €/m²
+Maximum 15,02 €/m²
+Maximum 19,84 €/m²
+Anzahl Mietwerte 164
+Anzahl Mietwert 55
+Mietenspiegelfeld I2
+Baualtersklasse 1961 bis 1967,
+mit Bad und Sammelheizung,
+41 m² bis unter 66 m²,
+normale Wohnlage
+Arithmetisches Mittel 7,41 €/m²
+Standardabweichung 1,53
+Unterer Wert der 2/3- 6,44 €/m²
+Spanne
+Oberer Wert der 2/3- 8,64 €/m²
+Spanne
+Minimum 4,30 €/m²
+Maximum 12,73 €/m²
+Anzahl Mietwerte 548
+Dokumentation Hamburger Mietenspiegel 2021 76
+Anlagen
+MMiieetteennssppiieeggeellffeelldd IC31
+BBaauuaalltteerrsskkllaassssee 1b9is6 311 b.1is2 .11996178,,
+mmiitt BBaadd uunndd SSaammmmeellhheeiizzuunngg,,
+2656 mm²² bbiiss uunntteerr 4911 mm²²,,
+nnoorrmmaallee WWoohhnnllaaggee
+Arithmetisches Mittel 6,64 €/m²
+Arithmetisches Mittel 12,12 €/m²
+Standardabweichung 1,21
+Standardabweichung 2,83
+Unterer Wert der 2/3- 5,87 €/m²
+Unterer Wert der 2/3 9,06 €/m²
+Spanne
+Spanne
+Oberer Wert der 2/3- 7,57 €/m²
+Oberer Wert der 2/3 14,81 €/m²
+Spanne
+Spanne
+Minimum 4,58 €/m²
+Minimum 6,35 €/m²
+Maximum 11,15 €/m²
+Maximum 19,84 €/m²
+Anzahl Mietwerte 456
+Anzahl Mietwert 55
+Mietenspiegelfeld I4
+Baualtersklasse 1961 bis 1967,
+mit Bad und Sammelheizung,
+ab 91 m²,
+normale Wohnlage
+Arithmetisches Mittel 8,60 €/m²
+Standardabweichung 1,79
+Unterer Wert der 2/3- 7,17 €/m²
+Spanne
+Oberer Wert der 2/3- 10,09 €/m²
+Spanne
+Minimum 6,40 €/m²
+Maximum 13,26 €/m²
+Anzahl Mietwerte 15
+Dokumentation Hamburger Mietenspiegel 2021 77
+Anlagen
+MMiieetteennssppiieeggeellffeelldd IC51
+BBaauuaalltteerrsskkllaassssee 1b9is6 311 b.1is2 .11996178,,
+mmiitt BBaadd uunndd SSaammmmeellhheeiizzuunngg,,
+2255 mm²² bbiiss uunntteerr 4411 mm²²,,
+ngourtem Waleo hWnolahgnela ge
+Arithmetisches Mittel 12,41 €/m²
+Arithmetisches Mittel 12,12 €/m²
+Standardabweichung 2,09
+Standardabweichung 2,83
+Unterer Wert der 2/3- 10,62 €/m²
+Unterer Wert der 2/3 9,06 €/m²
+Spanne
+Spanne
+Oberer Wert der 2/3- 14,02 €/m²
+Oberer Wert der 2/3 14,81 €/m²
+Spanne
+Spanne
+Minimum 7,67 €/m²
+Minimum 6,35 €/m²
+Maximum 17,67 €/m²
+Maximum 19,84 €/m²
+Anzahl Mietwerte 81
+Anzahl Mietwert 55
+Mietenspiegelfeld I6
+Baualtersklasse 1961 bis 1967,
+mit Bad und Sammelheizung,
+41 m² bis unter 66 m²,
+gute Wohnlage
+Arithmetisches Mittel 9,29 €/m²
+Standardabweichung 2,23
+Unterer Wert der 2/3- 6,97 €/m²
+Spanne
+Oberer Wert der 2/3- 11,73 €/m²
+Spanne
+Minimum 5,39 €/m²
+Maximum 15,87 €/m²
+Anzahl Mietwerte 215
+Dokumentation Hamburger Mietenspiegel 2021 78
+Anlagen
+MMiieetteennssppiieeggeellffeelldd IC71
+BBaauuaalltteerrsskkllaassssee 1b9is6 311 b.1is2 .11996178,,
+mmiitt BBaadd uunndd SSaammmmeellhheeiizzuunngg,,
+2656 mm²² bbiiss uunntteerr 4911 mm²²,,
+ngourtem Waleo hWnolahgnela ge
+Arithmetisches Mittel 8,70 €/m²
+Arithmetisches Mittel 12,12 €/m²
+Standardabweichung 2,73
+Standardabweichung 2,83
+Unterer Wert der 2/3- 6,06 €/m²
+Unterer Wert der 2/3 9,06 €/m²
+Spanne
+Spanne
+Oberer Wert der 2/3- 11,72 €/m²
+Oberer Wert der 2/3 14,81 €/m²
+Spanne
+Spanne
+Minimum 4,74 €/m²
+Minimum 6,35 €/m²
+Maximum 15,94 €/m²
+Maximum 19,84 €/m²
+Anzahl Mietwerte 155
+Anzahl Mietwert 55
+Mietenspiegelfeld I8
+Baualtersklasse 1961 bis 1967,
+mit Bad und Sammelheizung,
+91 m² bis unter 131 m²,
+gute Wohnlage
+Arithmetisches Mittel 11,42 €/m²
+Standardabweichung 3,32
+Unterer Wert der 2/3- 7,91 €/m²
+Spanne
+Oberer Wert der 2/3- 14,49 €/m²
+Spanne
+Minimum 6,90 €/m²
+Maximum 18,26 €/m²
+Anzahl Mietwerte 37
+Dokumentation Hamburger Mietenspiegel 2021 79
+Anlagen
+MMiieetteennssppiieeggeellffeelldd IC91
+BBaauuaalltteerrsskkllaassssee 1b9is6 311 b.1is2 .11996178,,
+mmiitt BBaadd uunndd SSaammmmeellhheeiizzuunngg,,
+2ab5 m13²1 b mis ²u, nter 41 m²,
+ngourtem Waleo hWnolahgnela ge
+Keine ausreichende Anzahl an Mietwerten für die Ausweisung von Kennwerten im Mie-
+tenspiegelfeld vorhanden (Anzahl Mietwerte = 6)
+Dokumentation Hamburger Mietenspiegel 2021 80
+Anlagen
+MMiieetteennssppiieeggeellffeelldd KC11
+BBaauuaalltteerrsskkllaassssee 1b9is6 381 b.1is2 .11997178,,
+mmiitt BBaadd uunndd SSaammmmeellhheeiizzuunngg,,
+2255 mm²² bbiiss uunntteerr 4411 mm²²,,
+nnoorrmmaallee WWoohhnnllaaggee
+Arithmetisches Mittel 9,27 €/m²
+Arithmetisches Mittel 12,12 €/m²
+Standardabweichung 2,23
+Standardabweichung 2,83
+Unterer Wert der 2/3- 6,67 €/m²
+Unterer Wert der 2/3 9,06 €/m²
+Spanne
+Spanne
+Oberer Wert der 2/3- 11,46 €/m²
+Oberer Wert der 2/3 14,81 €/m²
+Spanne
+Spanne
+Minimum 5,10 €/m²
+Minimum 6,35 €/m²
+Maximum 14,78 €/m²
+Maximum 19,84 €/m²
+Anzahl Mietwerte 78
+Anzahl Mietwert 55
+Mietenspiegelfeld K2
+Baualtersklasse 1968 bis 1977,
+mit Bad und Sammelheizung,
+41 m² bis unter 66 m²,
+normale Wohnlage
+Arithmetisches Mittel 7,78 €/m²
+Standardabweichung 2,13
+Unterer Wert der 2/3- 5,92 €/m²
+Spanne
+Oberer Wert der 2/3- 9,94 €/m²
+Spanne
+Minimum 4,33 €/m²
+Maximum 13,77 €/m²
+Anzahl Mietwerte 181
+Dokumentation Hamburger Mietenspiegel 2021 81
+Anlagen
+MMiieetteennssppiieeggeellffeelldd KC13
+BBaauuaalltteerrsskkllaassssee 1b9is6 381 b.1is2 .11997178,,
+mmiitt BBaadd uunndd SSaammmmeellhheeiizzuunngg,,
+2656 mm²² bbiiss uunntteerr 4911 mm²²,,
+nnoorrmmaallee WWoohhnnllaaggee
+Arithmetisches Mittel 6,38 €/m²
+Arithmetisches Mittel 12,12 €/m²
+Standardabweichung 1,21
+Standardabweichung 2,83
+Unterer Wert der 2/3- 5,45 €/m²
+Unterer Wert der 2/3 9,06 €/m²
+Spanne
+Spanne
+Oberer Wert der 2/3- 7,06 €/m²
+Oberer Wert der 2/3 14,81 €/m²
+Spanne
+Spanne
+Minimum 4,44 €/m²
+Minimum 6,35 €/m²
+Maximum 10,79 €/m²
+Maximum 19,84 €/m²
+Anzahl Mietwerte 367
+Anzahl Mietwert 55
+Mietenspiegelfeld K4
+Baualtersklasse 1968 bis 1977,
+mit Bad und Sammelheizung,
+ab 91 m²,
+normale Wohnlage
+Arithmetisches Mittel 6,54 €/m²
+Standardabweichung 1,18
+Unterer Wert der 2/3- 5,75 €/m²
+Spanne
+Oberer Wert der 2/3- 6,77 €/m²
+Spanne
+Minimum 4,71 €/m²
+Maximum 11,10 €/m²
+Anzahl Mietwerte 50
+Dokumentation Hamburger Mietenspiegel 2021 82
+Anlagen
+MMiieetteennssppiieeggeellffeelldd KC15
+BBaauuaalltteerrsskkllaassssee 1b9is6 381 b.1is2 .11997178,,
+mmiitt BBaadd uunndd SSaammmmeellhheeiizzuunngg,,
+2255 mm²² bbiiss uunntteerr 4411 mm²²,,
+ngourtem Waleo hWnolahgnela ge
+Arithmetisches Mittel 11,97 €/m²
+Arithmetisches Mittel 12,12 €/m²
+Standardabweichung 4,03
+Standardabweichung 2,83
+Unterer Wert der 2/3- 7,90 €/m²
+Unterer Wert der 2/3 9,06 €/m²
+Spanne
+Spanne
+Oberer Wert der 2/3- 15,96 €/m²
+Oberer Wert der 2/3 14,81 €/m²
+Spanne
+Spanne
+Minimum 5,80 €/m²
+Minimum 6,35 €/m²
+Maximum 19,85 €/m²
+Maximum 19,84 €/m²
+Anzahl Mietwerte 32
+Anzahl Mietwert 55
+Mietenspiegelfeld K6
+Baualtersklasse 1968 bis 1977,
+mit Bad und Sammelheizung,
+41 m² bis unter 66 m²,
+gute Wohnlage
+Arithmetisches Mittel 10,55 €/m²
+Standardabweichung 2,75
+Unterer Wert der 2/3- 7,32 €/m²
+Spanne
+Oberer Wert der 2/3- 13,31 €/m²
+Spanne
+Minimum 5,36 €/m²
+Maximum 17,27 €/m²
+Anzahl Mietwerte 77
+Dokumentation Hamburger Mietenspiegel 2021 83
+Anlagen
+MMiieetteennssppiieeggeellffeelldd KC17
+BBaauuaalltteerrsskkllaassssee 1b9is6 381 b.1is2 .11997178,,
+mmiitt BBaadd uunndd SSaammmmeellhheeiizzuunngg,,
+2656 mm²² bbiiss uunntteerr 4911 mm²²,,
+ngourtem Waleo hWnolahgnela ge
+Arithmetisches Mittel 9,94 €/m²
+Arithmetisches Mittel 12,12 €/m²
+Standardabweichung 3,39
+Standardabweichung 2,83
+Unterer Wert der 2/3- 6,67 €/m²
+Unterer Wert der 2/3 9,06 €/m²
+Spanne
+Spanne
+Oberer Wert der 2/3- 13,33 €/m²
+Oberer Wert der 2/3 14,81 €/m²
+Spanne
+Spanne
+Minimum 5,41 €/m²
+Minimum 6,35 €/m²
+Maximum 18,67 €/m²
+Maximum 19,84 €/m²
+Anzahl Mietwerte 91
+Anzahl Mietwert 55
+Mietenspiegelfeld K8
+Baualtersklasse 1968 bis 1977,
+mit Bad und Sammelheizung,
+91 m² bis unter 131 m²,
+gute Wohnlage
+Arithmetisches Mittel 11,25 €/m²
+Standardabweichung 2,23
+Unterer Wert der 2/3- 9,28 €/m²
+Spanne
+Oberer Wert der 2/3- 13,56 €/m²
+Spanne
+Minimum 6,79 €/m²
+Maximum 15,62 €/m²
+Anzahl Mietwerte 55
+Dokumentation Hamburger Mietenspiegel 2021 84
+Anlagen
+MMiieetteennssppiieeggeellffeelldd KC19
+BBaauuaalltteerrsskkllaassssee 1b9is6 381 b.1is2 .11997178,,
+mmiitt BBaadd uunndd SSaammmmeellhheeiizzuunngg,,
+2ab5 m13²1 b mis ²u, nter 41 m²,
+ngourtem Waleo hWnolahgnela ge
+Keine ausreichende Anzahl an Mietwerten für die Ausweisung von Kennwerten im Mie-
+tenspiegelfeld vorhanden (Anzahl Mietwerte = 4)
+Dokumentation Hamburger Mietenspiegel 2021 85
+Anlagen
+MMiieetteennssppiieeggeellffeelldd LC11
+BBaauuaalltteerrsskkllaassssee 1b9is7 381 b.1is2 .11999138,,
+mmiitt BBaadd uunndd SSaammmmeellhheeiizzuunngg,,
+2255 mm²² bbiiss uunntteerr 4411 mm²²,,
+nnoorrmmaallee WWoohhnnllaaggee
+Arithmetisches Mittel 10,13 €/m²
+Arithmetisches Mittel 12,12 €/m²
+Standardabweichung 2,02
+Standardabweichung 2,83
+Unterer Wert der 2/3- 8,48 €/m²
+Unterer Wert der 2/3 9,06 €/m²
+Spanne
+Spanne
+Oberer Wert der 2/3- 12,04 €/m²
+Oberer Wert der 2/3 14,81 €/m²
+Spanne
+Spanne
+Minimum 6,29 €/m²
+Minimum 6,35 €/m²
+Maximum 13,50 €/m²
+Maximum 19,84 €/m²
+Anzahl Mietwerte 19
+Anzahl Mietwert 55
+Mietenspiegelfeld L2
+Baualtersklasse 1978 bis 1993,
+mit Bad und Sammelheizung,
+41 m² bis unter 66 m²,
+normale Wohnlage
+Arithmetisches Mittel 9,13 €/m²
+Standardabweichung 2,36
+Unterer Wert der 2/3- 6,55 €/m²
+Spanne
+Oberer Wert der 2/3- 11,17 €/m²
+Spanne
+Minimum 5,19 €/m²
+Maximum 15,60 €/m²
+Anzahl Mietwerte 162
+Dokumentation Hamburger Mietenspiegel 2021 86
+Anlagen
+MMiieetteennssppiieeggeellffeelldd LC31
+BBaauuaalltteerrsskkllaassssee 1b9is7 381 b.1is2 .11999138,,
+mmiitt BBaadd uunndd SSaammmmeellhheeiizzuunngg,,
+2656 mm²² bbiiss uunntteerr 4911 mm²²,,
+nnoorrmmaallee WWoohhnnllaaggee
+Arithmetisches Mittel 8,15 €/m²
+Arithmetisches Mittel 12,12 €/m²
+Standardabweichung 2,17
+Standardabweichung 2,83
+Unterer Wert der 2/3- 6,30 €/m²
+Unterer Wert der 2/3 9,06 €/m²
+Spanne
+Spanne
+Oberer Wert der 2/3- 10,30 €/m²
+Oberer Wert der 2/3 14,81 €/m²
+Spanne
+Spanne
+Minimum 4,72 €/m²
+Minimum 6,35 €/m²
+Maximum 14,11 €/m²
+Maximum 19,84 €/m²
+Anzahl Mietwerte 184
+Anzahl Mietwert 55
+Mietenspiegelfeld L4
+Baualtersklasse 1978 bis 1993,
+mit Bad und Sammelheizung,
+ab 91 m²,
+normale Wohnlage
+Arithmetisches Mittel 8,61 €/m²
+Standardabweichung 1,97
+Unterer Wert der 2/3- 6,58 €/m²
+Spanne
+Oberer Wert der 2/3- 10,12 €/m²
+Spanne
+Minimum 5,18 €/m²
+Maximum 13,22 €/m²
+Anzahl Mietwerte 31
+Dokumentation Hamburger Mietenspiegel 2021 87
+Anlagen
+MMiieetteennssppiieeggeellffeelldd LC51
+BBaauuaalltteerrsskkllaassssee 1b9is7 381 b.1is2 .11999138,,
+mmiitt BBaadd uunndd SSaammmmeellhheeiizzuunngg,,
+2255 mm²² bbiiss uunntteerr 4411 mm²²,,
+ngourtem Waleo hWnolahgnela ge
+Arithmetisches Mittel 13,20 €/m²
+Arithmetisches Mittel 12,12 €/m²
+Standardabweichung 2,78
+Standardabweichung 2,83
+Unterer Wert der 2/3- 10,60 €/m²
+Unterer Wert der 2/3 9,06 €/m²
+Spanne
+Spanne
+Oberer Wert der 2/3- 15,75 €/m²
+Oberer Wert der 2/3 14,81 €/m²
+Spanne
+Spanne
+Minimum 9,64 €/m²
+Minimum 6,35 €/m²
+Maximum 20,00 €/m²
+Maximum 19,84 €/m²
+Anzahl Mietwerte 18
+Anzahl Mietwert 55
+Mietenspiegelfeld L6
+Baualtersklasse 1978 bis 1993,
+mit Bad und Sammelheizung,
+41 m² bis unter 66 m²,
+gute Wohnlage
+Arithmetisches Mittel 10,78 €/m²
+Standardabweichung 2,68
+Unterer Wert der 2/3- 7,61 €/m²
+Spanne
+Oberer Wert der 2/3- 13,61 €/m²
+Spanne
+Minimum 4,43 €/m²
+Maximum 16,23 €/m²
+Anzahl Mietwerte 114
+Dokumentation Hamburger Mietenspiegel 2021 88
+Anlagen
+MMiieetteennssppiieeggeellffeelldd LC71
+BBaauuaalltteerrsskkllaassssee 1b9is7 381 b.1is2 .11999138,,
+mmiitt BBaadd uunndd SSaammmmeellhheeiizzuunngg,,
+2656 mm²² bbiiss uunntteerr 4911 mm²²,,
+ngourtem Waleo hWnolahgnela ge
+Arithmetisches Mittel 10,64 €/m²
+Arithmetisches Mittel 12,12 €/m²
+Standardabweichung 2,28
+Standardabweichung 2,83
+Unterer Wert der 2/3- 8,66 €/m²
+Unterer Wert der 2/3 9,06 €/m²
+Spanne
+Spanne
+Oberer Wert der 2/3- 13,00 €/m²
+Oberer Wert der 2/3 14,81 €/m²
+Spanne
+Spanne
+Minimum 5,85 €/m²
+Minimum 6,35 €/m²
+Maximum 16,51 €/m²
+Maximum 19,84 €/m²
+Anzahl Mietwerte 117
+Anzahl Mietwert 55
+Mietenspiegelfeld L8
+Baualtersklasse 1978 bis 1993,
+mit Bad und Sammelheizung,
+91 m² bis unter 131 m²,
+gute Wohnlage
+Arithmetisches Mittel 11,70 €/m²
+Standardabweichung 2,27
+Unterer Wert der 2/3- 9,34 €/m²
+Spanne
+Oberer Wert der 2/3- 14,25 €/m²
+Spanne
+Minimum 6,73 €/m²
+Maximum 17,41 €/m²
+Anzahl Mietwerte 69
+Dokumentation Hamburger Mietenspiegel 2021 89
+Anlagen
+MMiieetteennssppiieeggeellffeelldd LC91
+BBaauuaalltteerrsskkllaassssee 1b9is7 381 b.1is2 .11999138,,
+mmiitt BBaadd uunndd SSaammmmeellhheeiizzuunngg,,
+2ab5 m13²1 b mis ²u, nter 41 m²,
+ngourtem Waleo hWnolahgnela ge
+Arithmetisches Mittel 11,91 €/m²
+Arithmetisches Mittel 12,12 €/m²
+Standardabweichung 3,90
+Standardabweichung 2,83
+Unterer Wert der 2/3- 8,07 €/m²
+Unterer Wert der 2/3 9,06 €/m²
+Spanne
+Spanne
+Oberer Wert der 2/3- 16,07 €/m²
+Oberer Wert der 2/3 14,81 €/m²
+Spanne
+Spanne
+Minimum 5,72 €/m²
+Minimum 6,35 €/m²
+Maximum 17,64 €/m²
+Maximum 19,84 €/m²
+Anzahl Mietwerte 18
+Anzahl Mietwert 55
+Dokumentation Hamburger Mietenspiegel 2021 90
+Anlagen
+MMiieetteennssppiieeggeellffeelldd MC11
+BBaauuaalltteerrsskkllaassssee 1b9is9 341 b.1is2 .21091108,,
+mmiitt BBaadd uunndd SSaammmmeellhheeiizzuunngg,,
+2255 mm²² bbiiss uunntteerr 4411 mm²²,,
+nnoorrmmaallee WWoohhnnllaaggee
+Arithmetisches Mittel 12,52 €/m²
+Arithmetisches Mittel 12,12 €/m²
+Standardabweichung 2,68
+Standardabweichung 2,83
+Unterer Wert der 2/3- 10,53 €/m²
+Unterer Wert der 2/3 9,06 €/m²
+Spanne
+Spanne
+Oberer Wert der 2/3- 14,83 €/m²
+Oberer Wert der 2/3 14,81 €/m²
+Spanne
+Spanne
+Minimum 7,50 €/m²
+Minimum 6,35 €/m²
+Maximum 17,29 €/m²
+Maximum 19,84 €/m²
+Anzahl Mietwerte 15
+Anzahl Mietwert 55
+Mietenspiegelfeld M2
+Baualtersklasse 1994 bis 2010,
+mit Bad und Sammelheizung,
+41 m² bis unter 66 m²,
+normale Wohnlage
+Arithmetisches Mittel 9,95 €/m²
+Standardabweichung 1,91
+Unterer Wert der 2/3- 8,11 €/m²
+Spanne
+Oberer Wert der 2/3- 11,68 €/m²
+Spanne
+Minimum 6,01 €/m²
+Maximum 15,11 €/m²
+Anzahl Mietwerte 185
+Dokumentation Hamburger Mietenspiegel 2021 91
+Anlagen
+MMiieetteennssppiieeggeellffeelldd MC13
+BBaauuaalltteerrsskkllaassssee 1b9is9 341 b.1is2 .21091108,,
+mmiitt BBaadd uunndd SSaammmmeellhheeiizzuunngg,,
+2656 mm²² bbiiss uunntteerr 4911 mm²²,,
+nnoorrmmaallee WWoohhnnllaaggee
+Arithmetisches Mittel 9,95 €/m²
+Arithmetisches Mittel 12,12 €/m²
+Standardabweichung 2,05
+Standardabweichung 2,83
+Unterer Wert der 2/3- 8,00 €/m²
+Unterer Wert der 2/3 9,06 €/m²
+Spanne
+Spanne
+Oberer Wert der 2/3- 11,80 €/m²
+Oberer Wert der 2/3 14,81 €/m²
+Spanne
+Spanne
+Minimum 5,09 €/m²
+Minimum 6,35 €/m²
+Maximum 16,05 €/m²
+Maximum 19,84 €/m²
+Anzahl Mietwerte 353
+Anzahl Mietwert 55
+Mietenspiegelfeld M4
+Baualtersklasse 1994 bis 2010,
+mit Bad und Sammelheizung,
+ab 91 m²,
+normale Wohnlage
+Arithmetisches Mittel 11,69 €/m²
+Standardabweichung 2,63
+Unterer Wert der 2/3- 8,99 €/m²
+Spanne
+Oberer Wert der 2/3- 14,65 €/m²
+Spanne
+Minimum 6,15 €/m²
+Maximum 18,79 €/m²
+Anzahl Mietwerte 113
+Dokumentation Hamburger Mietenspiegel 2021 92
+Anlagen
+MMiieetteennssppiieeggeellffeelldd MC15
+BBaauuaalltteerrsskkllaassssee 1b9is9 341 b.1is2 .21091108,,
+mmiitt BBaadd uunndd SSaammmmeellhheeiizzuunngg,,
+2255 mm²² bbiiss uunntteerr 4411 mm²²,,
+ngourtem Waleo hWnolahgnela ge
+Keine ausreichende Anzahl an Mietwerten für die Ausweisung von Kennwerten im Mie-
+tenspiegelfeld vorhanden (Anzahl Mietwerte = 9)
+Mietenspiegelfeld M6
+Baualtersklasse 1994 bis 2010,
+mit Bad und Sammelheizung,
+41 m² bis unter 66 m²,
+gute Wohnlage
+Arithmetisches Mittel 11,97 €/m²
+Standardabweichung 2,35
+Unterer Wert der 2/3- 9,61 €/m²
+Spanne
+Oberer Wert der 2/3- 13,76 €/m²
+Spanne
+Minimum 8,00 €/m²
+Maximum 18,89 €/m²
+Anzahl Mietwerte 125
+Dokumentation Hamburger Mietenspiegel 2021 93
+Anlagen
+MMiieetteennssppiieeggeellffeelldd MC17
+BBaauuaalltteerrsskkllaassssee 1b9is9 341 b.1is2 .21091108,,
+mmiitt BBaadd uunndd SSaammmmeellhheeiizzuunngg,,
+2656 mm²² bbiiss uunntteerr 4911 mm²²,,
+ngourtem Waleo hWnolahgnela ge
+Arithmetisches Mittel 11,82 €/m²
+Arithmetisches Mittel 12,12 €/m²
+Standardabweichung 2,37
+Standardabweichung 2,83
+Unterer Wert der 2/3- 9,50 €/m²
+Unterer Wert der 2/3 9,06 €/m²
+Spanne
+Spanne
+Oberer Wert der 2/3- 14,35 €/m²
+Oberer Wert der 2/3 14,81 €/m²
+Spanne
+Spanne
+Minimum 7,20 €/m²
+Minimum 6,35 €/m²
+Maximum 18,25 €/m²
+Maximum 19,84 €/m²
+Anzahl Mietwerte 229
+Anzahl Mietwert 55
+Mietenspiegelfeld M8
+Baualtersklasse 1994 bis 2010,
+mit Bad und Sammelheizung,
+91 m² bis unter 131 m²,
+gute Wohnlage
+Arithmetisches Mittel 13,13 €/m²
+Standardabweichung 2,86
+Unterer Wert der 2/3- 10,48 €/m²
+Spanne
+Oberer Wert der 2/3- 15,75 €/m²
+Spanne
+Minimum 7,13 €/m²
+Maximum 21,33 €/m²
+Anzahl Mietwerte 153
+Dokumentation Hamburger Mietenspiegel 2021 94
+Anlagen
+MMiieetteennssppiieeggeellffeelldd MC19
+BBaauuaalltteerrsskkllaassssee 1b9is9 341 b.1is2 .21091108,,
+mmiitt BBaadd uunndd SSaammmmeellhheeiizzuunngg,,
+2ab5 m13²1 b mis ²u, nter 41 m²,
+ngourtem Waleo hWnolahgnela ge
+Arithmetisches Mittel 13,96 €/m²
+Arithmetisches Mittel 12,12 €/m²
+Standardabweichung 2,56
+Standardabweichung 2,83
+Unterer Wert der 2/3- 11,47 €/m²
+Unterer Wert der 2/3 9,06 €/m²
+Spanne
+Spanne
+Oberer Wert der 2/3- 15,98 €/m²
+Oberer Wert der 2/3 14,81 €/m²
+Spanne
+Spanne
+Minimum 8,68 €/m²
+Minimum 6,35 €/m²
+Maximum 19,98 €/m²
+Maximum 19,84 €/m²
+Anzahl Mietwerte 32
+Anzahl Mietwert 55
+Dokumentation Hamburger Mietenspiegel 2021 95
+Anlagen
+MMiieetteennssppiieeggeellffeelldd NC11
+BBaauuaalltteerrsskkllaassssee 2b0is1 311 b.1is2 .21091158,,
+mmiitt BBaadd uunndd SSaammmmeellhheeiizzuunngg,,
+2255 mm²² bbiiss uunntteerr 4411 mm²²,,
+nnoorrmmaallee WWoohhnnllaaggee
+Arithmetisches Mittel 15,15 €/m²
+Arithmetisches Mittel 12,12 €/m²
+Standardabweichung 1,91
+Standardabweichung 2,83
+Unterer Wert der 2/3- 13,61 €/m²
+Unterer Wert der 2/3 9,06 €/m²
+Spanne
+Spanne
+Oberer Wert der 2/3- 16,69 €/m²
+Oberer Wert der 2/3 14,81 €/m²
+Spanne
+Spanne
+Minimum 12,14 €/m²
+Minimum 6,35 €/m²
+Maximum 19,44 €/m²
+Maximum 19,84 €/m²
+Anzahl Mietwerte 17
+Anzahl Mietwert 55
+Mietenspiegelfeld N2
+Baualtersklasse 2011 bis 2015,
+mit Bad und Sammelheizung,
+41 m² bis unter 66 m²,
+normale Wohnlage
+Arithmetisches Mittel 13,22 €/m²
+Standardabweichung 2,63
+Unterer Wert der 2/3- 10,56 €/m²
+Spanne
+Oberer Wert der 2/3- 15,55 €/m²
+Spanne
+Minimum 8,46 €/m²
+Maximum 20,38 €/m²
+Anzahl Mietwerte 141
+Dokumentation Hamburger Mietenspiegel 2021 96
+Anlagen
+MMiieetteennssppiieeggeellffeelldd NC13
+BBaauuaalltteerrsskkllaassssee 2b0is1 311 b.1is2 .21091158,,
+mmiitt BBaadd uunndd SSaammmmeellhheeiizzuunngg,,
+2656 mm²² bbiiss uunntteerr 4911 mm²²,,
+nnoorrmmaallee WWoohhnnllaaggee
+Arithmetisches Mittel 12,94 €/m²
+Arithmetisches Mittel 12,12 €/m²
+Standardabweichung 2,30
+Standardabweichung 2,83
+Unterer Wert der 2/3- 10,26 €/m²
+Unterer Wert der 2/3 9,06 €/m²
+Spanne
+Spanne
+Oberer Wert der 2/3- 15,27 €/m²
+Oberer Wert der 2/3 14,81 €/m²
+Spanne
+Spanne
+Minimum 6,70 €/m²
+Minimum 6,35 €/m²
+Maximum 18,19 €/m²
+Maximum 19,84 €/m²
+Anzahl Mietwerte 275
+Anzahl Mietwert 55
+Mietenspiegelfeld N4
+Baualtersklasse 2011 bis 2015,
+mit Bad und Sammelheizung,
+ab 91 m²,
+normale Wohnlage
+Arithmetisches Mittel 13,07 €/m²
+Standardabweichung 2,25
+Unterer Wert der 2/3- 10,63 €/m²
+Spanne
+Oberer Wert der 2/3- 15,27 €/m²
+Spanne
+Minimum 7,01 €/m²
+Maximum 18,28 €/m²
+Anzahl Mietwerte 183
+Dokumentation Hamburger Mietenspiegel 2021 97
+Anlagen
+MMiieetteennssppiieeggeellffeelldd NC15
+BBaauuaalltteerrsskkllaassssee 2b0is1 311 b.1is2 .21091158,,
+mmiitt BBaadd uunndd SSaammmmeellhheeiizzuunngg,,
+2255 mm²² bbiiss uunntteerr 4411 mm²²,,
+ngourtem Waleo hWnolahgnela ge
+Keine ausreichende Anzahl an Mietwerten für die Ausweisung von Kennwerten im Mie-
+tenspiegelfeld vorhanden (Anzahl Mietwerte = 4)
+Mietenspiegelfeld N6
+Baualtersklasse 2011 bis 2015,
+mit Bad und Sammelheizung,
+41 m² bis unter 66 m²,
+gute Wohnlage
+Arithmetisches Mittel 13,13 €/m²
+Standardabweichung 2,28
+Unterer Wert der 2/3- 11,51 €/m²
+Spanne
+Oberer Wert der 2/3- 16,00 €/m²
+Spanne
+Minimum 8,36 €/m²
+Maximum 17,84 €/m²
+Anzahl Mietwerte 39
+Dokumentation Hamburger Mietenspiegel 2021 98
+Anlagen
+MMiieetteennssppiieeggeellffeelldd NC17
+BBaauuaalltteerrsskkllaassssee 2b0is1 311 b.1is2 .21091158,,
+mmiitt BBaadd uunndd SSaammmmeellhheeiizzuunngg,,
+2656 mm²² bbiiss uunntteerr 4911 mm²²,,
+ngourtem Waleo hWnolahgnela ge
+Arithmetisches Mittel 14,11 €/m²
+Arithmetisches Mittel 12,12 €/m²
+Standardabweichung 2,44
+Standardabweichung 2,83
+Unterer Wert der 2/3- 11,75 €/m²
+Unterer Wert der 2/3 9,06 €/m²
+Spanne
+Spanne
+Oberer Wert der 2/3- 16,56 €/m²
+Oberer Wert der 2/3 14,81 €/m²
+Spanne
+Spanne
+Minimum 8,76 €/m²
+Minimum 6,35 €/m²
+Maximum 20,00 €/m²
+Maximum 19,84 €/m²
+Anzahl Mietwerte 179
+Anzahl Mietwert 55
+Mietenspiegelfeld N8
+Baualtersklasse 2011 bis 2015,
+mit Bad und Sammelheizung,
+91 m² bis unter 131 m²,
+gute Wohnlage
+Arithmetisches Mittel 14,12 €/m²
+Standardabweichung 2,26
+Unterer Wert der 2/3- 11,93 €/m²
+Spanne
+Oberer Wert der 2/3- 16,22 €/m²
+Spanne
+Minimum 9,61 €/m²
+Maximum 20,11 €/m²
+Anzahl Mietwerte 127
+Dokumentation Hamburger Mietenspiegel 2021 99
+Anlagen
+MMiieetteennssppiieeggeellffeelldd NC19
+BBaauuaalltteerrsskkllaassssee 2b0is1 311 b.1is2 .21091158,,
+mmiitt BBaadd uunndd SSaammmmeellhheeiizzuunngg,,
+2ab5 m13²1 b mis ²u, nter 41 m²,
+ngourtem Waleo hWnolahgnela ge
+Arithmetisches Mittel 16,65 €/m²
+Arithmetisches Mittel 12,12 €/m²
+Standardabweichung 2,17
+Standardabweichung 2,83
+Unterer Wert der 2/3- 14,71 €/m²
+Unterer Wert der 2/3 9,06 €/m²
+Spanne
+Spanne
+Oberer Wert der 2/3- 19,16 €/m²
+Oberer Wert der 2/3 14,81 €/m²
+Spanne
+Spanne
+Minimum 12,08 €/m²
+Minimum 6,35 €/m²
+Maximum 20,43 €/m²
+Maximum 19,84 €/m²
+Anzahl Mietwerte 27
+Anzahl Mietwert 55
+Dokumentation Hamburger Mietenspiegel 2021 100
+Anlagen
+MMiieetteennssppiieeggeellffeelldd OC11
+BBaauuaalltteerrsskkllaassssee 2b0is1 361 b.1is2 .21092108,,
+mmiitt BBaadd uunndd SSaammmmeellhheeiizzuunngg,,
+2255 mm²² bbiiss uunntteerr 4411 mm²²,,
+nnoorrmmaallee WWoohhnnllaaggee
+Keine ausreichende Anzahl an Mietwerten für die Ausweisung von Kennwerten im Mie-
+tenspiegelfeld vorhanden (Anzahl Mietwerte = 5)
+Mietenspiegelfeld O2
+Baualtersklasse 2016 bis 2020,
+mit Bad und Sammelheizung,
+41 m² bis unter 66 m²,
+normale Wohnlage
+Arithmetisches Mittel 14,03 €/m²
+Standardabweichung 3,07
+Unterer Wert der 2/3- 10,92 €/m²
+Spanne
+Oberer Wert der 2/3- 17,08 €/m²
+Spanne
+Minimum 6,30 €/m²
+Maximum 22,14 €/m²
+Anzahl Mietwerte 208
+Dokumentation Hamburger Mietenspiegel 2021 101
+Anlagen
+MMiieetteennssppiieeggeellffeelldd OC13
+BBaauuaalltteerrsskkllaassssee 2b0is1 361 b.1is2 .21092108,,
+mmiitt BBaadd uunndd SSaammmmeellhheeiizzuunngg,,
+2656 mm²² bbiiss uunntteerr 4911 mm²²,,
+nnoorrmmaallee WWoohhnnllaaggee
+Arithmetisches Mittel 13,73 €/m²
+Arithmetisches Mittel 12,12 €/m²
+Standardabweichung 2,50
+Standardabweichung 2,83
+Unterer Wert der 2/3- 11,36 €/m²
+Unterer Wert der 2/3 9,06 €/m²
+Spanne
+Spanne
+Oberer Wert der 2/3- 16,42 €/m²
+Oberer Wert der 2/3 14,81 €/m²
+Spanne
+Spanne
+Minimum 6,80 €/m²
+Minimum 6,35 €/m²
+Maximum 20,00 €/m²
+Maximum 19,84 €/m²
+Anzahl Mietwerte 267
+Anzahl Mietwert 55
+Mietenspiegelfeld O4
+Baualtersklasse 2016 bis 2020,
+mit Bad und Sammelheizung,
+ab 91 m²,
+normale Wohnlage
+Arithmetisches Mittel 13,87 €/m²
+Standardabweichung 2,52
+Unterer Wert der 2/3- 11,53 €/m²
+Spanne
+Oberer Wert der 2/3- 16,46 €/m²
+Spanne
+Minimum 6,81 €/m²
+Maximum 20,80 €/m²
+Anzahl Mietwerte 134
+Dokumentation Hamburger Mietenspiegel 2021 102
+Anlagen
+MMiieetteennssppiieeggeellffeelldd OC15
+BBaauuaalltteerrsskkllaassssee 2b0is1 361 b.1is2 .21092108,,
+mmiitt BBaadd uunndd SSaammmmeellhheeiizzuunngg,,
+2255 mm²² bbiiss uunntteerr 4411 mm²²,,
+ngourtem Waleo hWnolahgnela ge
+Arithmetisches Mittel 18,14 €/m²
+Arithmetisches Mittel 12,12 €/m²
+Standardabweichung 3,24
+Standardabweichung 2,83
+Unterer Wert der 2/3- 15,72 €/m²
+Unterer Wert der 2/3 9,06 €/m²
+Spanne
+Spanne
+Oberer Wert der 2/3- 19,16 €/m²
+Oberer Wert der 2/3 14,81 €/m²
+Spanne
+Spanne
+Minimum 14,41 €/m²
+Minimum 6,35 €/m²
+Maximum 26,15 €/m²
+Maximum 19,84 €/m²
+Anzahl Mietwerte 10
+Anzahl Mietwert 55
+Mietenspiegelfeld O6
+Baualtersklasse 2016 bis 2020,
+mit Bad und Sammelheizung,
+41 m² bis unter 66 m²,
+gute Wohnlage
+Arithmetisches Mittel 15,43 €/m²
+Standardabweichung 3,11
+Unterer Wert der 2/3- 11,55 €/m²
+Spanne
+Oberer Wert der 2/3- 18,29 €/m²
+Spanne
+Minimum 8,51 €/m²
+Maximum 21,33 €/m²
+Anzahl Mietwerte 90
+Dokumentation Hamburger Mietenspiegel 2021 103
+Anlagen
+MMiieetteennssppiieeggeellffeelldd OC17
+BBaauuaalltteerrsskkllaassssee 2b0is1 361 b.1is2 .21092108,,
+mmiitt BBaadd uunndd SSaammmmeellhheeiizzuunngg,,
+2656 mm²² bbiiss uunntteerr 4911 mm²²,,
+ngourtem Waleo hWnolahgnela ge
+Arithmetisches Mittel 14,40 €/m²
+Arithmetisches Mittel 12,12 €/m²
+Standardabweichung 2,79
+Standardabweichung 2,83
+Unterer Wert der 2/3- 11,51 €/m²
+Unterer Wert der 2/3 9,06 €/m²
+Spanne
+Spanne
+Oberer Wert der 2/3- 17,36 €/m²
+Oberer Wert der 2/3 14,81 €/m²
+Spanne
+Spanne
+Minimum 9,35 €/m²
+Minimum 6,35 €/m²
+Maximum 20,52 €/m²
+Maximum 19,84 €/m²
+Anzahl Mietwerte 158
+Anzahl Mietwert 55
+Mietenspiegelfeld O8
+Baualtersklasse 2016 bis 2020,
+mit Bad und Sammelheizung,
+91 m² bis unter 131 m²,
+gute Wohnlage
+Arithmetisches Mittel 15,33 €/m²
+Standardabweichung 2,58
+Unterer Wert der 2/3- 12,93 €/m²
+Spanne
+Oberer Wert der 2/3- 17,52 €/m²
+Spanne
+Minimum 10,00 €/m²
+Maximum 22,00 €/m²
+Anzahl Mietwerte 87
+Dokumentation Hamburger Mietenspiegel 2021 104
+Anlagen
+MMiieetteennssppiieeggeellffeelldd OC19
+BBaauuaalltteerrsskkllaassssee 2b0is1 361 b.1is2 .21092108,,
+mmiitt BBaadd uunndd SSaammmmeellhheeiizzuunngg,,
+2ab5 m13²1 b mis ²u, nter 41 m²,
+ngourtem Waleo hWnolahgnela ge
+Arithmetisches Mittel 17,21 €/m²
+Arithmetisches Mittel 12,12 €/m²
+Standardabweichung 4,56
+Standardabweichung 2,83
+Unterer Wert der 2/3- 13,65 €/m²
+Unterer Wert der 2/3 9,06 €/m²
+Spanne
+Spanne
+Oberer Wert der 2/3- 21,88 €/m²
+Oberer Wert der 2/3 14,81 €/m²
+Spanne
+Spanne
+Minimum 6,88 €/m²
+Minimum 6,35 €/m²
+Maximum 24,29 €/m²
+Maximum 19,84 €/m²
+Anzahl Mietwerte 33
+Anzahl Mietwert 55
+Dokumentation Hamburger Mietenspiegel 2021 105
+Anlagen
+Anlage C: Analyse der Ausstattungsmerkmale
+Dokumentation Hamburger Mietenspiegel 2021 106
+Anlagen
+Tabelle-C 1: Bad und WC räumlich getrennt (Angaben in Prozent)
+insgesamt
+Altbau bis Bis 1919 bis 21.06.1948 1961 bis 1968 bis 1978 bis 1994 bis 2011 bis 2016 bis
+Baualtersklassen/Bezugsfertigkeit
+20.06.1948 31.12.1918 20.06.1948 bis 1960 1967 1977 1993 2010 2015 2020
+insgesamt Mit Bad Mit Bad Mit Bad Mit Bad Mit Bad Mit Bad Mit Bad Mit Bad Mit Bad
+und Sam- und Sam- und Sam- und Sam- und Sam- und Sam- und Sam- und Sam- und Sam-
+Ausstattung
+melhei- melhei- melhei- melhei- melhei- melhei- melhei- melhei- melhei-
+zung zung zung zung zung zung zung zung zung
+Wohn- Wohnfläche
+C bis F C F H I K L M N O C bis O
+lage
+Grundgesamtheit 148.800 85.200 63.600 164.300 90.500 76.300 29.400 26.900 10.300 12.400 558.900
+25 m² bis unter 41 m²
+- 1 4,1% 7,1% 0,0% 1,0% 0,0% 0,0% 0,0% 0,0% 0,0% 1,3%
+n
+h
+o W
+e
+41 m² bis unter 66 m² 2 5,3% 7,0% 3,5% 1,2% 1,4% 2,5% 5,0% 1,3% 3,8% 0,5% 2,8%
+eg
+la m a l 66 m² bis unter 91 m² 3 19,9% 28,1% 5,9% 12,0% 15,7% 13,9% 14,6% 6,7% 8,8% 5,5% 14,3%
+r
+o n ab 91 m² 4 46,0% 52,5% 20,0% 23,5% 44,4% 25,9% 25,0% 9,3% 14,0% 18,8% 27,2%
+normale Wohnlage
+11,2% 16,8% 4,1% 3,1% 8,0% 8,0% 10,1% 4,5% 7,4% 9,5% 7,3%
+insgesamt
+25 m² bis unter 41 m²
+5 22,4% 20,0% 32,0% 0,0% 0,0% 0,0% 0,0% 11,1% 4,9%
+e
+g a 41 m² bis unter 66 m² 6 13,4% 15,7% 7,7% 0,7% 2,2% 7,9% 3,1% 3,5% 0,0% 2,4% 6,0%
+ln
+h o 66 m² bis unter 91 m² 7 33,2% 43,2% 16,0% 10,2% 24,4% 14,1% 13,9% 10,3% 8,6% 9,6% 19,8%
+W
+e 91 m² bis unter 131 m²
+t u 8 52,3% 60,9% 30,2% 24,4% 25,8% 22,5% 15,9% 16,3% 21,2% 14,5% 34,8%
+g
+ab 131 m² 9 58,2% 60,1% 38,5% 54,6% 18,8% 22,6% 33,3% 25,0% 52,2%
+gute Wohnlage
+32,4% 38,3% 17,2% 6,1% 10,4% 10,6% 8,9% 10,4% 12,1% 11,5% 17,1%
+insgesamt
+insgesamt 19,1% 26,0% 7,7% 3,9% 8,8% 8,5% 9,8% 6,4% 8,2% 10,3% 10,3%
+Dokumentation Hamburger Mietenspiegel 2021 107
+Anlagen
+Tabelle-C 2: Zusätzliches WC in der Wohnung (Angaben in Prozent)
+insgesamt
+Altbau bis Bis 1919 bis 21.06.1948 1961 bis 1968 bis 1978 bis 1994 bis 2011 bis 2016 bis
+Baualtersklassen/Bezugsfertigkeit
+20.06.1948 31.12.1918 20.06.1948 bis 1960 1967 1977 1993 2010 2015 2020
+insgesamt Mit Bad Mit Bad Mit Bad Mit Bad Mit Bad Mit Bad Mit Bad Mit Bad Mit Bad
+und Sam- und Sam- und Sam- und Sam- und Sam- und Sam- und Sam- und Sam- und Sam-
+Ausstattung
+melhei- melhei- melhei- melhei- melhei- melhei- melhei- melhei- melhei-
+zung zung zung zung zung zung zung zung zung
+Wohn- Wohnfläche
+C bis F C F H I K L M N O C bis O
+lage
+Grundgesamtheit 148.800 85.200 63.600 164.300 90.500 76.300 29.400 26.900 10.300 12.400 558.900
+25 m² bis unter 41 m²
+- 1 0,0% 0,0% 0,0% 0,0% 2,3% 0,0% 0,0% 0,0% 0,0% 0,3%
+n
+h
+o W
+e
+41 m² bis unter 66 m² 2 0,1% 0,0% 0,2% 0,2% 0,4% 0,8% 0,8% 0,6% 2,3% 2,1% 0,3%
+eg
+la m a l 66 m² bis unter 91 m² 3 4,0% 4,3% 3,5% 6,2% 9,5% 11,4% 15,3% 20,9% 24,9% 29,4% 10,7%
+r
+o n ab 91 m² 4 25,2% 22,7% 33,3% 41,2% 58,3% 63,0% 75,0% 75,0% 85,6% 81,6% 59,0%
+normale Wohnlage
+2,6% 3,2% 2,0% 1,5% 6,3% 8,5% 13,0% 20,4% 27,7% 43,4% 6,9%
+insgesamt
+25 m² bis unter 41 m²
+5 0,0% 0,0% 0,0% 0,0% 0,0% 0,0% 0,0% 0,0% 0,0%
+e
+g a 41 m² bis unter 66 m² 6 0,9% 1,3% 0,0% 0,0% 0,5% 0,0% 4,0% 1,7% 0,0% 2,3% 0,7%
+ln
+h o 66 m² bis unter 91 m² 7 6,6% 8,7% 3,1% 3,4% 3,7% 19,7% 14,6% 29,0% 49,0% 33,8% 10,3%
+W
+e 91 m² bis unter 131 m²
+t u 8 24,9% 23,8% 27,7% 29,8% 56,3% 58,0% 75,0% 80,0% 85,2% 81,6% 44,5%
+g
+ab 131 m² 9 71,0% 68,9% 92,5% 83,3% 93,8% 93,6% 88,5% 93,8% 74,9%
+gute Wohnlage
+16,2% 18,5% 10,1% 4,1% 4,6% 14,2% 22,4% 36,9% 49,2% 45,7% 14,3%
+insgesamt
+insgesamt 7,6% 9,8% 4,1% 2,2% 5,8% 9,6% 15,8% 25,5% 31,3% 44,3% 9,2%
+Dokumentation Hamburger Mietenspiegel 2021 108
+Anlagen
+Tabelle-C 3: Bad mit Fenster (Angaben in Prozent)
+insgesamt
+Altbau bis Bis 1919 bis 21.06.1948 1961 bis 1968 bis 1978 bis 1994 bis 2011 bis 2016 bis
+Baualtersklassen/Bezugsfertigkeit
+20.06.1948 31.12.1918 20.06.1948 bis 1960 1967 1977 1993 2010 2015 2020
+insgesamt Mit Bad Mit Bad Mit Bad Mit Bad Mit Bad Mit Bad Mit Bad Mit Bad Mit Bad
+und Sam- und Sam- und Sam- und Sam- und Sam- und Sam- und Sam- und Sam- und Sam-
+Ausstattung
+melhei- melhei- melhei- melhei- melhei- melhei- melhei- melhei- melhei-
+zung zung zung zung zung zung zung zung zung
+Wohn- Wohnfläche
+C bis F C F H I K L M N O C bis O
+lage
+Grundgesamtheit 148.800 85.200 63.600 164.300 90.500 76.300 29.400 26.900 10.300 12.400 558.900
+25 m² bis unter 41 m²
+- 1 62,0% 43,9% 86,7% 44,0% 21,8% 9,4% 31,6% 50,0% 17,7% 37,1%
+n
+h
+o W
+e
+41 m² bis unter 66 m² 2 80,3% 73,3% 87,6% 63,7% 43,8% 28,5% 41,7% 24,4% 27,4% 25,4% 59,7%
+eg
+la m a l 66 m² bis unter 91 m² 3 75,8% 68,8% 87,2% 63,9% 42,1% 31,2% 41,4% 34,5% 41,0% 31,6% 50,9%
+r
+o n ab 91 m² 4 69,1% 63,1% 90,9% 81,3% 77,8% 46,2% 38,1% 36,5% 35,3% 39,6% 52,0%
+normale Wohnlage
+76,7% 68,2% 87,5% 61,3% 41,0% 27,4% 40,3% 32,0% 33,1% 33,2% 54,1%
+insgesamt
+25 m² bis unter 41 m²
+5 59,2% 51,4% 91,7% 27,9% 10,3% 17,4% 12,5% 30,0% 27,8%
+e
+g a 41 m² bis unter 66 m² 6 75,6% 72,3% 83,4% 61,8% 43,1% 50,9% 36,1% 32,2% 51,5% 44,7% 59,6%
+ln
+h o 66 m² bis unter 91 m² 7 70,6% 64,5% 80,7% 68,6% 56,7% 50,0% 43,0% 38,0% 44,4% 61,1% 61,6%
+W
+e 91 m² bis unter 131 m²
+t u 8 64,0% 55,0% 86,8% 71,1% 78,1% 68,6% 68,3% 63,4% 61,0% 61,6% 66,2%
+g
+ab 131 m² 9 69,8% 67,6% 92,5% 63,6% 80,0% 61,3% 69,2% 59,4% 69,0%
+gute Wohnlage
+70,3% 65,1% 83,7% 60,3% 42,8% 47,5% 42,8% 44,0% 52,8% 55,6% 58,4%
+insgesamt
+insgesamt 74,4% 66,9% 86,5% 61,0% 41,7% 31,1% 41,1% 35,8% 36,5% 42,5% 55,4%
+Dokumentation Hamburger Mietenspiegel 2021 109
+Anlagen
+Tabelle-C 4: Einbauküche - Unter- und Oberschränke, Einbauherd, Einbauspüle (Angaben in Prozent)
+insgesamt
+Altbau bis Bis 1919 bis 21.06.1948 1961 bis 1968 bis 1978 bis 1994 bis 2011 bis 2016 bis
+Baualtersklassen/Bezugsfertigkeit
+20.06.1948 31.12.1918 20.06.1948 bis 1960 1967 1977 1993 2010 2015 2020
+insgesamt Mit Bad Mit Bad Mit Bad Mit Bad Mit Bad Mit Bad Mit Bad Mit Bad Mit Bad
+und Sam- und Sam- und Sam- und Sam- und Sam- und Sam- und Sam- und Sam- und Sam-
+Ausstattung
+melhei- melhei- melhei- melhei- melhei- melhei- melhei- melhei- melhei-
+zung zung zung zung zung zung zung zung zung
+Wohn- Wohnfläche
+C bis F C F H I K L M N O C bis O
+lage
+Grundgesamtheit 148.800 85.200 63.600 164.300 90.500 76.300 29.400 26.900 10.300 12.400 558.900
+25 m² bis unter 41 m²
+- 1 56,6% 58,5% 54,2% 48,5% 66,0% 46,4% 63,2% 100,0% 100,0% 56,0%
+n
+h
+o W
+e
+41 m² bis unter 66 m² 2 48,3% 48,5% 48,0% 42,1% 52,3% 66,7% 74,2% 95,2% 94,8% 98,5% 52,7%
+eg
+la m a l 66 m² bis unter 91 m² 3 43,3% 45,5% 39,8% 43,1% 54,3% 53,6% 76,6% 92,3% 99,2% 98,0% 57,7%
+r
+o n ab 91 m² 4 41,7% 44,5% 31,8% 61,1% 72,7% 37,0% 76,0% 98,2% 98,3% 98,4% 69,5%
+normale Wohnlage
+47,5% 48,4% 46,4% 43,4% 55,7% 56,4% 74,3% 94,9% 97,6% 98,3% 55,6%
+insgesamt
+25 m² bis unter 41 m²
+5 53,0% 54,3% 48,0% 66,3% 75,3% 73,1% 77,8% 100,0% 68,4%
+e
+g a 41 m² bis unter 66 m² 6 53,6% 55,3% 49,6% 57,9% 63,8% 73,0% 91,3% 94,9% 100,0% 98,8% 63,3%
+ln
+h o 66 m² bis unter 91 m² 7 50,0% 54,7% 42,5% 60,8% 72,3% 85,9% 95,5% 94,8% 98,0% 99,3% 68,2%
+W
+e 91 m² bis unter 131 m²
+t u 8 47,6% 49,3% 43,3% 70,6% 69,0% 80,4% 92,7% 95,2% 96,3% 98,8% 67,9%
+g
+ab 131 m² 9 54,6% 53,9% 62,5% 100,0% 81,3% 90,6% 96,3% 97,0% 61,9%
+gute Wohnlage
+51,6% 53,8% 46,3% 61,3% 69,3% 78,8% 91,0% 94,7% 97,9% 99,0% 66,0%
+insgesamt
+insgesamt 49,0% 50,7% 46,4% 48,3% 60,3% 60,6% 79,3% 94,8% 97,6% 98,5% 58,7%
+Dokumentation Hamburger Mietenspiegel 2021 110
+Anlagen
+Tabelle-C 5: Zusätzliche Ausstattung in der Küche, z.B. Kühlschrank, Geschirrspüler, Gefrierschrank (Angaben in Prozent)
+insgesamt
+Altbau bis Bis 1919 bis 21.06.1948 1961 bis 1968 bis 1978 bis 1994 bis 2011 bis 2016 bis
+Baualtersklassen/Bezugsfertigkeit
+20.06.1948 31.12.1918 20.06.1948 bis 1960 1967 1977 1993 2010 2015 2020
+insgesamt Mit Bad Mit Bad Mit Bad Mit Bad Mit Bad Mit Bad Mit Bad Mit Bad Mit Bad
+und Sam- und Sam- und Sam- und Sam- und Sam- und Sam- und Sam- und Sam- und Sam-
+Ausstattung
+melhei- melhei- melhei- melhei- melhei- melhei- melhei- melhei- melhei-
+zung zung zung zung zung zung zung zung zung
+Wohn- Wohnfläche
+C bis F C F H I K L M N O C bis O
+lage
+Grundgesamtheit 148.800 85.200 63.600 164.300 90.500 76.300 29.400 26.900 10.300 12.400 558.900
+25 m² bis unter 41 m²
+- 1 21,9% 34,2% 6,3% 11,1% 19,5% 15,8% 26,3% 92,3% 68,8% 20,2%
+n
+h
+o W
+e
+41 m² bis unter 66 m² 2 18,8% 24,1% 13,4% 8,2% 12,8% 23,3% 27,6% 28,7% 63,4% 60,9% 16,7%
+eg
+la m a l 66 m² bis unter 91 m² 3 20,8% 23,0% 17,4% 12,1% 10,1% 6,8% 25,0% 27,9% 60,9% 60,7% 17,9%
+r
+o n ab 91 m² 4 24,1% 26,1% 17,4% 23,5% 23,1% 10,3% 45,8% 52,3% 64,1% 71,2% 38,4%
+normale Wohnlage
+19,9% 25,0% 13,7% 9,4% 12,9% 14,8% 28,0% 36,5% 63,1% 64,9% 18,8%
+insgesamt
+25 m² bis unter 41 m²
+5 33,8% 34,3% 32,0% 20,5% 19,5% 46,4% 47,1% 90,0% 29,8%
+e
+g a 41 m² bis unter 66 m² 6 24,4% 24,7% 23,7% 14,8% 16,2% 30,8% 56,3% 69,5% 80,0% 81,4% 26,2%
+ln
+h o 66 m² bis unter 91 m² 7 28,5% 31,2% 24,1% 21,8% 25,9% 51,4% 60,0% 69,7% 71,3% 83,2% 36,2%
+W
+e 91 m² bis unter 131 m²
+t u 8 30,8% 32,8% 25,7% 47,6% 45,2% 52,8% 80,3% 70,8% 77,2% 83,7% 48,6%
+g
+ab 131 m² 9 34,7% 34,3% 39,5% 90,0% 73,3% 77,4% 100,0% 93,9% 44,5%
+gute Wohnlage
+28,6% 30,0% 25,2% 21,0% 21,7% 43,8% 61,1% 70,3% 78,0% 84,7% 34,1%
+insgesamt
+insgesamt 23,1% 27,2% 16,8% 12,6% 15,8% 20,2% 37,8% 46,9% 65,9% 72,8% 23,4%
+Dokumentation Hamburger Mietenspiegel 2021 111
+Anlagen
+Tabelle-C 6: Fahrradkeller/überdachter Fahrradstellplatz (Angaben in Prozent)
+insgesamt
+Altbau bis Bis 1919 bis 21.06.1948 1961 bis 1968 bis 1978 bis 1994 bis 2011 bis 2016 bis
+Baualtersklassen/Bezugsfertigkeit
+20.06.1948 31.12.1918 20.06.1948 bis 1960 1967 1977 1993 2010 2015 2020
+insgesamt Mit Bad Mit Bad Mit Bad Mit Bad Mit Bad Mit Bad Mit Bad Mit Bad Mit Bad
+und Sam- und Sam- und Sam- und Sam- und Sam- und Sam- und Sam- und Sam- und Sam-
+Ausstattung
+melhei- melhei- melhei- melhei- melhei- melhei- melhei- melhei- melhei-
+zung zung zung zung zung zung zung zung zung
+Wohn- Wohnfläche
+C bis F C F H I K L M N O C bis O
+lage
+Grundgesamtheit 148.800 85.200 63.600 164.300 90.500 76.300 29.400 26.900 10.300 12.400 558.900
+25 m² bis unter 41 m²
+- 1 57,9% 44,2% 76,6% 65,6% 57,0% 68,5% 31,6% 57,1% 82,4% 61,7%
+n
+h
+o W
+e
+41 m² bis unter 66 m² 2 43,9% 38,1% 50,0% 63,4% 63,8% 60,0% 64,0% 82,8% 85,4% 88,0% 58,7%
+eg
+la m a l 66 m² bis unter 91 m² 3 52,3% 44,3% 65,8% 62,2% 71,1% 76,7% 76,1% 85,8% 90,8% 88,7% 69,0%
+r
+o n ab 91 m² 4 53,6% 47,2% 77,3% 88,2% 44,4% 73,1% 85,7% 93,5% 92,9% 96,6% 76,6%
+normale Wohnlage
+48,0% 41,2% 56,7% 63,8% 65,0% 68,7% 67,3% 83,8% 88,6% 91,6% 63,0%
+insgesamt
+25 m² bis unter 41 m²
+5 53,2% 60,0% 25,0% 67,1% 52,0% 48,0% 58,8% 100,0% 58,7%
+e
+g a 41 m² bis unter 66 m² 6 46,2% 44,5% 50,4% 57,9% 59,9% 54,6% 61,9% 81,0% 78,1% 85,7% 55,9%
+ln
+h o 66 m² bis unter 91 m² 7 49,1% 45,8% 54,6% 63,3% 70,6% 55,6% 74,8% 82,0% 81,8% 85,5% 62,3%
+W
+e 91 m² bis unter 131 m²
+t u 8 60,2% 54,8% 74,2% 64,3% 61,3% 63,5% 68,3% 83,0% 86,0% 90,5% 66,8%
+g
+ab 131 m² 9 72,6% 72,9% 70,0% 41,7% 88,2% 78,1% 96,3% 87,9% 74,7%
+gute Wohnlage
+53,4% 52,4% 56,0% 61,5% 61,9% 55,0% 67,9% 81,8% 83,6% 88,7% 60,9%
+insgesamt
+insgesamt 50,0% 46,0% 56,5% 63,1% 63,9% 65,9% 67,5% 83,2% 87,7% 90,4% 62,4%
+Dokumentation Hamburger Mietenspiegel 2021 112
+Anlagen
+Tabelle-C 7: Fahrstuhl/Aufzug (Angaben in Prozent)
+insgesamt
+Altbau bis Bis 1919 bis 21.06.1948 1961 bis 1968 bis 1978 bis 1994 bis 2011 bis 2016 bis
+Baualtersklassen/Bezugsfertigkeit
+20.06.1948 31.12.1918 20.06.1948 bis 1960 1967 1977 1993 2010 2015 2020
+insgesamt Mit Bad Mit Bad Mit Bad Mit Bad Mit Bad Mit Bad Mit Bad Mit Bad Mit Bad
+und Sam- und Sam- und Sam- und Sam- und Sam- und Sam- und Sam- und Sam- und Sam-
+Ausstattung
+melhei- melhei- melhei- melhei- melhei- melhei- melhei- melhei- melhei-
+zung zung zung zung zung zung zung zung zung
+Wohn- Wohnfläche
+C bis F C F H I K L M N O C bis O
+lage
+Grundgesamtheit 148.800 85.200 63.600 164.300 90.500 76.300 29.400 26.900 10.300 12.400 558.900
+25 m² bis unter 41 m²
+- 1 0,0% 0,0% 0,0% 9,6% 36,7% 69,0% 10,5% 40,0% 70,6% 25,5%
+n
+h
+o W
+e
+41 m² bis unter 66 m² 2 1,1% 1,1% 1,0% 3,6% 16,9% 40,6% 21,0% 30,9% 69,9% 83,5% 11,9%
+eg
+la m a l 66 m² bis unter 91 m² 3 2,3% 2,9% 1,1% 7,0% 13,0% 41,3% 19,1% 33,3% 76,9% 87,0% 21,8%
+r
+o n ab 91 m² 4 9,6% 7,6% 16,0% 0,0% 7,7% 28,6% 29,2% 65,1% 88,0% 88,9% 40,1%
+normale Wohnlage
+1,8% 2,1% 1,4% 4,9% 17,9% 44,9% 20,0% 38,0% 76,2% 86,9% 18,1%
+insgesamt
+25 m² bis unter 41 m²
+5 0,0% 0,0% 0,0% 26,4% 51,9% 46,2% 33,3% 80,0% 31,4%
+e
+g a 41 m² bis unter 66 m² 6 3,7% 3,7% 3,8% 4,3% 22,9% 21,2% 28,2% 39,2% 43,8% 48,2% 12,2%
+ln
+h o 66 m² bis unter 91 m² 7 7,9% 7,7% 8,3% 14,0% 10,4% 9,3% 14,3% 37,3% 72,2% 50,3% 15,2%
+W
+e 91 m² bis unter 131 m²
+t u 8 24,1% 21,0% 31,7% 25,3% 12,1% 16,0% 26,1% 54,1% 79,4% 72,9% 31,1%
+g
+ab 131 m² 9 42,8% 40,0% 70,5% 25,0% 38,9% 62,5% 88,9% 75,8% 46,5%
+gute Wohnlage
+13,4% 13,4% 13,3% 12,7% 23,9% 20,0% 24,4% 43,4% 68,6% 62,0% 20,0%
+insgesamt
+insgesamt 6,1% 7,0% 4,7% 7,0% 20,0% 40,2% 21,3% 39,7% 74,9% 77,1% 18,7%
+Dokumentation Hamburger Mietenspiegel 2021 113
+Anlagen
+Tabelle-C 8: Fahrstuhl/Aufzug im Haus bei bis zu einschließlich 5 Stockwerken (Angaben in Prozent)
+insgesamt
+Altbau bis Bis 1919 bis 21.06.1948 1961 bis 1968 bis 1978 bis 1994 bis 2011 bis 2016 bis
+Baualtersklassen/Bezugsfertigkeit
+20.06.1948 31.12.1918 20.06.1948 bis 1960 1967 1977 1993 2010 2015 2020
+insgesamt Mit Bad Mit Bad Mit Bad Mit Bad Mit Bad Mit Bad Mit Bad Mit Bad Mit Bad
+und Sam- und Sam- und Sam- und Sam- und Sam- und Sam- und Sam- und Sam- und Sam-
+Ausstattung
+melhei- melhei- melhei- melhei- melhei- melhei- melhei- melhei- melhei-
+zung zung zung zung zung zung zung zung zung
+Wohn- Wohnfläche
+C bis F C F H I K L M N O C bis O
+lage
+Grundgesamtheit 148.800 85.200 63.600 164.300 90.500 76.300 29.400 26.900 10.300 12.400 558.900
+25 m² bis unter 41 m²
+- 1 0,0% 0,0% 0,0% 4,4% 20,3% 26,1% 0,0% 25,0% 58,3% 9,0%
+n
+h
+o W
+e
+41 m² bis unter 66 m² 2 0,7% 0,5% 0,9% 0,6% 1,5% 7,7% 13,1% 19,0% 67,8% 77,5% 4,5%
+eg
+la m a l 66 m² bis unter 91 m² 3 0,5% 0,0% 1,2% 2,1% 0,0% 6,0% 13,0% 26,2% 72,2% 83,8% 9,8%
+r
+o n ab 91 m² 4 5,8% 4,4% 10,0% 0,0% 7,7% 0,0% 23,8% 56,6% 85,6% 86,4% 31,9%
+normale Wohnlage
+0,9% 0,6% 1,1% 1,3% 3,5% 8,6% 12,8% 27,8% 72,3% 83,2% 8,1%
+insgesamt
+25 m² bis unter 41 m²
+5 0,0% 0,0% 0,0% 6,0% 40,3% 39,1% 21,4% 77,8% 20,2%
+e
+g a 41 m² bis unter 66 m² 6 2,8% 2,8% 2,9% 3,7% 6,4% 20,6% 22,0% 25,5% 37,9% 50,0% 7,9%
+ln
+h o 66 m² bis unter 91 m² 7 7,5% 8,0% 6,4% 9,0% 4,0% 8,6% 8,7% 32,1% 65,3% 56,2% 12,0%
+W
+e 91 m² bis unter 131 m²
+t u 8 19,3% 14,9% 30,4% 19,0% 9,4% 10,9% 22,7% 48,9% 75,0% 74,7% 26,8%
+g
+ab 131 m² 9 33,4% 30,9% 59,4% 18,2% 31,3% 53,9% 81,3% 78,6% 38,0%
+gute Wohnlage
+10,3% 10,0% 11,0% 7,2% 12,0% 17,6% 18,1% 35,7% 60,8% 65,5% 14,7%
+insgesamt
+insgesamt 4,3% 4,7% 3,5% 2,9% 6,4% 11,0% 14,4% 30,3% 70,4% 75,6% 10,1%
+Dokumentation Hamburger Mietenspiegel 2021 114
+Anlagen
+Anlage D: Fragebögen
+Mieterfragebogen
+Vermieterfragebogen
+Dokumentation Hamburger Mietenspiegel 2021 115
+Anlagen
+Dokumentation Hamburger Mietenspiegel 2021 116
+Anlagen
+Dokumentation Hamburger Mietenspiegel 2021 117
+Anlagen
+Dokumentation Hamburger Mietenspiegel 2021 118
+Anlagen
+Dokumentation Hamburger Mietenspiegel 2021 119
+Anlagen
+Dokumentation Hamburger Mietenspiegel 2021 120
+Anlagen
+Dokumentation Hamburger Mietenspiegel 2021 121
+Anlagen
+Dokumentation Hamburger Mietenspiegel 2021 122
+Anlagen
+Dokumentation Hamburger Mietenspiegel 2021 123
+Anlagen
+Anlage E: Anschreiben der Behörde für Stadtentwicklung und
+Wohnen
+Dokumentation Hamburger Mietenspiegel 2021 124
+Anlagen
+Dokumentation Hamburger Mietenspiegel 2021 125
+Anlagen
+Dokumentation Hamburger Mietenspiegel 2021 126
+Anlagen
+Dokumentation Hamburger Mietenspiegel 2021 127
+Anlagen
+Dokumentation Hamburger Mietenspiegel 2021 128
+Anlagen
+Dokumentation Hamburger Mietenspiegel 2021 129
+Anlagen
+Anlage F: Anschreiben der Mieterverbände
+Dokumentation Hamburger Mietenspiegel 2021 130
+Anlagen
+Dokumentation Hamburger Mietenspiegel 2021 131
+Anlagen
+Anlage G: Anschreiben der Vermieterverbände
+Dokumentation Hamburger Mietenspiegel 2021 132
+Anlagen
+Dokumentation Hamburger Mietenspiegel 2021 133
+ALP Institut für Wohnen
+und Stadtentwicklung GmbH
+Schopenstehl 15 | 20095 Hamburg
+Telefon: 040 3346476-0
+Fax: 040 3346476-99
+E-Mail: info@alp-institut.de
+Homepage: www.alp-institut.de

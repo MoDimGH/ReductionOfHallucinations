@@ -1,0 +1,1586 @@
+
+I
+Impressum
+Herausgeber:
+Behörde für Inneres und Sport
+Referat Grundsatzangelegenheiten des
+Ausländer- und Staatsangehörigkeitsrechts
+Johanniswall 4
+20095 Hamburg
+Tel.: +49(40)428280
+Fax: +49(40)428 391908
+E-Mail: BfIHHAuslRundStaR@bis.hamburg.de
+Internet: www.hamburg.de/innenbehoerde
+Bildnachweis Titelbild:
+www.mediaserver.hamburg.de / Martina Cyman
+Diese Informationsbroschüre soll internationalen Studierenden, die sich für ein Stu-
+dium in Hamburg entscheiden, die wichtigsten Informationen über die aufenthalts-
+rechtlichen Aspekte ihres Lebens in Hamburg vermitteln. Sie ersetzt nicht die per-
+sönliche Beratung in wichtigen Angelegenheiten, wie sie von vielen in dieser Bro-
+schüre aufgeführten Stellen in Hamburg angeboten wird.
+Die Informationsbroschüre stellt die Rechtslage im Juli 2024 dar. Es ist beabsich-
+tigt, rechtliche Änderungen zeitnah zu aktualisieren. Gleichwohl können rechtliche
+Änderungen ebenso wie geänderte Anschriften oder Telefonnummern die Aktuali-
+tät dieser Broschüre beeinträchtigen oder in Teilen ungültig werden lassen. Ent-
+sprechende Hinweise nimmt die Redaktion gerne entgegen.
+Der Text basiert auf der Informationsbroschüre „Informationen für internationale
+Studierende - Visum, Aufenthaltserlaubnis und Arbeitserlaubnis vor, während und
+nach dem Studium“ des Referats 52 der Universität Hamburg. Die Behörde für In-
+neres und Sport dankt für die freundliche Überlassung der Texte.
+Stand: Juli 2024
+II
+Inhaltsverzeichnis
+1 EINREISE ................................................................................................................................................ 1
+1.1 EINREISE AUS DEN EU-STAATEN, AUS STAATEN, DIE DEM EWR ANGEHÖREN SOWIE AUS DER
+SCHWEIZ ........................................................................................................................................... 1
+1.2 EINREISE AUS NICHT EU-STAATEN ................................................................................................... 1
+2 AUFENTHALTSRECHT WÄHREND DES STUDIUMS ....................................................................... 3
+2.1 STUDIERENDE AUS EU-STAATEN ...................................................................................................... 3
+2.2 STUDIERENDE AUS NICHT-EU-STAATEN .......................................................................................... 3
+2.2.1 Welche sonstigen Aufenthaltstitel können in eine Aufenthaltserlaubnis zum
+Studium umgewandelt werden ..................................................................................... 4
+2.2.2 Sprachkurs, Studienkolleg und sonstige studienvorbereitende Maßnahmen ......... 4
+2.2.2.1 Sprachkurse ............................................................................................................ 5
+2.2.2.2 Studienkolleg .......................................................................................................... 5
+2.2.3 Können mein/e Ehepartner/in und meine Kinder mit einreisen oder später
+nachziehen ...................................................................................................................... 5
+2.2.4 Wo und wie beantrage ich die Aufenthaltserlaubnis ................................................. 6
+2.2.5 Welche Unterlagen benötige ich .................................................................................. 6
+2.2.6 Finanzierungsnachweis und Krankenversicherung .................................................... 6
+2.2.7 Elektronischer Aufenthaltstitel und Kosten ................................................................ 8
+2.2.8 Reisen ins Ausland ......................................................................................................... 9
+2.2.9 Urlaubssemester .......................................................................................................... 10
+2.2.10 Wechsel des Studienfachs oder der Hochschule ...................................................... 11
+2.2.11 Weiteres Studium in Deutschland .............................................................................. 11
+2.2.12 Gesamtstudiendauer ................................................................................................... 11
+2.2.13 Studienabbruch ............................................................................................................ 11
+3 JOBBEN WÄHREND DES STUDIUMS ............................................................................................... 13
+3.1 STUDIERENDE AUS EU-STAATEN .................................................................................................... 13
+3.2 STUDIERENDE AUS NICHT-EU-STAATEN ........................................................................................ 13
+3.2.1 140-Tage-Regelung .................................................................................................... 13
+3.2.2 Beschäftigung im Dualen Studium ............................................................................. 14
+3.2.3 Studentische Nebentätigkeiten .................................................................................. 14
+3.2.4 Ehrenamtliche Tätigkeit .............................................................................................. 15
+3.2.5 Besonderheiten für Studierende aus der Türkei ...................................................... 15
+3.2.6 Überschreiten der 140-Tage-Regelung ..................................................................... 16
+3.2.7 Selbstständig arbeiten ................................................................................................ 16
+3.2.8 Familienangehörige ..................................................................................................... 17
+4 PRAKTIKA WÄHREND DES STUDIUMS .......................................................................................... 18
+4.1 STUDIERENDE AUS EU-STAATEN .................................................................................................... 18
+4.2 STUDIERENDE AUS NICHT-EU-STAATEN ........................................................................................ 18
+4.2.1 Praktikum im Ausland ................................................................................................. 18
+4.2.2 Pflichtpraktika .............................................................................................................. 18
+4.2.3 Freiwillige Praktika ...................................................................................................... 18
+5 AUSLANDSSEMESTER ...................................................................................................................... 19
+5.1 STUDIERENDE AUS EU-STAATEN .................................................................................................... 19
+5.2 STUDIERENDE AUS NICHT-EU-STAATEN ........................................................................................ 19
+6 AUSTAUSCH- ODER GASTSEMESTER IN HAMBURG................................................................... 20
+6.1 MOBILITÄT NACH DER EU-STUDENTENRICHTLINIE .......................................................................... 20
+6.2 SONSTIGE MOBILITÄT ..................................................................................................................... 22
+7 AUFENTHALTSRECHT NACH DEM STUDIUM FÜR INTERNATIONALE ABSOLVENT/-INNEN
+DEUTSCHER HOCHSCHULEN ........................................................................................................... 23
+III
+7.1 ABSOLVENT/-INNEN AUS EU-STAATEN.......................................................................................... 23
+7.2 ABSOLVENT/-INNEN AUS NICHT-EU-STAATEN .............................................................................. 23
+7.2.1 Aufenthaltserlaubnis zum Zweck der Arbeitssuche ................................................ 23
+7.2.2 Praktikum im Ausland ................................................................................................. 23
+7.2.3 Wechsel in Promotion oder Masterstudiengang ...................................................... 24
+7.2.4 Arbeitssuche nach erstem Job im Ausland ............................................................... 24
+8 ARBEITSAUFNAHME: DIE ERSTE „RICHTIGE“ STELLE ................................................................ 25
+8.1 EU-BÜRGER .................................................................................................................................... 25
+8.2 NICHT-EU-BÜRGER......................................................................................................................... 25
+8.2.1 Aufenthaltstitel zum Zweck der Beschäftigung ....................................................... 25
+8.2.1.1 Trainee-Stellen ..................................................................................................... 27
+8.2.1.2 Teilzeitstellen ....................................................................................................... 27
+8.2.1.3 Weiterbildung (Referendariat, Facharztausbildung etc.) ............................. 27
+8.2.1.4 Leiharbeit (z.B. bei Zeitarbeitsfirmen) ............................................................. 28
+8.2.1.5 Jobwechsel ............................................................................................................ 28
+8.2.2 Aufenthaltserlaubnis für eine selbstständige oder freiberufliche Tätigkeit ......... 28
+8.3 FAMILIENANGEHÖRIGE ..................................................................................................................... 29
+9 BLICK IN DIE ZUKUNFT – DAUERHAFTER AUFENTHALT IN DEUTSCHLAND ......................... 30
+9.1 EU-BÜRGER/-INNEN ....................................................................................................................... 30
+9.2 NICHT-EU-BÜRGER/-INNEN............................................................................................................ 30
+9.3 EINBÜRGERUNG ............................................................................................................................... 31
+10 NÜTZLICHE LINKS UND ADRESSEN ................................................................................................ 32
+10.1 BEHÖRDEN IN HAMBURG ................................................................................................................. 32
+10.2 SONSTIGE BEHÖRDEN ..................................................................................................................... 34
+10.3 BERATUNG AUF DEM CAMPUS ......................................................................................................... 35
+10.4 JOBBEN ............................................................................................................................................ 35
+10.5 INFO UND BERATUNG ZUM STUDIUM ............................................................................................... 36
+10.6 BERUFSEINSTIEG .............................................................................................................................. 36
+10.7 SELBSTSTÄNDIGKEIT ....................................................................................................................... 36
+10.8 RECHTSQUELLEN ............................................................................................................................. 37
+11 ANLAGE ............................................................................................................................................... 38
+1
+1 Einreise
+1.1 Einreise aus den EU-Staaten1, aus Staaten, die dem EWR2 ange-
+hören sowie aus der Schweiz
+Wenn Sie einem dieser Staaten angehören, benötigen Sie kein Visum für die Ein-
+reise. Dies gilt auch, wenn sie als Nicht-EU-Staatsangehöriger in einem EU-Mitglied-
+staat leben und dort über eine Erlaubnis zum Daueraufenthalt im Sinne der EU-
+Daueraufenthaltsrichtlinie3 verfügen.
+1.2 Einreise aus Nicht EU-Staaten
+Für die Einreise zum Zweck des Studiums aus folgenden Staaten ist kein Einreise-
+Visum nötig: Andorra, Australien, Brasilien, El Salvador, Honduras, Israel, Japan, Ka-
+nada, Monaco, Neuseeland, Republik Korea, San Marino, des Vereinigten König-
+reichs Großbritannien, Nordirland und USA.
+Vor der Einreise aus den übrigen Nicht-EU-Staaten muss jedoch rechtzeitig bei der
+deutschen Botschaft ein Visum zum Zweck der Studienbewerbung oder des Studi-
+ums beantragt werden. Sie müssen mit zwei bis drei Monaten Bearbeitungszeit für
+das Visum rechnen. Außerdem kann es erforderlich sein, bereits mehrere Wochen
+im Voraus einen Termin zur Beantragung des Visums bei der zuständigen deutschen
+Auslandsvertretung zu buchen4. Bitte informieren Sie sich rechtzeitig über die je-
+weilige Praxis der für Ihren Wohnort zuständigen deutschen Auslandsvertretung.
+Wenn Sie bereits eine schriftliche Zusage einer Hochschule für Ihren Studienplatz
+oder Ihre studienvorbereitende Maßnahme (Sprachkurs, Studienkolleg, Propädeuti-
+kum etc.) haben, können Sie direkt ein Visum zum Zweck des Studiums beantragen.
+Ist dies nicht der Fall und Sie haben sich erst beworben oder müssen für die Bewer-
+bung bereits eine Aufnahmeprüfung in Deutschland machen, dann müssen Sie ein
+Bewerbervisum beantragen.
+Deshalb empfiehlt es sich, schon frühzeitig ein Bewerbervisum zu beantragen, mit
+dem Sie rechtzeitig zum Studienbeginn einreisen können! Warten Sie nicht auf die
+Bestätigung des Studienplatzes, sondern beantragen Sie mit der Bewerberbestäti-
+gung von der Hochschule ein Bewerbervisum. Sie können das Bewerbervisum in
+1 Mitgliedsstaaten der Europäischen Union sind: Belgien, Bulgarien, Dänemark, Deutschland, Estland, Finn-
+land, Frankreich, Griechenland, Irland, Italien, Kroatien, Lettland, Litauen, Luxemburg, Malta, die Nieder-
+lande, Österreich, Polen, Portugal, Rumänien, Schweden, die Slowakei, Slowenien, Spanien, die Tschechische
+Republik, Ungarn und Zypern
+2 Der Europäische Wirtschaftsraum (EWR) umfasst die Mitgliedsstaaten der Europäischen Union, ferner Is-
+land, Liechtenstein und Norwegen. Soweit im Folgenden nichts anderes erwähnt wird, gelten die Regelungen
+der EU-Staaten auch für die Staatsangehörigen von Island, Liechtenstein, Norwegen und der Schweiz.
+3 Richtlinie 2003/109/EG über die Rechtsstellung von langfristig aufenthaltsberechtigten Drittstaatsangehö-
+rigen http://eur-lex.europa.eu/legal-content/DE/TXT/?uri=URISERV%3Al23034
+4 Zur Terminvergabe siehe http://www.auswaertiges-amt.de/DE/Infoservice/FAQ/VisumFuerD/34-Ter-
+mine.html?nn=350374
+2
+Deutschland in eine Aufenthaltserlaubnis zum Studium umwandeln. Sollten Sie kei-
+nen Studienplatz erhalten, haben Sie die Kosten für das Visum umsonst gezahlt;
+erhalten Sie eine Zusage, haben Sie die Sicherheit, pünktlich einreisen zu können!
+Wenn Ihr geplanter Studienaufenthalt in Deutschland nur maximal ein Jahr dauern
+soll, dann sollten Sie das Visum gleich für den gesamten entsprechenden Zeitraum
+beantragen, damit Sie später keinen kostenpflichtigen elektronischen Aufenthalts-
+titel mehr bei der Ausländerbehörde beantragen müssen.
+Auf dieser Internetseite finden Sie alle Informationen für die Visabeantragung:
+http://www.auswaertiges-amt.de/DE/EinreiseUndAufenthalt/03_Visabestimmun-
+gen/Visabestimmungen_node.html
+Bitte beachten Sie, dass dreimonatige Schengen-Visa („Touristenvisa“) nicht aus-
+reichend sind und nicht für einen Aufenthalt zum Studium verlängert werden kön-
+nen.
+3
+2 Aufenthaltsrecht während des Studiums
+2.1 Studierende aus EU-Staaten
+Internationale Studierende aus den EU-Staaten, genießen Freizügigkeit. Dies gilt
+auch für ihre Ehegatten und Kinder, auch wenn diese selbst nicht EU-Staatsange-
+hörige sind.
+Seit dem 29. Januar 2013 erhalten Unionsbürger und Angehörige der EWR-Staaten
+keine spezielle Freizügigkeitsbescheinigung der Ausländerbehörde mehr. Als Nach-
+weis darüber, dass Unionsbürger oder Angehörige der EWR-Staaten sich in
+Deutschland aufhalten und hier von ihrem Freizügigkeitsrecht Gebrauch machen,
+dient ihnen seither ausschließlich die meldebehördliche Meldebescheinigung.
+Familienangehörige aus Drittstaaten müssen bei der Ausländerabteilung des für ih-
+ren Wohnort zuständigen Bezirksamts vorsprechen und dort ihren Familienstatus
+sowie ausreichende Existenzmittel einschließlich des Krankenversicherungsschut-
+zes nachweisen. Sie erhalten dann innerhalb von sechs Monaten eine Aufenthalts-
+karte.
+2.2 Studierende aus Nicht-EU-Staaten
+Internationale Studierende aus Drittstaaten müssen spätestens sechs Wochen vor
+Ablauf der Gültigkeit des Einreisevisums eine Aufenthaltserlaubnis zu Studienzwe-
+cken beantragen. Wenn Sie visafrei einreisen konnten, müssen Sie innerhalb von 90
+Tagen nach ihrer Einreise ebenfalls eine Aufenthaltserlaubnis zu Studienzwecken
+beantragen. Die Aufenthaltserlaubnis zu Studienzwecken wird für ein Vollzeitstu-
+dium und in Ausnahmefällen auch für ein Teilzeitstudium, etwa für berufsbeglei-
+tende Studiengänge, erteilt.
+Ausländische Studierende aus Drittstaaten, die ein Studienbewerbervisum oder ein
+Visum für studienvorbereitende Maßnahmen (Sprachkurs, Studienkolleg, Propädeu-
+tikum etc.) hatten, müssen sofort nachdem sie ihren Studienplatz angenommen und
+sich als Student/in eingeschrieben haben, eine Aufenthaltserlaubnis zum Studium
+beantragen. Den Antrag auf Erteilung einer ersten Aufenthaltserlaubnis zum Zweck
+des Studiums können Sie beim Hamburg Welcome Center (HWC) stellen.5 Die da-
+rauffolgende Verlängerung ist im Hamburg Service vor Ort zu beantragen.
+Die Aufenthaltserlaubnis ist grundsätzlich für maximal zwei Jahre gültig und muss
+also in der Studienzeit regelmäßig verlängert werden. Wenn Sie an einem Unions-
+oder multilateralen Programm mit Mobilitätsmaßnahmen teilnehmen oder wenn für
+Sie eine Vereinbarung zwischen zwei oder mehr Hochschuleinrichtungen gilt, wird
+Ihnen die Aufenthaltserlaubnis für mindestens zwei Jahre erteilt.
+5 https://welcome.hamburg.de/hwc/
+4
+Die Aufenthaltserlaubnis ist an das darin konkret benannte Studium gebunden. Ein
+Studiengangwechsel oder ein Studienabbruch kann zum Verlust des Aufenthalts-
+rechts führen. Wer mit Erlaubnis der Hochschule den Studiengang wechselt, muss
+gleich (nicht erst zum eingetragenen Gültigkeitsende der bisherigen Aufenthaltser-
+laubnis) bei der Ausländerbehörde (Hamburg Service vor Ort) einen geänderten
+Aufenthaltstitel beantragen (siehe dazu Nr. 2.2.10). Nach erfolgreichem Abschluss
+des Studiums besteht für bis zu 18 Monate die Möglichkeit, sich eine dem Abschluss
+angemessene Arbeitsstelle in Deutschland zu suchen und für diese Zeit eine neue
+Aufenthaltserlaubnis zu bekommen.
+2.2.1 Welche sonstigen Aufenthaltstitel können in eine Aufenthaltserlaubnis
+zum Studium umgewandelt werden
+Eine Aufenthaltserlaubnis für einen Au-pair-Aufenthalt in Deutschland (aber nicht
+in einem anderen EU-Land) kann in eine Aufenthaltserlaubnis zu Studienzwecken
+umgewandelt werden – man muss jedoch rechtzeitig vor Ablauf der bestehenden
+Aufenthaltserlaubnis bei der Ausländerbehörde nachfragen.
+Eine Aufenthaltserlaubnis für einen Freiwilligendienst kann in eine Aufenthaltser-
+laubnis zu Studienzwecken umgewandelt werden – man muss jedoch rechtzeitig vor
+Ablauf der bestehenden Aufenthaltserlaubnis bei der Ausländerbehörde nachfra-
+gen.
+Eine Aufenthaltserlaubnis, die Sie erhalten haben, weil Sie in einem Asylverfahren
+vom Bundesamt für Migration und Flüchtlinge (BAMF) als schutzberechtigt aner-
+kannt wurden, braucht nicht umgewandelt zu werden, denn eine solche Aufent-
+haltserlaubnis nach § 25 Absätze 1 bis 3 Aufenthaltsgesetz (AufenthG) berechtigt
+Sie ohne Weiteres zum Studium.
+ACHTUNG: Ein Touristenvisum kann NICHT in eine Aufenthaltserlaubnis zu Stu-
+dienzwecken umgewandelt werden. Auch nicht in eine Aufenthaltserlaubnis zur
+Studienbewerbung oder Studienvorbereitung. Man muss also erst in seinem Hei-
+matland bei der deutschen Auslandsvertretung ein Visum für Studienzwecke o-
+der ein Studienbewerbervisum (zu empfehlen!) beantragen.
+2.2.2 Sprachkurs, Studienkolleg und sonstige studienvorbereitende Maßnahmen
+Für den Fall, dass Sie noch nicht über ausreichende Deutschkenntnisse oder über
+eine Berechtigung zum Studium an einer deutschen Hochschule verfügen, können
+Sie entsprechende studienvorbereitende Maßnahmen in Hamburg absolvieren. Da-
+für haben Sie insgesamt, inklusive der Wartezeit, zwei Jahre Zeit.
+Wenn Sie an studienvorbereitenden Maßnahmen teilnehmen, müssen Sie sich recht-
+zeitig für einen Studienplatz für das anschließende Studium bewerben. Wenn zwi-
+schen dem Abschluss Ihrer studienvorbereitenden Maßnahme und dem Studienbe-
+ginn mehr als sechs Monate liegen, informieren Sie bitte die zuständige Ausländer-
+behörde.
+5
+2.2.2.1 Sprachkurse
+Es muss sich um einen Intensivsprachkurs handeln, der mit einem der folgenden
+Sprachzertifikate abschließt:
+
+Deutsche Sprachprüfung für den Hochschulzugang ausländischer Studien-
+bewerber (DSH)
+
+Test Deutsch als Fremdsprache (TestDaF) http://www.testdaf.de/
+
+Goethe-Zertifikat C2: Großes Deutsches Sprachdiplom
+Spezielle Informationen über erforderliche Sprachkenntnisse und Sprachnachweise
+finden Sie unter www.sprachnachweis.de sowie auf den Websites der hamburgi-
+schen Hochschulen (siehe unter Nr. 10.5).
+2.2.2.2 Studienkolleg
+Studienbewerber, deren ausländische Bildungsnachweise keinen direkten Hoch-
+schulzugang erlauben, müssen in einer Prüfung nachweisen, dass sie die sprachli-
+chen, fachlichen und methodischen Voraussetzungen für ein Studium an einer deut-
+schen Hochschule haben. Diese Prüfung heißt Feststellungsprüfung und kann in
+Hamburg am Studienkolleg der Universität Hamburg abgelegt werden. Nach der
+Feststellungsprüfung können Sie sich in Hamburg oder an anderen Orten um einen
+Studienplatz bewerben.
+Informationen über die ausländischen Bildungsnachweise, die den Besuch des Stu-
+dienkollegs erforderlich machen oder schon den direkten Hochschulzugang erlau-
+ben, finden Sie in der Internetdatenbank anabin6 unter „Schulabschlüsse mit Hoch-
+schulzugang“ → „Suchen“.
+Die Vorbereitung auf die Feststellungsprüfung erfolgt in der Regel in den Fachkur-
+sen des Studienkollegs, die ein Jahr dauern. Nähere Informationen finden Sie unter
+http://www.studienkolleg-hamburg.de. Zu den Möglichkeiten, während der Teil-
+nahme am Studienkolleg nebenher zu arbeiten siehe Nr. 3.2).
+2.2.3 Können mein/e Ehepartner/in und meine Kinder mit einreisen oder später
+nachziehen
+Ja, wenn ausreichender Wohnraum7 zur Verfügung steht und die Finanzierung des
+Lebensunterhalts einschließlich ausreichenden Krankenversicherungsschutzes ge-
+sichert ist. Wenn Ihr/e Ehepartner/in ebenfalls zu Studienzwecken einreisen will,
+gelten dafür dieselben Bedingungen wie für Ihren Aufenthalt (siehe Nr. 2.2.6). Ist
+dies nicht der Fall, müssen Sie über so viel Einkommen verfügen, dass Ihre Familie
+in Deutschland keinen Anspruch auf Sozialleistungen hat. Wie viel dies im Einzelfall
+ist, erfahren Sie von Ihrer zuständigen Ausländerbehörde bzw. im Visumsverfahren
+von der deutschen Auslandsvertretung.
+6 Informationsportal zur Anerkennung ausländischer Bildungsabschlüsse (http://anabin.kmk.org/anabin.html )
+7 Ausreichender Wohnraum sind 12 qm Wohnfläche für jedes Familienmitglied über sechs Jahren; 10 qm
+Wohnfläche für jedes Familienmitglied unter sechs Jahren, sowie Nebenräume (Küche, Bad).
+6
+2.2.4 Wo und wie beantrage ich die Aufenthaltserlaubnis
+Die erste Beantragung Ihres Aufenthaltstitels (und auch die Erst-Anmeldung Ihres
+Wohnsitzes) können Sie nach Terminvereinbarung beim Hamburg Welcome Center8
+erledigen. Eine weitere Verlängerung Ihrer Aufenthaltserlaubnis kann im Hamburg
+Service vor Ort beantragt werden. Es gibt in jedem der sieben Bezirksämter9 eine
+Stelle, die für Ausländer mit geregeltem Aufenthaltsstatus zuständig ist.
+2.2.5 Welche Unterlagen benötige ich
+
+vollständig ausgefülltes Antragsformular (Download: https://welcome.hamburg.de/content-
+blob/103150/f5307b3e9d78264fd8f27e5f7488eb87/data/amt-m-m31-antrag-ae-eng-fra.pdf kann auf der
+Seite https://welcome.hamburg.de/formulare/ runtergeladen werden
+
+biometrisches Lichtbild (nicht älter als 6 Monate)
+
+aktuelle Meldebestätigung
+
+Mietvertrag oder sonstiger Nachweis der Unterkunft
+
+Aktuelle Studienbescheinigung/Immatrikulationsbescheinigung
+
+Finanzierungsnachweis
+
+Nachweis einer Krankenversicherung
+2.2.6 Finanzierungsnachweis und Krankenversicherung
+Einen Finanzierungsnachweis braucht man, weil nach dem Aufenthaltsrecht voraus-
+gesetzt wird, dass ausländische Studierende ihren Lebensunterhalt selbst finanzie-
+ren können.
+Deshalb dürfen Sie während eines Aufenthalts nach § 16b AufenthG, also während
+Sie eine Aufenthaltserlaubnis nach § 16b AufenthG zum Zweck des Studiums be-
+sitzen, auch grundsätzlich keine staatlichen Unterstützungsleistungen beziehen. Die
+Beantragung von Kinder-, Elterngeld oder Unterhaltsvorschusses ist jedoch unter
+bestimmten Voraussetzungen möglich und für Ihren studentischen Aufenthalt nach
+dem Aufenthaltsrecht unschädlich.
+Sonderfall Wohngeld:
+Mit einer Aufenthaltserlaubnis nach § 16b AufenthG können Sie einen Anspruch
+auf Wohngeld haben. Sie dürfen jedoch nur Wohngeld beziehen, wenn Ihr Lebens-
+unterhalt als Student/in bereits anderweitig gesichert ist und das Wohngeld nur
+ergänzend bezogen wird. Wenn Sie Wohngeld beziehen, ohne dass Ihr Lebensun-
+terhalt ansonsten gesichert ist, dann ist dies für die Ausländerbehörde ein Grund,
+Ihre Aufenthaltserlaubnis zu widerrufen und Sie zur Ausreise aufzufordern.
+Für internationale Studierende mit einer Aufenthaltserlaubnis nach § 16b Auf-
+enthG gilt deshalb: Vor einem eventuellen Wohngeldantrag unbedingt beim
+Studierendenwerk Hamburg (siehe Nr. 10.3) beraten lassen!
+8 siehe Fußnote 5
+9 Die für Ihre Wohnadresse zuständige Ausländerbehörde (Hamburg Service vor Ort) können Sie hier recher-
+chieren: www.hamburg.de/behoerdenfinder
+7
+Zum Nachweis Ihres Lebensunterhalts müssen Sie der Ausländerbehörde darlegen,
+aus welchen Quellen Sie Ihr Studium finanzieren. Als Mindestsumme gilt der
+Höchstförderbeitrag nach dem Bundesgesetz über individuelle Förderung der Aus-
+bildung (BAföG), derzeit 992 Euro/Monat. Diese monatliche Summe müssen Sie für
+den gesamten Zeitraum, für den Sie Ihre Aufenthaltserlaubnis beantragen, nach-
+weisen, also in der Regel für mindestens ein Jahr, was einer Summe von 11.904
+Euro/Jahr entspricht.
+Als Finanzierungsnachweis können dienen:
+
+Eine Verpflichtungserklärung, in der sich jemand gegenüber der Ausländer-
+behörde verbürgt, für alle Kosten aufzukommen, die dem deutschen Staat
+eventuell durch den Aufenthalt eines Ausländers entstehen können. Eine Ver-
+pflichtungserklärung kann von allen Personen abgegeben werden, die sich
+dauerhaft und rechtmäßig in Deutschland oder in der EU aufhalten. Der/Die
+Bürgende muss dabei seine/ihre Einkünfte nachweisen. Er/Sie darf nicht von
+der Sozialhilfe leben und muss so viel Geld verdienen, dass er/sie seinen/ih-
+ren eigenen Lebensunterhalt bzw. seine/ihre Familie und die/den ausländi-
+sche/n Student/in finanzieren kann. Eine Verpflichtungserklärung, die für das
+Einreisevisum abgegeben wurde, gilt für fünf Jahre. Anschließend kann eine
+weitere Verpflichtungserklärung abgegeben werden. Ein weiterer Finanzie-
+rungsnachweis ist neben einer Verpflichtungserklärung nicht erforderlich.
+
+Ein Stipendium aus deutschen öffentlichen Mitteln oder einer in Deutschland
+anerkannten Förderorganisation oder öffentlichen Mitteln des Herkunftslan-
+des, wenn der DAAD10 oder eine sonstige deutsche stipendiengebende Or-
+ganisation die Vermittlung übernommen hat.
+
+Ein Nachweis über die Einkommensverhältnisse der Eltern. Unter Umständen
+muss man nachweisen können, wie man das Geld erhält (z.B. Kontoauszüge
+mit entsprechenden Überweisungen).
+
+Ein eigener Kontoauszug, aus dem deutlich wird, dass man genug Geld hat,
+um sich für die Zeit der beantragten Aufenthaltserlaubnis zu finanzieren. Ein
+reguläres Girokonto ist hierfür ausreichend. Ein Sperrkonto nicht zwingend
+erforderlich, außer Sie reisen erst mit einem Visum zwecks Studium nach
+Deutschland ein. Dann muss bei der Botschaft die Einrichtung eines Sperr-
+kontos nachgewiesen werden.
+
+Unter Umständen kann man auch die durch eine arbeitserlaubnisfreie Be-
+schäftigung an 140 Tage bzw. 280 halben Tagen (siehe Nr. 3.2.1) erzielten
+Einkünfte mit als Finanzierungsnachweis nutzen (Arbeitsvertrag vorlegen).
+Die Anerkennung liegt jedoch im Ermessen der jeweiligen Ausländerdienst-
+stelle.
+
+Hinterlegung einer jährlich zu erneuernden Bankbürgschaft.
+
+ein Kreditvertrag mit einer Bank über einen Studentenkredit, aus dem mo-
+natlich eine ausreichende Summe ausgezahlt wird.
+10 https://www.daad.de/de/
+8
+Sie können diese verschiedenen Nachweise auch kombinieren.
+Neben der Finanzierung Ihres Lebensunterhaltes müssen Sie bei der zuständigen
+Ausländerbehörde auch einen ausreichenden privaten oder gesetzlichen Kranken-
+versicherungsschutz nachweisen.
+Wenn Sie in der gesetzlichen Krankenversicherung versichert sind und noch nicht
+Ihren 30 Lebensjahr erreicht haben, wird als Nachweis für einen ausreichenden
+Krankenversicherungsschutz normalerweise sogar Ihre Immatrikulationsbescheini-
+gung akzeptiert. Wenn Sie älter als 30 Jahre alt sind, reichen Sie als Nachweis Ihre
+Versichertenkarte oder die Mitgliedsbescheinigung Ihrer Krankenkasse ein.
+Wenn Sie jedoch nicht Mitglied der gesetzlichen Krankenversicherung sind, müssen
+Sie Ihren Krankenversicherungsschutz über eine private Krankenversicherung
+nachweisen. In diesem Fall benötigen Sie eine Bestätigung von Ihrer Krankenversi-
+cherung, um nachzuweisen, dass Sie ausreichend versichert sind. Für einen Aufent-
+halt über 12 Monaten lassen Sie die sogenannte Anlage 1 (https://welcome.ham-
+burg.de/contentblob/8138070/81d903aac32bbc6ee9673c091aa5c003/data/kv-an-
+lage-1-deutsch.pdf) von Ihrem Versicherer ausfüllen. Für einen Aufenthalt unter
+zwölf Monaten gibt es teilweise Erleichterungen. Hier kann die Anlage 2 (https://wel-
+come.hamburg.de/contentblob/8138072/fa2549043a771244b66bb22dd10af760/data/kv-
+anlage-2-deutsch.pdf) eingereicht werden, in der die Befristung der Krankenversiche-
+rung für die Dauer des geplanten Aufenthaltes auch ohne Pflegeversicherung ak-
+zeptiert wird. Auch der Nachweis des Selbstbehaltes ist nicht notwendig. Es werden
+auch Bescheinigungen der Versicherer akzeptiert, wenn sie die gleichen Inhalte wie-
+dergeben. Sie müssen den Nachweis zusammen mit Ihrem Antrag auf Erteilung ei-
+ner Aufenthaltserlaubnis einreichen.
+Es gibt auch einige Ausnahmen, wie z.B. bei den DAAD-Stipendiaten oder bei den
+Austauschstudierenden. Aus diesem Grund wird es empfohlen, eine genauere Aus-
+kunft bei Ihren zuständigen Ausländerbehörde zu holen.
+Nähere Informationen zum Krankenversicherungsschutz in Deutschland können Sie
+auch aus dem Merkblatt zum erforderlichen Krankenversicherungsschutz für die
+Erteilung von Aufenthaltstiteln im Inland (https://welcome.hamburg.de/content-
+blob/17233122/c987410a6f2d85efdd62e238305eac16/data/merkblatt-der-bis-
+zum-nachweis-kv.pdf) erhalten.
+2.2.7 Elektronischer Aufenthaltstitel und Kosten
+Seit September 2011 werden Aufenthaltserlaubnisse als elektronische Aufent-
+haltstitel im Kreditkartenformat ausgestellt. Der elektronische Aufenthaltstitel, gilt
+nur in Ausnahmefällen als Identitätsnachweis, nämlich wenn er von der Ausländer-
+behörde als „Ausweisersatz“ bezeichnet wurde. Ist dies nicht der Fall, benötigen Sie
+also zusätzlich Ihren Reisepass, wenn Sie irgendwo offiziell Ihre Identität nachwei-
+sen müssen. Für den Alltag reicht es aber aus, wenn Sie ihren elektronischen Auf-
+enthaltstitel bei sich haben, auf dem auch ihre Adresse eingetragen wird.
+Für den elektronischen Aufenthaltstitel gilt Folgendes:
+9
+
+Die bisherigen Aufenthaltstitel behalten ihre Gültigkeit. Ein elektronischer
+Aufenthaltstitel muss erst dann beantragt werden, wenn ein befristeter Auf-
+enthaltstitel abläuft oder wenn ein neuer Heimatpass vorliegt.
+
+Die persönliche Vorsprache bei der Ausländerbehörde ist zur Beantragung
+bzw. Verlängerung des Aufenthaltstitels erforderlich, damit alle notwendigen
+Daten inklusive der Fingerabdrücke erhoben werden können. Kinder ab sechs
+Jahren müssen auch Fingerabdrücke abgeben. Wie bisher müssen auch wei-
+terhin die üblichen/notwendigen Unterlagen zur Verlängerung der Geltungs-
+dauer des Aufenthaltstitels mitgebracht werden
+
+Ein aktuelles biometrisches Passbild ist vorzulegen.
+
+Die Daten werden von der Ausländerbehörde an die Bundesdruckerei über-
+mittelt, wo der elektronische Aufenthaltstitel hergestellt und dann an die zu-
+ständige Ausländerbehörde versandt wird. (Dauer voraussichtlich ca. vier bis
+sechs Wochen, in denen von persönlichen oder telefonischen Nachfragen ab-
+gesehen werden sollte).
+
+Anschließend muss der elektronische Aufenthaltstitel in der Ausländerbe-
+hörde abgeholt werden.
+Aufgrund des Verfahrens ist eine Vorsprache ca. acht bis zehn Wochen vor Ablauf
+des bisherigen Aufenthaltstitels erforderlich.
+Die Gebühr für die Erteilung einer Aufenthaltserlaubnis in der Form des elektroni-
+schen Aufenthaltstitels beträgt 100 Euro. Die Gebühr für die Verlängerung einer
+Aufenthaltserlaubnis um mehr als drei Monate beträgt 93 Euro bzw. 98 Euro, wenn
+damit zugleich ein Wechsel des Aufenthaltszwecks verbunden ist.
+Für türkische Studierende, die Rechte nach dem Beschluss Nr. 1/80 des Assoziati-
+onsrates vom 19. September 1980 über die Assoziation (ARB 1/80) erworben ha-
+ben, gelten ermäßigte Gebühren.
+2.2.8 Reisen ins Ausland
+Mit einem deutschen Aufenthaltstitel profitieren Sie von der Reisefreiheit innerhalb
+des Schengen-Raumes und können deshalb ohne Grenzkontrollen in die Schengen-
+Staaten11 einreisen und sich dort bis zu drei Monate in einem Zeitraum von sechs
+Monaten aufhalten. Sie müssen dazu Ihren Pass, Ihren Aufenthaltstitel und ausrei-
+chende Existenzmittel dabeihaben.
+Für Reisen in Nicht-Schengen-Staaten benötigen Sie regelmäßig - je nach den dort
+jeweils für Ihr Heimatland geltenden Bestimmungen - ein Visum, das Sie bei der
+Botschaft Ihres Ziellandes hier in Deutschland beantragen müssen. Dies gilt insbe-
+sondere auch für Großbritannien und Irland. Bei den Botschaften erhalten Sie auch
+11Schengen-Staaten sind: Belgien, Dänemark, Deutschland, Estland, Finnland, Frankreich, Griechenland, Island,
+Italien, Lettland, Liechtenstein, Litauen, Luxemburg, Malta, Niederlande, Norwegen, Österreich, Polen, Por-
+tugal, Schweden, Schweiz, Slowakei, Slowenien, Spanien, Tschechien und Ungarn
+Siehe unter www.auswaertiges-amt.de/DE/Infoservice/FAQ/VisumFuerD/17-Schengenstaa-
+ten.html?nn=350374
+10
+Informationen darüber, ob Sie visapflichtig sind und welche Voraussetzungen je-
+weils gelten.
+Außerdem ist folgendes zu beachten: Aufenthalte außerhalb Deutschlands, die
+länger als sechs Monate andauern, führen grundsätzlich automatisch zum Erlö-
+schen der Aufenthaltserlaubnis, sofern man nicht vorher mit der Ausländerbe-
+hörde ausdrücklich und schriftlich eine längere Frist vereinbart hat. Eine Aus-
+nahme gilt lediglich für Auslandsaufenthalte, in denen Sie von der in der REST-
+Richtlinie12 vorgesehenen Möglichkeit Gebrauch machen, einen Teil Ihres Studi-
+ums in einem anderen an dieser Richtlinie teilnehmenden Mitgliedstaat13 der Eu-
+ropäischen Union durchzuführen.
+2.2.9 Urlaubssemester
+Während Ihres Studiums dürfen Sie sich nach den Vorschriften des Hochschul-
+rechts aus wichtigem Grund vorübergehend beurlauben lassen. Urlaubssemester
+können z.B. aus folgenden Gründen beantragt werden (beachten Sie die Immatriku-
+lationsordnung Ihrer Hochschule):
+
+bei einer längerfristigen Erkrankung,
+
+bei Studienaufenthalt an einer in- oder ausländischen Hochschule,
+
+im Zusammenhang mit Schwangerschaft/Mutterschutz/Elternzeit,
+
+zur Ableistung eines freiwilligen Praxissemesters, wobei die arbeitserlaub-
+nisrechtlichen Einschränkungen zu beachten sind (siehe unten Nr. 3.2.1),
+
+wesentliche zeitliche Belastung wegen Mitwirkung in Gremien der studenti-
+schen Selbstverwaltung.
+Sofern Sie mit Genehmigung Ihrer Hochschule nicht mehr als ein einziges Semester
+im Verlauf Ihres Studiums beurlaubt werden, gilt Ihre Aufenthaltserlaubnis für das
+Studium weiter; hierfür brauchen Sie nicht bei der Ausländerbehörde vorzuspre-
+chen. Wer nach dem Bachelor-Studium ein Master-Studium anschließt, kann ein Se-
+mester im Bachelor- und auch ein Semester im Master-Studium beurlaubt werden
+ohne Auswirkung auf den Aufenthaltstitel. Die Aufenthaltserlaubnisse können auch
+während des Urlaubssemesters verlängert werden. Sie behalten alle bisherigen
+Rechte (140-Tage-Regelung). Wenn Sie aber mehr als ein Urlaubssemester nutzen
+wollen, dann müssen Sie bei Ihrer zuständigen Ausländerbehörde vorsprechen und
+dies begründen. Wenn die Genehmigung der Hochschule bereits vorliegt, legen Sie
+diese der Ausländerbehörde vor.
+Da eine Beurlaubung sich auf den sozialversicherungsrechtlichen Status, die Finan-
+zierung sowie die Kinderbetreuung auswirken kann, wird angeraten, sich vor der
+Antragstellung beim Studierendenwerk Hamburg (siehe Nr. 10.3) beraten zu lassen.
+12Richtlinie (EU) 2016/801 des Europäischen Parlaments und des Rates vom 11. Mai 2016 über die Bedingun-
+gen für die Einreise und den Aufenthalt von Drittstaatsangehörigen zu Forschungs- oder Studienzwecken,
+zur Absolvierung eines Praktikums, zur Teilnahme an einem Freiwilligendienst, Schüleraustauschprogram-
+men oder Bildungsvorhaben und zur Ausübung einer Au-pair-Tätigkeit (REST-Richtlinie für Research and
+Students), siehe http://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32016L0801.
+13Die Mitgliedstaaten Dänemark und Irland nehmen nicht an der REST-Richtlinie teil.
+11
+2.2.10 Wechsel des Studienfachs oder der Hochschule
+In den ersten drei Semestern ist der Wechsel des Studienfachs unproblematisch,
+sowohl innerhalb des BA-Studiums als auch nochmal während der ersten drei Se-
+mester des MA-Studiums. Hierfür brauchen Sie nicht bei der Ausländerbehörde vor-
+zusprechen. Als Wechsel des Studienfachs gilt jeglicher Wechsel: 1. Hauptfach oder
+2. Hauptfach bei Bachelor, Master, Magister, Diplom oder Staatsexamen.
+Ab dem 4. Fachsemester wird jeder Fall von der Ausländerbehörde individuell ent-
+schieden und grundsätzlich nur dann zugelassen, wenn sich die Gesamtstudien-
+dauer nicht auf mehr als zehn Jahre verlängert. Dies muss durch eine Stellungnahme
+der Hochschule bestätigt werden. Bitte erkundigen Sie sich beim International
+Office Ihrer Hochschule, wer Ihnen eine solche Stellungnahme ausstellt (z.B. Ihre
+Professoren, Prüfungsamt, Studienbüro, International Office, etc.).
+Auch der Wechsel zu einer anderen Hochschule, um dort dasselbe Fach weiter zu
+studieren, ist ein Zweckwechsel im Sinne des Aufenthaltsrechts, den sie mit der
+zuständigen Ausländerbehörde abstimmen müssen.
+Auch Auslandssemester an einer ausländischen Hochschule sind möglich (siehe Nr.
+5).
+2.2.11 Weiteres Studium in Deutschland
+Nach einem Studienabschluss dürfen Sie ein weiterführendes Studium anschließen,
+ein Masterstudium oder eine Promotion. Sie dürfen aber nicht zwei Bachelorstudi-
+engänge nacheinander studieren.
+2.2.12 Gesamtstudiendauer
+Der Aufenthalt zum Studium darf einschließlich der Studienvorbereitung höchs-
+tens 10 Jahre, mit Promotion bis zu 15 Jahren dauern.
+Sollten Sie
+
+im Bachelorstudium länger als 11 Semester,
+
+im Masterstudium länger als 6 Semester oder
+
+in den übrigen Studiengängen länger als 3 Semester über die von der Hoch-
+schule vorgesehenen Studiendauer
+hinausstudieren, ohne den Abschluss erreicht zu haben und Ihre Aufenthaltser-
+laubnis wieder verlängern lassen wollen, muss die Hochschule in einer Stellung-
+nahme für die Ausländerbehörde bestätigen werden, dass Sie Ihr Studium inner-
+halb der 10-Jahresfrist erfolgreich beenden werden.
+2.2.13 Studienabbruch
+Wenn Sie doch Ihr Studium abbrechen sollten oder nicht innerhalb der 10 Jahren
+abschließen können, müssen Sie nicht unbedingt sofort Deutschland verlassen.
+12
+Mit der Änderung des Gesetzes zum 01.03.2024 können Sie eine Aufenthaltser-
+laubnis zu einem anderen Zweck (außer zum Zweck einer vorübergehenden Be-
+schäftigung) erhalten, wenn Sie alle erforderlichen Voraussetzungen erfüllen. Sie
+können zum Beispiel eine Ausbildung anfangen oder eine qualifizierte Beschäfti-
+gung aufnehmen und dafür eine Aufenthaltserlaubnis bekommen. Um einen Titel
+zwecks Beschäftigung erhalten zu können, müssen Sie unter anderem über eine
+ausländische Ausbildung oder einen ausländischen Hochschulabschluss verfügen.
+Die Abschlüsse müssen in Deutschland anerkannt sein. Um dies rauszufinden hilft
+Ihnen die Internetseite Anerkennung von ausländischen Hochschulabschlüssen
+(https://welcome.hamburg.de/anerkennung/17322816/anerkennung-von-ausla-
+endischen-hochschulabschluessen/).
+Falls Sie feststellen, dass Ihr ausländischer Abschluss im Bundesgebiet noch nicht
+anerkannt ist, ist in diesem Fall eine Anerkennung notwendig. Wie Sie Ihr Ab-
+schluss in Deutschland anerkennen können, erfahren Sie auf der Seite Anerken-
+nung in Deutschland (https://www.anerkennung-in-deutschland.de/html/de/aner-
+kennung-bekommen.php?mtm_campaign=grundrauschen-de&mtm_kwd=Aner-
+kennung-Berufsaus%C3%BCbung&mtm_source=google&mtm_medium=paid-se-
+arch&mtm_group=deutsch&gad_source=1).
+Sie können eventuell auch eine Chancenkarte nach § 20a AufenthG zur Arbeits-
+platzsuche erhalten, wenn Sie die erforderlichen Voraussetzungen erfüllen. Auf
+der Seite Make it in Germany (https://www.make-it-in-germany.com/de/) können
+Sie eine unverbindliche Einschätzung erhalten, ob Sie für eine Chancenkarte in
+Frage kommen.
+Auf jeden Fall empfiehlt es sich, sich ausländerrechtlich beraten zu lassen, bevor
+Sie das Studium abbrechen.
+13
+3 Jobben während des Studiums
+Grundsätzlich gilt für alle Studierenden in Deutschland, dass sie während der Vor-
+lesungszeit nicht mehr als 20 Stunden die Woche arbeiten dürfen, um sozialversi-
+cherungsrechtlich als Student/-in zu gelten.
+Wer während der Vorlesungszeit mehr als 20 Stunden pro Woche arbeitet, gilt so-
+zialversicherungsrechtlich als Arbeitnehmer/-in und muss dann gehaltsabhängige
+Beiträge zur Kranken-, Renten- und Arbeitslosenversicherung leisten. Ein sozialver-
+sicherungsrechtlicher Status als Arbeitnehmer/in kann allerdings zum Verlust Ihrer
+studentischen Aufenthaltserlaubnis führen, wenn durch die viele Arbeit Ihr Studien-
+erfolg beeinträchtigt wird. Da beim Jobben und insbesondere bei der Kombination
+verschiedener Jobs mehrere Aspekte zu berücksichtigen sind, ist es ratsam, sich vor
+einer Jobaufnahme beim Studierendenwerk Hamburg (siehe unten Nr. 10.3) zu den
+Einzelheiten beraten zu lassen.
+3.1 Studierende aus EU-Staaten
+Studierende aus den EU-Staaten und ihre Familienangehörigen genießen Arbeitneh-
+merfreizügigkeit und Niederlassungsfreiheit und dürfen uneingeschränkt selbst-
+ständig und unselbstständig arbeiten.
+3.2 Studierende aus Nicht-EU-Staaten
+Internationale Studierende (und genauso Teilnehmer/-innen des Studienkollegs)
+aus Nicht-EU-Ländern dürfen jobben, müssen sich dabei aber an eine Reihe von Re-
+geln halten.
+Sie dürfen bereits ab dem ersten Jahr Ihrer studienvorbereitenden Maßnahmen
+(Sprachkurs, Studienkolleg, Propädeutikum etc.) nebenher arbeiten. Es gilt das
+nachfolgend für Studierende ausgeführte:
+„Beschäftigung bis 140 Tage gem. § 16b (3) AufenthG und studentische Nebentätigkei-
+ten erlaubt.“
+3.2.1 140-Tage-Regelung
+Internationale Studierende aus Nicht-EU-Staaten dürfen 140 Tage oder 280 halbe
+Tage im Jahr arbeiten, ohne dass es einer Zustimmung durch die Agentur für Arbeit
+bedarf.
+Die 140 vollen Tage entsprechen Ihrem Arbeitstagekonto. Für die Berechnung ist
+das laufende Kalenderjahr maßgebend.
+Ihr Arbeitstagekonto kann auch mit halben Tagen gefüllt werden. Sie können für
+jede Kalenderwoche selbst bestimmen, in welcher Form eine Anrechnung auf Ihr
+Arbeitstagekonto erfolgen soll. Folgende Möglichkeiten stehen zur Verfügung:
+14
+1. Arbeitszeiten mit bis zu vier Stunden am Tag gelten als halber Arbeitstag, wenn
+die übliche tägliche Arbeitszeit acht Stunden beträgt (die Höchstdauer für einen
+halben Tag ist fünf Stunden bei einer täglichen Arbeitszeit von zehn Stunden) oder
+2. während der Vorlesungszeit können Sie eine Tätigkeit bis zu 20 Stunden die Wo-
+che ausüben. Diese wird dann als zweieinhalb Tage auf Ihr Arbeitstagekonto ange-
+rechnet. Die Arbeitsstunden können Sie innerhalb der Woche flexibel verteilen oder
+3. außerhalb der Vorlesungszeit können Sie ohne Einschränkung arbeiten. Diese Ar-
+beitsstunden werden dann als zweieinhalb Tage auf Ihr Arbeitstagekonto angerech-
+net.
+Nachtschichten von maximal acht Stunden gelten als ein Beschäftigungstag. Damit
+sind auch feste Studentenjobs möglich – z.B. an drei Arbeitstagen in der Woche
+über 40 Wochen im Jahr. Es werden nur die Tage angerechnet, an denen Sie auch
+tatsächlich arbeiten. Bezahlte oder unbezahlte Urlaubs- und Krankheitstage werden
+demzufolge nicht auf die 140 Tage bzw. 280 halben Tage angerechnet. Maßgeblich
+für die Berechnung der Jahresfrist ist das Kalenderjahr. Dies gilt unabhängig davon,
+wann Sie einreisen oder wann Sie Ihr Studium beenden. Wenn Sie also z.B. im Ok-
+tober bereits 140 Tage gearbeitet haben und dann Ihre Aufenthaltserlaubnis ver-
+längern, erhalten Sie damit keine neuen 140 Tage, sondern dürfen erst ab Januar
+des nächsten Jahres wieder arbeiten.
+Die Höhe Ihres Gehalts spielt dabei keine Rolle. Egal ob Sie 400 oder 1.000 Euro
+verdienen, Sie müssen ausschließlich darauf achten, dass Sie die zeitliche Begren-
+zung nicht überschreiten, da es in Ihrer Eigenverantwortung und in der Verantwor-
+tung Ihres Arbeitgebers liegt.
+3.2.2 Beschäftigung im Dualen Studium
+Wenn Sie ein Duales Studium absolvieren und in Ihrem Vertrag zur Durchführung
+des praktischen Teils steht, dass es sich um ein Praktikum handelt, das ein unab-
+dingbarer Bestandteil dieses Studiums ist, wird diese Beschäftigung nicht auf die
+140 Tage erlaubter Beschäftigung angerechnet. Pflichtpraktika, die in der Studien-
+bzw. Prüfungsordnung eines Studiengangs als verpflichtender Bestandteil des Stu-
+diums vorgeschrieben sind, sind Ihnen immer erlaubt. (Zum Thema Pflichtpraktika
+siehe Nr. 2.2.2)
+3.2.3 Studentische Nebentätigkeiten
+Neben den Jobs, die unter die 140-Tage-Regelung fallen, dürfen Studierende mit
+einer Aufenthaltserlaubnis zu Studienzwecken zusätzlich studentische Nebentätig-
+keiten an Hochschulen und anderen wissenschaftlichen Einrichtungen ausüben.
+Diese sind laut Aufenthaltsgesetz ohne zeitliche Begrenzung möglich. Die oben ge-
+nannten sozialversicherungsrechtlichen Regelungen (20 Std. während der Vorle-
+sungszeit) sind in diesem Zusammenhang aber ebenfalls zu berücksichtigen!
+15
+Auch Lehraufträge an hamburgischen Hochschulen oder die Beschäftigung als wis-
+senschaftliche/r Mitarbeiter/in im Rahmen der Promotion gelten als studentische
+Nebentätigkeiten, für die es keine zeitliche Begrenzung gibt.
+Unter die studentischen Nebentätigkeiten fallen außerdem auch solche Tätigkeiten,
+die nicht an Hochschulen oder wissenschaftlichen Einrichtungen erfolgen, aber im
+fachlichen Umfeld des Studiums dem Ausbildungszweck dienen; z.B.: Tätigkeiten in
+hochschulnahen Organisationen wie dem Studierendenwerk Hamburg (siehe Nr.
+10.4), bei den Hochschulgemeinden, dem Allgemeinen Studierendenausschuss
+(AStA) und dem World University Service. Fragen Sie bei Ihrer zuständigen Auslän-
+derbehörde nach, wenn Sie nicht sicher sind, ob es sich um eine solche studentische
+Nebentätigkeit handelt.
+3.2.4 Ehrenamtliche Tätigkeit
+Ein Ehrenamt ist eine Tätigkeit ohne oder mit nur sehr geringer Bezahlung (Auf-
+wandsentschädigung), etwa für gemeinnützige Organisationen oder Vereine. Die
+ehrenamtliche Tätigkeit zählt nicht zu den Ihnen erlaubten 140 Arbeitstagen, so-
+fern diese unentgeltlich oder lediglich gegen eine Entschädigung von bis zu max.
+840,00 Euro im Jahr ausgeübt wird. Falls Sie sich nicht sicher sind, ob diese Vo-
+raussetzungen erfüllt sind, oder ob es sich bei Ihrer Beschäftigung doch um eine
+steuerpflichtige Beschäftigung handelt, erkundigen Sie sich bitte bei Ihrer zustän-
+digen Ausländerbehörde.
+Auch, wenn das Ehrenamt eine gute Sache ist, sollte man aufpassen, dass das Stu-
+dium nicht darunter leidet. Sie müssen selbst einschätzen, wie viel Zeit Sie in ein
+Ehrenamt investieren können, damit Sie Ihr Studium trotzdem im gesetzlich vorge-
+schriebenen Rahmen (siehe Nr. 2.2.12) abschließen können.
+3.2.5 Besonderheiten für Studierende aus der Türkei
+Sofern Sie regelmäßig neben Ihrem Studium einer Beschäftigung nachgehen, sei es
+im Rahmen der 140-Tage-Regelung oder als studentische Nebentätigkeit, können
+Sie bestimmte Rechte erwerben, die Ihnen während und nach dem Studium den Zu-
+gang zum Arbeitsmarkt und den weiteren Aufenthalt in Deutschland erleichtern
+können. Dies ergibt sich aus dem Urteil des Europäischen Gerichtshofs in der Sache
+Payir14.
+Danach ergeben sich diese Arbeitnehmerrechte für türkische Studierende aus Arti-
+kel 6 des Beschlusses Nr. 1/80 des Assoziationsrates EWG-Türkei über die Ent-
+wicklung der Assoziation (ARB 1/80). Ihre Rechte als Arbeitnehmer/in verfestigen
+sich ab einem Jahr regelmäßiger Beschäftigung im Rahmen der 140-Tage-Regelung
+oder als studentische Nebentätigkeit und nach vier Jahren kann der freie Zugang
+zum Arbeitsmarkt erlangt werden. Über die Einzelheiten berät Sie Ihre zuständige
+Ausländerabteilung.
+14EuGH, Urt. v. 24.01.2008 - Rs. C-294/06 (http://curia.europa.eu/juris/liste.jsf?langu-
+age=de&jur=C,T,F&num=C-294/06&td=ALL)
+16
+3.2.6 Überschreiten der 140-Tage-Regelung
+Wenn Sie mehr als 140 Tage im Jahr arbeiten wollen, brauchen Sie dafür eine be-
+sondere Genehmigung. Studierende aus Nicht-EU-Staaten müssen diese Erlaubnis
+bei der Ausländerbehörde beantragen, die hierfür die Zustimmung der Agentur für
+Arbeit einholen muss.
+Ob eine Arbeitserlaubnis für darüberhinausgehende Beschäftigung erteilt wird,
+hängt von der Lage auf dem Arbeitsmarkt ab. Richtlinie der Agentur für Arbeit ist,
+vorrangig allen Personen mit freiem Zugang zum Arbeitsmarkt, die für die ange-
+strebte Beschäftigung in Frage kommen, einen Arbeitsplatz zu vermitteln. Die
+Dauer dieser „Vorrangprüfung“ ist sehr unterschiedlich.
+Achtung: Wer mehr als 140 Tage („Off Campus“) im Jahr arbeitet und keine Ge-
+nehmigung durch die Ausländerbehörde besitzt, handelt ordnungswidrig und
+kann mit einem Bußgeld von bis zu 5.000 Euro belegt werden. Die Ausländerbe-
+hörde wird außerdem prüfen, ob ein Widerruf der bisherigen Aufenthaltserlaub-
+nis nach § 52 Abs. 3 AufenthG und damit die Beendigung Ihres Aufenthaltsrechts
+in Deutschland in Frage kommt.
+Ob die 140 Tage bereits verbraucht sind, müssen Arbeitnehmer/in und Arbeitge-
+ber/in kontrollieren.
+3.2.7 Selbstständig arbeiten
+Studierende aus Nicht-EU-Staaten benötigen für selbstständige Tätigkeiten eine
+Erlaubnis von der Ausländerbehörde! Weitere Bezeichnungen für selbstständige
+Tätigkeiten sind z.B. „Tätigkeit auf Honorarbasis“ oder „freiberufliche Tätigkeit“.
+Wenn Sie ein Jobangebot erhalten, für das Sie eine Rechnung mit Steuernummer
+oder einen Gewerbeschein abgeben sollen (bei dem ihr Arbeitgeber also keine So-
+zialabgaben für Sie leistet), dann handelt es sich um eine selbstständige Tätigkeit,
+die nur EU-Bürgern ohne weiteres erlaubt ist. Studierende aus Nicht-EU-Staaten
+benötigen dafür eine gesonderte Erlaubnis der Ausländerbehörde.
+Studierende aus Nicht-EU-Staaten, die selbstständig tätig sein möchten (z.B. Un-
+terrichten, Übersetzen, Dolmetschen etc.), können bei der Ausländerbehörde eine
+Erlaubnis hierfür beantragen. Eine selbstständige Erwerbstätigkeit kann während
+des Studiums erlaubt werden, allerdings nur, wenn dadurch der Abschluss des Stu-
+diums nicht gefährdet wird (z.B. wenn man als Honorarkraft im Grunde ähnlich wie
+ein/e Beschäftigte/r arbeitet). Die Erlaubnis zu einer über die 140-Tage-Regelung
+hinausgehenden selbstständigen Tätigkeit wird in der Regel nur dann erteilt, wenn
+es sich um Tätigkeiten in geringem zeitlichem Umfang handelt.
+Auch wenn Sie ohne Erlaubnis selbstständig tätig sind, handeln Sie ordnungswid-
+rig und können mit einem Bußgeld bis zu 5.000 Euro belegt werden und riskieren
+möglicherweise Ihr Aufenthaltsrecht in Deutschland.
+17
+3.2.8 Familienangehörige
+Ihre Familienangehörigen dürfen uneingeschränkt erwerbstätig sein (also selbst-
+ständig und unselbstständig als Arbeitnehmer/in), wenn sie selbst Freizügigkeit ge-
+nießen oder wenn sie einen Aufenthaltstitel zum Zweck des Familiennachzugs nach
+den §§ 27 bis 36 AufenthG besitzen.
+18
+4 Praktika während des Studiums
+4.1 Studierende aus EU-Staaten
+Studierende aus den EU-Staaten genießen Arbeitnehmerfreizügigkeit und dürfen
+uneingeschränkt Praktika machen.
+4.2 Studierende aus Nicht-EU-Staaten
+Studierende aus Nicht-EU-Staaten müssen folgendes beachten:
+4.2.1 Praktikum im Ausland
+Ein Praktikum im Ausland ist möglich. Bitte prüfen Sie, ob Sie dafür ein Visum be-
+nötigen (siehe Nr. 0). Wenn Sie für Ihr Praktikum länger als sechs Monate ausreisen
+wollen, müssen Sie vorher mit dem Praktikumsvertrag bei der jeweils zuständigen
+Ausländerabteilung vorsprechen und eine entsprechend längere Frist für eine vo-
+rübergehende Ausreise vereinbaren. Wenn Sie dies nicht tun, erlischt Ihre Aufent-
+haltserlaubnis nach sechs Monaten.
+4.2.2 Pflichtpraktika
+Im Fall von Pflichtpraktika, die in der Studien- bzw. Prüfungsordnung eines Studi-
+engangs als verpflichtender Bestandteil des Studiums vorgeschrieben sind, gibt es
+keine zu beachtenden aufenthaltsrechtlichen Besonderheiten, d.h. ein Pflichtprak-
+tikum ist Ihnen immer erlaubt. Die Beschäftigung für ein Pflichtpraktikum wird auch
+nicht auf die 140 Tage erlaubter Beschäftigung angerechnet.
+4.2.3 Freiwillige Praktika
+Aufenthaltsrechtlich werden Praktika, die nicht in der Prüfungsordnung als ver-
+pflichtender Bestandteil des Studiums vorgeschrieben sind, wie normale Beschäfti-
+gungsverhältnisse bewertet und sind in der Regel nur im Rahmen der 140-Tage-
+Regelung für arbeitserlaubnisfreie Nebentätigkeiten möglich (Ausnahme: prakti-
+sche Examensprojekte und studiennahe Tätigkeiten an Hochschulen/ Forschungs-
+einrichtungen). Ein Praktikum zählt als Beschäftigung, egal ob es ein bezahltes oder
+unbezahltes Praktikum ist.
+Wenn Sie z.B. ein 6-monatiges Praktikum machen möchten oder die 140-Tage be-
+reits fürs Jobben aufgebraucht haben, dann gilt:
+Studierende aus Nicht-EU-Staaten benötigen eine Erlaubnis der Ausländerbehörde,
+die hierfür die Zustimmung der Zentralen Auslands- und Fachvermittlung (ZAV) ein-
+holen muss. Die Ausländerbehörde prüft dabei zunächst, ob durch das Praktikum
+nicht die Höchstdauer von zehn Jahren für ein Studium überschritten wird und die
+ZAV kontrolliert, ob es sich um ein ausbildungsorientiertes Praktikum handelt (bei
+dem Sie etwas für Ihre Studienrichtung dazu lernen) und es nicht nur ein schlecht
+bezahlter Arbeitsplatz ist.
+19
+5 Auslandssemester
+5.1 Studierende aus EU-Staaten
+Als Unionsbürger können Sie im Rahmen Ihres Freizügigkeitsrechts Ihr Studium an
+jeder Hochschule in der EU fortsetzen. Wenn Sie ein Auslandssemester an einer
+Hochschule außerhalb der EU verbringen wollen, müssen Sie sich bei der Botschaft
+des jeweiligen Landes über die Bedingungen für Einreise und Aufenthalt informie-
+ren.
+5.2 Studierende aus Nicht-EU-Staaten
+Ohne weiteres können Sie bis zu drei Monate an einer Gasthochschule in den Schen-
+gen-Staaten15 verbringen, Sie benötigen lediglich Ihren Pass, Ihren Aufenthaltstitel
+und ausreichende Existenzmittel (siehe Nr. 0).
+Bei längeren Aufenthalten können Sie für ein Auslandssemester an einer Hoch-
+schule in einem anderen EU-Mitgliedstaat (mit Ausnahme von Dänemark und Irland)
+von den Mobilitätsregelungen der REST-Richtlinie16 profitieren. Dazu müssen Sie
+eine Aufenthaltserlaubnis für ein Vollzeitstudium nach § 16b Abs. 1 AufenthG be-
+sitzen, deren Gültigkeit länger als der geplante Auslandsaufenthalt andauern sollte.
+Die Mobilitätsregelungen in Artikel 31 der REST-Richtlinie begünstigen Studie-
+rende,
+
+die an einem Unions- oder multilateralen Programm mit Mobilitätsmaßnah-
+men teilnehmen oder
+
+für die eine Vereinbarung zwischen zwei oder mehr Hochschuleinrichtungen
+gilt.
+Über die konkreten Voraussetzungen für den Wechsel erkundigen Sie sich bitte bei
+Ihrer Hochschule in Hamburg, bei der Hochschule in dem anderen EU-Mitgliedstaat
+oder bei dessen Auslandsvertretung.
+Für ein Auslandssemester in Irland oder Dänemark oder einem Nicht-EU-Staat müs-
+sen Sie sich bei der jeweiligen Auslandsvertretung Ihres Zielstaates hier in Deutsch-
+land über die Bedingungen für die Einreise und den Aufenthalt informieren.
+Sofern Ihr Auslandsaufenthalt nicht unter die Mobilitätsregelungen der REST-Richt-
+linie fällt, müssen Sie daran denken, bei einer voraussichtlichen Ausreise von länger
+als sechs Monaten bei Ihrer zuständigen Ausländerbehörde vorzusprechen und eine
+entsprechend längere Frist für eine vorübergehende Ausreise zu vereinbaren. Wenn
+Sie dies nicht tun, erlischt Ihre Aufenthaltserlaubnis nach sechs Monaten.
+15 siehe Fußnote 11
+16 siehe Fußnote 12
+20
+6 Austausch- oder Gastsemester in Hamburg
+6.1 Mobilität nach der EU-Studentenrichtlinie
+Wenn Sie in einem anderen EU-Mitgliedstaat (mit Ausnahme von Irland und Däne-
+mark) studieren und für ein Austauschsemester nach Hamburg kommen möchten,
+können Sie ebenfalls von den Vergünstigungen REST-Richtlinie17 profitieren. Dazu
+müssen Sie in dem anderen Mitgliedstaat einen Aufenthaltstitel zum Zweck des
+Studiums nach der REST-Richtlinie besitzen und in Hamburg entweder
+
+an einem Unions- oder multilateralen Programm mit Mobilitätsmaßnahmen
+teilnehmen oder
+
+an einem Austausch teilnehmen, für den eine Vereinbarung zwischen zwei
+oder mehr Hochschuleinrichtungen gilt.
+Für die Einreise und den Aufenthalt ist in diesen Fällen der von dem anderen Mit-
+gliedstaat zum Zweck des Studiums nach der REST-Richtlinie erteilt Aufenthaltsti-
+tel ausreichend, wenn zuvor das sogenannte Mitteilungsverfahren nach der REST-
+Richtlinie durchgeführt wurde. Sie brauchen dann in Hamburg nicht bei der Auslän-
+derbehörde vorzusprechen.
+Dazu muss die aufnehmende Hochschule dem Bundesamt für Migration und Flücht-
+linge (BAMF) mindestens 30 Tage im Voraus in deutscher Sprache die folgenden
+Voraussetzungen für die innereuropäische Mobilität mitteilen:
+
+Ihre Adresse/Kontaktdaten
+
+Nachweis über den durch den anderen Mitgliedstaat ausgestellten Aufent-
+haltstitel zum Zweck des Studiums (durch Kopie)
+
+Nachweis über Teilnahme an Unions- oder multilateralem Programm mit Mo-
+bilitätsmaßnahmen oder Vereinbarung zwischen zwei oder mehr Hochschu-
+len, die für Sie gilt
+
+Zulassungsbescheid/Nachweis über Zulassung durch Ausbildungseinrich-
+tung
+
+Pass- oder Passersatzkopie
+
+Nachweis über Lebensunterhaltssicherung
+
+geplanter Aufenthaltsort
+Das BAMF prüft dann, ob der beabsichtigten Einreise und dem Aufenthalt zu Stu-
+dienzwecken Ablehnungsgründe entgegenstehen. Falls das Bundesamt innerhalb
+von 30 Tagen zu dem Ergebnis kommt, dass Ablehnungsgründe vorliegen, so gibt
+es dem Ausländer und der zuständigen Ausländerbehörde die Ablehnung bekannt.
+Das BAMF kann innerhalb von 30 Tagen aus den folgenden Gründen ablehnen:
+
+Voraussetzungen liegen nicht vor (unvollständige Unterlagen),
+17 siehe Fußnote 12
+21
+
+Ausbildungseinrichtung wurde hauptsächlich zu dem Zweck gegründet, die
+Einreise und den Aufenthalt von Ausländern zu erleichtern (institutioneller
+Missbrauch),
+
+Insolvenz der Ausbildungseinrichtung,
+
+Beweise oder konkrete Anhaltspunkte dafür, dass Sie den Aufenthalt zu an-
+deren Zwecken als zu Studienzwecken nutzen werden (persönlicher Miss-
+brauch),
+
+die vorgelegten Dokumente bieten Anhaltspunkte dafür, dass sie auf betrü-
+gerische Weise erworben oder gefälscht oder manipuliert wurden.
+Auch nach Ablauf der 30-Tagefrist kann die Ausländerbehörde Ihren Aufenthalt aus
+Gründen der öffentlichen Sicherheit ablehnen. In diesem Fall hätten Sie das Studium
+unverzüglich einzustellen.
+Im Regelfall wird keine Ablehnung erfolgen und das BAMF übermittelt Ihrer Hoch-
+schule eine für Sie persönlich ausgestellte „Bescheinigung über die Berechtigung
+zur Einreise und zum Aufenthalt zum Zweck des Studiums im Rahmen der kurzfris-
+tigen Mobilität“ (§ 16c Abs. 4 AufenthG). Sie erhalten diese Bescheinigung dann
+von Ihrer Hochschule und können damit Ihr Aufenthaltsrecht in Deutschland nach-
+weisen.
+Eine gesonderte Aufenthaltserlaubnis gemäß § 16b AufenthG ist nicht erforderlich,
+wenn Sie die Bescheinigung des BAMF haben. Also brauchen Sie bei der Ausländer-
+behörde in Hamburg nicht vorzusprechen, wenn Sie einen Aufenthaltstitel aus ei-
+nem anderen Mitgliedstaat der EU zum Zweck des Studiums nach der REST-Richt-
+linie und die oben genannte Bescheinigung des BAMF besitzen.
+Alle Ablehnungen und Zustimmungen werden vom BAMF außerdem direkt an die
+Registerbehörde (Ausländerzentralregister) übermittelt. Somit bekommt die Aus-
+länderbehörde in Hamburg ebenfalls Bescheid, dass Sie hier ein oder zwei Semester
+im Rahmen des Erasmus-Programmes oder eines anderen multilateralen Pro-
+gramms studieren werden, da sie diese Information aus dem Ausländerzentralre-
+gister abrufen kann.
+Ihr Aufenthalt in Hamburg oder in Deutschland gemäß § 16c AufenthG darf 360
+Tage nicht überschreiten. Falls Sie anschließend weiter in Deutschland studieren
+oder promovieren möchten, müssen Sie eine Terminvereinbarung beim Hamburg
+Welcome Center machen und eine Aufenthaltserlaubnis zum Studium nach § 16b
+AufenthG beantragen.
+Mit der Bescheinigung des BAMF sind Sie zur Ausübung einer Beschäftigung, die
+insgesamt ein Drittel der Aufenthaltsdauer nicht überschreiten darf, sowie zur Aus-
+übung studentischer Nebentätigkeiten berechtigt. Das bedeutet, dass Sie bei einem
+Aufenthalt von 360 Tagen, 140 volle oder 280 halbe Tage arbeiten dürfen. Bei ei-
+nem kürzeren Aufenthalt verringern sich auch die Anzahl der Arbeitstage. Mehr zum
+Thema Arbeit und Praktika können Sie unter Nr. 3 und Nr. 4 nachlesen.
+22
+Wenn Sie während Ihres Aufenthalts als Gaststudent in Hamburg einen Hochschul-
+abschluss erwerben, haben Sie anschließend die unter Nr. 7 dargestellten Möglich-
+keiten weiter in Deutschland zu bleiben.
+6.2 Sonstige Mobilität
+Wenn Sie bislang in Irland, Dänemark oder in einem Drittstaat (Nicht-EU-Staat) stu-
+dieren, müssen Sie für ein Austausch- oder Gastsemester zunächst ein Visum bei
+der zuständigen deutschen Auslandsvertretung beantragen (siehe Nr. 1).
+23
+7 Aufenthaltsrecht nach dem Studium für internati-
+onale Absolvent/-innen deutscher Hochschulen
+7.1 Absolvent/-innen aus EU-Staaten
+EU-Bürger/-innen, Angehörige der EWR-Staaten und Schweizer/-innen genießen
+Arbeitnehmerfreizügigkeit und dürfen jede Beschäftigung ausüben, ohne dass es
+einer Vorsprache bei der Ausländerbehörde bedarf.
+7.2 Absolvent/-innen aus Nicht-EU-Staaten
+7.2.1 Aufenthaltserlaubnis zum Zweck der Arbeitssuche
+Nach erfolgreichem Abschluss des Studiums in Deutschland kann Ihre Aufenthalts-
+erlaubnis bis zu 18 Monate zur Suche eines diesem Abschluss angemessenen Ar-
+beitsplatzes verlängert werden. Dazu müssen Sie direkt nach Abschluss ihres Stu-
+diums bei der zuständigen Ausländerbehörde (Hamburg Service vor Ort) die Ver-
+längerung Ihrer Aufenthaltserlaubnis nach § 20 Abs. 1 Nummer 1 AufenthG bean-
+tragen. Ihr Studium gilt als beendet, sobald Ihnen die Universität schriftlich das Be-
+stehen der letzten Prüfung bescheinigt hat. Darauf, wann Sie exmatrikuliert wurden
+oder wann Sie Ihr Zeugnis erhalten, kommt es nicht an. Bewahren Sie deshalb un-
+bedingt das Anschreiben und/oder den Briefumschlag mit dem Poststempel auf,
+mit dem Sie die Bestätigung der Hochschule erhalten haben, dass Sie die Abschluss-
+prüfung bestanden haben.
+Während der 18 Monate, die Ihnen für die Suche eines Ihrem Abschluss angemes-
+senen Arbeitsplatzes zur Verfügung stehen, dürfen Sie uneingeschränkt jede Er-
+werbstätigkeit, also auch jedes Praktikum oder eine Trainee-Stelle ausüben. Sie
+dürfen während der Arbeitssuche auch selbstständig arbeiten.
+Um die Aufenthaltserlaubnis zum Zweck der Arbeitssuche erhalten zu können, müs-
+sen Sie weiterhin nachweisen, dass Sie selbst für Ihren Lebensunterhalt sorgen kön-
+nen. Für die Art der Nachweise gelten die gleichen Voraussetzungen wie unter Nr.
+2.2.6 beschrieben.
+7.2.2 Praktikum im Ausland
+Während dieser 18 Monate können Sie auch ein Praktikum im Ausland absolvieren.
+Allerdings führt jeder Aufenthalt außerhalb Deutschlands, der länger als sechs Mo-
+nate andauert, automatisch zum Erlöschen der Aufenthaltserlaubnis, sofern man
+nicht mit der Ausländerbehörde ausdrücklich und schriftlich eine längere Frist ver-
+einbart hat. Es empfiehlt sich deshalb in jedem Fall, mit dem Praktikumsvertrag bei
+der jeweils zuständigen Ausländerabteilung vorzusprechen und die erforderlichen
+Vereinbarungen zu treffen.
+24
+7.2.3 Wechsel in Promotion oder Masterstudiengang
+Sowohl während als auch direkt im Anschluss an die 18 Monate der Jobsuche dürfen
+Sie ein Promotions- oder Masterstudium beginnen. Sie müssen hierfür wieder die
+Aufenthaltserlaubnis zum Zweck des Studiums beantragen. Es gelten die gleichen
+Regeln wie unter Nr. 2, 3 und 4 beschrieben. Schließen Sie den Master/die Promo-
+tion nicht ab, stehen Ihnen keine restlichen Monate der „alten“ 18 Monate zur Job-
+suche zur Verfügung. Erwerben Sie einen neuen Abschluss, können Sie erneut eine
+Aufenthaltserlaubnis nach § 20 Abs. 1 Nr. 1 AufenthG für 18 Monate zur Arbeits-
+suche beantragen.
+7.2.4 Arbeitssuche nach erstem Job im Ausland
+Wenn Sie direkt nach dem Studium für eine Arbeitsstelle ins Ausland gehen, können
+Sie anschließend keine Aufenthaltserlaubnis nach § 20 Abs. 1 Nr. 1 AufenthG mehr
+beantragen. Diese Möglichkeit besteht nur direkt im Anschluss an Ihren Studienab-
+schluss.
+Wenn Sie anschließend eine Arbeit in Deutschland suchen möchten, können Sie aber
+bei der zuständigen deutschen Auslandsvertretung ein Visum in Form von Chan-
+cenkarte nach § 20a Abs. 3 AufenthG zum Zweck der Arbeitssuche beantragen,
+dass Ihnen für 12 Monate ausgestellt werden kann. Im Unterschied zur Aufenthalts-
+erlaubnis nach § 20 Abs. 1 Nr. 1 AufenthG dürfen Sie mit einer Chancenkarte nach
+§ 20a Abs. 3 AufenthG allerdings nicht uneingeschränkt jobben, sondern müssen
+genügend eigene Mittel nachweisen, um Ihren Lebensunterhalt in Deutschland für
+die Dauer der Arbeitssuche selbst zu sichern. Erlaubt sind dabei nur Beschäftigun-
+gen von insgesamt höchstens 20 Stunden je Woche und zusätzlich noch Probebe-
+schäftigungen für jeweils höchstens zwei Wochen. Bei der Probebeschäftigungen
+müssen Sie darauf achten, dass diese qualifiziert sind, also eine Hochschulausbil-
+dung voraussetzen. Sie dürfen mit Ihrer Chancenkarte Probebeschäftigungen bei
+verschiedenen Arbeitgebern durchführen, dürfen aber nicht länger, als zwei Wo-
+chen bei gleichem Arbeitgeber bleiben.
+25
+8 Arbeitsaufnahme: Die erste „richtige“ Stelle
+8.1 EU-Bürger
+EU-Bürger/innen, Angehörige der EWR-Staaten und Schweizer/-innen genießen Ar-
+beitnehmerfreizügigkeit und dürfen jede selbstständige oder unselbstständige Er-
+werbstätigkeit ausüben, ohne dass es einer Vorsprache bei der Ausländerbehörde
+bedarf.
+8.2 Nicht-EU-Bürger
+8.2.1 Aufenthaltstitel zum Zweck der Beschäftigung
+Für ein konkretes Angebot einer Beschäftigung können Sie als Absolvent/-in einer
+deutschen Hochschule einen der folgenden Aufenthaltstitel zur Beschäftigung er-
+halten:
+
+eine Blaue Karte EU nach § 18g Abs. 1 AufenthG, wenn Sie eine ihrer Qua-
+lifikation angemessene Beschäftigung gefunden haben, wo ein Bruttogehalt
+von derzeit mindestens 45.300 Euro/Jahr ausgezahlt wird. In sogenannten
+Mangelberufen (siehe dazu die Anlage) darf das Gehalt derzeit mindestens
+41.041,80 Euro/Jahr brutto betragen (Stand Januar 2024- die Gehaltsgren-
+zen werden für jedes Kalenderjahr neu angepasst),
+
+eine Blaue Karte EU für Berufsanfänger*innen, unabhängig von Ihrer Be-
+rufsgruppe, wenn Sie mindestens 41.041,80 Euro/Jahr brutto erhalten und
+Ihren Hochschulabschluss nicht mehr als drei Jahre vor der Beantragung der
+Blauen Karte EU erworben haben (Stand Januar 2024 - die Gehaltsgrenzen
+werden für jedes Kalenderjahr neu angepasst). Auch hier muss die Beschäf-
+tigung Ihrer Qualifikation entsprechen,
+
+eine Aufenthaltserlaubnis zum Zweck der Beschäftigung nach § 18b Auf-
+enthG, wenn es sich um eine qualifizierte (wo ein Studium vorausgesetzt ist)
+Beschäftigung handelt, die Erteilung der Blauen Karte EU aber nicht möglich
+ist,
+
+eine Aufenthaltserlaubnis zum Zweck der Forschung nach § 18d AufenthG,
+wenn Sie mit einer anerkannten Forschungseinrichtung eine sogenannte Auf-
+nahmevereinbarung abgeschlossen haben,
+
+eine Aufenthaltserlaubnis zum Zweck der Beschäftigung nach § 19d
+AufenthG, wenn Sie Ihr Studium im Status der Duldung AufenthG absolviert
+und eine, Ihrer Qualifikation angemessene, Tätigkeit gefunden haben.
+Die Aufenthaltserlaubnis oder die Blaue Karte EU müssen Sie bei der für Ihren Woh-
+nort zuständigen Ausländerbehörde beantragen. In Hamburg ist es das Hamburg
+Welcome Center. Die Aufenthaltserlaubnis nach § 19d AufenthG ist bei der Behörde
+für Inneres und Sport, Amt für Migration zu beantragen, wo Ihnen bislang auch die
+Duldung erteilt worden war.
+Mitzubringen sind dafür:
+26
+
+Pass und biometrisches Foto,
+
+Abschlusszeugnis Ihrer Hochschule oder entsprechende vorläufige Beschei-
+nigung,
+
+Stellenbeschreibung,
+
+Entwurf des Arbeitsvertrages mit Tätigkeitsbeschreibung und Einzelheiten
+zu den Beschäftigungsbedingungen (z.B. Arbeitszeiten, Gehalt, Urlaub),
+ Vom Arbeitgeber auszufüllender Vordruck „Erklärung zum Beschäftigungs-
+verhältnis“ (Download: https://www.arbeitsagentur.de/datei/erklaerung-
+zum-beschaeftigungsverhaeltnis_ba047549.pdf)
+Da Sie bereits mit Ihrer Aufenthaltserlaubnis nach § 20 Abs. 1 AufenthG uneinge-
+schränkt arbeiten dürfen, können Sie Ihre Stelle sofort antreten, auch probehalber,
+ohne die Entscheidung der Ausländerbehörde abwarten zu müssen. Ihr Arbeitsver-
+trag sollte dabei vorsehen, bis zur endgültigen Zustimmung durch die Ausländerbe-
+hörde nur unter diesem Vorbehalt zu gelten.
+Sofern Sie und insbesondere Ihr Arbeitgeber alle Unterlagen für eine Aufenthalts-
+erlaubnis zwecks Beschäftigung vollständig eingereicht haben, prüft die Ausländer-
+behörde zusammen mit der Bundesagentur für Arbeit alsbald, ob hier eine qualifi-
+zierte Beschäftigung vorliegt und ob die Arbeitsbedingungen – und damit auch das
+Gehalt – denen vergleichbarer inländischer Arbeitnehmerinnen und Arbeitnehmer
+entsprechen.
+Bei § 18b muss es nicht unbedingt eine Beschäftigung sein, zu der die erworbene
+Qualifikation Sie befähigt. Es reicht aus, wenn Ihr Arbeitgeber bestätigt, dass Sie
+für diese Tätigkeit befähigt und geeignet sind. Damit wird Ihnen, als akademische
+Fachkraft, der Berufseinstieg auch unter- oder oberhalb Ihrer Qualifikation ermög-
+licht. Die qualifizierte Beschäftigung kann auch in Berufen erfolgen, die im fachli-
+chen Kontext zu Ihrer Qualifikation üblicherweise Fertigkeiten, Kenntnisse und Fä-
+higkeiten voraussetzen, die in einer qualifizierten Berufsausbildung erworben wer-
+den. Ein Germanist könnte z. B. grundsätzlich als Fremdsprachenassistent arbeiten.
+Wichtig ist aber, dass Sie als "Fachkraft für eine qualifizierte Beschäftigung" einge-
+setzt werden. Eine Tätigkeit, die auch ohne Qualifikation ausgeübt werden könnte
+(z. B. einfache Anlernberufe), ist nicht möglich.
+Bei der Blauen Karte EU nach § 18g AufenthG sind, im Unterschied zu der oben
+beschriebenen Aufenthaltserlaubnis zwecks Beschäftigung nach § 18b AufenthG,
+zwingende Voraussetzungen, dass es sich um eine der Qualifikation angemessene
+Beschäftigung handelt und die Mindestgehaltsgrenze eingehalten ist. Für das Jahr
+2024 beträgt das jährliche Bruttomindestgehalt in Regelberufen 45.300 Euro, in
+Engpassberufen oder für Berufsanfänger 41.041,80 Euro. Die Gehaltsgrenzen wer-
+den für jedes Kalenderjahr neu angepasst.
+Auch hier muss die Ausländerbehörde die Bundesagentur für Arbeit beteiligen, die
+ihrerseits prüft, ob Sie nicht zu ungünstigeren Arbeitsbedingungen (inkl. Arbeits-
+27
+lohn), als vergleichbare inländische Arbeitnehmer, beschäftigt werden. Die Beteili-
+gung der Bundesagentur ist nicht notwendig, wenn Sie ein Gehalt in Höhe von mind.
+45.300 Euro/Jahr (Blaue Karte – Regelberufe, Stand 2024) bekommen werden. In
+diesem Fall wird die Prüfung allein durch die Ausländerbehörde erfolgen.
+Natürlich muss es sich bei dem angestrebten Beschäftigungsverhältnis um ein in-
+ländisches Beschäftigungsverhältnis handeln. Also, Sie können für eine Beschäfti-
+gung im Ausland keine Aufenthaltserlaubnis für Deutschland bekommen.
+Wenn dann die Prüfung der Ausländerbehörde, mit oder ohne Beteiligung der Bun-
+desagentur für Arbeit, abgeschlossen ist, kann Ihnen ein elektronischer Aufent-
+haltstitels ausgestellt werden. Für die Ausstellung wird aber noch zusätzliche Zeit
+benötigt (siehe Nr. 2.2.7)
+8.2.1.1 Trainee-Stellen
+Sie können eine Aufenthaltserlaubnis nach § 18b oder 18g AufenthG auch für eine
+Trainee-Stelle beantragen, sofern der Inhalt des Trainee-Programms, die Arbeits-
+bedingungen und der finanzielle Rahmen Ihrem Studienabschluss angemessen sind.
+8.2.1.2 Teilzeitstellen
+Auch hier gilt: Es kann eine Aufenthaltserlaubnis nach § 18b AufenthG erteilt wer-
+den, wenn in Nr. 8.2.1 beschriebenen Voraussetzungen erfüllt sind und Sie mit Ih-
+rem Einkommen Ihren Lebensunterhalt sichern können. Als Untergrenze für den Le-
+bensunterhalt gilt der aktuelle Regelsatz18 des Bürgergeldes nach dem Sozialge-
+setzbuch Zweites Buch (SGB II) plus die tatsächlichen Kosten für Ihre Unterkunft
+(Miete und Nebenkosten) zuzüglich bestimmter Freibeträge in Höhe von mindestens
+100 Euro, die Ihnen beim Bezug von Bürgergeld gewährt würden. Die genaue Be-
+rechnung des in Ihrem Fall notwenigen Mindesteinkommens erfolgt durch Ihre zu-
+ständige Ausländerbehörde.
+Bei der Blauen Karte EU muss auf jeden Fall die Mindestgehaltsgrenze eingehalten
+werden. Sollte aus einer Teilzeitbeschäftigung ein tatsächliches Gehalt erzielt wer-
+den, mit dem die entsprechende Mindestgehaltgrenze erfüllt wird, wird Ihnen die
+Blaue Karte EU auch bei Teilzeitbeschäftigung erteilt.
+8.2.1.3 Weiterbildung (Referendariat, Facharztausbildung etc.)
+Wenn die praktische Ausbildung ein notwendiger Teil Ihrer Ausbildung ist, ohne den
+Sie Ihre Ausbildung nicht abschließen können (z.B. Zweites Staatsexamen), dann gilt
+sie als zustimmungsfreie Beschäftigung. Sie erhalten eine Aufenthaltserlaubnis zur
+Weiterbildung nach § 16a AufenthG. Wartezeiten von mehreren Monaten zwischen
+Ihrem Ersten Staatsexamen und dem Beginn des Referendariats sind üblich und
+können aufenthaltsrechtlich überbrückt werden.
+18http://www.bmas.de/DE/Themen/Arbeitsmarkt/Grundsicherung/Leistungen-zur-Sicherung-des-Lebensun-
+terhalts/2-teaser-artikelseite-arbeitslosengeld-2-sozialgeld.html
+28
+Wenden Sie sich mit der Bewerbung oder der Mitteilung über die Wartezeit an Ihre
+Ausländerbehörde. Bei Wartezeiten von mehr als einem Jahr sollten Sie eine Über-
+brückungsbeschäftigung z.B. als Lehrer/in an einer Privaten (Sprach-) Schule auf-
+nehmen.
+Für eine fachärztliche Weiterbildung benötigen Sie zunächst die erforderliche Ap-
+probation, die Sie beim Landesprüfungsamt für Heilberufe19 beantragen müssen,
+und können dann eine Aufenthaltserlaubnis zur Weiterbildung nach § 16a AufenthG
+erhalten.
+Nach erfolgreichem Abschluss Ihrer Weiterbildung können Sie nach § 20 Abs. 1 Nr.
+3 AufenthG für 18 Monate erneut eine Aufenthaltserlaubnis zum Zweck der Ar-
+beitssuche erhalten. Für den anschließenden Wechsel in einen Aufenthaltstitel zum
+Zweck der Erwerbstätigkeit gilt das unter 8.2.1 und 8.2.2 Dargestellte.
+8.2.1.4 Leiharbeit (z.B. bei Zeitarbeitsfirmen)
+Für eine Beschäftigung als Leiharbeitnehmer/in wird keine Aufenthaltserlaubnis er-
+teilt.
+Eine Ausnahme ist nur bei eine Blaue Karte EU mit einem Gehalt in Höhe von mind.
+45.300 Euro/Jahr (Regelberufe, Stand 2024) möglich. Die Gehaltsgrenzen werden
+aber für jedes Kalenderjahr neu angepasst.
+8.2.1.5 Jobwechsel
+Ein Aufenthaltstitel zum Zweck der Beschäftigung wird zunächst immer für eine
+konkrete Beschäftigung erteilt. Wenn Sie also Ihre Stelle wechseln möchten, müs-
+sen Sie beim Hamburg Welcome Center vorsprechen und eine entsprechende Än-
+derung Ihres Aufenthaltstitels beantragen. Dafür benötigen Sie wieder die unter
+Nr. 8.2.1 aufgelisteten Dokumente. Ein Arbeitgeberwechsel ohne Zustimmung der
+Ausländerbehörde ist erst nach zwei Jahren (bei der Blauen Karte EU - nach einem
+Jahr) versicherungspflichtige Beschäftigung in Deutschland erlaubt. Trotzdem ist
+es ratsam, bei der Ausländerbehörde vorzusprechen, um Änderung Ihres Aufent-
+haltstitels zu beantragen.
+Wird die Erwerbstätigkeit vor Ablauf Ihres Aufenthaltstitels beendet, so sind Sie
+verpflichtet, dies der Ausländerbehörde innerhalb von zwei Wochen ab Kenntnis
+mitzuteilen.
+Sofern Ihnen eine Blaue Karte EU erteilt wurde, sind Sie zusätzlich verpflichtet,
+während der ersten zwölf Monate seit der Aufnahme der Beschäftigung mit der
+Blauen Karte EU der zuständigen Ausländerbehörde jeden Wechsel des Arbeitge-
+bers und jede Änderung mitzuteilen, die Auswirkungen auf die Erfüllung der Vo-
+raussetzungen für die Erteilung einer Blauen Karte EU hat.
+8.2.2 Aufenthaltserlaubnis für eine selbstständige oder freiberufliche Tätigkeit
+Als Hochschulabsolvent/-in können Sie sich auch selbstständig machen.
+19www.hamburg.de/landespruefungsamt/kontakt/116004/kontakt-lpa.html
+29
+Für eine unternehmerische Tätigkeit können Sie bei der Ausländerabteilung Ihres
+zuständigen Bezirksamtes (Hamburg Service vor Ort) eine Aufenthaltserlaubnis
+nach § 21 Abs. 2a AufenthG zum Zweck der selbstständigen Tätigkeit beantragen,
+wenn die beabsichtigte selbstständige Tätigkeit einen Zusammenhang mit Ihren in
+der Hochschulausbildung erworbenen Kenntnissen erkennen lässt.
+Auch für eine freiberufliche Tätigkeit etwa als Rechtsanwalt/Rechtsanwältin, Archi-
+tekt/Architektin oder Steuerberater/-in können Sie bei der Ausländerabteilung Ih-
+res zuständigen Bezirksamtes (Hamburg Service vor Ort) eine Aufenthaltserlaubnis
+nach § 21 Abs. 5 AufenthG zum Zweck der freiberuflichen Tätigkeit beantragen.
+Sofern Sie für Ihre freiberufliche Tätigkeit besondere Erlaubnisse benötigen (wie
+z.B. eine Zulassung durch die Rechtsanwalts- oder Architektenkammer), holen Sie
+diese bitte vorher ein oder lassen sich eine entsprechende Zusicherung geben.
+Wenn Sie als Künstler freiberuflich tätig werden wollen, können Sie sich unter
+http://www.hamburg.de/contentblob/2807058/data/freischaffende-kuenst-
+ler.pdf über die besonderen Bedingungen informieren.
+In beiden Fällen, ob Sie unternehmerisch oder freiberuflich tätig werden wollen,
+muss Ihre Tätigkeit dabei mindestens so viel Gewinn erwarten lassen, wie Sie für
+die eigenständige Sicherung Ihres Lebensunterhalts benötigen (Regelsatz des Bür-
+gergeldes nach dem SGB II plus die tatsächlichen Kosten für Ihre Unterkunft und
+mindestens 100 Euro für Freibeträge (siehe Nr. 8.2.1.2) sowie eine Kranken- und
+Pflegeversicherung).
+Selbstständige und Freiberufler sind in Deutschland gesetzlich verpflichtet, eine
+ausreichende Kranken- und Pflegeversicherung abzuschließen, deren Leistungsum-
+fang etwa dem der gesetzlichen Krankenversicherung in Deutschland entspricht.
+Vor Abschluss einer solchen Versicherung sollten Sie sich von einer unabhängigen
+Stelle, wie etwa dem Studierendenwerk (siehe Nr.10.3) beraten lassen. Freiberufli-
+che Künstler können sich in der Künstlersozialkasse20 versichern.
+8.3 Familienangehörige
+Ihre Familienangehörigen dürfen uneingeschränkt erwerbstätig sein (also selbst-
+ständig und unselbstständig als Arbeitnehmer), wenn sie selbst Freizügigkeit ge-
+nießen oder wenn sie einen Aufenthaltstitel zum Zweck des Familiennachzugs nach
+den §§ 27 bis 36 AufenthG besitzen. Wenn Ihre Familienangehörigen über einen
+sonstigen Aufenthaltsstatus verfügen, so ergibt sich ihre jeweilige Berechtigung
+zur Erwerbstätigkeit aus den von der Ausländerbehörde ausgestellten Dokumenten
+(Aufenthaltstitel, Aufenthaltsgestattung oder Duldung).
+20www.kuenstlersozialkasse.de/
+30
+9 Blick in die Zukunft – Dauerhafter Aufenthalt in
+Deutschland
+9.1 EU-Bürger/-innen
+Wenn Sie sich fünf Jahre in Deutschland aufgehalten haben und dabei einen Freizü-
+gigkeitstatbestand nach § 2 FreizügG/EU erfüllt haben, also z.B. hier studiert und
+gearbeitet haben, können Sie bei der Ausländerabteilung Ihres zuständigen Bezirk-
+samtes (Hamburg Service vor Ort) die Ausstellung einer Daueraufenthaltsbeschei-
+nigung beantragen.
+9.2 Nicht-EU-Bürger/-innen
+Absolvent/-innen deutscher Hochschulen haben Anspruch auf die Erteilung einer
+Niederlassungserlaubnis nach § 18c Abs. 1 AufenthG, wenn sie
+
+eine dem Abschluss angemessene Erwerbstätigkeit ausüben,
+
+seit zwei Jahren eine Aufenthaltserlaubnis nach den §§ 18a, 18b oder 18d
+AufenthG besitzen (wenn Sie zwischendurch länger als 6 Monate ausreisen,
+wird die Zeit davor nicht mitgerechnet) und
+
+24 Monate Beiträge zu einer gesetzlichen oder privaten Rentenversicherung
+geleistet haben.
+Inhaberinnen und Inhaber einer Blauen Karte EU haben Anspruch auf die Erteilung
+einer Niederlassungserlaubnis nach § 18c Abs. 2 AufenthG
+
+nach 21 Monaten Beschäftigung als Hochqualifizierter, sofern sie über
+Deutschkenntnisse auf dem Niveau B1 verfügen, wobei ein deutschsprachi-
+ger Studienabschluss zugleich als Nachweis dieser Sprachkenntnisse gilt,
+
+ansonsten (ohne entsprechende Sprachkenntnisse, etwa als Absolvent eines
+englischsprachigen Masterstudiengangs) nach 27 Monaten Beschäftigung
+als Hochqualifizierter,
+
+wobei Sie in den 21 bzw. 27 Monaten jeweils Beiträge zu einer gesetzlichen
+oder privaten Rentenversicherung geleistet haben müssen.
+Zusätzlich zu den oben genannten Voraussetzungen für die Niederlassungserlaub-
+nis nach § 18c Abs. 1 und Abs.2 AufenthG müssen Sie noch, trotz Ihres Hochschul-
+abschlusses, die Grundkenntnisse der Rechts- und Gesellschaftsordnung und der
+Lebensverhältnisse im Bundesgebiet nachweisen. Dieser Nachweis wird grundsätz-
+lich durch den erfolgreich absolvierten Abschlusstest des Orientierungskurses „Le-
+ben in Deutschland“ oder durch den Einbürgerungstest erbracht. Eine vorherige
+Teilnahme am Orientierungskurs des Integrationskurses ist nicht erforderlich. Der
+Nachweis der Kenntnisse ist auch erbracht, wenn Sie einen Abschluss einer deut-
+schen Hauptschule oder einen vergleichbaren oder höheren Schulabschluss einer
+deutschen allgemeinbildenden Schule nachweisen können.
+31
+Für eine Niederlassungserlaubnis müssen Sie und ggf. Ihre Familie außerdem über
+ausreichenden Wohnraum verfügen und es dürfen keine Sicherheitsbedenken gegen
+Ihren dauerhaften Aufenthalt bestehen.
+Inhaber einer Aufenthaltserlaubnis zur Ausübung einer selbständigen Tätigkeit ha-
+ben nach drei Jahren Anspruch auf die Erteilung einer Niederlassungserlaubnis nach
+§ 21 Abs. 4 AufenthG, wenn sie die selbständige Tätigkeit erfolgreich verwirklicht
+haben und der Lebensunterhalt für die ganze Familie gesichert ist.
+Nach fünf Jahren Aufenthalt in Deutschland können Sie auch eine Erlaubnis zum
+Daueraufenthalt-EU nach § 9a AufenthG beantragen. Diese gilt in Deutschland als
+Niederlassungserlaubnis und ermöglicht es Ihnen ansonsten, in einen anderen EU-
+Mitgliedstaat (mit Ausnahme von Irland und Dänemark) weiterzuwandern und dort
+zu arbeiten21. Voraussetzung ist unter anderem, dass Sie eine Aufenthaltserlaubnis
+für einen anderen Zweck, als den der Aus- und Weiterbildung oder Studium besitzen
+(also nicht nach §§ 16b oder 16a AufenthG), wobei die Aufenthaltszeit als Stu-
+dent/-in bis zur Hälfte auf die Fünfjahresfrist angerechnet werden kann.
+Bei der Erlaubnis zum Daueraufenthalt-EU kann vom Nachweis der Grundkennt-
+nisse der Rechts- und Gesellschaftsordnung und der Lebensverhältnisse im Bun-
+desgebiet aufgrund Ihres Studiums abgesehen werden, was bei einer Niederlas-
+sungserlaubnis nach zwei, bzw. drei Jahren Aufenthalt (§ 18c Absatz 1 und 2 Auf-
+enthG) grundsätzlich nicht möglich ist.
+Die Niederlassungserlaubnis wie auch die Erlaubnis zum Daueraufenthalt-EU müs-
+sen Sie beim Hamburg Welcome Center oder bei der Ausländerabteilung Ihres zu-
+ständigen Bezirksamtes (Hamburg Service vor Ort) beantragen.
+9.3 Einbürgerung
+Die Einbürgerung können Sie als Absolvent oder Absolventin einer deutschen Hoch-
+schule wegen der damit verbundenen besonderen Integrationsleistung bereits nach
+einem Aufenthalt von sechs Jahren in Deutschland beantragen. In Hamburg wird
+dabei der Aufenthalt während des Studiums komplett angerechnet. Sie dürfen al-
+lerdings keine Aufenthaltserlaubnis nach § 16b AufenthG mehr besitzen, weil dieser
+studentische Aufenthaltstitel eine Einbürgerung ausschließt. Nähere Informationen
+zur Einbürgerung finden sie unter anderem hier: http://einbuergerung.hamburg.de
+21 Siehe dazu die Richtlinie 2003/109/EG des Rates vom 25. November 2003 betreffend die Rechtsstellung
+der langfristig aufenthaltsberechtigten Drittstaatsangehörigen http://eur-lex.europa.eu/legal-con-
+tent/DE/TXT/?uri=URISERV%3Al23034
+32
+10 Nützliche Links und Adressen
+10.1 Behörden in Hamburg
+Hamburg Welcome Center (HWC)
+Das HWC ist ein Zusammenschluss der Behörde für Inneres und Sport, der Sozial-
+behörde, der Agentur für Arbeit Hamburg und von Jobcenter t.a.h. Es berät (poten-
+zielle) Fachkräfte, deren Familienangehörige und Hamburger Unternehmen u.a. zu
+Aspekten der Fachkräftegewinnung, der Arbeitsmarktintegration, der Anerkennung
+ausländischer Abschlüsse, des Spracherwerbs und des Aufenthaltsrechts.
+Hamburg Welcome Center
+Süderstraße 32b, 20097 Hamburg
+Tel.: +49 (40) 428395555
+Internet: https://welcome.hamburg.de/hwc/
+E-Mail: Info@welcome.hamburg.de
+Hamburg Welcome Center for Professionals (HWCP)
+Das HWCP gehört zur Behörde für Inneres und Sport und bietet innerhalb des Ham-
+burg Welcome Centers (HWC) aufenthaltsrechtliche Leistungen für Fachkräfte, de-
+ren Familienangehörige und Hamburger Unternehmen an:
+Visa-Stelle
+Hier werden die von den deutschen Auslandsvertretungen übersandten Einreise-
+vorgänge (Visa) geprüft.
+Hamburg Welcome Center for Professionals
+-Einreiseangelegenheiten mit Visum-
+Süderstraße 32b, 20097 Hamburg
+Tel.: +49 (40) 428393038
+Internet:https://www.hamburg.de/innenbehoerde/allgemein/109116/visumver-
+fahren/
+E-Mail: Visa-Stelle@welcome.hamburg.de
+Aufenthaltsangelegenheiten für Fachkräfte
+Hier können Studierende, qualifizierte Fach- und Führungskräfte und deren Fami-
+lienangehörigen nach Terminvereinbarung die Erteilung und Verlängerung ihrer
+Aufenthaltserlaubnis beantragen und ihren Wohnsitz an- oder ummelden.
+Hamburg Welcome Center for Professionals
+-Aufenthaltsangelegenheiten für Fachkräfte-
+Süderstraße 32b, 20097 Hamburg
+Tel: +49 (40) 428 39 55 00
+33
+Internet:https://welcome.hamburg.de/auslaenderbehoerden-kundenzen-
+tren/2072756/hamburg-welcome-center/
+E-Mail: Professionals@welcome.hamburg.de
+Behördenfinder der Stadt Hamburg
+Adresse und Öffnungszeiten der Ausländerbehörde im zuständigen Bezirksamt
+(Hamburg Service vor Ort) erfährt man mit Hilfe des Behördenfinders im Internet:
+Als Suchbegriff „Aufenthaltsgenehmigungen, Studenten“ eingeben, danach die
+Wohnstraße
+www.hamburg.de/behoerdenfinder
+Telefonischer Hamburg-Service
+Hier erhalten Sie Auskünfte über Dienstleistungen Hamburgischer Behörden und
+anderer öffentlicher Institutionen
+Tel: +49 (40) 115 oder
+Tel: +49 (40) 42828-0
+Arbeitsagentur Hamburg
+Das behördeninterne Zustimmungsverfahren für Arbeitsgenehmigungen für
+Staatsangehörige aus Nicht-EU-Staaten, die in Hamburg beschäftigt werden, er-
+folgt nun hauptsächlich bei der Arbeitsmarktzulassung in Duisburg, nur die Prüfung
+der Beschäftigungsbedingungen bei Hamburger Arbeitgebern erfolgt noch durch
+Hamburg.
+Kurt-Schumacher-Allee 16, D - 20097 Hamburg
+Tel: +49 (0800) 4 5555 00 (Arbeitnehmer) *
+Tel: +49 (0800) 4 5555 20 (Arbeitgeber) *
+* gebührenfrei Mo.-Fr. von 08:00 – 18:00 Uhr
+Internet: www.arbeitsagentur.de (Privatpersonen, Unternehmen oder Institutionen)
+E-Mail: Hamburg@arbeitsagentur.de
+Einbürgerungsbehörde
+Behörde für Inneres und Sport
+Amt für Migration
+Einbürgerungsabteilung
+Hammer Straße 30-34, 22041 Hamburg
+Tel.: 040 42828-0
+Fax: 040 42731-2394
+Internet: https://www.hamburg.de/innenbehoerde/einbuergerung
+E-Mail: einbuergerung@amtfuermigration.hamburg.de
+34
+10.2 Sonstige Behörden
+ZAV – Zentrale Auslands- und Fachvermittlung
+Das Arbeitsmarktzulassungsverfahren wird in neun Teams durchgeführt, die sich
+an den Standorten Bonn, Duisburg, Frankfurt/Main und München, Stuttgart und
+Erfurt befinden.
+Diese Teams treffen seit 1. Mai 2011 die internen Zustimmungsentscheidungen zur
+Beschäftigung von Nicht-EU-Absolventinnen und -Absolventen.
+ZAV Team 235 (für Hamburg)
+Dahlmannstraße 23, 47169 Duisburg
+E-Mail: zav.amz-duisburg-235@arbeitsagentur.de
+BAMF – Bundesamt für Migration und Flüchtlinge
+Das Bundesamt für Migration und Flüchtlinge bietet unter www.bamf.de umfas-
+sende Informationen zum Thema Migration nach Deutschland und hat verschiedene
+Aufgaben in diesem Bereich. Dazu zählt auch die Anerkennung von Forschungsein-
+richtungen nach der EU-Forscherrichtlinie.
+https://www.bamf.de/DE/Themen/Forschung/AnerkennungForschungseinrich-
+tungen/anerkennungforschungseinrichtungen-node.html
+35
+10.3 Beratung auf dem Campus
+Studierendenwerk Hamburg
+Das Studierendenwerk Hamburg bietet Informationen und persönliche Beratung zu
+Fragen rund um das Leben als ausländische/r Studierende/r oder Studieninteres-
+sierte/r in Hamburg und unterstützt bei Fragen der Studienfinanzierung, Woh-
+nungssuche, bietet Support beim Studium mit Kind und hilft bei der Klärung sozia-
+ler, persönlicher und wirtschaftlicher Fragen oder Belastungen.
+www.stwhh.de
+10.4 Jobben
+Stellenwerk (Jobbörse)
+gemeinsame Online-Jobbörse der Uni Hamburg, der HAW Hamburg, der TU Ham-
+burg-Harburg und der HafenCity Universität Hamburg. Studierende und Absol-
+vent/innen finden hier Jobs, einschlägige Praktika, das passende Angebot für die
+eigene Abschlussarbeit und später die erste Arbeitsstelle.
+www.stellenwerk-hamburg.de
+Informationen für Studierende zum Thema Jobben/Steuern/Sozialversicherung fin-
+den Sie hier: https://www.studierendenwerke.de/themen/finanzierungsmoeglichkeiten/uebersicht-jobben
+Deutsche Rentenversicherung
+Sehr nützliche Broschüre „Tipps für Studenten: Jobben und studieren“ (PDF)
+www.deutsche-rentenversicherung.de -> Rente -> Azubis, Studierende & Berufsein-
+steiger -> Studierende
+36
+10.5 Info und Beratung zum Studium
+An jeder Hochschule gibt es ein International Office bzw. eine Abteilung für Inter-
+nationales. Dort finden Sie Berater/innen für internationale Studierende, die Ihnen
+bei aufenthaltsrechtlichen und weiteren Fragen gerne weiterhelfen. Außerdem fin-
+den Sie weitere Beratungsstellen wie z.B.:
+
+Allgemeine Studienberatung
+
+Studienfachberatung
+
+Prüfungsämter
+
+AStA (Allgemeiner Studierendenausschuss)
+
+ggf. Praktikumsbüro
+
+Behindertenbeauftragte
+Auf der Internetseite Ihrer Hochschule finden Sie die jeweiligen Kontaktinformatio-
+nen.
+www.uni-hamburg.de
+www.haw-hamburg.de
+www.tuhh.de
+www.hcu-hamburg.de
+www.hfmt-hamburg.de
+www.hfbk-hamburg.de
+10.6 Berufseinstieg
+Mehrere Hochschulen bieten in ihren Career Centers Dienstleistungen wie diese für
+ihre Absolventinnen und Absolventen an:
+
+Berufliche Orientierung
+
+Karriereplanung
+
+Bewerbungstraining
+
+Erweiterung von Kompetenzen
+www.uni-hamburg.de/career-center
+www.haw-hamburg.de/studium/careerservice
+www.tuhh.de/tuhh/universitaet/service/career-center.html
+www.hfmt-hamburg.de/studieren/career-center
+10.7 Selbstständigkeit
+
+Handelskammer Hamburg: www.hk24.de
+
+H.E.I. Hamburger Initiative für Existenzgründungen und Innovationen
+www.hei-hamburg.de
+
+LAWAETZ – Stiftung www.lawaetz.de
+
+Hamburg Innovation GmbH www.hamburg-innovation.de
+
+TuTech Innovation GmbH www.tutech.de
+
+Innovationsstiftung Hamburg www.innovationsstiftung.de
+37
+
+Gründungszentrum mit Ideen-Tipps und Fachberatung www.garageham-
+burg.de
+
+Unternehmer ohne Grenzen www.unternehmer-ohne-grenzen.de
+10.8 Rechtsquellen
+
+Aufenthaltsgesetz www.gesetze-im-internet.de/aufenthg_2004/index.html
+
+Aufenthaltsverordnung http://www.gesetze-im-internet.de/aufenthv/in-
+dex.html
+
+Freizügigkeitsgesetz/EU www.gesetze-im-inter-
+net.de/freiz_gg_eu_2004/index.html
+
+Allgemeine Verwaltungsvorschrift zum Freizügigkeitsgesetz/EU
+http://www.verwaltungsvorschriften-im-inter-
+net.de/bsvwvbund_03022016_MI12100972.htm
+ Beschäftigungsverordnung www.gesetze-im-internet.de/beschv_2013/in-
+dex.html
+ Fachliche Weisungen der Bundesagentur für Arbeit zum Aufenthaltsgesetz
+und zur Beschäftigungsverordnung https://www.arbeitsagentur.de/da-
+tei/dok_ba146473.pdf
+38
+11 Anlage
+Liste der Mangelberufe nach § 18g Aufenthaltsgesetz
+Zu den definierten Mangelberufen (Gruppen 132, 133, 134, 21, 221, 222, 225, 226,
+23 und 25 der ISCO-08 https://op.europa.eu/de/publication-detail/-/publica-
+tion/a6afa5ba-23f6-497b-90c3-48da8557356e/language-de) zählen:
+132. Führungskräfte in der Produktion bei der Herstellung von Waren, im Bergbau
+und im Bau sowie in der Logistik
+1321 Führungskräfte in der Produktion bei der Herstellung von Waren
+1322 Führungskräfte in der Produktion im Bergbau
+1323 Führungskräfte in der Produktion im Bau
+1324 Führungskräfte in der Beschaffung, Logistik und in verwandten Bereichen
+133. Führungskräfte in der Erbringung von Dienstleistungen im Bereich Informa-
+tions- und Kommunikationstechnologie
+1330 Führungskräfte in der Erbringung von Dienstleistungen im Bereich Informations-
+und Kommunikationstechnologie
+134. Führungskräfte in der Erbringung von speziellen Dienstleistungen
+1341 Führungskräfte in der Erbringung von Dienstleistungen der Kinderbetreuung
+1342 Führungskräfte in der Erbringung von Dienstleistungen im Gesundheitswesen
+1343 Führungskräfte in der Erbringung von Dienstleistungen der Altenbetreuung
+1344 Führungskräfte in der Erbringung von Dienstleistungen der Sozialfürsorge
+1345 Führungskräfte in der Erbringung von Dienstleistungen des Bildungswesens
+1346 Führungskräfte auf Filialebene in der Erbringung von Finanz- und Versicherungs-
+dienstleistungen
+1349 Führungskräfte in der Erbringung von speziellen Dienstleistungen, anderweitig
+nicht genannt
+21. Naturwissenschaftler, Mathematiker und Ingenieure
+211. Physiker, Chemiker, Geologen und verwandte Berufe
+39
+2111 Physiker und Astronomen
+2112 Meteorologen
+2113 Chemiker
+2114 Geologen und Geophysiker
+212. Mathematiker, Versicherungsmathematiker und Statistiker
+2120 Mathematiker, Versicherungsmathematiker und Statistiker
+213. Biowissenschaftler
+2131 Biologen, Botaniker, Zoologen und verwandte Berufe
+2132 Agrar-, Forst- und Fischereiwissenschaftler und -berater
+2133 Umweltwissenschaftler
+214. Ingenieurwissenschaftler (ohne Elektrotechnik, Elektronik und Telekommunikation)
+2141 Wirtschafts- und Produktionsingenieure
+2142 Bauingenieure
+2143 Umweltschutzingenieure
+2144 Maschinenbauingenieure
+2145 Chemieingenieure
+2146 Bergbauingenieure, Metallurgen und verwandte Berufe
+2149 Ingenieure, anderweitig nicht genannt
+215. Ingenieure in den Bereichen Elektrotechnik, Elektronik und Telekommunikations-
+technik
+2151 Ingenieure im Bereich Elektrotechnik
+2152 Ingenieure im Bereich Elektronik
+2153 Ingenieure im Bereich Telekommunikationstechnik
+40
+216. Architekten, Raum-, Stadt- und Verkehrsplaner, Vermessungsingenieure und De-
+signer
+2161 Architekten
+2162 Landschaftsarchitekten
+2163 Produkt- und Textildesigner
+2164 Raum-, Stadt- und Verkehrsplaner
+2165 Kartografen und Vermessungsingenieure
+2166 Grafik- und Multimediadesigner
+221. Ärzte
+2211 Allgemeinärzte
+2212 Fachärzte
+222. Akademische und vergleichbare Krankenpflege- und Geburtshilfefachkräfte
+2221 Akademische und vergleichbare Krankenpflegefachkräfte
+2222 Akademische und vergleichbare Geburtshilfefachkräfte
+225. Tierärzte
+2250 Tierärzte
+226. Sonstige akademische und verwandte Gesundheitsberufe
+2261 Zahnärzte
+2262 Apotheker
+2263 Akademische und vergleichbare Fachkräfte in den Bereichen Umwelt- und Arbeits-
+medizin sowie Hygiene
+2264 Physiotherapeuten
+2265 Diätologen und Ernährungsberater
+2266 Audiologen und Sprachtherapeuten
+41
+2267 Optometristen und Orthoptisten
+2269 Akademische und verwandte Gesundheitsberufe, anderweitig nicht genannt
+23. Lehrkräfte 231. Universitäts- und Hochschullehrer
+2310 Universitäts- und Hochschullehrer
+232. Lehrkräfte im Bereich Berufsbildung
+2320 Lehrkräfte im Bereich Berufsbildung
+233. Lehrkräfte im Sekundarbereich
+2330 Lehrkräfte im Sekundarbereich
+234. Lehrkräfte im Primar- und Vorschulbereich
+2341 Lehrkräfte im Primarbereich
+2342 Lehrkräfte und Erzieher im Vorschulbereich
+235. Sonstige Lehrkräfte
+2351 Pädagogik- und Didaktikspezialisten
+2352 Lehrkräfte im Bereich Sonderpädagogik
+2353 Sonstige Sprachlehrer
+2354 Sonstige Musiklehrer
+2355 Sonstige Kunstlehrer
+2356 Ausbilder im Bereich Informationstechnologie
+2359 Lehrkräfte, anderweitig nicht genannt
+25. Akademische und vergleichbare Fachkräfte in der Informations- und Kommuni-
+kationstechnologie
+251. Entwickler und Analytiker von Software und Anwendungen
+2511 Systemanalytiker
+2512 Softwareentwickler
+42
+2513 Web- und Multimediaentwickler
+2514 Anwendungsprogrammierer
+2519 Entwickler und Analytiker von Software und Anwendungen, anderweitig nicht ge-
+nannt
+252. Akademische und vergleichbare Fachkräfte für Datenbanken und Netzwerke
+2521 Datenbankentwickler und -administratoren
+2522 Systemadministratoren
+2523 Akademische und vergleichbare Fachkräfte für Computernetzwerke
+2529 Akademische und vergleichbare Fachkräfte für Datenbanken und Netzwerke, an-
+derweitig nicht genannt
+43
+Behörde für Inneres und Sport
+Johanniswall 4
+20095 Hamburg
+Tel: +49 (40) 428 280
+Fax: +49 (40) 428 39 1908
+www.hamburg.de/innenbehoerde

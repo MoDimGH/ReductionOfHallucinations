@@ -1,0 +1,1866 @@
+FAQ´s zum Thema Corona
+Fragen und Antworten zu den steuerlichen Hilfsmaßnahmen
+HH- FAQ „Corona“ (Steuern)
+Stand: 21.03.2023
+Änderungen gegenüber der vorherigen Fassung sind gelb markiert:
+Einleitung .............................................................................................. 8
+Inhalt
+Allgemeine verfahrensrechtliche Fragen zu den
+Steuererleichterungen ......................................................................... 8
+Besteht die Möglichkeit einer Fristverlängerung für die Abgabe von
+Steuererklärungen?............................................................................................... 8
+Ist bei Nichteinhaltung einer gesetzlichen Frist eine Wiedereinsetzung in den
+vorigen Stand möglich?....................................................................................... 10
+Besteht die Möglichkeit, für aktuelle Verluste aufgrund der Corona-Krise eine
+Einkommen- oder Körperschaftsteuerminderung im Wege eines
+vorweggenommenen, pauschal ermittelten Verlustrücktrags zu beantragen? .... 10
+Kann ich im vereinfachten Verfahren eine höhere Steuererstattung beantragen,
+wenn ich einen höheren als den pauschal ermittelten Verlustrücktrag erwarte? . 11
+An wen kann ich mich mit Fragen zu Anträgen auf Stundung, Herabsetzung von
+Vorauszahlungen, Fristverlängerungen oder zu Maßnahmen der Vollstreckung
+wenden? ............................................................................................................. 11
+Welche Rahmenbedingungen gelten für Vollstreckungsaufschübe? .................. 11
+Stundung ............................................................................................ 11
+Welche Rahmenbedingungen gelten für Stundungen? ................................................. 11
+Allgemeine ertragsteuerliche Fragen .............................................. 11
+Wie können durch den „Lockdown“ verursachte Wertverluste bei nicht verkaufter
+Saisonware in der Steuerbilanz berücksichtigt werden? ..................................... 11
+Wirkt sich die Aussetzung der Insolvenzantragspflicht auf die Zulässigkeit von
+Teilwertabschreibungen auf Forderungen zum Bilanzstichtag aus? ................... 12
+Kann der Steuerpflichtige Aufwendungen für die Corona-Schutzimpfung seiner
+Geschäftspartner und deren Angehörigen als Betriebsausgaben abziehen? Ist die
+Corona-Schutzimpfung ein Vorteil, der beim Geschäftspartner eine
+Betriebseinnahme darstellt? ................................................................................ 12
+Ist die (nachträgliche) Ausstellung von digitalen Corona-Impfzertifikaten durch
+Ärzte als gewerbliche Tätigkeit zu klassifizieren, die bei Gemeinschaftspraxen
+dann zu einer gewerblichen Infektion führt? ........................................................ 12
+Kann bei Ärztinnen und Ärzten im Ruhestand oder auch Pflegerinnen und Pflegern
+im Ruhestand, die infolge der Corona-Krise für ein Gesundheitsamt oder ein
+staatliches oder gemeinnütziges Krankenhaus Patientinnen und Patienten
+versorgen, der sogenannte Übungsleiterfreibetrag in Anspruch genommen
+werden? .............................................................................................................. 13
+Kann bei Ärztinnen und Ärzten oder Pflegerinnen und Pflegern, deren
+Beschäftigungsverhältnis zum Beispiel wegen einer Elternzeit oder eines
+FAQ´s zum Thema Corona
+unbezahlten Urlaubs ruht, und die infolge der Corona-Krise für ein Gesundheitsamt
+oder ein staatliches oder steuerbegünstigtes Krankenhaus Patientinnen und
+Patienten versorgen, der sogenannte Übungsleiterfreibetrag in Anspruch
+genommen werden? ........................................................................................... 13
+Kann ich die Aufwendungen, die mir durch die Kostenbeteiligung an der Corona-
+Rückholaktion des Auswärtigen Amtes entstanden sind, steuerlich als
+außergewöhnliche Belastungen geltend machen? ............................................. 13
+Wie sind die Aufwendungen zum Erwerb von (Atem-)Schutzmasken
+ertragsteuerlich zu behandeln? ........................................................................... 13
+Kann ich die für mein coronabedingtes Arbeiten von zuhause entstandenen
+Aufwendungen für ein häusliches Arbeitszimmer oder eine häusliche Arbeitsecke
+steuerlich absetzen? ........................................................................................... 14
+Lohnsteuer ......................................................................................... 14
+Wird die Lohnsteuer bei Arbeitnehmern im Fall von angeordneter Kurzarbeit
+automatisch an die Höhe des geminderten Gehalts angepasst? ........................ 14
+Sind das Kurzarbeitergeld und etwaige Arbeitgeberzuschüsse dazu steuerfrei? 14
+Besteht nach Bezug von Kurzarbeitergeld eine Pflicht zur Abgabe einer
+Einkommensteuererklärung? Was hat das für Konsequenzen? ......................... 15
+Kann ich als Arbeitgeber aufgrund der Corona-Krise eine Verlängerung der Frist
+für die Abgabe der monatlichen oder vierteljährlichen Lohnsteuer-Anmeldung
+beantragen? ........................................................................................................ 15
+Kann ich Aufwendungen für ein häusliches Arbeitszimmer oder eine häusliche
+Arbeitsecke geltend machen, wenn ich normalerweise einen Büroarbeitsplatz im
+Betrieb habe, nun aber Corona bedingt zuhause arbeiten muss? ...................... 16
+Wie ermittle ich die als Werbungskosten abziehbaren Fahrtkosten, wenn ich eine
+Zeitfahrkarte für den öffentlichen Personennahverkehr besitze und im Homeoffice
+arbeite? ............................................................................................................... 17
+Können die Aufwendungen für eine Zeitfahrkarte im öffentlichen
+Personennahverkehr neben der Homeoffice-Pauschale als Werbungskosten
+abgezogen werden?............................................................................................ 17
+Kann der Arbeitgeber außergewöhnliche Betreuungsleistungen, die aufgrund der
+Corona-Krise für pflegebedürftige Angehörige und Kinder entstehen, steuerfrei
+erstatten? ............................................................................................................ 17
+Wie werden öffentliche Zuschüsse für die Unterbringung und Verpflegung
+ausländischer Grenzpendler, zum Beispiel polnischer Grenzpendler, die aufgrund
+von Grenzschließungen oder Quarantäneregeln nicht täglich nach Hause
+zurückkehren können, steuerlich behandelt? ...................................................... 18
+Sind nach dem Auslandstätigkeitserlass (ATE) begünstigte Tätigkeiten eines
+Arbeitnehmers auch dann steuerfrei, wenn wegen der Corona-Krise eine im
+Ausland geplante Tätigkeit im Sinne des ATE nicht ausgeführt oder fortgesetzt
+werden kann? Wie wirkt es sich auf die Steuerfreiheit nach dem ATE aus, wenn
+die begünstigte Tätigkeit stattdessen im Inland ausgeführt oder fortgesetzt wird?
+............................................................................................................................ 18
+Führt die Übernahme von Kosten für Covid-19-Tests durch den Arbeitgeber zu
+Arbeitslohn? ........................................................................................................ 19
+Stellt eine Corona-Schutzimpfung durch den Arbeitgeber bei seinem
+Arbeitnehmer, dessen Angehörigen oder Lebenspartner Arbeitslohn dar?......... 19
+Führt eine Corona-Impfung durch den Betriebsarzt beim Arbeitnehmer zu
+Arbeitslohn? ........................................................................................................ 19
+Steuerfreie Beihilfen und Unterstützungen für Arbeitnehmer bis
+FAQ´s zum Thema Corona
+zu 1.500 Euro ..................................................................................... 19
+Konnte jede Zahlung des Arbeitgebers in der Zeit vom 1. März 2020 bis zum 31.
+März 2022 als Beihilfe und Unterstützung aufgrund der Corona-Krise angesehen
+werden? .............................................................................................................. 19
+Konnten Arbeitgeber ihren Arbeitnehmern sowohl in 2020, in 2021 oder im ersten
+Quartal 2022 einen steuerfreien Betrag von 1.500 Euro, insgesamt also 4.500
+Euro, steuerfrei gewähren? ................................................................................. 19
+Konnten Arbeitgeber vor der Corona-Krise übliche oder vereinbarte
+Sonderzahlungen in steuerfreie Leistungen nach dem § 3 Nummer 11a des
+Einkommensteuergesetzes umwandeln? ............................................................ 20
+Konnten steuerfreie Beihilfen und Unterstützungen zusätzlich zum ohnehin
+geschuldeten Arbeitslohn in tarifvertraglichen Vereinbarungen geregelt werden?
+............................................................................................................................ 20
+Konnten Beträge auch dann steuerfrei gezahlt werden, wenn (gegebenenfalls
+ausschließlich) Kurzarbeitergeld im selben Lohnzahlungszeitraum/ in einem
+vorangegangenen Lohnzahlungszeitraum seit 1. März 2020 gezahlt wurde und die
+Leistung nicht als "Aufstockung" des Kurzarbeitergelds bezeichnet wurde?
+Konnten Beträge auch steuerfrei sein, wenn diese, oder beispielsweise
+unterschiedslos allen Beschäftigten gewährt wurden und, von denen nur ein Teil
+der Beschäftigten Kurzarbeitergeld bezog? ........................................................ 21
+Der Arbeitgeber leistet regelmäßig eine freiwillige Sonderzahlung oder eine
+freiwillige Erholungsbeihilfe. Im Jahr 2020 ist anstelle der freiwilligen
+Sonderzahlung / Erholungsbeihilfe eine Corona-Beihilfe gewährt worden. Ist diese
+steuerfrei? ........................................................................................................... 21
+Waren Leistungen, die bereits vor dem 1. März 2020 vereinbart waren oder deren
+Zahlung vor dem 1. März 2020 beabsichtigt war, begünstigt? ............................ 22
+Galt der neue § 3 Nummer 11a des Einkommensteuergesetzes für Arbeitnehmer
+öffentlich-rechtlicher Arbeitgeber in gleicher Weise wie für Arbeitnehmer privater
+Arbeitgeber? ....................................................................................................... 22
+Waren Leistungsprämien für im Jahr 2019 erbrachte Arbeitsleistungen nach § 3
+Nummer 11a des Einkommensteuergesetzes steuerfrei? ................................... 22
+Konnten Arbeitgeber steuerfreie Beihilfen und Unterstützungen zur Abmilderung
+der zusätzlichen Belastung durch die Corona-Krise an Arbeitnehmer leisten, denen
+im Gegenzug geleistete Überstunden gekürzt werden, auf die kein
+Auszahlungsanspruch besteht? .......................................................................... 23
+Konnten steuerfreie Beihilfen und Unterstützungen auch an geringfügig entlohnte
+Beschäftigte (sogenannte Minijobber) geleistet werden? War eine
+Angemessenheitsprüfung vorzunehmen? ........................................................... 23
+Handelte es sich bei dem nach § 3 Nummer 11 des Einkommensteuergesetzes
+steuerfreien Betrag in Höhe von 1.500 Euro um einen Freibetrag oder um eine
+Freigrenze? ......................................................................................................... 23
+Konnte ein Gesellschafter-Geschäftsführer die ebenfalls in Anspruch nehmen? 23
+Konnte der steuerfreie Höchstbetrag von 1.500 Euro für jedes Dienstverhältnis
+gesondert ausgeschöpft werden oder ist gegebenenfalls zu prüfen, ob aus anderen
+Dienstverhältnissen bereits eine Zahlung geleistet wurde? ................................ 24
+Konnte die Steuerbefreiung bei zwei oder mehr aufeinander folgenden
+Dienstverhältnissen für jedes Dienstverhältnis in Anspruch genommen werden?
+............................................................................................................................ 24
+Wegen der Corona-Krise wurde das Dienstverhältnis aufgelöst. In der
+Auflösungsvereinbarung (Abfindungsvereinbarung) wird die Zahlung einer
+Corona-Beihilfe von 1.500 Euro vereinbart. Ist diese steuerfrei? ........................ 25
+FAQ´s zum Thema Corona
+War die steuerfreie Zahlung in Höhe von 1.500 Euro unschädlich für die
+Pauschalierung nach § 40a Absatz 2 des Einkommensteuergesetzes? ............. 25
+Wie war der Zusammenhang zur Corona-Krise nachzuweisen beziehungsweise im
+Lohnkonto aufzuzeichnen? ................................................................................. 25
+Ist die steuerfreie Beihilfe/Unterstützung in der Lohnsteuerbescheinigung
+auszuweisen und in der Einkommensteuererklärung anzugeben? ..................... 25
+Unterliegen steuerfreie Beihilfen und Unterstützungen dem
+Progressionsvorbehalt? ...................................................................................... 26
+Wie verhalten sich das BMF-Schreiben vom 9. April 2020 und die neue gesetzliche
+Regelung des § 3 Nummer 11a des Einkommensteuergesetzes zueinander? ... 26
+Steuerfreier „Corona-Pflegebonus“ für Arbeitnehmer bis zu 4.500
+Euro ..................................................................................................... 26
+Wer konnte den „Corona-Pflegebonus“ steuerfrei erhalten? Welche Arten von
+Leistungen des Arbeitgebers waren begünstigt? ................................................ 26
+Gehören Angebote zur Unterstützung im Alltag zu den begünstigten ambulanten
+Pflegediensten? .................................................................................................. 27
+Waren auch Personen begünstigt, die vergleichbare Tätigkeiten in anderen
+Einrichtungen ausführen? ................................................................................... 27
+Waren auch nicht pflegerisch tätige Personen begünstigt? ................................ 27
+Waren auch Auszubildende in Krankenhäusern begünstigt? .............................. 27
+Waren auch Personen begünstigt, die in einem Krankenhaus im Rahmen einer
+Arbeitnehmerüberlassung eingesetzt werden? ................................................... 28
+Waren freiwillige Leistungen des Arbeitgebers begünstigt? ................................ 28
+Waren tarifvertraglich geregelte Leistungen der Arbeitgeber begünstigt?........... 28
+Muss der Arbeitnehmer oder muss der Arbeitgeber nachweisen, dass er den
+Bonus zur Anerkennung besonderer Leistungen in der Corona-Krise erhalten oder
+gewährt hatte? .................................................................................................... 28
+Gelten für Leistungen des Arbeitgebers die Steuerbefreiungen für die „Corona-
+Prämie“ bis zur Höhe von 1.500 Euro und für den „Corona-Pflegebonus“ bis zur
+Höhe von 4.500 Euro nebeneinander? ............................................................... 28
+Warum waren (nur) Leistungen in der Zeit vom 18. November 2021 bis zum 31.
+Dezember 2022 begünstigt? ............................................................................... 29
+Gilt die Steuerbefreiung auch für mehrere Leistungen, die der Arbeitgeber dem
+Arbeitnehmer im begünstigten Zeitraum gewährt? ............................................. 29
+Konnten Arbeitgeber ihren Arbeitnehmern sowohl in 2021 als auch in 2022 je einen
+steuerfreien Betrag von bis zu 4.500 Euro, insgesamt also 9.000 Euro, steuerfrei
+gewähren? .......................................................................................................... 29
+Was gilt, wenn dem Arbeitnehmer Leistungen von insgesamt mehr als 4.500 Euro
+gewährt wurden? ................................................................................................ 29
+Konnte der steuerfreie Höchstbetrag von 4.500 Euro für jedes Dienstverhältnis
+gesondert ausgeschöpft werden oder ist zu prüfen, ob aus anderen
+Dienstverhältnissen bereits eine Zahlung geleistet wurde? Was gilt bei zwei oder
+mehr aufeinander folgenden Dienstverhältnissen? ............................................. 29
+Warum wurde die Steuerbefreiung bis zu einer Höhe von 4.500 Euro gewährt? 29
+Ist der steuerfreie „Corona-Pflegebonus“ vom Arbeitgeber in der
+Lohnsteuerbescheinigung auszuweisen oder vom Arbeitnehmer in der
+Einkommensteuererklärung anzugeben?............................................................ 30
+War der steuerfreie „Corona-Pflegebonus“ vom Arbeitgeber im Lohnkonto
+aufzuzeichnen? ................................................................................................... 30
+Grenzgänger ....................................................................................... 30
+FAQ´s zum Thema Corona
+Aufgrund der einschränkenden Maßnahmen zur Bekämpfung der Corona-
+Pandemie sollten Beschäftigte möglichst von zuhause aus arbeiten. Welche
+steuerlichen Konsequenzen hat dies für Beschäftigte, die in einem Staat wohnen
+und normalerweise arbeitstäglich über die Grenze in einen anderen Staat pendeln,
+um dort ihrer Tätigkeit nachzugehen und im Anschluss an ihren Wohnsitz
+zurückkehren (sog. Grenzgänger)? .................................................................... 30
+Betriebstätten ..................................................................................... 31
+Ergeben sich durch zeitliche Unterbrechungen von Bau- und Montagearbeiten für
+ausländische (Bau-) Unternehmen und deren Beschäftigte in Deutschland im Zuge
+der Corona-Krise steuerliche Konsequenzen, indem zum Beispiel aufgrund des
+Überschreitens der Betriebstättenbegründungsfrist von 6 Monaten gemäß § 12 AO
+beziehungsweise der ggfs. längeren Frist nach dem Betriebstättenartikel eines
+Doppelbesteuerungsabkommens eine inländische Betriebstätte mit der Folge
+steuerlicher Pflichten in Deutschland begründet wird? ....................................... 31
+Wurde durch die während der Corona-Pandemie von Arbeitskräften im Homeoffice
+ausgeübte Tätigkeit grenzüberschreitend eine Betriebsstätte des Unternehmens
+begründet? .......................................................................................................... 32
+Maßnahmen im Gemeinnützigkeitssektor und für gesellschaftliches
+Engagement in der Corona-Krise ..................................................... 32
+Wie werden Spenden steuerlich berücksichtigt? Ändert sich wegen der Corona-
+Krise etwas an Abläufen, Verfahren und Nachweisen? ...................................... 32
+Wie werden Sachspenden (zum Beispiel Atemschutzmasken) aus dem eigenen
+Unternehmen an Krankenhäuser oder Supermärkte zum Schutz der dort tätigen
+Angestellten steuerlich behandelt, wenn es sich um eine öffentlichkeitswirksame
+Spendenaktion (zum Beispiel durch Unterstützung des Bürgermeisters) handelt?
+............................................................................................................................ 32
+Wie werden Spenden an einen – gegebenenfalls auch steuerbegünstigten -
+Geschäftspartner steuerlich behandelt?.............................................................. 33
+Hat die unentgeltliche Bereitstellung von medizinisch geschultem Personal sowie
+Material an Einrichtungen umsatzsteuerliche Konsequenzen, wenn diese einen
+unverzichtbaren Einsatz zur Bewältigung der Corona-Krise leisten? .................. 33
+Darf jede steuerbegünstigte Körperschaft (zum Beispiel gemeinnützige Vereine
+oder Stiftungen) unabhängig von ihrem eigentlichen Satzungszweck Spenden im
+Zusammenhang mit der Corona-Krise einwerben? ............................................. 33
+Dürfen steuerbegünstigte Körperschaften (zum Beispiel gemeinnützige Vereine
+oder Stiftungen) außerhalb ihrer Satzungszwecke zur Bewältigung der
+Auswirkungen der Corona-Krise tätig werden (zum Beispiel durch Einkaufshilfen)?
+............................................................................................................................ 34
+Wie sind entgeltliche Tätigkeiten steuerbegünstigter Körperschaften (zum Beispiel
+gemeinnütziger Vereine oder Stiftungen) zu behandeln, die im Zusammenhang mit
+der Corona-Krise ausgeübt werden? .................................................................. 34
+Eine steuerbegünstigte Körperschaft (zum Beispiel ein gemeinnütziger Verein oder
+eine Stiftung) hat Mittel aus Vorjahren angesammelt und kann diese nun aufgrund
+der Corona-Krise in den Jahren 2020 bis einschließlich 2023 nicht ausgeben.
+Verliert sie nun die Gemeinnützigkeit? ................................................................ 35
+Dürfen Rücklagen steuerbegünstigter Körperschaften (zum Beispiel
+gemeinnütziger Vereine oder gemeinnützige Stiftungen), die nach § 62 der
+Abgabenordnung zu anderen Zwecken gebildet worden sind, aufgelöst werden,
+um eine aufgrund der Corona-Krise entstandene wirtschaftliche Notlage
+FAQ´s zum Thema Corona
+abzumildern? ...................................................................................................... 36
+Darf eine steuerbegünstigte Körperschaft (zum Beispiel ein gemeinnütziger Verein
+oder eine gemeinnützige Stiftung) ihrem wirtschaftlichen Geschäftsbetrieb mit
+gesammelten Spendengeldern oder Mitgliedsbeiträgen vorübergehend finanziell
+unter die Arme greifen? ....................................................................................... 36
+Darf der Übungsleiter (zum Beispiel Trainer eines Fußballvereins) einer
+steuerbegünstigten Körperschaft (zum Beispiel eines gemeinnützigen Vereines
+oder einer gemeinnützigen Stiftung), der aufgrund der Corona- Krise
+vorübergehend seiner Tätigkeit nicht nachkommen kann, weiterbezahlt werden,
+ohne dass die Gemeinnützigkeit der Körperschaft gefährdet wird? .................... 36
+Ist die Steuerbegünstigung einer Körperschaft (zum Beispiel eines gemeinnützigen
+Vereins oder einer Stiftung) gefährdet, wenn sie ihren Mitgliedern, die durch die
+Corona-Krise wirtschaftlich in Not geraten sind, für das Jahr 2020 bis einschließlich
+2023 bereits geleistete Beiträge zurückerstattet oder auf die Erhebung von
+Beiträgen für das laufende Jahr von diesen Mitgliedern verzichtet wird? Muss
+deswegen die Satzung oder Beitragsordnung der Körperschaft geändert werden?
+............................................................................................................................ 36
+Ist es für steuerbegünstigte Körperschaften (zum Beispiel gemeinnützige Vereine
+oder Stiftungen) gemeinnützigkeitsrechtlich unschädlich, wenn sie ihren
+Beschäftigten das Kurzarbeitergeld aufstocken? ................................................ 37
+Dürfen steuerbegünstigte Körperschaften (zum Beispiel gemeinnützige Vereine
+oder Stiftungen) die von der Corona-Krise Betroffenen, wie zum Beispiel Künstler
+oder Solo-Selbständige unterstützen? ................................................................ 38
+Viele Kultur- oder Sportveranstaltungen müssen wegen der Corona-Krise
+abgesagt und bereits bezahlte Ticketpreise erstattet werden. Besteht die
+Möglichkeit, dass steuerbegünstigte Körperschaften (zum Beispiel gemeinnützige
+Vereine oder Stiftungen) dem Ticketinhaber eine Zuwendungsbestätigung
+(Spendenquittung) ausstellen, wenn dieser auf die ihm zustehende Erstattung des
+Ticketpreises verzichtet? ..................................................................................... 38
+Ist es schädlich für die Gemeinnützigkeit, wenn der Verein in den Jahren 2020 bis
+einschließlich 2023 coronabedingt nicht in der Lage ist, seine satzungsmäßigen
+Zwecke zu verfolgen? ......................................................................................... 39
+Ist die Absage oder Verschiebung der Mitgliederversammlung dem zuständigen
+Finanzamt zu melden? ........................................................................................ 39
+Können freiwillige Helfer in Impf- oder Testzentren auch die Ehrenamts- oder sogar
+die Übungsleiterpauschale in Anspruch nehmen? .............................................. 39
+Sind Zahlungen für in Impfzentren Engagierte steuerfrei, wenn die Ausgabe der
+Auszahlung der Übungsleiter- und Ehrenamtspauschalen nicht durch die
+Gemeinde, sondern etwa durch eine örtliche Apotheke erfolgt? ......................... 40
+Werden Sachspenden von Einzelhändlern an steuerbegünstigte Organisationen
+für einen befristeten Zeitraum von der Umsatzsteuer ausgenommen? ............... 40
+Ist die Durchführung von Corona-Tests umsatzsteuerfrei? ................................. 40
+Unter welchen Voraussetzungen sind Impfleistungen gegen das Coronavirus
+SARS-CoV-2 und damit zusammenhängende Leistungen umsatzsteuerfrei? .... 41
+Billigkeitsleistungen (Unterstützungsleistungen) aus den Corona-
+Hilfsprogrammen ............................................................................... 42
+Sind Unterstützungszahlungen aus den Corona-Hilfsprogrammen, wie zum
+Beispiel Soforthilfen, Überbrückungshilfen oder vergleichbare
+Unterstützungsleistungen des Bundes und der Länder steuerpflichtig? ............. 42
+Werden diese Unterstützungszahlungen bereits bei der Festsetzung der
+Ertragsteuer-Vorauszahlung berücksichtigt? ...................................................... 42
+FAQ´s zum Thema Corona
+Sind Unterstützungszahlungen aus den Corona-Hilfsprogrammen, wie
+Soforthilfen, Überbrückungshilfen oder vergleichbare Unterstützungsleistungen
+des Bundes und der Länder umsatzsteuerpflichtig? ........................................... 43
+Allgemeiner Hinweis .......................................................................... 43
+FAQ´s zum Thema Corona
+Einleitung
+Das Bundesministerium der Finanzen und die obersten Finanzbehörden der Länder hatten
+verschiedene steuerliche Erleichterungen beschlossen, um Sie, die von der Corona-Krise
+unmittelbar und nicht unerheblich negativ wirtschaftlich betroffenen Steuerpflichtigen, zu entlasten.
+Ziel war es, die Liquidität bei Unternehmen zu verbessern, die durch die Corona-Krise in
+wirtschaftliche Schwierigkeiten geraten waren.
+So war für die Betroffenen bis zum 30. Juni 2022 in der Regel die Möglichkeit eingeräumt worden,
+Steuerzahlungen bis zum 30. Juni 2022 zinslos zu stunden; bei Vereinbarung einer angemessenen
+Ratenzahlung war dies bis zum 30. September 2022 möglich. Ebenso sollte auf die Vollstreckung
+rückständiger Steuerschulden verzichtet werden. Dies verschaffte den Steuerpflichtigen eine
+Zahlungspause gegenüber dem Finanzamt. Darüber hinaus bestand bis zum 30. Juni 2022 die
+Möglichkeit in einem vereinfachten Verfahren, die Vorauszahlungen zur Einkommen-,
+Körperschaft- und zur Gewerbesteuer herabzusetzen.
+Darüber hinaus bestehen aber noch zahlreiche – aus der Corona-Pandemie resultierende -
+Erleichterungen, wie z. B. die verlängerten Erklärungsfristen.
+Die folgenden FAQ sollen Ihnen insoweit einen kurzen Überblick über die näheren Einzelheiten
+der aktuell geltenden Maßnahmen geben. Die Ausführungen sind als allgemeine Hinweise im
+Umgang mit den sich aufdrängenden Fragestellungen im Zusammenhang mit der Corona-Krise zu
+verstehen. Die Entscheidung im Einzelfall obliegt nach wie vor den Finanzämtern beziehungsweise
+den weiteren Ansprechpartnern. Bitte beachten Sie, dass das Dokument laufend an die aktuelle
+Situation und die sich ergebenden Fragestellungen angepasst wird.
+Allgemeine verfahrensrechtliche Fragen zu den
+Steuererleichterungen
+Besteht die Möglichkeit einer Fristverlängerung für die Abgabe von
+Steuererklärungen?
+Steuererklärungen für das Jahr 2020:
+Der Gesetzgeber hat im Rahmen des Vierten Corona-Steuerhilfegesetzes vom 19. Juni 2022
+(Bundesgesetzblatt 2022 Teil I Seite 911) die Steuererklärungsfristen (nur) für beratene
+Steuerpflichtige gegenüber der bisherigen Regelung durch das ATAD-Umsetzungsgesetz vom 25.
+Juni 2021 (Bundesgesetzblatt 2021 Teil I Seite 2035) um weitere 3 Monate verlängert sowie damit
+zusammenhängende Fristen und Termine (§ 109 Absatz 2, § 149 Absätze 3 und 4, § 152 Absatz
+2 und § 233a Absatz 2 der Abgabenordnung) entsprechend um weitere 3 Monate verschoben. Dies
+bedeutet:
+• Für Steuerpflichtige, die sich nicht von einem Steuerberater, Lohnsteuerhilfeverein oder einer
+anderen zur Beratung befugten Person beraten lassen (nicht beratene Steuerpflichtige),
+endet die allgemeine gesetzliche Abgabefrist für Steuererklärungen für das Kalenderjahr 2020
+erst am 31. Oktober 2021. Da dies aber ein Sonntag war, endete die Frist erst mit Ablauf des
+nächstfolgenden Werktags (§ 108 Absatz 3 der Abgabenordnung). Soweit der 1. November
+2021 ein gesetzlicher Feiertag war, endete die Frist erst mit Ablauf des 2. November 2021. Für
+nicht beratene Land- und Forstwirte mit vom Kalenderjahr abweichendem Wirtschaftsjahr
+endet sie 10 Monate nach Ablauf des Wirtschaftsjahres 2020/2021. Wenn die abweichenden
+Wirtschaftsjahre jeweils am 30. Juni enden, bedeutet dies, dass die Erklärungsfrist für 2020
+unter Berücksichtigung des § 108 Absatz 3 der Abgabenordnung am 2. Mai 2022 endete
+Seite 8
+FAQ´s zum Thema Corona
+• Steuerpflichtige, die einen Steuerberater, Lohnsteuerhilfeverein oder eine andere zur Beratung
+befugte Person mit der Erstellung der Steuererklärungen beauftragt haben (beratene
+Steuerpflichtige), hatten die Steuererklärungen für 2020 bis zum 31. August 2022 abzugeben
+(beratene Land- und Forstwirte mit abweichenden Wirtschaftsjahren bis zum 31. Januar 2022).
+Dies galt allerdings nicht für Steuererklärungen beratener Steuerpflichtiger, die auf Grund einer
+gesonderten Anordnung („Vorabanforderung“) bereits zu einem früheren Termin abzugeben
+waren.
+• Davon unabhängig kann im Einzelfall beim zuständigen Finanzamt unter den allgemeinen
+Voraussetzungen eine darüberhinausgehende Fristverlängerung beantragt werden. Um die
+Finanzbehörden zu unterstützen und die Antragsbearbeitung zu beschleunigen, übermitteln
+Sie bitte Ihren Antrag elektronisch über das Online-Finanzamt Mein ELSTER
+(https://www.elster.de/eportal/formulare-leistungen/alleformulare/eingfristverl).
+• Außerdem begann der Zinslauf der sogenannten Vollverzinsung nach § 233a AO für den
+Besteuerungszeitraum 2020 grundsätzlich am 1. Oktober 2022. Wenn die Einkünfte aus Land-
+und Forstwirtschaft bei der erstmaligen Steuerfestsetzung die anderen Einkünfte überwiegen,
+beginnt der Zinslauf der Vollverzinsung für die Einkommen- und Körperschaftsteuer für den
+Besteuerungszeitraum 2020 erst am 1. Juni 2023. Diese gesetzlichen Verlängerungen der
+Karenzzeiten gelten gleichermaßen für Nachzahlungs- wie für Erstattungszinsen sowie in
+beratenen wie in nicht beratenen Fällen.
+• Steuerpflichtige, die für den Besteuerungszeitraum 2020 eine höhere Abschlusszahlung
+erwarten, können noch bis zum gesetzlich hinausgeschobenen Beginn des Zinslaufs der
+Vollverzinsung einen Antrag auf Festsetzung nachträglicher Vorauszahlungen stellen.
+Hierdurch lassen sich unter anderem Zinsrisiken, die sich trotz des oben genannten
+verschobenen Zinslaufbeginns ergeben können, wirksam vermeiden.
+Steuererklärungen für das Jahr 2021:
+Der Gesetzgeber hat im Rahmen des Vierten Corona-Steuerhilfegesetzes vom 19. Juni 2022
+(Bundesgesetzblatt 2022 Teil I Seite 911) die Steuererklärungsfristen für nicht beratene
+Steuerpflichtige um 3 Monate und für beratene Steuerpflichtige um 6 Monate verlängert sowie die
+damit zusammenhängenden Fristen und Termine (§ 109 Absatz 2, § 149 Absatz 2 bis 4, § 152
+Absatz 2 und § 233a Absatz 2 der Abgabenordnung) um 6 Monate verschoben. Dies bedeutet:
+• Für Steuerpflichtige, die sich nicht von einem Steuerberater, Lohnsteuerhilfeverein oder
+einer anderen zur Beratung befugten Person beraten lassen (nicht beratene
+Steuerpflichtige), endete die allgemeine gesetzliche Abgabefrist für Steuererklärungen für
+das Kalenderjahr 2021 erst am 31. Oktober 2022. Soweit der 31. Oktober 2022 ein
+gesetzlicher Feiertag war, endet die Frist erst mit Ablauf des 1. November 2022. Für nicht
+beratene Land- und Forstwirte mit vom Kalenderjahr abweichendem Wirtschaftsjahr endet
+sie 10 Monate nach Ablauf des Wirtschaftsjahres 2021/2022. Wenn die abweichenden
+Wirtschaftsjahre jeweils am 30. Juni enden, bedeutet dies, dass die Erklärungsfrist für 2021
+unter Berücksichtigung des § 108 Absatz 3 der Abgabenordnung am 2. Mai 2023 endet.
+• Steuerpflichtige, die einen Steuerberater, Lohnsteuerhilfeverein oder eine andere zur
+Beratung befugte Person mit der Erstellung der Steuererklärungen beauftragt haben
+(beratene Steuerpflichtige), haben die Steuererklärungen für 2021 bis zum 31. August 2023
+abzugeben (beratene Land- und Forstwirte mit abweichenden Wirtschaftsjahren bis zum
+31. Januar 2024). Dies gilt allerdings nicht für Steuererklärungen beratener
+Steuerpflichtiger, die aufgrund einer gesonderten Anordnung („Vorabanforderung“) bereits
+zu einem früheren Termin abzugeben sind oder waren.
+Seite 9
+FAQ´s zum Thema Corona
+• Davon unabhängig kann im Einzelfall beim zuständigen Finanzamt unter den allgemeinen
+Voraussetzungen eine darüberhinausgehende Fristverlängerung beantragt werden. Um die
+Finanzbehörden zu unterstützen und die Antragsbearbeitung zu beschleunigen,
+übermitteln Sie bitte Ihren Antrag elektronisch über das Online-Finanzamt Mein ELSTER
+(https://www.elster.de/eportal/formulare-leistungen/alleformulare/eingfristverl).
+• Außerdem beginnt der Zinslauf der sogenannten Vollverzinsung nach § 233a der
+Abgabenordnung für den Besteuerungszeitraum 2021 grundsätzlich am 1. Oktober 2023.
+Wenn die Einkünfte aus Land- und Forstwirtschaft bei der erstmaligen Steuerfestsetzung
+die anderen Einkünfte überwiegen, beginnt der Zinslauf der Vollverzinsung für die
+Einkommen- und Körperschaftsteuer für den Besteuerungszeitraum 2021 erst am 1. Juni
+2024. Diese gesetzlichen Verlängerungen der Karenzzeiten gelten gleichermaßen für
+Nachzahlungs- wie für Erstattungszinsen sowie in beratenen wie in nicht beratenen Fällen.
+• Steuerpflichtige, die für den Besteuerungszeitraum 2021 eine höhere Abschlusszahlung
+erwarten, können noch bis zum jeweiligen gesetzlich hinausgeschobenen Beginn des
+Zinslaufs der Vollverzinsung einen Antrag auf Festsetzung nachträglicher
+Vorauszahlungen stellen. Hierdurch lassen sich unter anderem Zinsrisiken, die sich trotz
+des oben genannten verschobenen Zinslaufbeginns ergeben können, wirksam vermeiden.
+Steuererklärungen für die Jahre 2022 - 2024:
+Der Gesetzgeber hat im Rahmen des Vierten Corona-Steuerhilfegesetzes vom 19. Juni 2022
+(Bundesgesetzblatt 2022 Teil I Seite 911) auch die Steuererklärungsfristen für die Jahre 2022 bis
+2024 verlängert. Die Verlängerungen werden allerdings sukzessive abgeschmolzen. Sie
+unterscheiden sich außerdem in Abhängigkeit davon, ob es sich um einen beratenen oder nicht
+beratenen Steuerpflichtigen handelt. Wegen weiterer Einzelheiten wird auf das BMF-Schreiben
+vom 23. Juni 2022 - IV A 3 -S 0261/20/10001 :018 – verwiesen.
+Ist bei Nichteinhaltung einer gesetzlichen Frist eine Wiedereinsetzung in
+den vorigen Stand möglich?
+Es soll im konkreten Einzelfall grundsätzlich eine Wiedereinsetzung in den vorigen Stand
+gewährt werden, falls die Nichteinhaltung einer gesetzlichen Frist auf den Folgen der Corona-
+Krise beruht.
+Besteht die Möglichkeit, für aktuelle Verluste aufgrund der Corona-Krise
+eine Einkommen- oder Körperschaftsteuerminderung im Wege eines
+vorweggenommenen, pauschal ermittelten Verlustrücktrags zu
+beantragen?
+Ja, grundsätzlich ist das möglich.
+Wurden Ihre Vorauszahlungen zur Einkommen- oder Körperschaftsteuer für 2021 bereits auf
+null Euro herabgesetzt, kann auf Antrag bei der Jahressteuerfestsetzung für 2020 bereits ein
+pauschal ermittelter Verlustrücktrag nachträglich angesetzt werden. Dieser beträgt 30% des
+Gesamtbetrages der Einkünfte des Veranlagungszeitraumes 2020 (ohne Einkünfte aus
+nichtselbständiger Arbeit) und max. 10 Million Euro beziehungsweise 20 Millionen Euro, wenn
+Sie zusammen veranlagt werden. Bei Körperschaften beträgt der höchstmögliche
+Verlustrücktrag 10 Millionen Euro. Der Antrag ist mit Abgabe der Einkommen- oder
+Seite 10
+FAQ´s zum Thema Corona
+Körperschaftsteuererklärung zu stellen. Bei elektronischer Erklärungsabgabe kann der Antrag
+etwa im sog. Freitextfeld angegeben werden.
+War der Verlust in 2021 nicht in der prognostizierten Höhe entstanden, ist die Steuererstattung
+aus dem bereits vorab berücksichtigten Verlustrücktrag (ganz oder anteilig) nach Durchführung
+der Jahressteuerfestsetzung für 2021 zurückzuzahlen. Dies ist insbesondere der Fall, wenn
+Sie auf die Anwendung des Verlustrücktrags nach 2020 ganz oder teilweise verzichten.
+Kann ich im vereinfachten Verfahren eine höhere Steuererstattung
+beantragen, wenn ich einen höheren als den pauschal ermittelten
+Verlustrücktrag erwarte?
+Ja, grundsätzlich ist dies möglich.
+Anstelle eines – unter 3. beschriebenen - pauschal ermittelten Verlustrücktrags in Höhe von 30
+% des Gesamtbetrags der Einkünfte des Veranlagungszeitraums 2020 (ohne Einkünfte aus
+nichtselbständiger Arbeit) kann bei der Jahressteuerfestsetzung ein höherer Betrag als
+Verlustrücktrag aus 2021 abgezogen werden. In diesem Fall ist der Betrag in der beantragten
+Höhe nachzuweisen.
+Bitte beachten Sie zur Antragstellung die Ausführungen unter 3.
+An wen kann ich mich mit Fragen zu Anträgen auf Stundung, Herabsetzung
+von Vorauszahlungen, Fristverlängerungen oder zu Maßnahmen der
+Vollstreckung wenden?
+Ansprechpartner für Anträge zur Einkommensteuer, zur Körperschaftsteuer, zum
+Solidaritätszuschlag, zur Kirchensteuer, zur Gewerbesteuer, zur Lohnsteuer oder zur
+Umsatzsteuer sind die Mitarbeiterinnen und Mitarbeiter in den jeweils zuständigen
+Finanzämtern. Eine frühzeitige Kontaktaufnahme ist empfehlenswert.
+Bei Fragen zur Versicherungsteuer ist das Bundeszentralamt für Steuern als Ansprechpartner
+zuständig.
+Welche Rahmenbedingungen gelten für Vollstreckungsaufschübe?
+Coronabedingte Vollstreckungsaufschübe sind im üblichen Antragsverfahren, unter Erbringung
+der erforderlichen Nachweise, insbesondere zu den wirtschaftlichen Verhältnissen möglich.
+Stundung
+Welche Rahmenbedingungen gelten für Stundungen?
+Coronabedingte Stundungen von Steuern sind im üblichen Antragsverfahren unter Erbringung
+der erforderlichen Nachweise, insbesondere zu den wirtschaftlichen Verhältnissen, möglich. Es
+gelten die allgemeinen gesetzlichen Grundsätze und Nachweispflichten.
+Allgemeine ertragsteuerliche Fragen
+Wie können durch den „Lockdown“ verursachte Wertverluste bei nicht
+verkaufter Saisonware in der Steuerbilanz berücksichtigt werden?
+Seite 11
+FAQ´s zum Thema Corona
+Aufgrund des „harten Lockdowns“ und der damit verbundenen Beschränkungen zum
+Jahresende 2020 konnte der Umfang der nicht verkauften Saisonware (zum Beispiel
+Feuerwerk- oder Weihnachtsartikel) steigen. Diese Waren waren in den Bilanzen der
+Unternehmen als „Wert“ im Umlaufvermögen bilanziert. Sollte aufgrund des
+Verkaufsrückgangs der Wert dieser Ware am Bilanzstichtag dauerhaft unter die Anschaffungs-
+oder Herstellungskosten gesunken sein, kann dies über das Instrument der
+Teilwertabschreibung (also einer Wertberichtigung) von den Unternehmen steuerlich
+gewinnmindernd berücksichtigt werden. Die bestehenden Regelungen haben sich bewährt und
+sind hinreichend flexibel. Sie können auch die derzeitige Situation der Unternehmen
+zielgerichtet in den Steuerbilanzen abbilden. Hierbei ist insbesondere auf die Möglichkeit
+hinzuweisen, Verluste aus Teilwertabschreibungen bereits unterjährig bei den steuerlichen
+Vorauszahlungen oder hinsichtlich eines vorläufigen Verlustrücktrags im Rahmen der §§ 110,
+111 des Einkommensteuergesetzes zu berücksichtigen. Dieser vereinfachte Mechanismus für
+den Verlustrücktrag wurde mit dem Zweiten Corona-Steuerhilfegesetz eingeführt. Weitere
+Informationen zur Teilwertabschreibung finden sich im BMF-Schreiben vom 2. September 2016
+(Bundessteuerblatt 2016 Teil I Seite 995).
+Wirkt sich die Aussetzung der Insolvenzantragspflicht auf die Zulässigkeit
+von Teilwertabschreibungen auf Forderungen zum Bilanzstichtag aus?
+Insolvenzanträge, die innerhalb von drei Monaten nach dem Bilanzstichtag, spätestens vor dem
+1. Mai 2021, gestellt wurden, werden als werterhellende Faktoren bei der Prüfung der
+Zulässigkeit der Vornahme von Teilwertabschreibungen auf Forderungen zu Bilanzstichtagen
+zwischen dem 30. September 2020 und dem 31. März 2021 angesehen.
+Kann der Steuerpflichtige Aufwendungen für die Corona-Schutzimpfung
+seiner Geschäftspartner und deren Angehörigen als Betriebsausgaben
+abziehen? Ist die Corona-Schutzimpfung ein Vorteil, der beim
+Geschäftspartner eine Betriebseinnahme darstellt?
+Aufwendungen für Corona-Schutzimpfungen von Geschäftspartnern und deren Angehörigen
+sind in voller Höhe abziehbare Betriebsausgaben.
+Bei den die Corona-Schutzimpfung empfangenden Geschäftspartnern ist keine
+Betriebseinnahme zu erfassen. Dies gilt auch für Impfungen der Angehörigen des
+Geschäftspartners.
+Ist die (nachträgliche) Ausstellung von digitalen Corona-Impfzertifikaten
+durch Ärzte als gewerbliche Tätigkeit zu klassifizieren, die bei
+Gemeinschaftspraxen dann zu einer gewerblichen Infektion führt?
+Nein. Das Ausstellen von Impfzertifikaten durch Ärzte stellt keine gewerbliche Tätigkeit im
+Sinne von § 15 des Einkommensteuergesetzes dar. Das Ausstellen von digitalen
+Impfzertifikaten ist lediglich eine (andere) Dokumentationsform (anstelle der/ergänzend zur
+bisherigen Dokumentation im „gelben“ Impfpass) über durchgeführte Covid-19-Impfungen. Sie
+ist untrennbar mit der eigentlichen Impfung verbunden, die eine originäre ärztliche Tätigkeit im
+Sinne von § 18 Absatz 1 Nummer 1 des Einkommensteuergesetzes darstellt. Dies gilt auch
+dann, wenn die Impfung durch eine andere Praxis oder Stelle (zum Beispiel ein Impfzentrum)
+vorgenommen wurde.
+Bei Gemeinschaftspraxen führt das Ausstellen von Impfzertifikaten dementsprechend nicht zu
+einer gewerblichen Abfärbung im Sinne von § 15 Absatz 3 Nummer 1 des
+Einkommensteuergesetzes.
+Seite 12
+FAQ´s zum Thema Corona
+Kann bei Ärztinnen und Ärzten im Ruhestand oder auch Pflegerinnen und
+Pflegern im Ruhestand, die infolge der Corona-Krise für ein
+Gesundheitsamt oder ein staatliches oder gemeinnütziges Krankenhaus
+Patientinnen und Patienten versorgen, der sogenannte
+Übungsleiterfreibetrag in Anspruch genommen werden?
+Die ärztliche Versorgung von kranken Menschen zählt zu den begünstigten Tätigkeiten, für die
+der sogenannte Übungsleiterfreibetrag anzuwenden ist. Daher sind die Einnahmen aus dieser
+Tätigkeit in Höhe von bis zu 2.400 Euro (3.000 Euro ab Kalenderjahr 2021) im Kalenderjahr
+steuerfrei, wenn folgende weitere Voraussetzungen erfüllt sind:
+• Die regelmäßige Wochenarbeitszeit beträgt nicht mehr als 14 Stunden.
+• Der Auftraggeber ist eine juristische Person des öffentlichen Rechts (zum Beispiel ein
+Gesundheitsamt oder ein staatliches Krankenhaus) oder eine wegen der Förderung
+steuerbegünstigter Zwecke (gemeinnützig, mildtätig oder kirchlich) anerkannte Einrichtung
+(etwa ein gemeinnütziges Krankenhaus).
+Übt die Ärztin oder der Arzt mehrere begünstigte Tätigkeiten aus, wird der
+Übungsleiterfreibetrag nur einmal gewährt. Die Einnahmen aus allen begünstigten Tätigkeiten
+sind bis 2.400 Euro (3.000 Euro ab Kalenderjahr 2021) steuerfrei. Wurden Ausgaben getätigt,
+die mit der begünstigten Tätigkeit in einem unmittelbaren Zusammenhang stehen, können
+diese steuerlich nur berücksichtigt werden, soweit sie die steuerfreien Einnahmen übersteigen.
+Die Pflege kranker Menschen ist ebenfalls begünstigt. Pflegerinnen und Pfleger im Ruhestand
+erhalten daher den Übungsleiterfreibetrag unter den gleichen Voraussetzungen wie Ärztinnen
+und Ärzte im Ruhestand.
+Kann bei Ärztinnen und Ärzten oder Pflegerinnen und Pflegern, deren
+Beschäftigungsverhältnis zum Beispiel wegen einer Elternzeit oder eines
+unbezahlten Urlaubs ruht, und die infolge der Corona-Krise für ein
+Gesundheitsamt oder ein staatliches oder steuerbegünstigtes
+Krankenhaus Patientinnen und Patienten versorgen, der sogenannte
+Übungsleiterfreibetrag in Anspruch genommen werden?
+Ob sich Ärztinnen und Ärzte oder Pflegerinnen und Pfleger im Ruhestand befinden oder ob das
+Beschäftigungsverhältnis lediglich ruht, spielt für die Gewährung des Übungsleiterfreibetrags
+keine Rolle. Die Ausführungen zu Ärztinnen und Ärzten im Ruhestand oder Pflegerinnen und
+Pflegerin im Ruhestand unter Nummer V.5 gelten daher entsprechend.
+Kann ich die Aufwendungen, die mir durch die Kostenbeteiligung an der
+Corona-Rückholaktion des Auswärtigen Amtes entstanden sind, steuerlich
+als außergewöhnliche Belastungen geltend machen?
+Grundsätzlich nein. Diese Aufwendungen sind steuerlich nicht zum Abzug zugelassen, weil
+Ihre Auslandsreise als solche (wie bei einer Urlaubsreise) in der Regel nicht die
+Voraussetzungen einer außergewöhnlichen Belastung erfüllt.
+Wie sind die Aufwendungen zum Erwerb von (Atem-)Schutzmasken
+ertragsteuerlich zu behandeln?
+Seite 13
+FAQ´s zum Thema Corona
+Aufwendungen eines Steuerpflichtigen, die im Zusammenhang mit dem Erwerb von
+Schutzmasken anfallen, sind typischerweise Kosten der privaten Lebensführung nach § 12
+Nummer 1 EStG und damit steuerlich nicht berücksichtigungsfähig.
+Die Aufwendungen des Arbeitnehmers für Schutzmasken, die für die berufliche Nutzung
+angeschafft werden, sind Werbungskosten. Für den Werbungskostenabzug ist es in diesem
+Fall unschädlich, wenn die Schutzmasken auch auf den Wegen zwischen Wohnung und erster
+Tätigkeitsstätte getragen werden.
+Die Kosten der Schutzmasken, die der Arbeitgeber für seine Arbeitnehmer zur Ausübung der
+beruflichen Tätigkeit zur Verfügung stellt, sind beim Arbeitgeber voll abzugsfähige
+Betriebsausgaben. Stellt der Arbeitgeber seinen Arbeitnehmern die Schutzmasken zur
+beruflichen Nutzung zur Verfügung, ist ein ganz überwiegend eigenbetriebliches Interesse des
+Arbeitgebers anzunehmen (kein steuerpflichtiger Arbeitslohn).
+Die Aufwendungen für die Anschaffung von Schutzmasken für die eigene betriebliche Tätigkeit
+(einschließlich der Fahrten zwischen Wohnung und Betriebsstätte) bei Steuerpflichtigen mit
+Gewinneinkünften sind Betriebsausgaben, sofern die Schutzmasken für die Ausübung der
+betrieblichen Tätigkeit verwendet werden.
+Darüber hinaus können die Aufwendungen für die Anschaffung von (Atem-)Schutzmasken
+weder als Sonderausgaben noch als außergewöhnliche Belastungen abgezogen werden.
+Kann ich die für mein coronabedingtes Arbeiten von zuhause
+entstandenen Aufwendungen für ein häusliches Arbeitszimmer oder eine
+häusliche Arbeitsecke steuerlich absetzen?
+Hierzu wird auf die Antwort zu Frage 5. in Abschnitt „V. Lohnsteuer“ verwiesen.
+Lohnsteuer
+Wird die Lohnsteuer bei Arbeitnehmern im Fall von angeordneter
+Kurzarbeit automatisch an die Höhe des geminderten Gehalts angepasst?
+Ja, der Arbeitgeber hat die Lohnsteuer (als eine Form der Einkommensteuer) automatisch
+anzupassen. Nur der steuerpflichtige Arbeitslohn unterliegt der Lohnsteuer. Das
+Kurzarbeitergeld ist eine Lohnersatzleistung, die steuerfrei ist, und sich nicht im unterjährigen
+Lohnsteuerabzugs-, sondern nur im späteren im Einkommensteuerveranlagungsverfahren bei
+der Ermittlung des Steuersatzes auswirkt (Progressionsvorbehalt).
+Sind das Kurzarbeitergeld und etwaige Arbeitgeberzuschüsse dazu
+steuerfrei?
+Das Kurzarbeitergeld ist als Lohnersatzleistung steuerfrei. Auch die Zuschüsse des
+Arbeitgebers zum Kurzarbeitergeld, zum Saison-Kurzarbeitergeld und zum
+Transferkurzarbeitergeld sind grundsätzlich steuerfrei, soweit sie zusammen mit dem
+Kurzarbeitergeld
+• für Lohnzahlungszeiträume geleistet wurden, die nach dem 29. Februar 2020 begannen
+und vor dem 1. Juli 2022 endeten, geleistet werden (vergleiche § 3 Nummer 28a des
+Einkommensteuergesetzes in der Fassung des Vierten Corona-Steuerhilfegesetzes vom
+19. Juni 2022 (Bundesgesetzblatt 2022 Teil I Seite 911 und
+Seite 14
+FAQ´s zum Thema Corona
+• 80 % des Unterschiedsbetrages zwischen dem Soll-Entgelt und dem Ist-Entgelt nach § 106
+des Dritten Buches Sozialgesetzbuch nicht überstiegen. Bei der Ermittlung des Soll-
+Entgelts (Bruttoentgelt, welches ohne Arbeitsausfall erzielt worden wäre) war der
+Arbeitslohn nur bis zur Höhe der geltenden Beitragsbemessungsgrenze in der
+Rentenversicherung zu berücksichtigen. Für Arbeitgeber in den neuen Ländern und Ost-
+Berlin galt die Beitragsmessungsgrenze Ost, ansonsten war die
+Beitragsbemessungsgrenze West anzuwenden.
+Die Zuschüsse sind vom Arbeitgeber zusammen mit dem steuerfreien Kurzarbeitergeld auf der
+Lohnsteuerbescheinigung (Nummer 15) auszuweisen.
+Besteht nach Bezug von Kurzarbeitergeld eine Pflicht zur Abgabe einer
+Einkommensteuererklärung? Was hat das für Konsequenzen?
+Bezieher von Kurzarbeitergeld sind unter anderem zur Abgabe einer
+Einkommensteuererklärung verpflichtet, wenn ihre im abgelaufenen Kalenderjahr insgesamt
+zugeflossenen Kurzarbeitergelder (einschließlich steuerfreier Arbeitgeberzuschüsse)
+gegebenenfalls zusammen mit anderen Lohnersatzleistungen (zum Beispiel Krankengeld,
+Elterngeld) mehr als 410 Euro betragen. Bei der nach Abgabe der Einkommensteuererklärung
+vorzunehmenden Veranlagung (frühestens im Folgejahr) kann es gegebenenfalls zu
+Steuernachforderungen kommen. Das liegt daran, dass ausschließlich für die Ermittlung des
+persönlichen Steuersatzes das Kurzarbeitergeld (einschließlich steuerfreier
+Arbeitgeberzuschüsse) und etwaige andere Lohnersatzleistungen den steuerpflichtigen
+Einkünften fiktiv zugerechnet werden (Progressionsvorbehalt). Dadurch ergibt sich ein höherer
+Steuersatz. In einem zweiten Schritt wird dieser erhöhte Steuersatz auf das steuerpflichtige
+Einkommen (ohne das Kurzarbeitergeld, steuerfreie Arbeitgeberzuschüsse und etwaige
+andere Lohnersatzleistungen) angewendet.
+Da der Progressionsvorbehalt nicht bereits beim Lohnsteuerabzug durch den Arbeitgeber
+berücksichtigt werden kann, sondern erst bei der Veranlagung durch das Finanzamt, kann es
+zu Steuernachforderungen kommen. Welche konkreten steuerlichen Auswirkungen sich im
+Einzelfall ergeben, hängt von verschiedenen Faktoren ab, zum Beispiel der Steuerklasse
+beziehungsweise der Steuerklassenkombination der Ehegatten oder Lebenspartner einer
+eingetragenen Lebenspartnerschaft (und gegebenenfalls der Bruttolohnverteilung zwischen
+Ehegatten oder Lebenspartnern einer eingetragenen Lebenspartnerschaft) sowie von der Höhe
+der Lohnsteuerabzugsbeträge, anderen der Besteuerung unterliegenden Einkünften, den
+abziehbaren Altersvorsorgeaufwendungen oder von den sonstigen Abzügen.
+Mit dem Progressionsvorbehalt wird der verfassungsrechtlich gebotene Grundsatz der
+Besteuerung nach der wirtschaftlichen Leistungsfähigkeit sichergestellt. Denn das bezogene
+Kurzarbeitergeld als Lohnersatzleistung erhöht die wirtschaftliche Leistungsfähigkeit. Deshalb
+hat der Gesetzgeber das Kurzarbeitergeld zwar steuerfrei gestellt, zugleich aber festgelegt,
+dass sich der persönliche Steuersatz erhöht.
+Der Gesetzgeber hat die Notwendigkeit der Erklärungspflicht im Falle des Bezugs von
+Kurzarbeitergeld intensiv erörtert. Es wurde keine - auch keine zeitlich befristete -
+Ausnahmeregelung beschlossen.
+Kann ich als Arbeitgeber aufgrund der Corona-Krise eine Verlängerung der
+Frist für die Abgabe der monatlichen oder vierteljährlichen Lohnsteuer-
+Anmeldung beantragen?
+Arbeitgebern können die Fristen zur Abgabe monatlicher oder vierteljährlicher Lohnsteuer-
+Anmeldungen während der Corona-Krise im Einzelfall auf Antrag nach § 109 Absatz 1 der
+Seite 15
+FAQ´s zum Thema Corona
+Abgabenordnung verlängert werden, soweit sie selbst oder der von ihnen mit der
+Lohnbuchhaltung und Lohnsteuer-Anmeldung Beauftragte nachweislich unverschuldet daran
+gehindert sind, die Lohnsteuer-Anmeldungen pünktlich zu übermitteln. Die Fristverlängerung
+beträgt in diesem Fall maximal zwei Monate. Die Entscheidung im Einzelfall trifft das örtlich
+zuständige Finanzamt.
+Kann ich Aufwendungen für ein häusliches Arbeitszimmer oder eine
+häusliche Arbeitsecke geltend machen, wenn ich normalerweise einen
+Büroarbeitsplatz im Betrieb habe, nun aber Corona bedingt zuhause
+arbeiten muss?
+Grundsätzlich sind Aufwendungen für das häusliche Arbeitszimmer nicht abziehbar. Der Abzug
+ist aber zulässig, wenn das häusliche Arbeitszimmer den Mittelpunkt der gesamten
+betrieblichen und beruflichen Betätigung bildet (dann voller Abzug der Aufwendungen) oder für
+die betriebliche oder berufliche Betätigung kein anderer Arbeitsplatz zur Verfügung steht (dann
+Abzug bis zu 1.250 Euro/Jahr)1. Die Frage der Abziehbarkeit solcher Aufwendungen kann erst
+im Rahmen der Veranlagung durch das zuständige Finanzamt geklärt werden.
+Bildet das häusliche Arbeitszimmer den Mittelpunkt der gesamten betrieblichen und beruflichen
+Betätigung, kommt es auf das Tatbestandsmerkmal des Nicht-Vorliegens eines anderen
+Arbeitsplatzes nicht an. Aus Vereinfachungsgründen wird während der Corona-Pandemie zur
+Beurteilung, ob das häusliche Arbeitszimmer den Mittelpunkt der gesamten betrieblichen und
+beruflichen Tätigkeit darstellt, angenommen, dass die im Betrieb oder an der Dienststelle des
+Arbeitgebers und die im häuslichen Arbeitszimmer erbrachten Tätigkeiten qualitativ
+gleichwertig sind. Als Maßstab für ein überwiegendes Tätigwerden im häuslichen
+Arbeitszimmer ist daher eine rein zeitliche Betrachtung ausreichend.
+Ein anderer Arbeitsplatz steht dem Steuerpflichtigen nach gefestigter Rechtsprechung dann
+zur Verfügung, wenn er ihn in dem konkret erforderlichen Umfang und in der konkret
+erforderlichen Art und Weise tatsächlich nutzen kann (zum Beispiel Urteil des
+Bundesfinanzhofs vom 7. August 2003, Bundessteuerblatt Teil II 2004 Seite 78). Kann der
+Steuerpflichtige seinen betrieblichen oder beruflichen Arbeitsplatz tatsächlich nicht nutzen, zum
+Beispiel aus Gründen des Gesundheitsschutzes, steht ihm für seine betriebliche oder berufliche
+Betätigung kein anderer Arbeitsplatz zur Verfügung.
+Dies gilt für die Zeit der Corona-Pandemie auch dann, wenn die Entscheidung über das
+Tätigwerden im Homeoffice der Steuerpflichtige auch ohne eine ausdrückliche (schriftliche)
+Anweisung des Auftraggebers/Arbeitgebers getroffen hat und er der Empfehlung der
+Bundesregierung/der Länder gefolgt ist.
+Als Zeit der Corona-Pandemie wird dabei der Zeitraum vom 1. März 2020 bis zum 31.
+Dezember 2022 angenommen.
+Für die Jahre 2020 bis 2022 kann für jeden Tag, an dem der Steuerpflichtige ausschließlich
+zuhause betrieblich oder beruflich tätig wird, ein pauschaler Betrag von 5 Euro – maximal 600
+Euro im Jahr – abgezogen werden (sogenannte Homeoffice-Pauschale). Mangels Fahrten
+zwischen Wohnung und Betätigungsstätte kommt an diesen Tagen daher ein Abzug von
+Fahrtaufwendungen (mittels Entfernungspauschale oder Reisekosten) nicht in Betracht.
+1 Zur Rechtslage ab 2023 vergleiche § 4 Absatz 5 Satz 1 Nummer 6b und 6c des Einkommensteuergesetzes in der Fassung des Jahressteuergesetzes
+2022 (Bundesgesetzblatt Teil I Seite 2294).
+Seite 16
+FAQ´s zum Thema Corona
+An den Tagen, an denen der Steuerpflichtige zuhause betrieblich oder beruflich tätig ist und
+auch eine andere Betätigungsstätte aufsucht, kann er die Entfernungspauschale oder die
+dadurch entstehenden Reisekosten geltend machen. Der Ansatz der Homeoffice-Pauschale
+scheidet für diese Tage in den Jahren 2020 bis 2022 aus, da der Steuerpflichtige nicht
+ausschließlich zuhause tätig war.
+Die Homeoffice-Pauschale kann sowohl angesetzt werden, wenn die Voraussetzungen für ein
+häusliches Arbeitszimmer nicht vorliegen (zum Beispiel Tätigkeit am Küchentisch), als auch,
+wenn die Voraussetzungen vorliegen und der Steuerpflichtige auf die Einzelermittlung der
+Aufwendungen verzichten will. Die Homeoffice-Pauschale kann nicht zusätzlich zu den
+Aufwendungen für ein häusliches Arbeitszimmer berücksichtigt werden.
+Die Regelungen gelten gleichermaßen für den Abzug von Aufwendungen für ein häusliches
+Arbeitszimmer oder für die sogenannte Homeoffice-Pauschale als Betriebsausgaben.
+Wie ermittle ich die als Werbungskosten abziehbaren Fahrtkosten, wenn
+ich eine Zeitfahrkarte für den öffentlichen Personennahverkehr besitze und
+im Homeoffice arbeite?
+Die tatsächlich geleisteten Aufwendungen für eine Zeitfahrkarte zur Benutzung öffentlicher
+Verkehrsmittel für die Wege zwischen Wohnung und erster Tätigkeitsstätte können als
+Werbungskosten geltend gemacht werden, soweit sie die insgesamt im Kalenderjahr ermittelte
+Entfernungspauschale übersteigen. Das gilt auch dann, wenn der Arbeitnehmer eine
+Zeitfahrkarte in Erwartung der regelmäßigen Benutzung für den Weg zur ersten Tätigkeitsstätte
+erworben hat, er die Zeitfahrkarte dann aber aufgrund der Tätigkeit im Homeoffice nicht im
+geplanten Umfang verwenden kann. Eine Aufteilung dieser Aufwendungen auf einzelne
+Arbeitstage hat nicht zu erfolgen. Zeitfahrkarten in diesem Sinne sind zum Beispiel Jahres- und
+Monatsfahrkarten.
+Können die Aufwendungen für eine Zeitfahrkarte im öffentlichen
+Personennahverkehr neben der Homeoffice-Pauschale als Werbungskosten
+abgezogen werden?
+Die Homeoffice Pauschale kann nur für diejenigen Tage angesetzt werden, an denen der
+Steuerpflichtige ausschließlich im Homeoffice tätig geworden ist. Mangels Fahrten zwischen
+Wohnung und Betätigungsstätte kommt ein Abzug von Fahrtaufwendungen (in Form der
+Entfernungspauschale oder Reisekosten) für diese Tage grundsätzlich nicht in Betracht.
+Allerdings sind die Aufwendungen für eine Zeitfahrkarte für öffentliche Verkehrsmittel, die in
+Erwartung der Benutzung für den Weg zur Arbeit erworben wurde, soweit sie die insgesamt im
+Kalenderjahr ermittelte Entfernungspauschale übersteigen, davon unabhängig abziehbar.
+Zeitfahrkarten in diesem Sinne sind zum Beispiel Jahres- und Monatsfahrkarten.
+Kann der Arbeitgeber außergewöhnliche Betreuungsleistungen, die
+aufgrund der Corona-Krise für pflegebedürftige Angehörige und Kinder
+entstehen, steuerfrei erstatten?
+Ja. Zur besseren Vereinbarkeit von Familie und Beruf können zusätzlich zum ohnehin
+geschuldeten Arbeitslohn erbrachte Arbeitgeberleistungen bis zu einem Betrag von 600 Euro
+im Kalenderjahr je Arbeitnehmer steuerfrei bleiben. Der zusätzliche Betreuungsbedarf muss
+aus Anlass einer zwingenden und beruflich veranlassten kurzfristigen Betreuung eines Kindes
+Seite 17
+FAQ´s zum Thema Corona
+unter 14 Jahren entstehen. Bei behinderten Kindern, die außer Stande sind, sich selbst zu
+unterhalten, und bei denen die Behinderung vor Vollendung des 25. Lebensjahres eingetreten
+ist, gilt dies auch, wenn das Kind 14 Jahre oder älter ist. Begünstigte Betreuungsleistungen
+liegen auch vor, wenn sich der Arbeitnehmer um einen pflegebedürftigen Angehörigen
+kümmert, auch wenn dies im privaten Haushalt des Arbeitnehmers stattfindet.
+Das Vorliegen eines zusätzlichen Betreuungsbedarfes wird unterstellt, wenn der Arbeitnehmer
+aufgrund der Corona-Krise zu außergewöhnlichen Dienstzeiten arbeitet oder die
+Regelbetreuung der Kinder infolge der zur Eindämmung der Corona-Krise angeordneten
+Schließung von Schulen und Betreuungseinrichtungen (zum Beispiel Kindertagesstätten,
+Betriebskindergärten, Schulhorte) weggefallen ist.
+Von einer kurzfristig zu organisierenden Betreuung ist so lange auszugehen, bis die
+entsprechenden Betreuungseinrichtungen ihren regulären Betrieb wiederaufnehmen können.
+Bei Barleistungen des Arbeitgebers müssen dem Arbeitnehmer entsprechende Aufwendungen
+entstanden sein. Die steuerfreien Leistungen sind im Lohnkonto aufzuzeichnen.
+Der steuerfreie Zuschuss ist in der Steuererklärung für 2020/2021 anzugeben.
+Wie werden öffentliche Zuschüsse für die Unterbringung und Verpflegung
+ausländischer Grenzpendler, zum Beispiel polnischer Grenzpendler, die
+aufgrund von Grenzschließungen oder Quarantäneregeln nicht täglich
+nach Hause zurückkehren können, steuerlich behandelt?
+Für die Besteuerung in Deutschland gilt: Die aufgrund der Corona-Krise aus öffentlichen Mitteln
+geleisteten Zuschüsse beziehungsweise Tagegeldzahlungen, die ein Arbeitgeber erhält und an
+seine Arbeitnehmer ausländische Grenzpendler) zur Finanzierung der ihnen entstehenden
+Mehraufwendungen für Unterbringung und Verpflegung in Folge der Grenzschließung oder aus
+anderen Gründen leistet, sind kein Arbeitslohn im Sinne von § 19 Absatz 1 des
+Einkommensteuergesetzes und unterliegen damit nicht der Lohnbesteuerung.
+Sind nach dem Auslandstätigkeitserlass (ATE) begünstigte Tätigkeiten
+eines Arbeitnehmers auch dann steuerfrei, wenn wegen der Corona-Krise
+eine im Ausland geplante Tätigkeit im Sinne des ATE nicht ausgeführt oder
+fortgesetzt werden kann? Wie wirkt es sich auf die Steuerfreiheit nach dem
+ATE aus, wenn die begünstigte Tätigkeit stattdessen im Inland ausgeführt
+oder fortgesetzt wird?
+Nach dem ATE setzt die Steuerfreiheit von begünstigten Tätigkeiten unter anderem voraus,
+dass die jeweilige Tätigkeit für einen ununterbrochenen Zeitraum von mindestens drei Monaten
+in einem ausländischen Staat ausgeübt wird. Dies gilt jedoch nur, wenn Deutschland mit dem
+betroffenen Staat kein Abkommen zur Vermeidung der Doppelbesteuerung abgeschlossen hat,
+in das Einkünfte aus nichtselbständiger Arbeit einbezogen sind.
+Wurde eine nach dem ATE begünstigte und für mindestens drei Monate geplante
+Auslandstätigkeit aufgrund der Corona-Krise unterbrochen oder beendet, findet die
+Mindestdauer von drei Monaten keine Anwendung. Die Steuerfreiheit des Arbeitslohns gilt in
+diesen Fällen auch für den tatsächlich weniger als drei Monate andauernden Auslandseinsatz.
+Seite 18
+FAQ´s zum Thema Corona
+Wird eine im Ausland vorgesehene Tätigkeit wegen der Corona-Krise hingegen im Inland
+ausgeübt oder fortgesetzt, dann ist der hierauf entfallende Arbeitslohn nicht nach dem ATE
+steuerfrei.
+Führt die Übernahme von Kosten für Covid-19-Tests durch den
+Arbeitgeber zu Arbeitslohn?
+Übernimmt der Arbeitgeber die Kosten von Covid-19-Tests (Schnelltest, PCR- und Antikörper-
+Tests), ist es aus Vereinfachungsgründen nicht zu beanstanden, von einem ganz überwiegend
+eigenbetrieblichen Interesse des Arbeitgebers auszugehen. Die Kostenübernahme ist kein
+Arbeitslohn.
+Stellt eine Corona-Schutzimpfung durch den Arbeitgeber bei seinem
+Arbeitnehmer, dessen Angehörigen oder Lebenspartner Arbeitslohn dar?
+Nein. Stellt der Arbeitgeber seinen Arbeitnehmern die Schutzmasken zur beruflichen Nutzung
+zur Verfügung, ist ein ganz überwiegend eigenbetriebliches Interesse des Arbeitgebers
+anzunehmen. Dies gilt auch für Zwecke der Umsatzsteuer (vergleiche Abschnitt 1.8 Absatz 4
+des Umsatzsteuer-Anwendungserlasses).
+Führt eine Corona-Impfung durch den Betriebsarzt beim Arbeitnehmer
+zu Arbeitslohn?
+Nein. Diese Leistungen stellen kein Arbeitslohn dar.
+Steuerfreie Beihilfen und Unterstützungen für Arbeitnehmer bis
+zu 1.500 Euro
+Konnte jede Zahlung des Arbeitgebers in der Zeit vom 1. März 2020 bis zum
+31. März 2022 als Beihilfe und Unterstützung aufgrund der Corona-Krise
+angesehen werden?
+Nach § 3 Nummer 11a des Einkommensteuergesetzes in der Fassung des
+Abzugsteuerentlastungsmodernisierungsgesetzes vom 2. Juni 2021 (Bundesgesetzblatt 2021
+Teil I Seite 1259) konnten Arbeitgeber ihren Beschäftigten in der Zeit vom 1. März 2020 bis 31.
+März 2022 Beihilfen und Unterstützungen bis zu einem Betrag von insgesamt 1.500 Euro
+steuerfrei auszahlen. Voraussetzung der vorgenannten Regelung war, dass die Beihilfen und
+Unterstützungen zur Abmilderung der zusätzlichen Belastung durch die Corona-Krise und
+zusätzlich zum ohnehin geschuldeten Arbeitslohn geleistet wurden.
+Die Steuerbefreiung war damit insbesondere im Rahmen von einem Gehaltsverzicht oder von
+Gehaltsumwandlungen ausgeschlossen. Unter welchen Voraussetzungen eine Leistung
+zusätzlich zum ohnehin geschuldeten Arbeitslohn erbracht wird, ist § 8 Absatz 4 des
+Einkommensteuergesetzes zu entnehmen.
+Konnten Arbeitgeber ihren Arbeitnehmern sowohl in 2020, in 2021 oder im
+ersten Quartal 2022 einen steuerfreien Betrag von 1.500 Euro, insgesamt
+also 4.500 Euro, steuerfrei gewähren?
+Nein, der Steuerfreibetrag von maximal 1.500 Euro bleibt unverändert. Die Fristverlängerung
+Seite 19
+FAQ´s zum Thema Corona
+in § 3 Nummer 11a des Einkommensteuergesetzes in der Fassung des
+Abzugsteuerentlastungsmodernisierungsgesetzes vom 2. Juni 2021 (Bundesgesetzblatt 2021
+Teil I Seite 1259) führte nicht dazu, dass im Jahr 2021 oder im ersten Quartal 2022 nochmals
+1.500 Euro steuerfrei zusätzlich zu einem im Jahr 2020 steuerfrei gewährten Betrag von 1.500
+Euro ausgezahlt werden konnten. Lediglich der Zeitraum für die Gewährung des Betrages
+wurde gestreckt.
+Konnten Arbeitgeber vor der Corona-Krise übliche oder vereinbarte
+Sonderzahlungen in steuerfreie Leistungen nach dem § 3 Nummer 11a des
+Einkommensteuergesetzes umwandeln?
+Für die Steuerfreiheit der Leistungen war es erforderlich, dass aus den vertraglichen
+Vereinbarungen zwischen Arbeitgeber und Arbeitnehmer oder anderen Vereinbarungen bzw.
+Erklärungen (Einzelheiten unter VI.18) erkennbar war, dass es sich um steuerfreie Beihilfen
+und Unterstützungen zur Abmilderung der zusätzlichen Belastung durch die Corona-Krise
+handelte und die übrigen Voraussetzungen § 3 Nummer 11a des Einkommensteuergesetzes
+eingehalten wurden.
+Eine Vereinbarung über Sonderzahlungen, die vor dem 1. März 2020 ohne einen Bezug zur
+Corona-Krise getroffen wurde, konnte nicht nachträglich in eine steuerfreie Beihilfe oder
+Unterstützung zur Abmilderung der zusätzlichen Belastung durch die Corona-Krise
+umgewandelt werden (zum Beispiel wenn für die Sonderzahlung in der Bilanz zum 31.
+Dezember 2019 eine Rückstellung gebildet wurde oder die Arbeitnehmer bereits im Februar
+2020 über die Gewährung einer Sonderzahlung im März 2020 informiert wurden). Maßgeblich
+war dabei der Zeitpunkt 1. März 2020, da nur ab diesem Zeitpunkt die Veranlassung in der
+Abmilderung der zusätzlichen Belastungen durch die Corona-Krise liegen konnte. Leistungen
+des Arbeitgebers, die auf einer vertraglichen Vereinbarung oder einer anderen rechtlichen
+Verpflichtung beruhen, die vor dem 1. März 2020 getroffen wurden, konnten nicht als
+steuerfreie Beihilfen oder Unterstützungen im Sinne des § 3 Nummer 11a des
+Einkommensteuergesetzes gewährt werden.
+Sofern vor dem 1. März 2020 keine vertraglichen Vereinbarungen oder andere rechtliche
+Verpflichtungen des Arbeitgebers zur Gewährung einer Sonderzahlung bestanden, kann unter
+Einhaltung der Voraussetzungen im Sinne des § 3 Nummer 11a des
+Einkommensteuergesetzes anstelle der Sonderzahlung auch eine steuerfreie Beihilfe oder
+Unterstützung zur Abmilderung der zusätzlichen Belastung durch die Corona-Krise gewährt
+werden.
+Konnten steuerfreie Beihilfen und Unterstützungen zusätzlich zum
+ohnehin geschuldeten Arbeitslohn in tarifvertraglichen Vereinbarungen
+geregelt werden?
+Die Frage ist unabhängig von § 3 Nummer 11a des Einkommensteuergesetzes allgemeingültig
+zu beantworten:
+Auch in einem Tarifvertrag, konnte eine steuerfreie Beihilfe oder Unterstützung zusätzlich zum
+ohnehin geschuldeten Arbeitslohn im Sinne des § 3 Nummer 11a des
+Einkommensteuergesetzes vereinbart beziehungsweise festgelegt werden (vergleiche auch §
+8 Absatz 4 des Einkommensteuergesetzes). Es konnten auch in mehreren Tarifverträgen, zum
+Beispiel aus 2020, aus 2021 oder dem ersten Quartal 2022, jeweils Teilbeträge einer Corona-
+Beihilfe oder –Unterstützungsleistung festgelegt und ausgezahlt werden, solange die
+Steuerfreiheit hierzu auf insgesamt 1.500 Euro begrenzt war.
+Seite 20
+FAQ´s zum Thema Corona
+Konnten Beträge auch dann steuerfrei gezahlt werden, wenn
+(gegebenenfalls ausschließlich) Kurzarbeitergeld im selben
+Lohnzahlungszeitraum/ in einem vorangegangenen
+Lohnzahlungszeitraum seit 1. März 2020 gezahlt wurde und die Leistung
+nicht als "Aufstockung" des Kurzarbeitergelds bezeichnet wurde?
+Konnten Beträge auch steuerfrei sein, wenn diese, oder beispielsweise
+unterschiedslos allen Beschäftigten gewährt wurden und, von denen nur
+ein Teil der Beschäftigten Kurzarbeitergeld bezog?
+Arbeitgebern stand es frei, anstelle eines arbeitgeberseitigen Zuschusses zum
+Kurzarbeitergeld steuerfreie Beihilfen und Unterstützungen zur Abmilderung der zusätzlichen
+Belastung durch die Corona-Krise unter Einhaltung der Voraussetzungen des § 3 Nummer 11a
+des Einkommensteuergesetzes zu leisten.
+Steuerfreie Beihilfen und Unterstützungen § 3 Nummer 11a des Einkommensteuergesetzes
+konnten an alle Arbeitnehmer bis zu einem Betrag von 1.500 Euro geleistet werden. Das galt
+unabhängig vom Umfang der Beschäftigung (Teilzeitbeschäftigung) und davon, ob und in
+welchem Umfang Kurzarbeitergeld gezahlt wurde.
+Allerdings war erforderlich, dass aus den vertraglichen Vereinbarungen zwischen Arbeitgeber
+und Arbeitnehmer oder anderen Vereinbarungen bzw. Erklärungen (Einzelheiten unter VI.18)
+erkennbar war, dass es sich um steuerfreie Beihilfen und Unterstützungen zur Abmilderung der
+zusätzlichen Belastung durch die Corona-Krise handelte und die übrigen Voraussetzungen des
+§ 3 Nummer 11a des Einkommensteuergesetzes eingehalten wurden.
+Der Arbeitgeber leistet regelmäßig eine freiwillige Sonderzahlung oder
+eine freiwillige Erholungsbeihilfe. Im Jahr 2020 ist anstelle der freiwilligen
+Sonderzahlung / Erholungsbeihilfe eine Corona-Beihilfe gewährt worden.
+Ist diese steuerfrei?
+Für die Steuerfreiheit der Leistungen war es erforderlich, dass aus den vertraglichen
+Vereinbarungen zwischen Arbeitgeber und Arbeitnehmer oder anderen Vereinbarungen bzw.
+Erklärungen (Einzelheiten unter VI.18) erkennbar war, dass es sich um steuerfreie Beihilfen
+und Unterstützungen zur Abmilderung der zusätzlichen Belastung durch die Corona-Krise
+handelte und die übrigen Voraussetzungen des § 3 Nummer 11a des
+Einkommensteuergesetzes eingehalten wurden.
+Eine Vereinbarung über Sonderzahlungen, die vor dem 1. März 2020 ohne einen Bezug zur
+Corona-Krise getroffen wurde, konnte nicht nachträglich in eine steuerfreie Beihilfe oder
+Unterstützung zur Abmilderung der zusätzlichen Belastung durch die Corona-Krise
+umgewandelt werden (zum Beispiel wenn für die Sonderzahlung in der Bilanz zum 31.
+Dezember 2019 eine Rückstellung gebildet wurde oder die Arbeitnehmer bereits im Februar
+2020 über die Gewährung einer Sonderzahlung im März 2020 informiert wurden). Maßgeblich
+war dabei der Zeitpunkt 1. März 2020, da nur ab diesem Zeitpunkt die Veranlassung in der
+Abmilderung der zusätzlichen Belastungen durch die Corona-Krise liegen konnte. Leistungen
+des Arbeitgebers, die auf einer vertraglichen Vereinbarung oder einer anderen rechtlichen
+Verpflichtung beruhen, die vor dem 1. März 2020 getroffen wurden, konnten nicht als
+steuerfreie Beihilfen oder Unterstützungen im Sinne des § 3 Nummer 11a des
+Einkommensteuergesetzes werden
+Seite 21
+FAQ´s zum Thema Corona
+Sofern vor dem 1. März 2020 keine vertraglichen Vereinbarungen oder andere rechtliche
+Verpflichtungen des Arbeitgebers zur Gewährung einer Sonderzahlung bestanden, konnte
+unter Einhaltung der Voraussetzungen des § 3 Nummer 11a des Einkommensteuergesetzes
+anstelle der Sonderzahlung auch eine steuerfreie Beihilfe oder Unterstützung zur Abmilderung
+der zusätzlichen Belastung durch die Corona-Krise gewährt werden.
+Waren Leistungen, die bereits vor dem 1. März 2020 vereinbart waren oder
+deren Zahlung vor dem 1. März 2020 beabsichtigt war, begünstigt?
+Für die Steuerfreiheit der Leistungen war es erforderlich, dass aus den vertraglichen
+Vereinbarungen zwischen Arbeitgeber und Arbeitnehmer oder anderen Vereinbarungen bzw.
+Erklärungen (Einzelheiten unter VI.18) erkennbar war, dass es sich um steuerfreie Beihilfen
+und Unterstützungen zur Abmilderung der zusätzlichen Belastung durch die Corona-Krise
+handelte und die übrigen Voraussetzungen des § 3 Nummer 11a des
+Einkommensteuergesetzes eingehalten wurden.
+Eine Vereinbarung über Sonderzahlungen, die vor dem 1. März 2020 ohne einen Bezug zur
+Corona-Krise getroffen wurde, konnte nicht nachträglich in eine steuerfreie Beihilfe oder
+Unterstützung zur Abmilderung der zusätzlichen Belastung durch die Corona-Krise
+umgewandelt werden (zum Beispiel wenn für die Sonderzahlung in der Bilanz zum 31.
+Dezember 2019 eine Rückstellung gebildet wurde oder die Arbeitnehmer bereits im Februar
+2020 über die Gewährung einer Sonderzahlung im März 2020 informiert wurden). Maßgeblich
+war dabei der Zeitpunkt 1. März 2020, da nur ab diesem Zeitpunkt die Veranlassung in der
+Abmilderung der zusätzlichen Belastungen durch die Corona-Krise liegen konnten. Leistungen
+des Arbeitgebers, die auf einer vertraglichen Vereinbarung oder einer anderen rechtlichen
+Verpflichtung beruhen, die vor dem 1. März 2020 getroffen wurden, konnten nicht als
+steuerfreie Beihilfen oder Unterstützungen im Sinne des § 3 Nummer 11a des
+Einkommensteuergesetzes gewährt werden.
+Sofern vor dem 1. März 2020 keine vertraglichen Vereinbarungen oder andere rechtliche
+Verpflichtungen des Arbeitgebers zur Gewährung einer Sonderzahlung bestanden, konnten
+unter Einhaltung der Voraussetzungen des § 3 Nummer 11a des Einkommensteuergesetzes
+anstelle der Sonderzahlung auch eine steuerfreie Beihilfe oder Unterstützung zur Abmilderung
+der zusätzlichen Belastung durch die Corona-Krise gewährt werden.
+Galt der neue § 3 Nummer 11a des Einkommensteuergesetzes für
+Arbeitnehmer öffentlich-rechtlicher Arbeitgeber in gleicher Weise wie für
+Arbeitnehmer privater Arbeitgeber?
+Der § 3 Nummer 11a des Einkommensteuergesetzes unterschied nicht zwischen Leistungen
+von öffentlich-rechtlichen oder privaten Arbeitgebern. Alle Arbeitgeber - öffentlich-rechtliche
+ebenso wie private konnten bei Einhaltung der dort aufgeführten Voraussetzungen
+gleichermaßen steuerfreie Beihilfen und Unterstützungen zur Abmilderung der zusätzlichen
+Belastung durch die Corona-Krise gewähren.
+Waren Leistungsprämien für im Jahr 2019 erbrachte Arbeitsleistungen
+nach § 3 Nummer 11a des Einkommensteuergesetzes steuerfrei?
+Leistungsprämien beruhen in der Regel auf bestehenden arbeitsvertraglichen oder
+dienstrechtlichen Vereinbarungen. Eine Umwandlung oder Umqualifizierung in eine steuerfreie
+Beihilfe oder Unterstützung zur Abmilderung der zusätzlichen Belastung durch die Corona-
+Seite 22
+FAQ´s zum Thema Corona
+Krise im Sinne des § 3 Nummer 11a des Einkommensteuergesetzes ist in der Regel nicht
+möglich.
+Konnten Arbeitgeber steuerfreie Beihilfen und Unterstützungen zur
+Abmilderung der zusätzlichen Belastung durch die Corona-Krise an
+Arbeitnehmer leisten, denen im Gegenzug geleistete Überstunden gekürzt
+werden, auf die kein Auszahlungsanspruch besteht?
+Es war erforderlich, dass aus den vertraglichen Vereinbarungen zwischen Arbeitgeber und
+Arbeitnehmer oder anderen Vereinbarungen bzw. Erklärungen (Einzelheiten unter VI.18)
+erkennbar war, dass es sich um steuerfreie Beihilfen und Unterstützungen zur Abmilderung der
+zusätzlichen Belastung durch die Corona-Krise handelt. In Fällen, in denen vor dem 1. März
+2020 kein Anspruch auf eine Vergütung von Überstunden bestand (also lediglich die
+Möglichkeit des Freizeitausgleichs gegeben war), war die Gewährung einer steuerfreien
+Beihilfe oder Unterstützung zur Abmilderung der zusätzlichen Belastung durch die Corona-
+Krise im Sinne des § 3 Nummer 11a des Einkommensteuergesetzes begünstigt, wenn der
+Arbeitnehmer im Gegenzug auf einen Freizeitausgleich von Überstunden verzichtet
+beziehungsweise Überstunden gekürzt wurden. Die Voraussetzung einer Gewährung
+„zusätzlich zum ohnehin geschuldeten Arbeitslohn“ war in diesen Fällen erfüllt.
+Konnten steuerfreie Beihilfen und Unterstützungen auch an geringfügig
+entlohnte Beschäftigte (sogenannte Minijobber) geleistet werden? War
+eine Angemessenheitsprüfung vorzunehmen?
+Die Gewährung einer steuerfreien Beihilfe oder Unterstützung im Sinne des § 3 Nummer 11a
+des Einkommensteuergesetzes von bis zu 1.500 Euro war auch an geringfügig entlohnte
+Beschäftigte möglich. Diese steuerfreien Beihilfen oder Unterstützungen zählen nach § 1
+Absatz 1 Satz 1 Nummer 1 der Sozialversicherungsentgeltverordnung nicht zum
+sozialversicherungspflichtigen Arbeitsentgelt. Eine Angemessenheitsprüfung war nicht
+vorzunehmen. Bei Arbeitsverhältnissen unter nahen Angehörigen musste die Gewährung einer
+solchen Beihilfe oder Unterstützung jedoch auch unter Fremden üblich sein (sogenannter
+Fremdvergleichsgrundsatz).
+Handelte es sich bei dem nach § 3 Nummer 11 des
+Einkommensteuergesetzes steuerfreien Betrag in Höhe von 1.500 Euro um
+einen Freibetrag oder um eine Freigrenze?
+Es handelt sich um einen steuerlichen Freibetrag. Arbeitgebern stand es frei, auch höhere
+Sonderzahlungen zu leisten. Allerdings konnten die Beihilfen und Unterstützungen gemäß § 3
+Nummer 11a des Einkommensteuergesetzes nur bis zu einem Betrag von 1.500 Euro steuer-
+und beitragsfrei bleiben. Darüber hinaus gehende Zahlungen waren grundsätzlich steuer- und
+beitragspflichtig
+Konnte ein Gesellschafter-Geschäftsführer die ebenfalls in Anspruch
+nehmen?
+Bei einem Gesellschafter-Geschäftsführer einer Kapitalgesellschaft konnte die Zahlung von
+steuerfreien Beihilfen und Unterstützungen im Sinne des § 3 Nummer 11a des
+Einkommensteuergesetzes zu einer verdeckten Gewinnausschüttung führen. In diesem Fall
+Seite 23
+FAQ´s zum Thema Corona
+wurde die Steuerfreiheit nicht gewährt. Eine verdeckte Gewinnausschüttung lag vor, wenn für
+die Zahlung keine überzeugenden betrieblichen Gründe vorlagen, sondern eine Veranlassung
+durch das Gesellschaftsverhältnis gegeben war (vgl. Hinweis 8.5 Veranlassung durch das
+Gesellschaftsverhältnis, Körperschaftsteuer-Handbuchs 2022). Es war wie bei Arbeitnehmern
+ohne Gesellschafterstellung darzulegen, dass es sich um steuerfreie Beihilfen und
+Unterstützungen zur Abmilderung der zusätzlichen Belastung durch die Corona-Krise handelt.
+Die übrigen Voraussetzungen des § 3 Nummer 11a des Einkommensteuergesetzes mussten
+eingehalten werden.
+Konnte der steuerfreie Höchstbetrag von 1.500 Euro für jedes
+Dienstverhältnis gesondert ausgeschöpft werden oder ist gegebenenfalls
+zu prüfen, ob aus anderen Dienstverhältnissen bereits eine Zahlung
+geleistet wurde?
+Steuerfreie Beihilfen und Unterstützungen im Sinne des § 3 Nummer 11a des
+Einkommensteuergesetzes konnten für jedes Dienstverhältnis gesondert geleistet werden. Der
+Betrag von insgesamt bis zu 1.500 Euro konnte daher pro Dienstverhältnis ausgeschöpft
+werden.
+Allerdings ist in den Fällen einer zivilrechtlichen Gesamtrechtsnachfolge und bei
+Betriebsübergängen nach § 613a des Bürgerlichen Gesetzbuchs (zum Beispiel bei Einbringung
+eines Einzelunternehmens in eine Kapitalgesellschaft) nicht von einem weiteren
+Dienstverhältnis auszugehen. Hier tritt zivilrechtlich der neue Betriebsinhaber lediglich in die
+Rechte und Pflichten aus den im Zeitpunkt des Übergangs bestehenden Arbeitsverhältnissen
+ein. In diesen Fällen konnte der steuerfreie Höchstbetrag nicht mehrfach in Anspruch
+genommen werden.
+Zudem war erforderlich, dass aus den vertraglichen Vereinbarungen zwischen Arbeitgeber und
+Arbeitnehmer oder anderen Vereinbarungen bzw. Erklärungen (Einzelheiten unter VI.18)
+erkennbar war, dass es sich um steuerfreie Beihilfen und Unterstützungen zur Abmilderung der
+zusätzlichen Belastung durch die Corona-Krise handelt. Die übrigen Voraussetzungen des § 3
+Nummer 11a des Einkommensteuergesetzes mussten eingehalten werden.
+Konnte die Steuerbefreiung bei zwei oder mehr aufeinander folgenden
+Dienstverhältnissen für jedes Dienstverhältnis in Anspruch genommen
+werden?
+Steuerfreie Beihilfen und Unterstützungen im Sinne des § 3 Nummer 11a des
+Einkommensteuergesetzes konnten auch für aufeinanderfolgende Dienstverhältnisse in
+Anspruch genommen werden. Der Betrag von insgesamt bis zu 1.500 Euro konnte pro
+Dienstverhältnis ausgeschöpft werden; dies galt allerdings nicht bei mehreren
+aufeinanderfolgenden Dienstverhältnissen in der Zeit vom 1. März 2020 bis zum 31. März 2022
+im Kalenderjahr zu ein und demselben Arbeitgeber.
+Es war erforderlich, dass aus den vertraglichen Vereinbarungen zwischen Arbeitgeber und
+Arbeitnehmer oder anderen Vereinbarungen bzw. Erklärungen (Einzelheiten unter VI.18)
+erkennbar war, dass es sich um steuerfreie Beihilfen und Unterstützungen zur Abmilderung der
+zusätzlichen Belastung durch die Corona-Krise handelte. Die übrigen Voraussetzungen des §
+3 Nummer 11a des Einkommensteuergesetzes mussten eingehalten werden.
+Seite 24
+FAQ´s zum Thema Corona
+Wegen der Corona-Krise wurde das Dienstverhältnis aufgelöst. In der
+Auflösungsvereinbarung (Abfindungsvereinbarung) wird die Zahlung
+einer Corona-Beihilfe von 1.500 Euro vereinbart. Ist diese steuerfrei?
+Arbeitgebern stand es frei, anstelle einer üblichen Abfindung wegen des Verlustes des
+Arbeitsplatzes steuerfreie Beihilfen und Unterstützungen unter Einhaltung der
+Voraussetzungen des § 3 Nummer 11a des Einkommensteuergesetzes zu leisten.
+Allerdings war erforderlich, dass aus den vertraglichen Vereinbarungen zwischen Arbeitgeber
+und Arbeitnehmer erkennbar war, dass es sich um steuerfreie Beihilfen und Unterstützungen
+zur Abmilderung der zusätzlichen Belastung durch die Corona-Krise handelt. Die übrigen
+Voraussetzungen des § 3 Nummer 11a des Einkommensteuergesetzes mussten eingehalten
+werden. Die coronabedingte Betroffenheit des Arbeitnehmers musste zudem in der Zeit
+begründet sein, in der das Beschäftigungsverhältnis bestand, so dass Abfindungen, die sich
+auf Beschäftigungsverhältnisse beziehen, die vor dem 1. März 2020 beendet wurden, nicht in
+steuerfreie Beihilfen oder Unterstützungen umqualifiziert oder umgewandelt werden konnten.
+War die steuerfreie Zahlung in Höhe von 1.500 Euro unschädlich für die
+Pauschalierung nach § 40a Absatz 2 des Einkommensteuergesetzes?
+Eine Pauschalierung nach § 40a Absatz 2 des Einkommensteuergesetzes war neben der oder
+zusätzlich zu der Steuerbefreiung im Sinne des § 3 Nummer 11a des
+Einkommensteuergesetzes möglich.
+Wie war der Zusammenhang zur Corona-Krise nachzuweisen
+beziehungsweise im Lohnkonto aufzuzeichnen?
+Die steuerfreien Leistungen waren im Lohnkonto aufzuzeichnen (§ 4 Absatz 2 Nummer 4 der
+Lohnsteuer-Durchführungsverordnung), so dass sie bei der Lohnsteuer-Außenprüfung als
+solche erkennbar sind und die Rechtsgrundlage für die Zahlung bei Bedarf geprüft werden
+kann. Der Zusammenhang der Beihilfen und Unterstützungen mit der Corona-Krise konnte sich
+aus einzelvertraglichen Vereinbarungen zwischen Arbeitgeber und Arbeitnehmer, aus
+ähnlichen Vereinbarungen oder aus Erklärungen des Arbeitgebers ergeben. Ähnliche
+Vereinbarungen zwischen Arbeitgeber und Arbeitnehmer konnten zum Beispiel Tarifverträge
+oder gesonderte Betriebsvereinbarungen sein. Als Erklärungen des Arbeitgebers werden zum
+Beispiel individuelle Lohnabrechnungen oder Überweisungsbelege anerkannt, in denen die
+Corona-Sonderzahlungen als solche ausgewiesen waren.
+Soweit ausnahmsweise keine Verpflichtung zur Führung von Lohnunterlagen bestand (zum
+Beispiel im Falle der Teilnahme eines privaten Arbeitgebers am Haushaltsscheckverfahren),
+genügt ein einfacher Zahlungsnachweis.
+Durch die Vorlage der Nachweise ist eine zügige Prüfung möglich, ob und inwieweit die
+Voraussetzungen des § 3 Nummer 11a des Einkommensteuergesetzes eingehalten wurden
+sind.
+Ist die steuerfreie Beihilfe/Unterstützung in der
+Lohnsteuerbescheinigung auszuweisen und in der
+Einkommensteuererklärung anzugeben?
+Die nach dem § 3 Nummer 11a des Einkommensteuergesetzes steuerfreie Beihilfe oder
+Seite 25
+FAQ´s zum Thema Corona
+Unterstützung zur Abmilderung der zusätzlichen Belastung durch die Corona-Krise ist nicht auf
+der Lohnsteuerbescheinigung auszuweisen und muss auch nicht in der
+Einkommensteuererklärung angegeben werden.
+Unterliegen steuerfreie Beihilfen und Unterstützungen dem
+Progressionsvorbehalt?
+Die nach § 3 Nummer 11a des Einkommensteuergesetzes steuerfreien Beihilfen oder
+Unterstützungen im Sinne des § 3 Nummer 11 des Einkommensteuergesetzes unterliegen
+nicht dem Progressionsvorbehalt.
+Wie verhalten sich das BMF-Schreiben vom 9. April 2020 und die neue
+gesetzliche Regelung des § 3 Nummer 11a des Einkommensteuergesetzes
+zueinander?
+Nach § 3 Nummer 11a des Einkommensteuergesetzes in der Fassung des
+Abzugsteuerentlastungsmodernisierungsgesetzes vom 2. Juni 2021 (Bundesgesetzblatt 2021
+Teil I Seite 1259) konnten Arbeitgeber ihren Beschäftigten in der Zeit vom 1. März 2020 bis
+zum 31 März 2022 Beihilfen und Unterstützungen bis zu einem Betrag von 1.500 Euro
+steuerfrei auszahlen. Diese gesetzliche Regelung der Steuerbefreiung von Beihilfen und
+Unterstützungen zur Abmilderung der zusätzlichen Belastung durch die Corona-Krise
+übernimmt die ursprünglich im BMF-Schreiben vom 9. April 2020 enthaltenen Aussagen und
+sichert sie gesetzlich ab. Ein Konkurrenzverhältnis zwischen dem § 3 Nummer 11a des
+Einkommensteuergesetzes und dem genannten BMF-Schreiben besteht folglich nicht.
+Arbeitgeber konnten ihren Arbeitnehmern Beihilfen und Unterstützungen zur Abmilderung der
+zusätzlichen Belastung durch die Corona-Krise somit in der Zeit vom 2020 bis 31. März 2022
+bis zu einer Höhe von insgesamt maximal 1.500 Euro steuerfrei gewähren. Das BMF-Schreiben
+vom 9. April 2020 ist zwischenzeitlich neu gefasst worden (vergleiche BMF-Schreiben vom 26.
+Oktober 2020 (Bundessteuerblatt 2020 Teil I Seite 1059).
+Steuerfreier „Corona-Pflegebonus“ für Arbeitnehmer bis zu 4.500
+Euro
+Wer konnte den „Corona-Pflegebonus“ steuerfrei erhalten? Welche Arten
+von Leistungen des Arbeitgebers waren begünstigt?
+Die Steuerbefreiung nach § 3 Nummer 11b des Einkommensteuergesetzes wurde durch das
+Vierte Corona-Steuerhilfegesetz vom 19. Juni 2022 (Bundesgesetzblatt 2022 Teil I Seite 911)
+eingeführt. Begünstigt waren Zahlungen des Arbeitgebers, die er in der Zeit vom 18. November
+2021 bis zum 31. Dezember 2022 an seine Arbeitnehmer zur Anerkennung besonderer
+Leistungen während der Corona-Krise gewährt hatte („Corona-Pflegebonus“)2.
+Die Bonus-Zahlungen sind bis zu einem Betrag von 4.500 Euro steuerfrei. Darüber hinaus
+gehende Zahlungen sind grundsätzlich steuerpflichtig.
+Zudem mussten die Zahlungen zusätzlich zum ohnehin geschuldeten Arbeitslohn gewährt
+2 Für die Leistungen nach § 150c des Elften Buches Sozialgesetzbuch in der Fassung des Gesetzes zur Stärkung des Schutzes der Bevölkerung und
+insbesondere vulnerabler Personengruppen vor COVID-19 vom 16. September 2022 (Bundesgesetzblatt 2022 Teil I Seite 1454) an Personen, die in
+zugelassenen voll- und teilstationären Pflegeeinrichtungen tätig und nicht deren Leitung sind, gilt die Steuerbefreiung auch dann, wenn sie in der Zeit bis
+zum 31. Mai 2023 gewährt werden.
+Seite 26
+FAQ´s zum Thema Corona
+werden. Die Steuerbefreiung ist damit insbesondere für Zahlungen im Rahmen eines
+Gehaltsverzichts oder einer Gehaltsumwandlung ausgeschlossen. Unter welchen
+Voraussetzungen eine Leistung zusätzlich zum ohnehin geschuldeten Arbeitslohn erbracht
+wird, ist § 8 Absatz 4 des Einkommensteuergesetzes zu entnehmen.
+Voraussetzung für die Steuerbefreiung ist weiterhin, dass die Arbeitnehmer in einer der
+folgenden Einrichtungen oder in einem der folgenden Dienste tätig waren (sog.
+Einrichtungsbezug):
+- Krankenhäuser,
+- ambulante Pflegedienste, die ambulante Intensivpflege in Einrichtungen,
+Wohngruppen oder sonstigen gemeinschaftlichen Wohnformen erbringen,
+- voll- oder teilstationäre Einrichtungen zur Betreuung und Unterbringung älterer,
+behinderter oder pflegebedürftiger Menschen oder vergleichbare Einrichtungen
+(„Pflegeeinrichtungen“),
+- ambulante Pflegedienste und Unternehmen, die den „Pflegeeinrichtungen“
+vergleichbare Dienstleistungen anbieten,
+- Einrichtungen für ambulantes Operieren,
+- Vorsorge- oder Rehabilitationseinrichtungen, in denen eine den Krankenhäusern
+vergleichbare medizinische Versorgung erfolgt,
+- Dialyseeinrichtungen,
+- Arztpraxen, Zahnarztpraxen oder
+- Rettungsdienste.
+Gehören Angebote zur Unterstützung im Alltag zu den begünstigten
+ambulanten Pflegediensten?
+Nein. Angebote zur Unterstützung im Alltag im Sinne von § 45a Absatz 1 Satz 2 des Elften
+Buches Sozialgesetzbuch zählen nicht zu den Dienstleistungen, die mit Angeboten in
+„Pflegeeinrichtungen“ (Einrichtungen nach § 36 Absatz 1 Nummer 2 des
+Infektionsschutzgesetzes) vergleichbar sind.
+Waren auch Personen begünstigt, die vergleichbare Tätigkeiten in anderen
+Einrichtungen ausführen?
+Nein. Begünstigt waren nur Personen, die in den unter VII. 1. genannten Einrichtungen oder
+Diensten tätig sind.
+Waren auch nicht pflegerisch tätige Personen begünstigt?
+Ja. Der Kreis der Anspruchsberechtigten in Bezug auf die Steuerbefreiung umfasst nicht nur
+Pflegekräfte, sondern auch weitere in unter VII. 1. genannten Einrichtungen oder Dienste tätige
+Arbeitnehmer.
+Waren auch Auszubildende in Krankenhäusern begünstigt?
+Ja. Begünstigt waren unter anderem auch in den unter VII. 1. genannten Einrichtungen oder
+Diensten tätige Auszubildende, Praktikanten, Freiwillige im Sinne des § 2 des
+Bundesfreiwilligendienstgesetzes, Freiwillige im Sinne des § 2 des
+Jugendfreiwilligendienstegesetzes im freiwilligen sozialen Jahr und geringfügig Beschäftigte
+nach § 40a Absatz 2 des Einkommensteuergesetzes („Minijobber“).
+Seite 27
+FAQ´s zum Thema Corona
+Waren auch Personen begünstigt, die in einem Krankenhaus im Rahmen
+einer Arbeitnehmerüberlassung eingesetzt werden?
+Ja. Begünstigt waren auch Personen, die in den unter VII. 1. genannten Einrichtungen oder
+Diensten im Rahmen einer Arbeitnehmerüberlassung oder im Rahmen eines Werk- oder
+Dienstleistungsvertrags eingesetzt wurden. Dabei handelte es sich um Personen, die das
+eigene Personal der Einrichtung ergänzten. Auf das Bestehen eines
+Arbeitsvertragsverhältnisses zum Inhaber der Einrichtung oder den Diensten kam es insoweit
+nicht an.
+Waren freiwillige Leistungen des Arbeitgebers begünstigt?
+Ja. Begünstigt waren nicht nur Leistungen, die aufgrund bundes- oder landesrechtlicher
+Regelungen (insbesondere Pflegebonusgesetz) oder aufgrund von Beschlüssen der Bundes-
+oder einer Landesregierung gewährt wurden, sondern auch freiwillige Leistungen der
+Arbeitgeber (zum Beispiel freiwillige Aufstockungen der Leistungen nach dem
+Pflegebonusgesetz).
+Waren tarifvertraglich geregelte Leistungen der Arbeitgeber begünstigt?
+Ja. Auch Leistungen der Arbeitgeber aufgrund von Tarifverträgen, zum Beispiel aufgrund des
+Tarifvertrags der Länder über eine einmalige Corona-Sonderzahlung vom 29. November 2021,
+waren begünstigt.
+Muss der Arbeitnehmer oder muss der Arbeitgeber nachweisen, dass er
+den Bonus zur Anerkennung besonderer Leistungen in der Corona-Krise
+erhalten oder gewährt hatte?
+Nein. Ein Nachweis besonderer Leistungen ist weder durch den Arbeitnehmer noch durch den
+Arbeitgeber erforderlich. Bei den in den unter VII. 1. genannten Einrichtungen oder Diensten
+tätigen Personen geht der Gesetzgeber davon aus, dass sie in der Corona-Pandemie
+erheblichen Belastungen ausgesetzt waren und dass sie demzufolge während der Krise
+besondere Leistungen erbracht haben.
+Es genügt wie bei der „Corona-Prämie“ nach § 3 Nummer 11a des Einkommensteuergesetzes,
+dass der „Corona-Pflegebonus“ in einem sachlichen Zusammenhang mit der Corona-Krise
+stand. Der Zusammenhang mit der Corona-Krise musste vom Arbeitgeber im Lohnkonto
+aufgezeichnet werden (Einzelheiten unter VII. 18.).
+Gelten für Leistungen des Arbeitgebers die Steuerbefreiungen für die
+„Corona-Prämie“ bis zur Höhe von 1.500 Euro und für den „Corona-
+Pflegebonus“ bis zur Höhe von 4.500 Euro nebeneinander?
+Die Steuerbefreiung für den „Corona-Pflegebonus“ (§ 3 Nummer 11b des
+Einkommensteuergesetzes) geht der Steuerbefreiung für „die Corona-Prämie“ (§ 3 Nummer
+11a des Einkommensteuergesetzes) vor. Das bedeutet, dass Leistungen, die der Arbeitgeber
+in der Zeit vom 18. November 2021 bis 31. März 2022 an seine in unter VII. 1. genannten
+begünstigten Einrichtungen oder Diensten tätige Arbeitnehmer gewährt hatte, nur unter die
+Steuerbefreiung des § 3 Nummer 11b des Einkommensteuergesetzes fallen. Insoweit scheidet
+eine Addition der beiden Höchstbeträge aus. Für Corona-Prämien nach § 3 Nummer 11a des
+Seite 28
+FAQ´s zum Thema Corona
+Einkommensteuergesetzes, die in der Zeit vom 1. März 2020 bis 17. November 2021 gewährt
+wurden, bleibt die Steuerbefreiung nach § 3 Nummer 11a des Einkommensteuergesetzes
+hingegen erhalten.
+Warum waren (nur) Leistungen in der Zeit vom 18. November 2021 bis
+zum 31. Dezember 2022 begünstigt?
+Begünstigt war der Zeitraum ab dem 18. November 2021, da an diesem Tag der maßgebliche
+Beschluss der Ministerpräsidentenkonferenz über die Gewährung von weiteren Prämien
+gefasst worden ist. Um ausreichend Zeit für die Auszahlung zur Verfügung zu stellen, waren
+Leistungen, die dem Arbeitnehmer bis zum 31. Dezember 2022 zugeflossen sind, begünstigt.
+Gilt die Steuerbefreiung auch für mehrere Leistungen, die der
+Arbeitgeber dem Arbeitnehmer im begünstigten Zeitraum gewährt?
+Ja. Die Steuerbefreiung gilt bis zur Höhe von insgesamt 4.500 Euro auch für mehrere
+Leistungen, die der Arbeitgeber dem Arbeitnehmer im begünstigten Zeitraum gewährt.
+Konnten Arbeitgeber ihren Arbeitnehmern sowohl in 2021 als auch in
+2022 je einen steuerfreien Betrag von bis zu 4.500 Euro, insgesamt also
+9.000 Euro, steuerfrei gewähren?
+Nein. Die Steuerbefreiung konnte in den Jahren 2021 und 2022 nur bis zur Höhe von insgesamt
+4.500 Euro gewährt werden.
+Was gilt, wenn dem Arbeitnehmer Leistungen von insgesamt mehr als
+4.500 Euro gewährt wurden?
+Der Höchstbetrag in § 3 Nummer 11b des Einkommensteuergesetzes ist ein Freibetrag, d. h.
+bei Überschreiten des Betrags bleibt ein Betrag von 4.500 Euro steuerfrei, und nur der
+darüberhinausgehende Betrag ist grundsätzlich steuerpflichtig.
+Konnte der steuerfreie Höchstbetrag von 4.500 Euro für jedes
+Dienstverhältnis gesondert ausgeschöpft werden oder ist zu prüfen, ob
+aus anderen Dienstverhältnissen bereits eine Zahlung geleistet wurde?
+Was gilt bei zwei oder mehr aufeinander folgenden Dienstverhältnissen?
+Die Steuerbefreiung im Sinne des § 3 Nummer 11b des Einkommensteuergesetzes konnte bis
+zu dem Betrag von 4.500 Euro in der Regel für jedes Dienstverhältnis, also auch für aufeinander
+folgende Dienstverhältnisse, gesondert in Anspruch genommen werden. Der Betrag von bis zu
+4.500 Euro konnte in der Regel pro Dienstverhältnis ausgeschöpft werden. Dies galt allerdings
+nicht bei mehreren aufeinander folgenden Dienstverhältnissen in dem begünstigten Zeitraum
+zu ein und demselben Arbeitgeber.
+Warum wurde die Steuerbefreiung bis zu einer Höhe von 4.500 Euro
+gewährt?
+Die Höhe des Betrags ist so gewählt, dass insbesondere Leistungen nach dem
+Pflegebonusgesetz und zusätzlich Leistungen aufgrund des Tarifvertrags der Länder über eine
+Seite 29
+FAQ´s zum Thema Corona
+einmalige Corona-Sonderzahlung vom 29. November 2021 regelmäßig in voller Höhe
+begünstigt sind.
+Ist der steuerfreie „Corona-Pflegebonus“ vom Arbeitgeber in der
+Lohnsteuerbescheinigung auszuweisen oder vom Arbeitnehmer in der
+Einkommensteuererklärung anzugeben?
+Nein. Der steuerfreie „Corona-Pflegebonus“ ist weder vom Arbeitgeber in der
+Lohnsteuerbescheinigung auszuweisen noch vom Arbeitnehmer in der
+Einkommensteuererklärung anzugeben.
+War der steuerfreie „Corona-Pflegebonus“ vom Arbeitgeber im
+Lohnkonto aufzuzeichnen?
+Ja. Die steuerfreien Leistungen waren im Lohnkonto aufzuzeichnen (§ 4 Absatz 2 Nummer 4
+der Lohnsteuer-Durchführungsverordnung), so dass sie bei der Lohnsteuer-Außenprüfung als
+solche erkennbar sind und die Rechtsgrundlage für die Zahlung bei Bedarf geprüft werden
+kann.
+Der Zusammenhang der Bonusgewährung mit der Corona-Krise kann sich aus einzel- oder
+tarifvertraglichen Vereinbarungen zwischen Arbeitgeber und Arbeitnehmer, aus ähnlichen
+Vereinbarungen oder aus Erklärungen des Arbeitgebers ergeben.
+Grenzgänger
+Aufgrund der einschränkenden Maßnahmen zur Bekämpfung der Corona-
+Pandemie sollten Beschäftigte möglichst von zuhause aus arbeiten.
+Welche steuerlichen Konsequenzen hat dies für Beschäftigte, die in einem
+Staat wohnen und normalerweise arbeitstäglich über die Grenze in einen
+anderen Staat pendeln, um dort ihrer Tätigkeit nachzugehen und im
+Anschluss an ihren Wohnsitz zurückkehren (sog. Grenzgänger)?
+Der Empfehlung, möglichst zuhause zu bleiben, kamen viele Bürgerinnen und Bürger nach.
+Vor Herausforderungen stellt dies Beschäftigte, die normalerweise täglich von ihrem Wohnsitz
+aus in einen anderen Staat zur Arbeit pendeln. Wenn sie jedoch, aufgrund von behördlichen
+Empfehlungen oder Anordnungen, Anweisungen des Arbeitgebers oder der Schließung der
+Grenze , vermehrt von zuhause aus arbeiteten („Home Office“ ), kann dies auch steuerliche
+Folgen auslösen, etwa dann, wenn nach den zugrunde liegenden Regelungen eines zwischen
+den beiden betroffenen Staaten bestehenden Doppelbesteuerungsabkommens (DBA) das
+Überschreiten einer bestimmten Anzahl an Tagen, an denen der eigentliche Tätigkeitsstaat
+nicht aufgesucht wird, zu einem teilweisen Wechsel des Besteuerungsrechts führt.
+Diese Frage ist in den von Deutschland abgeschlossenen DBA nicht einheitlich geregelt, weil
+es mit verschiedenen Nachbarstaaten unterschiedliche Sonderregelungen gibt.
+Nach dem DBA etwa mit Frankreich ändern die zusätzlichen „Home Office“-Tage für
+Beschäftigte im Grenzgebiet nichts an der vorgesehenen Aufteilung der Besteuerungsrechte.
+Dies gilt auch für Grenzgänger nach dem DBA mit der Schweiz, solange sich auf das
+Kalenderjahr bezogen noch eine Mindestzahl von Pendelbewegungen (d.h. hin und zurück)
+über die Grenze (eine pro Woche oder fünf im Monat) ergibt. Das Bundesministerium der
+Finanzen hat sich mit der Schweiz vorsorglich darauf geeinigt, Pendelbewegungen während
+der Maßnahmen zur Bekämpfung der Corona-Krise zu unterstellen. Dies gilt auch für
+Seite 30
+FAQ´s zum Thema Corona
+Beschäftigte im öffentlichen Dienst, die unter die Grenzgängerregelung nach dem DBA mit der
+Schweiz fallen.
+Im Hinblick auf die DBA mit anderen Staaten, etwa mit Luxemburg, den Niederlanden,
+Österreich, Belgien und Polen, kann ein erhöhtes Maß an „Home Office“-Tagen hingegen zu
+einer Änderung der Aufteilung der Besteuerungsrechte und damit zu einer Änderung der
+steuerlichen Situation der betroffenen Beschäftigten führen. Das Gleiche in Bezug auf
+Frankreich gilt für Beschäftigte, wenn sie nicht im Grenzgebiet leben und in Bezug auf die
+Schweiz für Beschäftigte, die die Grenzgängereigenschaft nicht erfüllen. Das
+Bundesministerium der Finanzen hat mit diesen Staaten bereits bis zum 30. Juni 2022
+befristete Vereinbarungen getroffen, um eine Änderung der Aufteilung der Besteuerungsrechte
+aufgrund einer durch die Corona-Krise bedingten höheren Anzahl von „Home Office“-Tagen zu
+verhindern. Mit Luxemburg, Österreich, Polen und der Schweiz wurde sich darauf verständigt,
+dass die „Home Office“-Vereinbarungen auch für Beschäftigte des öffentlichen Dienstes gelten.
+Betriebstätten
+Ergeben sich durch zeitliche Unterbrechungen von Bau- und
+Montagearbeiten für ausländische (Bau-) Unternehmen und deren
+Beschäftigte in Deutschland im Zuge der Corona-Krise steuerliche
+Konsequenzen, indem zum Beispiel aufgrund des Überschreitens der
+Betriebstättenbegründungsfrist von 6 Monaten gemäß § 12 AO
+beziehungsweise der ggfs. längeren Frist nach dem Betriebstättenartikel
+eines Doppelbesteuerungsabkommens eine inländische Betriebstätte mit
+der Folge steuerlicher Pflichten in Deutschland begründet wird?
+Werden Bau- und Montagearbeiten ausländischer (Bau-) Unternehmen vor dem Abschluss aus
+Gründen unterbrochen, die nicht im Betriebsablauf liegen, zum Beispiel durch
+Grenzschließungen oder Arbeitseinstellungen aufgrund der Corona-Krise, sollen sich für die
+Unternehmen und deren Beschäftigte allein hieraus keine steuerlichen Konsequenzen in
+Bezug auf eine Betriebstättenbegründung ergeben.
+Daher werden durch die Corona-Krise bedingte Unterbrechungszeiten der Bau- und
+Montagearbeiten für die Berechnung der innerstaatlichen und abkommensrechtlichen
+Betriebstättenbegründungsfristen für Bau- und Montagearbeiten nicht mitgezählt (Hemmung
+der Fristen). Dies setzt voraus, dass
+• die Unterbrechung im konkreten Fall mindestens zwei Wochen beträgt,
+• die Arbeitnehmerinnen und Arbeitnehmer beziehungsweise die Beauftragten des
+Unternehmens während der Unterbrechungszeit vom Montageort abgezogen werden oder
+diesen verlassen, und
+• sichergestellt werden kann, dass die entsprechenden Einkünfte zum Beispiel im
+Ansässigkeitsstaat des Unternehmens beziehungsweise der Arbeitnehmerinnen und
+Arbeitnehmer besteuert werden, wenn es aufgrund der Fristhemmung nicht zur
+Begründung einer Betriebstätte für das Unternehmen in Deutschland kommt. Zu diesem
+Zweck können gegebenenfalls auch Spontanauskünfte an die Steuerverwaltung des
+anderen Vertragsstaats übermittelt werden.
+Seite 31
+FAQ´s zum Thema Corona
+Wurde durch die während der Corona-Pandemie von Arbeitskräften im
+Homeoffice ausgeübte Tätigkeit grenzüberschreitend eine Betriebsstätte
+des Unternehmens begründet?
+Arbeitete eine Arbeitskraft nur pandemiebedingt vorübergehend im Homeoffice, wurde durch
+diese Homeoffice-Tätigkeit regelmäßig keine neue Betriebsstätte für den Arbeitgeber
+begründet. Dies gilt unabhängig von der Funktion der Arbeitskraft im Unternehmen, dem
+Umfang ihrer Befugnisse oder der Art der von ihr ausgeübten Tätigkeit. Aus der Pandemie
+folgende Anweisungen des Arbeitgebers, vorübergehend im Homeoffice zu arbeiten, können
+aufgrund des Ausnahmecharakters dieser Situation nicht dahingehend verstanden werden,
+dass der Arbeitgeber Verfügungsmacht über entsprechend genutzte Räumlichkeiten der
+Arbeitskraft erlangte oder dort eine „gewöhnliche“ Ausübung von Tätigkeiten im Sinne des
+Artikel 5 Absatz 5 OECD-Musterabkommen stattfand.
+Diese Auslegung ist auf Sachverhalte anzuwenden, die im Zeitraum vom 11. März 2020 bis
+zum 30. Juni 2022 verwirklicht wurden.
+Hiervon unberührt blieben unabhängig von der Corona-Pandemie geltende arbeitsvertragliche
+Regelungen hinsichtlich der regulären Homeoffice-Tätigkeit.
+Maßnahmen im Gemeinnützigkeitssektor und für
+gesellschaftliches Engagement in der Corona-Krise
+Wie werden Spenden steuerlich berücksichtigt? Ändert sich wegen der
+Corona-Krise etwas an Abläufen, Verfahren und Nachweisen?
+Spenden sind freiwillige Sach- oder Geldleistungen, die ohne Gegenleistung zur Förderung
+steuerbegünstigter Zwecke erbracht werden. Sie müssen außerdem an einen
+steuerbegünstigten Empfänger geleistet werden. Bei diesem handelt es sich regelmäßig um
+eine steuerbegünstigte Körperschaft (zum Beispiel einen gemeinnützigen Verein oder eine
+gemeinnützige Stiftung) oder eine öffentlich-rechtliche Körperschaft (zum Beispiel ein
+Krankenhaus).
+Spenden an natürliche Personen sind nicht steuerlich abzugsfähig.
+Für einen (Sonderausgaben-) Abzug in der Steuererklärung wird grundsätzlich eine
+Spendenbescheinigung benötigt, die von dem steuerbegünstigten Empfänger der Spende
+auszustellen ist. Wenn bestimmte steuerbegünstigte Körperschaften Spenden-Sonderkonten
+eingerichtet haben, um mit den dort gesammelten Geldern den von der Corona-Krise
+Betroffenen zu helfen, dann können die Spender bis zum 31. Dezember 2023
+Vereinfachungen nutzen. Wird auf diese Sonderkonten gespendet, dann reicht beim
+Finanzamt als Nachweis der Spende der Beleg des Kreditinstitutes (zum Beispiel
+Kontoauszug, Lastschrifteinzugsbeleg oder der PC-Ausdruck bei Online-Banking) aus.
+Wie werden Sachspenden (zum Beispiel Atemschutzmasken) aus dem
+eigenen Unternehmen an Krankenhäuser oder Supermärkte zum Schutz
+der dort tätigen Angestellten steuerlich behandelt, wenn es sich um eine
+öffentlichkeitswirksame Spendenaktion (zum Beispiel durch
+Unterstützung des Bürgermeisters) handelt?
+Solche Spenden in Form von Sachzuwendungen aus dem Unternehmen können als
+Betriebsausgaben steuerlich geltend gemacht werden, wenn sie wirtschaftliche Vorteile für
+Seite 32
+FAQ´s zum Thema Corona
+dieses Unternehmen (sogenanntes „Sponsoring“) mit sich bringen. Dabei gehen die
+Finanzämter schon dann von einem „wirtschaftlichen Vorteil“ aus, wenn beispielsweise die
+Medien durch Berichterstattung auf die Spenden aufmerksam machen. In diesem Fall geht der
+günstigere Betriebsausgabenabzug der steuerlichen Berücksichtigung als Spende vor.
+Einzelheiten zur umsatzsteuerlichen Auswirkung solcher Spenden finden sich unter 4. wieder.
+Wie werden Spenden an einen – gegebenenfalls auch steuerbegünstigten
+- Geschäftspartner steuerlich behandelt?
+Eine Sachzuwendung oder die Zuwendung von Nutzungen und Leistungen (nicht hingegen
+die Zuwendung von Geld) aus dem Betriebsvermögen eines Unternehmens kann auch
+steuerlich als Betriebsausgabe geltend gemacht werden, wenn sie bis zum 31. Dezember
+2023 an durch die Corona-Krise unmittelbar und nicht unerheblich geschädigte
+Geschäftspartner oder mit der Bewältigung der Corona-Krise befasste Unternehmen und
+Einrichtungen, wie zum Beispiel Krankenhäuser, geleistet wird.
+Im Übrigen können Zuwendungen (Geld oder Sachmittel) an steuerbegünstigte
+Körperschaften wie gewohnt steuerlich als Spenden geltend gemacht werden.
+Einzelheiten zur umsatzsteuerlichen Auswirkung solcher Spenden finden sich unter 4. wieder.
+Hat die unentgeltliche Bereitstellung von medizinisch geschultem
+Personal sowie Material an Einrichtungen umsatzsteuerliche
+Konsequenzen, wenn diese einen unverzichtbaren Einsatz zur
+Bewältigung der Corona-Krise leisten?
+Wenn Material oder Personal aus einem Unternehmen unentgeltlich zur Verfügung gestellt
+werden, könnte diese sogenannte unentgeltliche Wertabgabe der Umsatzsteuer unterliegen.
+Wenn Unternehmen aber medizinische Bedarfsgegenstände (zum Beispiel Schutzkleidung,
+Schutzmasken, Arzneimittel, Desinfektionsmittel, Beatmungsgeräte u. ä.) oder Personal für
+medizinische Zwecke unentgeltlich den Einrichtungen zur Verfügung stellen, die einen
+unverzichtbaren Einsatz zur Bewältigung der Corona-Krise leisten (dazu gehören
+insbesondere Krankenhäuser, Kliniken, Arztpraxen, Rettungsdienste, Pflege- und
+Sozialdienste, Alten- und Pflegeheime sowie weitere öffentliche Institutionen wie Polizei und
+Feuerwehr), dann wird von der Besteuerung einer unentgeltlichen Wertabgabe im
+Billigkeitswege befristet bis 31. Dezember 2023 abgesehen.
+Beabsichtigen Unternehmer bereits bei Bezug der medizinischen Bedarfsgegenstände oder -
+im Falle der Herstellung - ihrer Bestandteile eine unentgeltliche Weitergabe, wird
+ausnahmsweise unter den oben genannten Bedingungen und den weiteren Voraussetzungen
+des § 15 des Umsatzsteuergesetzes ebenfalls befristet bis 31. Dezember 2023 zusätzlich ein
+entsprechender Vorsteuerabzug im Billigkeitswege gewährt. Die folgende unentgeltliche
+Wertabgabe wird nach dem vorangegangenen Absatz im Billigkeitswege nicht besteuert. Dies
+gilt auch in Fällen, in denen Unternehmern Personal entgeltlich überlassen wurde und sie
+dieses den genannten Einrichtungen für den Einsatz für medizinische Zwecke zur Verfügung
+stellen.
+Darf jede steuerbegünstigte Körperschaft (zum Beispiel gemeinnützige
+Vereine oder Stiftungen) unabhängig von ihrem eigentlichen
+Satzungszweck Spenden im Zusammenhang mit der Corona-Krise
+einwerben?
+Seite 33
+FAQ´s zum Thema Corona
+Alle steuerbegünstigten Körperschaften können Spendenaktionen für die Hilfe der von der
+Corona- Krise Betroffenen durchführen. Die Finanzämter werden es nicht beanstanden, wenn
+in der Zeit bis zum 31. Dezember 2023 Spenden für diesen nicht in der Satzung des Vereins
+oder der Stiftung genannten Zweck eingeworben, mit einer Spendenbescheinigung bestätigt
+und für diesen Zweck verwendet werden. Die Spendenbescheinigung, die der Zuwendende
+von dem Verein oder der Stiftung erhält, muss einen Hinweis auf die Sonderaktion „Hilfe für
+von der Corona-Krise Betroffene“ enthalten.
+Voraussetzung ist jedoch, dass die steuerbegünstigte Körperschaft die Spenden nur für
+gemeinnützige oder mildtätige Zwecke einsetzt. D. h. aus Spenden finanzierte
+Unterstützungsleistungen für Unternehmen, Selbständige oder entsprechende Hilfsfonds der
+Kommunen sind beispielsweise nicht begünstigt.
+Die Spenden können im Übrigen auch ohne Auswirkungen auf die eigene Gemeinnützigkeit
+an steuerbegünstigte Körperschaften oder juristische Personen des öffentlichen Rechts
+weitergeleitet werden, die zur Hilfe für von der Corona-Krise Betroffene beitragen.
+Beispielsweise kann ein Fußballverein eine Spendenaktion für Betroffene der Corona-Krise
+starten und die im Zuge dieser Sonderaktion eingeworbenen Spenden an ein
+steuerbegünstigtes Krankenhaus weiterleiten.
+Dürfen steuerbegünstigte Körperschaften (zum Beispiel gemeinnützige
+Vereine oder Stiftungen) außerhalb ihrer Satzungszwecke zur Bewältigung
+der Auswirkungen der Corona-Krise tätig werden (zum Beispiel durch
+Einkaufshilfen)?
+Alle steuerbegünstigten Körperschaften dürfen sich bis zum 31. Dezember 2023 unabhängig
+von ihren Satzungszwecken zur Bewältigung der Auswirkung der Corona-Krise engagieren.
+Dieses Engagement ist keine Gefahr für die eigene Gemeinnützigkeit. Das Finanzamt wird aus
+diesen satzungsfremden Aktivitäten keine negativen Konsequenzen für die Gemeinnützigkeit
+ziehen.
+Beispielsweise kann ein gemeinnütziger Verein für ältere, besonders gefährdete Personen
+oder für hilfsbedürftige Personen in häuslicher Quarantäne Einkaufshilfen übernehmen.
+Hierbei können auch Mittel des Vereins eingesetzt werden. Ebenso kann eine gemeinnützige
+Forschungseinrichtung vorhandene Schutzmasken unentgeltlich an gefährdete oder
+betroffene Personen verteilen. In beiden Fällen ist eine vorherige Änderung der Satzung
+insoweit nicht erforderlich.
+Unterstützungsleistungen, mit denen keine gemeinnützigen oder mildtätigen Zwecke verfolgt
+werden, zum Beispiel an von der Corona-Krise besonders betroffene gewerbliche
+Unternehmen, Selbständige oder entsprechende Hilfsfonds der Kommunen, sind hingegen
+nicht begünstigt.
+Einzelheiten zu Unterstützungsleistungen an Künstler oder Solo-Selbständige finden sich
+unter 14. wieder.
+Wie sind entgeltliche Tätigkeiten steuerbegünstigter Körperschaften (zum
+Beispiel gemeinnütziger Vereine oder Stiftungen) zu behandeln, die im
+Zusammenhang mit der Corona-Krise ausgeübt werden?
+Krankenhäuser oder auch Alten- und Pflegeheime brauchen aktuell in jeder Hinsicht Hilfe und
+Unterstützung. Viele steuerbegünstigte Körperschaften helfen daher mit Personal,
+Seite 34
+FAQ´s zum Thema Corona
+Räumlichkeiten, Sachmitteln oder anderen Leistungen, die für die Bewältigung von
+Auswirkungen der Corona-Krise notwendig sind, und erhalten dafür ein Entgelt. Steuerlich ist
+diese wirtschaftliche Aktivität eigentlich nur dann begünstigt, wenn in der Satzung ein
+entsprechender Zweck, wie zum Beispiel des öffentlichen Gesundheitswesens und der
+öffentlichen Gesundheitspflege beziehungsweise die Förderung der Verhütung und
+Bekämpfung von übertragbaren Krankheiten, genannt ist. Angesichts der Auswirkungen der
+Corona-Krise werden die Finanzämter es bis zum 31. Dezember 2023 nicht beanstanden,
+wenn bei steuerbegünstigten Körperschaften, die sich in die Bewältigung der Corona-Krise
+einbringen, ein derartiger Zweck in den Satzungen nicht aufgeführt ist.
+Unabhängig davon, ob die Körperschaft tatsächlich einen entsprechenden steuerbegünstigten
+Zweck, wie beispielsweise die Förderung des öffentlichen Gesundheitswesens oder die
+Förderung mildtätiger Zwecke in ihre Satzung aufgenommen hat, können entgeltliche
+Betätigungen zur Bewältigung der Auswirkungen der Corona-Krise sowohl ertragsteuerlich als
+auch umsatzsteuerlich bis zum 31. Dezember 2023 dem steuerbegünstigten Zweckbetrieb im
+Sinne des § 65 der Abgabenordnung zugeordnet werden. Dies ist zum Beispiel der Fall, wenn
+eine gemeinnützige Forschungseinrichtung einem Krankenhaus vorhandene Schutzmasken
+gegen Entgelt zur Verfügung stellt. Die Einnahmen aus dieser Tätigkeit können dann dem
+steuerbegünstigten Zweckbetrieb zugeordnet werden.
+Diese umsatzsteuerbaren Überlassungen von Sachmitteln und Räumen sowie von
+Arbeitnehmern sind unter den weiteren Voraussetzungen des § 4 Nummern 14, 16, 18, 23 und
+25 des Umsatzsteuergesetzes als eng verbundene Umsätze der umsatzsteuerbegünstigten
+Einrichtungen untereinander umsatzsteuerfrei. Die Steuerbefreiung gilt nur für die
+Überlassung zwischen Einrichtungen, deren Umsätze nach der gleichen Vorschrift
+steuerbefreit sind, also zum Beispiel für Überlassungen zwischen den in § 4 Nummer 16 des
+Umsatzsteuergesetzes genannten Einrichtungen. Für die Anwendung der genannten
+Umsatzsteuerbefreiungen ist eine Anerkennung als gemeinnützige Einrichtung nicht
+erforderlich.
+Zudem können in den Veranlagungszeiträumen 2020 bis einschließlich 2023 aus
+Billigkeitsgründen Leistungen, die im unmittelbaren Zusammenhang mit der Eindämmung und
+Bekämpfung der Covid-19-Pandemie (zum Beispiel Corona-Abstrichnahmen sowie der
+Betrieb eines Impfzentrums) von Einrichtungen des öffentlichen Rechts oder anderen
+Einrichtungen, die keine systematische Gewinnerzielung anstreben, erbracht werden, als eng
+mit der Sozialfürsorge und der sozialen Sicherheit verbundene Leistungen angesehen und
+nach § 4 Nummer 18 des Umsatzsteuergesetzes als umsatzsteuerfrei behandelt werden.
+Sofern ein Unternehmer sich auf die Umsatzsteuerbefreiung beruft, ist für damit im
+Zusammenhang stehende Eingangsleistungen der Vorsteuerabzug ausgeschlossen.
+Eine steuerbegünstigte Körperschaft (zum Beispiel ein gemeinnütziger
+Verein oder eine Stiftung) hat Mittel aus Vorjahren angesammelt und kann
+diese nun aufgrund der Corona-Krise in den Jahren 2020 bis einschließlich
+2023 nicht ausgeben. Verliert sie nun die Gemeinnützigkeit?
+Gesetzlich vorgesehen ist, dass Mittel zeitnah und somit spätestens in den auf den Zufluss
+folgenden zwei Jahren für die steuerbegünstigten satzungsmäßigen Zwecke verwendet
+werden müssen. Steuerbegünstigte Körperschaften mit jährlichen Einnahmen von nicht mehr
+als 45.000 Euro sind von der Verpflichtung zur zeitnahen Mittelverwendung ausgenommen.
+Stellt die Finanzverwaltung bei Körperschaften mit Einnahmen von mehr als 45.000 Euro im
+Jahr fest, dass der Verein seine Mittel nicht zeitnah verwendet hat, wird das Finanzamt dem
+Seite 35
+FAQ´s zum Thema Corona
+Verein eine angemessene Frist zur Mittelverwendung setzen. Angesichts der derzeitigen
+Situation werden bei der Frist in jedem Fall die Auswirkungen der Corona-Krise berücksichtigt.
+Den steuerbegünstigten Körperschaften wird damit mehr Zeit als gewöhnlich zur Verwendung
+der angesammelten Mittel eingeräumt.
+Die in den Jahren 2020 bis einschließlich 2023 eigentlich für einen bestimmten Zweck zur
+Verwendung vorgesehenen Mittel müssen also nicht irgendwie anderweitig verwendet werden,
+nur damit der Status der Gemeinnützigkeit erhalten bleibt.
+Dürfen Rücklagen steuerbegünstigter Körperschaften (zum Beispiel
+gemeinnütziger Vereine oder gemeinnützige Stiftungen), die nach § 62 der
+Abgabenordnung zu anderen Zwecken gebildet worden sind, aufgelöst
+werden, um eine aufgrund der Corona-Krise entstandene wirtschaftliche
+Notlage abzumildern?
+Ja. Eine steuerbegünstigte Körperschaft kann in der Vergangenheit gebildete Rücklagen, wie
+zum Beispiel zur Wiederbeschaffung von Wirtschaftsgütern, bis zum 31. Dezember 2023 ohne
+Gefährdung der Gemeinnützigkeit auflösen und verwenden, um die negativen Auswirkungen
+der Corona-Krise finanziell abzumildern.
+Darf eine steuerbegünstigte Körperschaft (zum Beispiel ein
+gemeinnütziger Verein oder eine gemeinnützige Stiftung) ihrem
+wirtschaftlichen Geschäftsbetrieb mit gesammelten Spendengeldern oder
+Mitgliedsbeiträgen vorübergehend finanziell unter die Arme greifen?
+Die Auswirkungen der Corona-Krise treffen grundsätzlich alle wirtschaftlich Aktiven. Dazu
+können also auch steuerbegünstigte Körperschaften zählen, die sich „am Markt“ (zum Beispiel
+mit einem Fan-Shop, einer Cafeteria oder einer Vereinsgaststätte) betätigen. Eine
+steuerbegünstigte Körperschaft darf Mittel aus ihrem ideellen Bereich, wie zum Beispiel
+Spenden und Mitgliedsbeiträge, an die wirtschaftlichen Einheiten weiterleiten. Voraussetzung
+ist jedoch, dass mit diesen Mitteln auf die Corona- Krise zurückzuführende Verluste, die bis
+zum 31. Dezember 2023 entstanden sind, ausgeglichen werden. Eine Finanzierung von
+dauerhaften Verlusten der wirtschaftlichen Betätigung durch Mittel aus dem ideellen Bereich
+wird durch die Finanzverwaltung hingegen nicht akzeptiert.
+Darf der Übungsleiter (zum Beispiel Trainer eines Fußballvereins) einer
+steuerbegünstigten Körperschaft (zum Beispiel eines gemeinnützigen
+Vereines oder einer gemeinnützigen Stiftung), der aufgrund der Corona-
+Krise vorübergehend seiner Tätigkeit nicht nachkommen kann,
+weiterbezahlt werden, ohne dass die Gemeinnützigkeit der Körperschaft
+gefährdet wird?
+Ja. Die Übungsleiterpauschalen dürfen vorübergehend bis zum 31. Dezember 2023
+weitergezahlt werden, wenn die Ausübung der Tätigkeit wegen der Corona-Krise nicht möglich
+ist.
+Ist die Steuerbegünstigung einer Körperschaft (zum Beispiel eines
+gemeinnützigen Vereins oder einer Stiftung) gefährdet, wenn sie ihren
+Mitgliedern, die durch die Corona-Krise wirtschaftlich in Not geraten sind, für das
+Seite 36
+FAQ´s zum Thema Corona
+Jahr 2020 bis einschließlich 2023 bereits geleistete Beiträge zurückerstattet
+oder auf die Erhebung von Beiträgen für das laufende Jahr von diesen
+Mitgliedern verzichtet wird? Muss deswegen die Satzung oder Beitragsordnung
+der Körperschaft geändert werden?
+Eine Rückzahlung von Beiträgen an Mitglieder oder eine Befreiung der Mitglieder von
+Beitragszahlungen ist rechtlich grundsätzlich nur dann zulässig, wenn dies in den
+Satzungsbestimmungen oder der Beitragsordnung der jeweiligen Körperschaft mit
+aufgenommen ist.
+Wenn die aktuellen Satzungsbestimmungen oder Beitragsordnungen die Rückzahlung von
+Beiträgen an durch die Corona-Krise wirtschaftlich in Not geratene Mitglieder beziehungsweise
+die Befreiung dieser Mitglieder von Beitragszahlungen nicht zulassen, ist eine solche
+Rückzahlung oder eine solche Befreiung ausnahmsweise bis zum 31. Dezember 2023
+steuerrechtlich unschädlich für den Status Gemeinnützigkeit.
+Die Körperschaft muss sich die von dem Mitglied geltend gemachte, durch die Corona-Krise
+bedingte wirtschaftliche Notlage nicht nachweisen lassen. Es reicht aus, wenn sich das
+Mitglied plausibel auf eine solche Not beruft oder sich die Notsituation des Mitglieds für die
+Körperschaft plausibel aus anderen Umständen ergibt.
+Nicht erfasst von dieser Ausnahmeregelung und damit weiterhin schädlich für den Status der
+Gemeinnützigkeit bleibt es aber, einen bereits geleisteten Mitgliedsbeitrag zurückzuzahlen
+oder auf einen noch ausstehenden Mitgliedsbeitrag deswegen zu verzichten, weil das Angebot
+des Vereins aufgrund der Corona-Krise nicht erbracht werden kann (zum Beispiel aufgrund
+ausgefallener Übungsstunden oder nicht durchgeführter Sportkurse).
+Ist es für steuerbegünstigte Körperschaften (zum Beispiel
+gemeinnützige Vereine oder Stiftungen) gemeinnützigkeitsrechtlich
+unschädlich, wenn sie ihren Beschäftigten das Kurzarbeitergeld
+aufstocken?
+Eine Aufstockung des Kurzarbeitergeldes in den Jahren 2020 bis einschließlich 2023 für die
+Beschäftigten von steuerbegünstigten Körperschaften kann auch Auswirkungen auf den
+gemeinnützigkeitsrechtlichen Status der Körperschaft haben. Hierbei ist allerdings in Bezug
+auf die Höhe der Aufstockung zu differenzieren:
+ Bei einer Aufstockung auf bis zu 80 % des bisherigen Entgelts, wird davon
+ausgegangen, dass die Mittelverwendung für satzungsgemäße Zwecke erfolgt und die
+Aufstockung „marktüblich und angemessen“ ist.
+Das „bisherige Entgelt“ ist dabei das in den drei Monaten vor Einführung der Kurzarbeit
+durchschnittlich ausgezahlte Nettomonatsgehalt.
+ Bei einer Aufstockung auf über 80 % des bisherigen Entgelts, bedarf es einer
+entsprechenden Begründung, insbesondere zur „Marktüblichkeit und
+Angemessenheit“ der Aufstockung.
+Sehen kollektivrechtliche Vereinbarungen des Arbeitsrechts, wie zum Beispiel Tarifverträge,
+eine Aufstockung des Kurzarbeitergeldes vor, reicht für den Nachweis der „Marktüblichkeit und
+Angemessenheit“ die Vorlage dieser Vereinbarung. Übernehmen kollektivrechtlich nicht
+gebundene Unternehmen in individuellen Verträgen mit allen Mitarbeitern einheitlich die
+kollektivrechtlichen Vereinbarungen der Branche zur Aufstockung des Kurzarbeitergeldes,
+Seite 37
+FAQ´s zum Thema Corona
+dient ein Mustervertrag dem Nachweis der „Marktüblichkeit und Angemessenheit“.
+Dürfen steuerbegünstigte Körperschaften (zum Beispiel gemeinnützige
+Vereine oder Stiftungen) die von der Corona-Krise Betroffenen, wie zum
+Beispiel Künstler oder Solo-Selbständige unterstützen?
+Unterstützungsleistungen steuerbegünstigter Körperschaften an die von der Corona-Krise
+Betroffenen, zum Beispiel Künstler oder Solo-Selbständige sind bis zum 31. Dezember 2023
+dann unbedenklich für den Status der Gemeinnützigkeit, wenn mit den Leistungen
+steuerbegünstigte Zwecke verfolgt werden. Unterstützungsmaßnahmen außerhalb der
+steuerbegünstigten Zwecke sind mit dem Gemeinnützigkeitsrecht nicht vereinbar.
+Beispiele:
+ Förderung von Kunst und Kultur:
+Ersatz von Aufwendungen ortsansässiger Künstler zur Aufrechterhaltung eines
+Kulturangebotes vor Ort auch für Zeiten nach der Corona-Krise.
+ Verfolgung mildtätiger Zwecke
+Finanzielle Unterstützung ansonsten mittelloser natürlicher Personen. Da sich der
+Fördertatbestand der Mildtätigkeit auf die Hilfe notleidender Menschen beschränkt, ist
+eine Ausdehnung auf die Unterstützung unternehmerischer Tätigkeiten
+ausgeschlossen.
+Die Körperschaft hat die Bedürftigkeit der unterstützten Person selbst zu prüfen und zu
+dokumentieren. Es reicht, dass die wirtschaftliche Hilfsbedürftigkeit der unterstützten
+Personen glaubhaft gemacht wird.
+Viele Kultur- oder Sportveranstaltungen müssen wegen der Corona-
+Krise abgesagt und bereits bezahlte Ticketpreise erstattet werden. Besteht
+die Möglichkeit, dass steuerbegünstigte Körperschaften (zum Beispiel
+gemeinnützige Vereine oder Stiftungen) dem Ticketinhaber eine
+Zuwendungsbestätigung (Spendenquittung) ausstellen, wenn dieser auf
+die ihm zustehende Erstattung des Ticketpreises verzichtet?
+Verzichtet ein Ticketinhaber einer Kultur- oder Sportveranstaltung bei deren Absage aufgrund
+der Auswirkungen der Corona-Krise schriftlich oder per E-Mail auf die Auszahlung einer ihm
+zustehenden Erstattung, dann kann der Veranstalter ihm in dieser Höhe eine Spendenquittung
+ausstellen, wenn:
+ die Veranstaltung von einer als steuerbegünstigt anerkannten Einrichtung organisiert
+wurde
+ die Spende zu steuerbegünstigten Zwecken verwendet wird und
+ mit der „Spende“ keine Gegenleistung (zum Beispiel in Form eines Gutscheins oder
+eines Tickets für einen Ersatztermin oder eine anderweitige Gegenleistung an den
+Ticketinhaber) verbunden ist.
+Wird hingegen auf einen Erstattungsanspruch gegenüber einem kommerziellen
+Ticketvertreiber oder gegenüber selbständigen Künstlern verzichtet, kann dafür keine
+Zuwendungsbestätigung ausgestellt werden, die den Zuwender zum steuerlichen
+Seite 38
+FAQ´s zum Thema Corona
+Spendenabzug berechtigt.
+Die schriftliche oder per E-Mail erteilte Verzichtserklärung des Ticketinhabers ist mit dem
+Doppel der ausgestellten Spendenquittung in den Unterlagen des Ausstellers der
+Spendenquittung zu dokumentieren.
+Ist es schädlich für die Gemeinnützigkeit, wenn der Verein in den Jahren
+2020 bis einschließlich 2023 coronabedingt nicht in der Lage ist, seine
+satzungsmäßigen Zwecke zu verfolgen?
+Maßgeblich für die Prüfung der Gemeinnützigkeit ist, dass die tatsächliche Geschäftsführung
+der Körperschaft auf die ausschließliche und unmittelbare Erfüllung der steuerbegünstigten
+Zwecke gerichtet ist und den Bestimmungen entspricht, die die Satzung über die
+Voraussetzungen für Steuervergünstigungen enthält (§ 63 Absatz 1 AO). Regelmäßig wird
+dies anhand der mit der Steuererklärung eingereichten Rechenschaftsberichte und/oder
+Protokolle der Mitgliederversammlung überprüft. Während der Corona-Pandemie ist es vielen
+Körperschaften nicht möglich, Im Jahr 2020 ist es einigen dieser Körperschaften nicht möglich
+gewesen, ihren satzungsmäßigen Tätigkeiten im üblichen Umfang nachzugehen, einige
+Körperschaften mussten seit dem Frühjahr 2020 sogar weitestgehend untätig bleiben. Dies ist
+aus gemeinnützigkeitsrechtlicher Sicht für die Veranlagungszeiträume 2020 bis einschließlich
+2023 nicht zu beanstanden, wenn in den Tätigkeitsberichten diese Einschränkungen glaubhaft
+gemacht werden
+Ist die Absage oder Verschiebung der Mitgliederversammlung dem
+zuständigen Finanzamt zu melden?
+Aufgrund der Einschränkungen infolge der COVID-19-Pandemie ist es in den Jahren 2020,
+2021 und 2022 vielen gemeinnützigen Körperschaften nicht möglich gewesen, bspw. eine
+Mitgliederversammlung als Präsenzveranstaltung durchzuführen. Dies ist
+gemeinnützigkeitsrechtlich unschädlich. Zur Lösung der daraus folgenden zivilrechtlichen
+Probleme wurden in § 5 des Gesetzes über Maßnahmen im Gesellschafts-, Genossenschafts-
+, Vereins-, Stiftungs- und Wohnungseigentumsrecht zur Bekämpfung der Auswirkungen der
+COVID-19-Pandemie befristete Sonderregelungen für im Jahr 2020 ablaufende Bestellungen
+von Vereins- oder Stiftungsvorständen und im Jahr 2020 stattfindende
+Mitgliederversammlungen von Vereinen beschlossen (zum Beispiel Möglichkeit der virtuellen
+Mitgliederversammlung oder der schriftlichen beziehungsweise elektronischen Stimmabgabe).
+Diese Sonderregelungen fanden auf ablaufende Bestellungen von Vorstandsmitgliedern sowie
+Versammlungen und Beschlussfassungen bis zum 31. August 2022 Anwendung.
+Sofern eine Mitgliederversammlung coronabedingt ausgefallen ist oder verschoben wurde,
+sollte das zuständige Finanzamt bei der nächsten turnusmäßigen Steuererklärung darauf
+hingewiesen und etwaige Unterlagen (zum Beispiel Tätigkeitsberichte) beigefügt werden.
+Können freiwillige Helfer in Impf- oder Testzentren auch die Ehrenamts-
+oder sogar die Übungsleiterpauschale in Anspruch nehmen?
+All diejenigen, die nebenberuflich direkt an der Impfung oder Testung beteiligt sind – also in
+Aufklärungsgesprächen oder beim Impfen beziehungsweise Testen selbst – und dabei im
+Dienst oder im Auftrag einer juristischen Person des öffentlichen Rechts oder einer
+gemeinnützigen Körperschaft tätig werden, können die Übungsleiterpauschale in Anspruch
+nehmen. Diese Regelung gilt für Einnahmen in den Jahren 2020 bis einschließlich 2023. Die
+Übungsleiterpauschale betrug im Jahr 2020 2.400 Euro, ab dem Jahr 2021 ist sie auf 3.000
+Seite 39
+FAQ´s zum Thema Corona
+Euro jährlich erhöht worden. Bis zu dieser Höhe bleiben Einnahmen für eine solche Tätigkeit
+in (mobilen) Impf- oder Testzentren sowie (mobilen) Teststationen steuerfrei.
+Wer sich dagegen nebenberuflich in der Verwaltung und der Organisation von (mobilen) Impf-
+oder Testzentren sowie (mobilen) Teststationen engagiert und dabei im Dienst oder im Auftrag
+einer juristischen Person des öffentlichen Rechts oder einer gemeinnützigen Körperschaft tätig
+wird, kann die Ehrenamtspauschale in Anspruch nehmen. Für das Jahr 2020 betrug sie bis zu
+720 Euro, ab dem Jahr 2021 sind bis zu 840 Euro jährlich steuerfrei.
+Sind Zahlungen für in Impfzentren Engagierte steuerfrei, wenn die
+Ausgabe der Auszahlung der Übungsleiter- und Ehrenamtspauschalen
+nicht durch die Gemeinde, sondern etwa durch eine örtliche Apotheke
+erfolgt?
+Unabhängig von der Frage, wer das Impfzentrum betreibt (zum Beispiel Kommune oder
+Apotheker), werden die Pauschalen (Übungsleiterfreibetrag beziehungsweise
+Ehrenamtspauschale) für Einnahmen aus der Tätigkeit in Impfzentren steuerfrei gewährt.
+Unerheblich ist dabei, ob die Auszahlung durch die Gemeinde oder das Impfzentrum erfolgt.
+Die weiteren Voraussetzungen des § 3 Nummer 26, 26a des Einkommensteuergesetzes
+müssen im Übrigen erfüllt sein. Die Regelung gilt für Zahlungen der Jahre 2020 bis
+einschließlich 2023.
+Werden Sachspenden von Einzelhändlern an steuerbegünstigte
+Organisationen für einen befristeten Zeitraum von der Umsatzsteuer
+ausgenommen?
+Sachspenden unterliegen als sogenannte „unentgeltliche Wertabgabe“ nach dem
+Umsatzsteuergesetz der Umsatzsteuer, sofern der (später gespendete) Gegenstand oder
+seine Bestandteile zum Zeitpunkt des Erwerbs den spendenden Unternehmer zum vollen oder
+teilweisen Vorsteuerabzug berechtigt haben. Die Umsatzbesteuerung bei Sachspenden dient
+der Kompensation des vorgenommenen Vorsteuerabzugs, der dem
+Vorsteuerabzugsberechtigten bei Erwerb des Gegenstandes zugutegekommen ist. Es soll ein
+unversteuerter Letztverbrauch verhindert werden, der mit der sogenannten Mehrwertsteuer-
+Systemrichtlinie unionsrechtlich nicht vereinbar wäre.
+Flankierend zu dem BMF-Schreiben vom 18. März 2021 (Bundesteuerblatt 2021 Teil I Seite
+384) zur umsatzsteuerlichen Behandlung von Sachspenden wurde aufgrund der absoluten
+Sondersituation eine befristete Billigkeitsregelung für Sachspenden gewährt. Danach wurde
+bei Waren, die von Einzelhändlern, die durch die Corona-Krise unmittelbar und nicht
+unerheblich negativ wirtschaftlich betroffen sind, an steuerbegünstigte Organisationen
+gespendet worden sind, auf die Besteuerung einer unentgeltlichen Wertabgabe verzichtet.
+Diese Regelung galt für Spenden, die zwischen dem 1. März 2020 und dem 31. Dezember
+2021 erfolgt sind.
+Ist die Durchführung von Corona-Tests umsatzsteuerfrei?
+Corona-Tests (PCR-Tests einschließlich PoC-(NAT) PCR-Tests und PCR-Pooling-Tests,
+Antigen-Tests und Point-of-Care (PoC)-Antigen-Schnelltests) und Abstrichnahmen zur
+Vorbereitung dieser Tests, die von Ärzten oder Angehörigen ähnlicher Heilberufe durchgeführt
+oder bei Antigen-Tests zur Eigenanwendung von diesen vor Ort überwacht werden, sowie die
+Ausstellung der entsprechenden COVID-19-Testzertifikate, sind nach § 4 Nummer 14 des
+Seite 40
+FAQ´s zum Thema Corona
+Umsatzsteuergesetzes umsatzsteuerfrei. Auch die Feststellung von asymptomatischen
+Kontaktpersonen sowie die Ausstellung eines COVID-19-Genesenenzertifikats fallen als Teil
+der therapeutischen Heilbehandlungsleistung unter die Umsatzsteuerbefreiung.
+Labormedizinische Leistungen im Zusammenhang mit der COVID-19-Testung sind unter den
+weiteren Voraussetzungen des § 4 Nummer 14 Buchstabe b des Umsatzsteuergesetzes
+umsatzsteuerfrei. Dies gilt auch dann, wenn die getestete Person (noch) keine Symptome
+einer COVID-19-Infektion aufweist oder der Test vorsorglich durchgeführt wird.
+Labordiagnostische Leistungen zur Sequenzierung von Mutationen fallen nicht unter die
+Umsatzsteuerbefreiung, da diese nicht Teil einer bestimmten Heilbehandlungsleistung sind.
+Die Umsatzsteuerbefreiung gilt unabhängig von der persönlichen Veranlassung der getesteten
+Person und davon, wer für die Kosten aufkommt. Soweit die oben genannten weiteren
+Voraussetzungen erfüllt werden, sind auch die an Selbstzahler erbrachten Leistungen im
+Zusammenhang mit einem Corona-Test umsatzsteuerfrei.
+Antikörper-Tests, zum Nachweis auf Antiköper gegen das Coronavirus SARS-CoV-2, sind als
+Teil einer medizinisch indizierten Heilbehandlungsleistung nach § 4 Nummer 14 des
+Umsatzsteuergesetzes nur dann umsatzsteuerfrei, wenn der Test im Rahmen einer
+Behandlung durch Ärzte oder Heilpraktiker bzw. im Krankenhaus durchgeführt wird. Der
+Verkauf von Antikörper-Selbsttests durch Apotheken fällt nicht unter die Steuerbefreiung.
+Dementsprechend sind auch labormedizinische Leistungen zur Auswertung der Antikörper-
+Tests nur dann umsatzsteuerfrei, wenn diese im Auftrag eines Arztes erfolgen.
+Labormedizinische Leistungen im Zusammenhang mit einem Antikörper-Selbsttest, die von
+einer sich selbst testenden Person in Auftrag gegeben werden, fallen als
+Präventionsleistungen ohne medizinische Indikation nicht unter die Steuerbefreiung.
+Unter welchen Voraussetzungen sind Impfleistungen gegen das
+Coronavirus SARS-CoV-2 und damit zusammenhängende Leistungen
+umsatzsteuerfrei?
+Die von Ärzten in Arztpraxen oder in Krankenhäusern erbrachten Impfberatungen und
+Impfungen gegen das Coronavirus SARS-CoV-2 sind unter den Voraussetzungen des § 4
+Nummer 14 Buchstabe a beziehungsweise b des Umsatzsteuergesetzes umsatzsteuerfrei.
+Umsatzsteuerfrei ist auch die in diesem Zusammenhang erfolgte Erstellung eines COVID-19-
+Impfzertifikats.
+Das gilt nach § 20b des Infektionsschutzgesetzes auch für Angehörige anderer
+Berufsgruppen, zum einen für Zahnärzte und Tierärzte, die seit dem 12. Dezember 2021 bis
+zum 07. April 2023 als auch für Apotheker, die für den Zeitraum vom 12. Dezember 2021 bis
+zum 31. Dezember 2022 zur eigenverantwortlichen Durchführung von Schutzimpfungen
+gegen das Coronavirus SARS-CoV-2 bei Personen, die das zwölfte Lebensjahr vollendet
+haben, berechtigt sind. Voraussetzung nach § 20b des Infektionsschutzgesetzes für die
+Durchführung von Schutzimpfungen gegen das Coronavirus SARS-CoV-2 hierfür ist, dass
+diese impfberechtigten Personen ärztlich geschult wurden und ihnen die erfolgreiche
+Teilnahme an der Schulung bestätigt wurde. Zudem müssen ihnen geeignete Räumlichkeiten
+mit der Ausstattung zur Verfügung stehen, die zur Durchführung von Schutzimpfungen gegen
+das Coronavirus SARS-CoV-2 erforderlich ist, oder der Zahnarzt, Tierarzt oder Apotheker
+muss in andere geeignete Strukturen eingebunden sein, zum Beispiel in ein mobiles Impfteam.
+Für Apotheker gilt die Umsatzsteuerbefreiung ab dem 1. Januar 2023, wenn diese nach § 20c
+des Infektionsschutzgesetzes zur Durchführung von Schutzimpfungen gegen das Coronavirus
+SARS-CoV-2 bei Personen, die das zwölfte Lebensjahr vollendet haben, berechtigt sind.
+Seite 41
+FAQ´s zum Thema Corona
+Gemäß § 20c des Infektionsschutzgesetzes müssen die Apotheker hierfür ärztlich geschult
+und ihnen die erfolgreiche Teilnahme an der Schulung bestätigt worden sein. Zudem müssen
+sie die Schutzimpfungen für eine öffentliche Apotheke durchführen, zu deren Personal sie
+gehören.
+Vergütungen für die nachträgliche Erstellung eines COVID-19-Impfzertifikats und für die
+Nachtragung einer Schutzimpfung gegen das Coronavirus SARS-CoV-2 in einen Impfausweis
+im Sinne des § 22 Absatz 2 Satz 3 des Infektionsschutzgesetz für eine Person, die von dem
+jeweiligen Leistungserbringer der Nachweiserstellung (Impfzertifikat/Impfausweis) nicht auch
+gegen das Coronavirus SARS-CoV-2 geimpft worden ist, fallen nicht unter die
+Steuerbefreiung, da sie reinen Dokumentationszwecken dienen.
+Auch die Leistungen von Angehörigen ähnlicher Heilberufe als Impfhelfer im Zusammenhang
+mit einer Schutzimpfung gegen das Coronavirus SARS-CoV-2 sind nach § 4 Nummer 14
+Buchstabe a des Umsatzsteuergesetzes umsatzsteuerfrei, wenn es sich hierbei um
+unmittelbare Leistungen zur Unterstützung des Arztes der gemäß § 20c des
+Infektionsschutzgesetzes impfberechtigten Apotheker oder der bis zum 7. April 2023 nach §
+20b Absatz 1 des Infektionsschutzgesetzes weiteren Impfberechtigten beim Impfen (zum
+Beispiel Impfstoff injektionsfertig aufbereiten) und die anschließende Durchführung der
+Impfung (Verabreichung des Impfstoffes mittels Spritze) unter Aufsicht oder vorheriger
+Zustimmung des Arztes oder der weiteren Impfberechtigten handelt.
+Angehörige anderer als der zuvor genannten Berufsgruppen sind aufgrund des in § 20 Absatz
+4 des Infektionsschutzgesetzes geregelten Arztvorbehalts grundsätzlich nicht zur
+Durchführung von Schutzimpfungen ermächtigt und somit nicht berechtigt, Schutzimpfungen
+gegen das Coronavirus SARS-CoV-2 vorzunehmen. Die Voraussetzungen für eine
+Umsatzsteuerbefreiung nach § 4 Nummer 14 Buchstabe a des Umsatzsteuergesetzes liegen
+daher nicht vor. Dies gilt auch für im Zusammenhang mit der Corona-Schutzimpfung stehende
+Leistungen, wie zum Beispiel Assistenzleistungen.
+Hinsichtlich der Leistungen, die von Einrichtungen des öffentlichen Rechts oder anderen
+Einrichtungen, die keine systematische Gewinnerzielung anstreben, unter anderem in
+Impfzentren oder durch mobile Impfteams erbracht werden, gelten die Ausführungen unter 7.
+Billigkeitsleistungen (Unterstützungsleistungen) aus den Corona-
+Hilfsprogrammen
+Sind Unterstützungszahlungen aus den Corona-Hilfsprogrammen, wie
+zum Beispiel Soforthilfen, Überbrückungshilfen oder vergleichbare
+Unterstützungsleistungen des Bundes und der Länder steuerpflichtig?
+Soforthilfen, Überbrückungshilfen und vergleichbare Unterstützungsleistungen sind
+grundsätzlich einkommen- oder körperschaft- und gegebenenfalls gewerbesteuerpflichtig.
+Dies wird in den jeweiligen Förderrichtlinien in der Regel zusätzlich klargestellt. Die
+Förderrichtlinien regeln unter Umständen auch weitere Einzelheiten.
+Werden diese Unterstützungszahlungen bereits bei der Festsetzung der
+Ertragsteuer-Vorauszahlung berücksichtigt?
+Nein, die ausgezahlten Unterstützungsleistungen werden unabhängig von eventuellen
+Regelungen in den jeweiligen Förderrichtlinien steuerlich bei der Festsetzung der
+Vorauszahlungen auf die vorgenannten Steuern (Einkommen-, Körperschaft- und
+Seite 42
+FAQ´s zum Thema Corona
+Gewerbesteuer) nicht berücksichtigt. Dies gilt auch für einen Ertrag, der sich aus Anwendung
+des § 6 Absatz 1 Nummer 3 des Einkommensteuergesetzes für unverzinsliche Soforthilfe-
+Darlehen ergibt. Die Nichtberücksichtigung der Hilfen bei den Vorauszahlungen kann im
+jeweiligen Einzelfall für den entsprechenden Veranlagungszeitraum zu Nachzahlungen führen.
+Sind Unterstützungszahlungen aus den Corona-Hilfsprogrammen, wie
+Soforthilfen, Überbrückungshilfen oder vergleichbare
+Unterstützungsleistungen des Bundes und der Länder
+umsatzsteuerpflichtig?
+Es handelt es sich grundsätzlich um nicht der Umsatzsteuer unterliegende Zahlungen. Die
+gewährten Liquiditätshilfen erfolgen nicht in einem Leistungsaustausch, weil sie für keine
+konkrete Leistung des Unternehmers gewährt werden, und unterliegen daher nicht der
+Umsatzbesteuerung. Die Unterstützungszahlungen sind daher weder in den Umsatzsteuer-
+Voranmeldungen beziehungsweise Umsatzsteuer-Jahreserklärungen anzugeben noch bei der
+Berechnung der Kleinunternehmergrenze nach § 19 des Umsatzsteuergesetzes zu
+berücksichtigen.
+Allgemeiner Hinweis
+Bei allen Erklärungen, die vom Steuerpflichtigen abzugeben sind und im Zusammenhang mit
+der Corona-Krise stehen, gilt, dass alle Angaben wahrheitsgemäß sein müssen. Insofern gilt
+nichts Anderes als bei anderen steuerlichen Erklärungen. Falsche Angaben sind strafbewehrt.
+Seite 43

@@ -1,0 +1,614 @@
+Hansestadt Hamburg
+Behörde für Stadtentwicklung und
+Wohnen
+- Amt WSB -
+Aktualisierung des Hamburger
+Wohnlagenverzeichnis 2021
+Methodenbericht vom 29.03.2022
+Inhaltsverzeichnis
+1 Einleitung .................................................................................................. 1
+2 Konzeption ................................................................................................. 2
+3 Aufbau der Basisdatenbank ......................................................................... 3
+4 Das Indikatorenset ..................................................................................... 4
+4.1 Indikatorenset zur Wohnlagenbestimmung .................................................................. 4
+4.2 Berechnung der Indikatorenwerte für die Blockseiten ................................................... 9
+5 Bestimmung von Referenzgebieten ............................................................ 11
+6 Ermittlung der Formel für die Wohnlagenzuordnung ................................... 12
+6.1 Grenzwert der Wohnlagen und Binnendifferenzierung ................................................. 14
+6.1.1 Normierung der Wohnlagenwerte .......................................................................... 14
+7 Ergebnisse der Aktualisierung der Wohnlagenbewertung ............................ 19
+7.1 Einwendungen zur Wohnlageneinstufung ................................................................... 20
+Abbildungsverzeichnis
+Abb. 1 Beispielkarte zur Ausbreitung der Lärmtypen ............................................................... 8
+Abb. 2 Auswirkungen der Lagebestimmung .......................................................................... 10
+Abb. 3 Karte Referenzgebiete mit Wohnlage 2019 ................................................................ 11
+Abb. 4 Verteilung der normalen Wohnlagenbewertungen ...................................................... 15
+Abb. 5 Verteilung der guten Wohnlagenbewertungen ............................................................ 15
+Tabellenverzeichnis
+Tab. 1 Indikatorenset zur Wohnlagenbestimmung .................................................................. 5
+Tab. 2 Indikatoren der Wohnlagenberechnung ..................................................................... 12
+Tab. 3 Einwendungen gegen bestehende Wohnlageneinstufungen (Stand 31.12.2020) .......... 20
+1 Einleitung
+Analyse & Konzepte wurde vom Amt für Wohnen, Stadterneuerung und Bodenordnung (WSB) der
+Behörde für Stadtentwicklung und Wohnen (BSW) beauftragt, das Wohnlagenverzeichnis für den
+Hamburger Mietenspiegel 2021 komplett neu zu erstellen. Hierzu gehörte insbesondere eine Aktua-
+lisierung des Katalogs an wohnlagerelevanten Merkmalen, auf dem die Einstufung der rd. 23.400
+bewerteten Blockseiten in die beiden Wohnlagekategorien "normal" und "gut" basiert.
+Im Jahr 2017 wurde für die Ermittlung der Hamburger Wohnlagen ein neues mathematisch-
+statistisches Verfahren eingeführt. Die Wohnlagenermittlung erfolgt seither nicht mehr mittels Dis-
+kriminanzanalyse, sondern über eine logistische Regression. Dieses neue System zur Wohnlagen-
+einstufung hat sich gut bewährt. Die Zuordnung der einzelnen Blockseiten zu den beiden Wohnla-
+gekategorien "normal" und "gut" ist plausibel und nachvollziehbar. Dieses spiegelt sich auch in der
+Anzahl der Einwendungen wider, die bis 2021 auf einem sehr niedrigen Niveau lagen. Dieses Ver-
+fahren wurde für die Neuberechnung der Wohnlagen 2021 beibehalten.
+Auch die zur Wohnlagenbestimmung herangezogenen Indikatoren bleiben gegenüber 2017 unver-
+ändert. Insgesamt beruht die Einstufung auf einem Set von neun Indikatoren, zu denen die jeweils
+aktuell verfügbaren Daten herangezogen werden. Alle Indikatoren basieren auf objektiv mess- und
+überprüfbaren Größen, sodass subjektive Faktoren bei der Wohnlagenbewertung ausgeschlossen
+werden. Ein besonderer Fokus liegt weiterhin auf einer großen Transparenz in Bezug auf die Da-
+tengrundlagen und die Berechnungsmethodik der Wohnlagen.
+Die Wohnlageneinstufung erfolgt nach diesem datenbasierten Berechnungssystem einheitlich für
+alle Straßenabschnitte in Hamburg. Zusätzliche Begehungen vor Ort erfolgen nicht mehr. Sämtliche
+rund 23.400 Straßenabschnitte sind anhand des aktualisierten Systems neu bewertet worden. Im
+Wohnlagenverzeichnis wird für jeden Straßenabschnitt das errechnete Ergebnis veröffentlicht, das
+neben der Einordnung in die Wohnlagenkategorien "normal" und "gut" auch Aussagen darüber zu-
+lässt, ob sich der Straßenabschnitt im unteren, mittleren oder oberen Bereich der jeweiligen Kate-
+gorie befindet und damit eine differenziertere Berücksichtigung des Wohnwertmerkmals Lage für
+die Einordnung innerhalb der Spanne in den einzelnen Mietenspiegelfeldern ermöglicht.
+Aufgrund der kompletten Neuberechnung der Wohnlageneinstufung für alle Hamburger Blockseiten
+erfolgt keine gesonderte Untersuchung der seit dem Mietenspiegel 2019 eingegangenen Einwen-
+dungen, da für die betroffenen Blockseiten ohnehin eine Neuberechnung stattgefunden hat. Die
+Ergebnisse der Wohnlagenberechnung sind für die Blockseiten mit Einwendungen dennoch im Ka-
+pitel 7.1 gesondert aufgelistet.
+Das methodische Vorgehen sowie die Berechnungsergebnisse zur Wohnlageneinstufung wurden im
+begleitenden "Arbeitskreis Mietenspiegel" im Rahmen der Sitzungen vorgestellt und diskutiert, um
+weiterhin einen breiten Konsens aller Beteiligten hinsichtlich des Hamburger Wohnlagenverzeich-
+nisses zu erhalten.
+- 2 -
+2 Konzeption
+Für die Aktualisierung des Wohnlagenverzeichnisses 2021 wurde das 2017 entwickelte System der
+Wohnlagenzuordnung beibehalten, da sich dieses bewährt hatte. Durch die Aktualisierung der In-
+dikatorenwerte wurden die aktuellen Verhältnisse in Hamburg bezüglich der Wohnlagen ermittelt.
+Die methodische Konzeption zur Neuberechnung aller Blockseiten unterlag daher folgenden Prä-
+missen:
+▪ Die bestehende Wohnlageneinstufung ist für den weit überwiegenden Teil der Blockseiten rich-
+tig und akzeptiert. Eine hohe Übereinstimmung mit der bisherigen Einstufung wird daher ange-
+strebt.
+▪ Die Ermittlung der Wohnlagen erfolgt über ein Indikatorensystem auf Basis von objektiven Da-
+ten aus der amtlichen Statistik bzw. amtlichen Datenquellen. Die angewandten Indikatoren
+bleiben bestehen, da es sonst in größerem Umfang zu Umstufungen allein aufgrund des ver-
+änderten Indikatorensets kommen könnte.
+▪ Es gibt weiterhin zwei Wohnlagen in Hamburg, die als "normal" und "gut" bezeichnet werden.
+▪ Der Berechnungswert der einzelnen Blockseiten wird in eine leichter erfassbare Skala über-
+führt, um die Verortung einer Blockseite im Gefüge aller Blockseiten zu erleichtern.
+▪ Es wird eine höchstmögliche Transparenz und Nachvollziehbarkeit hinsichtlich der Quellen, der
+Methode und der Berechnung der Indikatoren gewährleistet.
+Vor diesem Hintergrund wurden für die Neuberechnung der Hamburger Wohnlagen die folgenden
+Arbeitsschritte ausgeführt, die in den Folgekapiteln ausführlich dargestellt werden:
+▪ Aufbau einer Basisdatenbank mit allen zu bewertenden Adressen und Blockseiten
+▪ Ermittlung der aktuellen Indikatorenwerte für alle Blockseiten
+▪ Ermittlung von Referenzgebieten auf Grundlage der Wohnlageneinstufung 2019
+▪ Berechnung der Wirkungsfaktoren anhand der Referenzgebiete mittels logistischer Regression
+▪ Berechnung der Wohnlagen für alle Blockseiten
+- 3 -
+3 Aufbau der Basisdatenbank
+Die Basis-Datenbank bildet die Grundlage für die Berechnung der Wohnlagen. Als kleinste Betrach-
+tungsebene sind in der Datenbank die Hauseingänge bzw. Adressen in Hamburg hinterlegt. Die
+Wohnlagenzuordnung erfolgt weiterhin auf der Ebene der Blockseite, eine adressscharfe Daten-
+bank bietet aber die Möglichkeit, unterschiedliche Merkmalsausprägungen innerhalb einer Blocksei-
+te zu berücksichtigen und Durchschnittswerte zu bilden, die den tatsächlichen Lageeigenschaften
+entsprechen (siehe Kapitel 4.2).
+Als Grundlage für die Datenbank wurde vom Landesbetrieb Geoinformation und Vermessung (LGV)
+ein Auszug aus dem ALKIS® (Amtliches Liegenschaftskatasterinformationssystem) bereitgestellt.
+Dieser enthält neben den Adressinformationen und den Geokoordinaten auch Angaben zur Nut-
+zung des jeweiligen Gebäudes. Dadurch konnte sichergestellt werden, dass nur Gebäude mit
+Wohnfunktion in die Wohnlageneinstufung einbezogen wurden.
+Alle Indikatorenwerte wurden auf Ebene der Adressen ermittelt bzw. in die Basisdatenbank aufge-
+nommen. Um ein Aggregieren der adressscharfen Daten auf räumlich höheren Ebenen sowie eine
+Übernahme der Daten räumlich höherer Ebenen auf die Straßenabschnittebene zu ermöglichen, die
+für einige Indikatoren notwendig sind (siehe Kap. 4), wird jede Adresse den jeweils übergeordne-
+ten Bezugsebenen zugeordnet. Dies sind:
+▪ Baublockseiten
+▪ Baublock
+▪ Statistisches Gebiet
+▪ Stadtteil
+Für die abschließende Wohnlagenberechnung wurden die Daten auf Blockseitenebene aggregiert
+und bildeten die Grundlage für die Wohnlagenberechnung der einzelnen Blockseiten.
+- 4 -
+4 Das Indikatorenset
+Das für die Wohnlagenermittlung 2017 herangezogene Indikatorenset wurde für die Neuberech-
+nung 2021 übernommen und nur hinsichtlich der enthaltenen Daten aktualisiert. Nach einer Prü-
+fung wurde die Erweiterung des Indikatorenkatalogs um das Merkmal "Gewerbenutzung im Um-
+feld" verworfen, da das Merkmal keine Verbesserung der Wohnlagenbewertung brachte. Durch die
+Beibehaltung des Indikatorensets wird auch eine hohe Kontinuität der Wohnlagenermittlung gesi-
+chert, die aus Sicht des "Arbeitskreises Mietenspiegel" eine wichtige Grundlage für die bisher hohe
+Akzeptanz des Wohnlagenverzeichnisses in Hamburg darstellt. Die Auswahl der Indikatoren basier-
+te auf folgenden Prämissen:
+▪ Nutzung objektiver messbarer, datenbasierter Merkmale
+▪ Nutzung von Daten aus amtlichen Quellen, die eine hohe Datenqualität aufweisen
+▪ Datensätze mit regelmäßiger Aktualisierung.
+Um die Transparenz der Datengrundlagen zu erhöhen, wurde zudem weitgehend auf Mischindika-
+toren aus verschiedenen Merkmalen verzichtet, deren Berechnung nicht klar nachzuvollziehen ist.
+4.1 Indikatorenset zur Wohnlagenbestimmung
+In der folgenden Tabelle sind die Indikatoren, die der Neuberechnung der Wohnlagen zugrunde
+liegen, mit ihren Quellen, den Bezugsräumen und den Datenständen aufgelistet. Grundsätzlich
+wurden dabei die kleinste verfügbare Raumeinheit und der jeweils zum Untersuchungszeitraum ak-
+tuelle Datenstand herangezogen.
+- 5 -
+Tab. 1 Indikatorenset zur Wohnlagenbestimmung
+Indikator Raumebene Datenstand Quelle
+Behörde für Stadtent-
+Statusindex Statistisches Gebiet 2020 wicklung und Wohnen
+(BSW), Sozialmonitoring
+Mittelwert der Jahre Gutachterausschuss für
+Bodenrichtwert Bodenrichtwertzone
+2016-2018 Grundstückswerte
+Landesbetrieb Geoinfor-
+800 m Radius um die
+Grünflächenanteil 2020 mation und Vermessung
+Adresse
+(LGV)
+Einwohnerdichte Statistisches Gebiet 2019 Statistikamt Nord, LGV
+Art der Straße Behörde für Verkehr und
+Blockseite 2020
+(4+ Sputen) Mobilitätswende (BVM)
+Entfernung zu U-/S-
+Adresse 2020 HVV
+Bahn/AKN
+Behörde für Umwelt und
+Lärmbelastung Adresse 2017 Energie (BUE); Eisen-
+bahnbundesamt (EBA)
+Entfernung zu Metrobus-
+Adresse 2020 HVV
+station
+Entfernung zum Einzel- Handelsketten, Open
+Adresse 2020
+handel Streetmap (OSM)
+Statusindex
+Der Statusindex misst die sozio-ökonomische Struktur einer Gebietseinheit im Verhältnis zum Ham-
+burger Durchschnitt. Er wird dem offiziellen Sozialmonitoring der Stadt Hamburg entnommen, das
+jährlich von der Behörde für Stadtentwicklung und Wohnen fortgeschrieben wird. Mit Hilfe des So-
+zialmonitorings werden die räumlichen Unterschiede der Sozialstruktur innerhalb der Stadt auf
+Ebene der Statistischen Gebiete abgebildet. Grundlage des Statusindexes bilden die Anteile
+▪ der Kinder und Jugendlichen mit Migrationshintergrund,
+▪ der Kinder von Alleinerziehenden,
+▪ der SGB-II-Empfänger/-innen und Empfänger/-innen nach AsylbLG,
+▪ der Arbeitslosen an der Bevölkerung zwischen 15 und 65 Jahren,
+▪ der Kinder (unter 15 Jahren) in Mindestsicherung,
+▪ der Empfänger/-innen von Mindestsicherung im Alter und
+▪ der Schüler/-innen ohne Schulabschluss.
+Zur Bildung des Indexes werden die Ausgangswerte mittels z-Transformation standardisiert. Unter-
+schiedliche Maßeinheiten und Verteilungen werden damit auf eine vergleichbare Skala gebracht.
+- 6 -
+Anders als die Ausgangswerte gibt der Statusindex entsprechend keinen prozentualen Anteil an,
+sondern ist dimensionslos.1 Für die Wohnlagenberechnung wurde jeder Adresse zunächst der Sta-
+tuswert des Statistischen Gebietes zugespielt, in dem die Adresse liegt. Um die Grenzbereiche der
+Statistischen Gebiete zu glätten und die sog. "Grenzproblematik" zu reduzieren, wurde für den In-
+dikator "Statusindex" der Berechnungswert für die Adresse aus dem Mittel der umliegenden zehn
+Adressen ermittelt. Durch den Zuschnitt der Statistischen Gebiete käme es sonst in Grenzlagen zu
+teilweise deutlichen Unterschieden der Statuswerte bei gegenüberliegenden Blockseiten, die nicht
+der Realität entsprächen.
+Bodenrichtwert
+Der Bodenrichtwert erfasst den Normschichtwert "Wohnen" (Bodenrichtwert für Wohnnutzung,
+umgerechnet auf eine WGFZ von 1,0) in Euro pro Quadratmeter Grundstücksfläche auf Ebene der
+Bodenrichtwertzonen, die weitgehend mit den Blockseiten übereinstimmen. Die Berechnung bzw.
+Ermittlung der Bodenrichtwerte erfolgt im jährlichen Turnus durch den Gutachterausschuss der
+Hansestadt Hamburg. Um die auf der kleinräumigen Ebene der Bodenrichtwertzonen teilweise be-
+stehenden hohen Volatilitäten zu verringern, werden die Bodenrichtwerte der letzten drei verfügba-
+ren Jahre gemittelt. Zur Übernahme der Werte der Bodenrichtwertzonen in die Adressdatenbank
+erfolgt eine räumliche Verschneidung der Datensätze mittels eines Geoinformationssystems (GIS).
+Grünflächenanteil
+Ausgangspunkt für die Ermittlung des Grünflächenanteils sind die einzelnen Adressen. Von diesen
+ausgehend wurde jeweils in einem fußläufigen Einzugsbereich von 800 m der Anteil der öffentli-
+chen Grünflächen in Prozent bestimmt. Die zugrundeliegenden Grünflächen wurden dem Grünplan
+der Stadt Hamburg entnommen und mittels eines Geoinformationssystems zugeordnet.
+Einwohnerdichte
+Die Einwohnerdichte wurde über die Maßzahl "Einwohner pro Wohngebäude" in die Berechnungen
+einbezogen. Dabei wurde auf Ebene des Statistischen Gebietes die Zahl der jeweiligen Einwohner
+ins Verhältnis zur Anzahl der Gebäude mit Wohnnutzung gesetzt. Eine reine Betrachtung der Ein-
+wohnerzahl ist aufgrund des unterschiedlichen Zuschnittes der Statistischen Gebiete nicht sinnvoll.
+Auch das Verhältnis der Einwohner zur Fläche des Statistischen Gebiets kann, durch Kombinationen
+von größeren Grünflächen mit kleineren, aber hochverdichteten Bebauungsflächen, zu Fehlinter-
+pretationen führen. Datenquellen sind das Statistikamt Nord und der Landesbetrieb Geoinformation
+und Vermessung (LGV), die jeweils den aktuellen Datensatz zur Verfügung stellten. Wie beim Sta-
+tusindex wird jeder Adresse zunächst der Wert des Statistischen Gebietes zugespielt, in dem die
+Adresse liegt, und anschließend eine Glättung über die umliegenden zehn Adressen vollzogen.
+1 Eine detaillierte Beschreibung der Berechnung des Statusindex ist dem Pilotbericht zum Sozialmonitoring 2010 der
+BSW zu entnehmen (Download: http://www.hamburg.de/sozialmonitoring/4603308/rise-pilotbericht-2010/)
+- 7 -
+Art der Straße (4+ Spuren)
+Der Indikator "Art der Straße" berücksichtigt die über den Lärm hinausgehenden möglichen Beein-
+trächtigungen durch große Straßen. Hierzu gehört insbesondere die Wirkung dieser Straßen als
+Barriere im Raum. Der Indikator zeigt an, ob eine Blockseite an einer Straße mit mindestens vier
+Fahrspuren liegt. Mit dem Straßennetz der Hamburger Straßeninformationsbank (HH-SIB) liegt eine
+städtische Datengrundlage vor, die Angaben zur Anzahl der Fahrspuren einzelner Straßenabschnit-
+te enthält. Damit kann jeder Adresse die Zahl der an dieser Stelle bestehenden Fahrspuren zuge-
+spielt werden. Für die Wohnlagenberechnung werden alle Blockseiten, die vier und mehr Fahrspu-
+ren aufweisen, mit "1" und alle Blockseiten mit weniger Fahrspuren mit "0" bewertet. Durch diver-
+se Baumaßnahmen der letzten Jahre zur Förderung des Fahrradverkehrs in Hamburg haben sich
+hier einige Veränderungen gegenüber der bisherigen Zuordnung ergeben.
+Entfernung zu U-Bahn, S-Bahn oder AKN
+Die Entfernung einer Adresse zu U-Bahn, S-Bahn oder AKN wurde über das GIS ermittelt. Dabei
+wurde jeder Adresslage die nächstgelegene Haltestelle zugeordnet und die Entfernung in Metern
+bestimmt. Für jede Blockseite wurde dann ein Mittelwert für die durchschnittliche Entfernung der
+einzelnen Adressen zur nächsten Haltestelle errechnet.
+Lärmbelastung
+Die Lärmbelastung der Wohnadressen wurde durch die strategischen Lärmkartierungen ermittelt.
+Die Lärmkartierung enthält die Ausbreitung und Intensität der zentralen Lärmquellen in Hamburg.
+Es wurden die folgenden Lärmarten berücksichtigt:
+▪ Fluglärm: Hier wurden die nach Lärmpegelstufen differenzierten Fluglärmzonen des Hamburger
+Flughafens der Behörde für Umwelt und Energie (BUE) berücksichtigt.
+▪ Schienenlärm: Der Lärmpegel und die Lärmausbreitung des Schienenverkehrs werden von der
+BUE für die Strecken der U-Bahn und der Hafenbahn sowie vom Eisenbahn-Bundesamt (EBA)
+für die Fernbahn- und die S-Bahnstrecken bereitgestellt. Die Lärmdaten geben den konkreten
+Lärmpegel in einem 10-Meter-Raster in dB(A) an.
+▪ Gewerbelärm: Die Gewerbelärmkartierung der BUE berücksichtigt die Lärmemission bestimm-
+ter Gewerbeanlagetypen im Hamburger Stadtgebiet sowie den gesamten Hafenbereich. Die
+Lärmdaten geben den konkreten Lärmpegel in einem 10-Meter-Raster in dB(A) an.
+▪ Straßenverkehrslärm: Die Grundlage zum Straßenlärm wurde ebenfalls von der BUE bezogen.
+Lärmwerte liegen hier für alle Straßen mit durchschnittlicher täglicher Verkehrsmenge ab
+8.000 Fahrzeugen vor. Die Lärmdaten geben den konkreten Lärmpegel in einem 10-Meter-
+Raster in dB(A) an.
+- 8 -
+Alle Lärmdaten wurden in eine einheitliche Skalierung überführt. Pegel unterhalb von 55 dB(A)
+wurden als nicht lärmbelastend eingestuft, darüber wurden Lärmstufen je 5 dB(A) gebildet.
+Abb. 1 Beispielkarte zur Ausbreitung der Lärmtypen
+Kartenbasis: LGV, © OpenStreetMap und Mitwirkende, CC-BY-SA
+Quelle: BUE, EBA, Darstellung Analyse & Konzepte
+www.analyse-konzepte.de
+Mittels Geoinformationssystem wurden jeder Adresse die Lärmstufen der verschiedenen Lärmquel-
+len zugespielt. Für die Wohnlagenberechnung wurde aus allen Lärmquellen die höchste Lärmstufe
+herangezogen.
+Nicht berücksichtigt wurden als Lärmquellen Kindergärten, Schulen, Sportplätze und einzelne klei-
+nere Gewerbebetriebe. Zum einen ist der von diesen Einrichtungen ausgehende Lärm gemäß den
+aktuellen rechtlichen Rahmenbedingen als hinnehmbar einzustufen (Kindergärten, Schulen), zum
+anderen sind von derartigen Lärmquellen oftmals nur einzelne Bereiche einer Blockseite betroffen
+(z. B. Tankstellen, Handwerksbetriebe im Hinterhof, Zufahrten). Wenn einzelne Wohnungen, ein
+Wohngebäude oder ein Teil einer Blockseite besondere Belastungen durch Lärmquellen erfährt, die
+nicht in den Indikator "Lärmbelastung" einfließen, kann dieses im Rahmen der individuellen Span-
+- 9 -
+neneinordnung einer Wohnung berücksichtigt werden (siehe Exkurs, S. 17 sowie Mietspiegelbro-
+schüre, Download: www.hamburg.de/mietenspiegel).
+Entfernung zum Metrobus
+Die Metrobusse gewährleisten, insbesondere in von den U-Bahnen und S-Bahnen weniger erschlos-
+senen Gebieten, mit ihrer hohen Taktfrequenz und den teilweise vorhandenen eigenen Busspuren
+eine schnelle Anbindung. Eine Metrobusstation ist somit deutlich leistungsfähiger als normale Bus-
+linien. Sie erreicht zwar nicht die Qualität einer U- oder S-Bahn-Anbindung, kann das Fehlen einer
+solchen Anbindung aber teilweise kompensieren. Die Lagedaten der Metrobus-Haltestellen wurden
+vom Hamburger Verkehrsverbund (HVV) bereitgestellt. Mittels GIS wurde für jede Adresse die Ent-
+fernung zur nächstgelegenen Station in Metern bestimmt.
+Entfernung zum Einzelhandel
+Mit der Entfernung zum Einzelhandel wurden die Versorgungsmöglichkeiten und -qualitäten im nä-
+heren Umfeld bestimmt. Um nicht nur eine Grundversorgung, sondern eine gewisse Differenzie-
+rung des Angebotes als wohnwerterhöhend sicherzustellen, werden die jeweils nächstgelegenen
+drei Supermärkte in die Betrachtung einbezogen. Die Datengrundlage bildeten die Adressangaben
+der großen Handelsketten zu ihren Supermarktstandorten, ergänzt um eine Auswertung der Su-
+permarktstandorte aus der Openstreetmap-Datenbank2. Mittels GIS wurde die durchschnittliche
+Entfernung jeder Adresse zu den nächstgelegenen drei Supermärkten in Metern ermittelt.
+4.2 Berechnung der Indikatorenwerte für die Blockseiten
+Die Wohnlageneinstufung erfolgte auf Ebene der Blockseiten. Entsprechend mussten alle auf Ad-
+ressebene ermittelten Werte zu Blockseitenwerten zusammengeführt werden. Aus den Indikato-
+renwerten der einzelnen Adressen einer Blockseite wurde hierzu ein Mittelwert gebildet. Durch die-
+ses Vorgehen wird die bauliche Lageverteilung der Adressen innerhalb der Blockseiten in der Be-
+rechnung berücksichtigt. Würde für die Entfernungs- und Umfeldbetrachtung der Mittelpunkt des
+Baublocks oder der Blockseite herangezogen, führte dies zu Unschärfen, die durch die adressbezo-
+gene Berechnung vermieden werden.
+In folgender Karte sind die Auswirkungen der unterschiedlichen Bezugspunkte am Beispiel der Ent-
+fernung zur U-Bahn von Adressen in der Hammer Landstraße dargestellt. Die Blockseite (orange
+Fläche) ist nur am östlichen Ende bebaut (grüne Gebäude). Die östlich der Blockseite gelegene
+Bahnstation ist von den Gebäuden der Blockseite im Mittel nur 133 Meter entfernt. Bezogen auf die
+Blockseitenmitte (gelbes Dreieck) ist die Bahnstation allerdings 330 Meter entfernt. Die Blocksei-
+tenmitte ist damit fast 200 Meter weiter von der Bahnstation entfernt, als es real für die Bewohner
+2 © OpenStreetMap-Mitwirkende (ODbL)
+- 10 -
+der Blockseite im Mittel der Fall ist, was sich entsprechend negativ auf die Bewertung ausgewirkt
+hätte. Dies wird durch die Aggregation über den Mittelwert verhindert.
+Abb. 2 Auswirkungen der Lagebestimmung
+Kartenbasis: LGV, © OpenStreetMap und Mitwirkende, CC-BY-SA
+Darstellung: Analyse & Konzepte
+- 11 -
+5 Bestimmung von Referenzgebieten
+Um die einzelnen Indikatoren auf ihre Eignung und Bedeutung für die Wohnlagenberechnung zu
+testen und daraus die Berechnungsformel abzuleiten, sind sogenannte Referenzgebiete zu bestim-
+men. Diese Gebiete bilden den "Maßstab" für die Berechnungsformel und sollten sich über das ge-
+samte Stadtgebiet verteilen und damit die Vielfalt der Hamburger Mikrolagen widerspiegeln.
+Zur Ermittlung der Berechnungsformeln 2021 wurden nach einer Prüfung die Referenzgebiete von
+2017 erneut übernommen. 2017 wurde zur Identifikation der Referenzgebiete eine Zufallsstichpro-
+be aus den Hamburger Baublöcken mit Wohnbebauung gezogen. Die Auswahl der Referenzgebiete
+erfolgte somit ohne vorherige Bedingungen, die eine Beeinflussung der resultierenden Berechnun-
+gen für die Wohnlagen bewirken könnten. Einzige Voraussetzung war, dass die gewählten Block-
+seiten eine bisher eindeutige Wohnlageneinstufung in "normal" oder "gut" aufweisen, also gewis-
+sermaßen als idealtypische Vertreter für eine der beiden Wohnlagenkategorien stehen.
+Die Referenzgebiete umfassen insgesamt 137 Baublöcke mit zusammen 477 Blockseiten. Davon
+weisen 131 Blockseiten (27 %) eine gute und 346 (73 %) eine normale Wohnlage auf (s. Abb. 3).
+Abb. 3 Karte Referenzgebiete mit Wohnlage 2019
+Kartenbasis: LGV, © OpenStreetMap und Mitwirkende, CC-BY-SA
+Darstellung: Analyse & Konzepte
+- 12 -
+6 Ermittlung der Formel für die Wohnlagenzuordnung
+Die Ermittlung der Wohnlagenformel erfolgte unter der Prämisse, dass die bisherige Wohnlagenzu-
+ordnung der Blockseiten insgesamt einer konsistenten Systematik unterliegt und grundsätzlich zu-
+treffend ist. Die abschließende Berechnungsformel soll daher im Ergebnis für die Referenzgebiete
+eine hohe Übereinstimmung mit der bisherigen Einstufung aufweisen.
+Die Wohnlagenformel wurde über das statistische Verfahren der logistischen Regression ermittelt
+(s. Exkurs, S. 13). Diese Vorgehensweise hat zum einen den Vorteil, dass am Ende der Berechnung
+eine Formel steht, mit der alle Wohnlagen berechnet und nachvollzogen werden können. Zum an-
+deren kann über den berechneten Wohnlagenwert auch innerhalb der Wohnlagen noch eine weite-
+re Ausdifferenzierung der Wohnlagequalitäten erfolgen, da eine Hierarchisierung der einzelnen
+Blockseiten möglich ist.
+In die Regressionsanalyse zur Ermittlung der Wohnlagenformel 2021 gingen als abhängige Variable
+die bestehende Wohnlagenkategorie in den Ausprägungen "Gut" und "Normal" für die Referenzge-
+biete ein. Die unabhängigen Variablen sind die in Kapitel 4.1 vorgestellten Merkmale bzw. Indikato-
+ren.
+Die neun Indikatoren, die in die Regressionsanalyse einbezogen wurden, sind in der folgenden Ta-
+belle mit ihren Anteilen an der Wohnlagenbewertung aufgeführt. Der Anteil an der Wohnlagenbe-
+wertung zeigt die Bedeutung des jeweiligen Indikators für die Wohnlagenbewertung. Die Bedeu-
+tung der Indikatoren ist dabei ein Ergebnis der Regressionsanalyse und wird nicht vorab gesetzt.
+Gegenüber der Berechnung zum Wohnlagenverzeichnis 2017 haben sich hier Verschiebungen er-
+geben. So hat beispielsweise die Bedeutung des Lärms zugenommen, wogegen der Statusindex
+weniger Auswirkung auf die Wohnlage hat als 2017. Diese Verschiebungen resultieren aus der
+Neuberechnung mit den aktualisierten Indikatorenwerten. Durch die Veränderung der Indikatoren-
+werte verändert sich auch das Wertungsgefüge, das sich in einer neuen Wohnlagenformel wider-
+spiegelt.
+Tab. 2 Indikatoren der Wohnlagenberechnung
+Indikator Anteil an der
+Wohnlagenbewertung
+Bodenrichtwert 19 %
+Statusindex 18 %
+Einwohnerdichte 16 %
+Grünflächenanteil 15 %
+Lärmbelastung 12 %
+Art der Straße (4+ Spuren) 8 %
+Entfernung zum Einzelhandel 8 %
+Entfernung zu Metrobusstation 3 %
+Entfernung zu U-/S-Bahn/AKN 2 %
+- 13 -
+Exkurs: Die Wohnlagenformel
+Die Wohnlagenformel wurde über eine logistische Regression ermittelt. Bei der logistischen Re-
+gression werden die Einflüsse unabhängiger Variablen (die Indikatoren der Wohnlagenberechnung)
+auf die abhängige Variable (die Wohnlage) bestimmt, wobei die abhängige Variable nur zwei Aus-
+prägungen aufweist ("normal" und "gut").
+Im Ergebnis der Regressionsanalyse ergibt sich die folgende Formel für die Wohnlagenberechnung
+der einzelnen Blockseiten:
+Wohnlagenwert= -12,17525 + 0,00734 * Bodenrichtwert – 1,18619 * Statusindex
+- 0,53252 * Einwohnerdichte + 0,22984 * Grünflächenanteil
+- 0,70716 * Lärmbelastung - 8,38736 * Art der Straße
+- 0,00019 * Entfernung Metrobus - 0,00027 * Entfernung zu U-/S-Bahn/AKN
+– 0,00233 * Entfernung Einzelhandel
+Neben dem Basiswert (-12,17525) ist für jeden Indikator ein Steigungskoeffizient ermittelt worden.
+Der Steigungskoeffizient gibt an, um welchen Betrag sich der Wohnlagenwert verändert, wenn sich
+der dazugehörige Indikatorwert um den Betrag "1" ändert. So erhöht sich zum Beispiel mit jedem
+Euro beim Bodenrichtwert der Wohnlagenwert um 0,00734 Punkte. Die Größe des Steigungskoeffi-
+zienten hat dabei keinen Zusammenhang mit der Bedeutung des Indikators für die Wohnlagenbe-
+rechnung. Die Bedeutung der Indikatoren ist in obiger Tabelle 2 dargestellt.
+Für die konkrete Wohnlagenberechnung müssen für die einzelnen Indikatoren die Beträge entspre-
+chend den Erläuterungen in Kapitel 4.1 in die Formel eingetragen werden.
+- 14 -
+6.1 Grenzwert der Wohnlagen und Binnendifferenzierung
+Im Rahmen der Regressionsanalysen wurde für jede Blockseite ein Ergebniswert berechnet. In ei-
+nem nächsten Schritt musste nun ein Grenzwert ermittelt werden: Blockseiten, die eine Ausprä-
+gung unterhalb dieses Grenzwertes aufweisen, erhalten die Wohnlagenzuordnung "normal", Block-
+seiten oberhalb des Grenzwertes werden als "gut" eingestuft.
+Der Grenzwert, ab dem eine gute Wohnlage vorliegt, wurde so gewählt, dass bezogen auf die Re-
+ferenzgebiete die Abweichungen zur Wohnlageneinstufung 2019 möglichst gering sind und zu-
+gleich die Vorhersagegenauigkeit für die guten Wohnlagen genau so groß ist wie die Vorhersage-
+genauigkeit für die normalen Wohnlagen.
+Die ermittelten Wohnlagenwerte liegen zwischen -64,368 und +52,471, der Grenzwert zwischen
+normaler und guter Wohnlage liegt bei -1,207.
+6.1.1 Normierung der Wohnlagenwerte
+Über den ermittelten Wohnlagenwert je Blockseite ist es außerdem möglich, auch innerhalb der
+beiden Wohnlagen "normal" und "gut" eine Abschätzung vorzunehmen, ob sich die Blockseite im
+unteren, mittleren oder oberen Bereich der jeweiligen Wohnlage befindet. Um die Anwendung der
+Wohnlagenwerte zu erleichtern und alle Werte im positiven Zahlenbereich darstellen zu können,
+wurden diese auf eine Skala von 1,00 bis 1.000,00 normiert. Das Verhältnis der Wohnlagenbewer-
+tung der Blockseiten zueinander sowie die jeweiligen Einstufungen in die normale und die gute
+Wohnlage bleiben davon unberührt.
+Der Grenzwert zwischen normaler und guter Wohnlage liegt nach der Normierung bei 541,04, der
+Median der normalen Wohnlagen bei 465,83, der Median der guten Wohnlagen bei 590,60. Das
+bedeutet, innerhalb der Wohnlageklassen befinden sich jeweils genauso viele Blockseiten oberhalb
+wie unterhalb der genannten Mediane. Die Verteilung aller bewerteten Blockseiten in den Wohnla-
+geklassen ist in den Abbildungen 4 und 5 ersichtlich.
+- 15 -
+Abb. 4 Verteilung der normalen Wohnlagenbewertungen
+Quelle: Wohnlagenverzeichnis 2021
+www.analyse-konzepte.de
+Abb. 5 Verteilung der guten Wohnlagenbewertungen
+Quelle: Wohnlagenverzeichnis 2021
+www.analyse-konzepte.de
+- 16 -
+Die Qualität der Regressionsanalyse zeigt sich in der "Trefferquote" der neuen Wohnlagenformel in
+Bezug auf die bisherige Wohnlageneinstufung in den Referenzgebieten. Insgesamt erhalten 95,9 %
+der Referenzblockseiten wieder die bisherige Einstufung. Lediglich 4,1 % der Blockseiten wurden in
+die jeweils andere Wohnlage umgestuft.
+Bei der Anwendung der ermittelten Wohnlagenformel auf alle Hamburger Blockseiten zeigt sich,
+dass insgesamt rd. 94 % aller bisher bewerteten Blockseiten hinsichtlich der Wohnlageneinstufung
+unverändert bleiben. Rd. 2 % der Blockseiten werden abgestuft und rd. 4 % der Blockseiten wer-
+den aufgestuft. Die Umstufungen halten sich damit in einem überschaubaren Rahmen.
+- 17 -
+Exkurs: Berücksichtigung der Wohnlageneinordnung im Mietenspiegel
+Die Einstufung der Straßenabschnitte (Blockseiten) in die Wohnlagenkategorien "normal" und "gut"
+ist eine Vorbereitungshandlung für die Erstellung des Mietenspiegels. Sie erfolgt hamburgweit an-
+hand eines festgelegten Indikatorenkatalogs. Dabei finden folgende Indikatoren Berücksichtigung:
+Bodenrichtwert (19 %), Statusindex (18 %), Einwohnerdichte (16 %), Grünflächenanteil (15 %),
+Lärmbelastung (12 %), Art der Straße (4+ Spuren) (8 %), Entfernung zum Einzelhandel (8 %),
+Entfernung zum Metrobus (3 %), Entfernung U-/S-Bahn/AKN (2 %). Bei der Einstufung handelt es
+sich um eine grobe Bewertung, die örtliche Besonderheiten, soweit sie nicht über die genannten
+Indikatoren abgebildet werden, außer Acht lässt.
+Örtliche Besonderheiten in Form konkreter Lagevor- und -nachteile, die in der allgemeinen Einstu-
+fung nicht berücksichtigt sind, können über die ausgewiesene Spanne des jeweiligen Mietenspie-
+gelfeldes berücksichtigt werden. Insbesondere folgende Kriterien können im Einzelfall herangezo-
+gen werden:
+▪ Lage des Wohnquartiers innerhalb des Stadtgebietes (Zentralität),
+▪ Erreichbarkeit und Auswahl u.a. kultureller und gastronomischer Angebote, auch verbunden
+mit einer Mischung von Wohnen, Kultur, Handel und eingestreutem Gewerbe (Urbanität),
+▪ umgebende Nutzung,
+▪ Bauweise und Bauform der Gebäude,
+▪ baulicher Zustand,
+▪ Naherholungsmöglichkeiten,
+▪ landschaftlicher Charakter,
+▪ Beeinträchtigungen durch Staub, Geruch (Immissionen),
+▪ Lärmbeeinträchtigungen durch Kleingewerbe (z. B. im Hinterhof, in den Erdgeschosszonen),
+▪ Versorgung mit kleinen Läden, Kitas, Schulen, Sportstätten und sonstigen Infrastruktureinrich-
+tungen,
+▪ gepflegtes Straßenbild ("Anmutung der Straße"),
+▪ straßenbildprägendes Grün / Straßenbäume.
+Auch kann der für jede Wohnlage im Wohnlagenverzeichnis ausgewiesene Berechnungswert bei
+der Begründung der Miethöhe innerhalb der Spanne des Mietenspiegelfeldes berücksichtigt wer-
+den. Insbesondere Einstufungen nah am Grenzwert können als obere normale Wohnlage bezie-
+hungsweise untere gute Wohnlage herangezogen werden. Die Abbildungen 4 und 5 geben einen
+Überblick über die Verteilung der Wohnlagenbewertungen nach Blockseiten innerhalb der Wohnla-
+genkategorien "normal" und "gut" und weisen den jeweiligen Median aus. Eine Wohnlageneinstu-
+fung am Median ist jeweils als durchschnittliche normale (siehe Abbildung 4) bzw. durchschnittliche
+gute Wohnlage (siehe Abbildung 5) zu werten.
+Die Wohnlagenbewertung der Kategorien "normal" und "gut" schließt nicht aus, dass Sachverstän-
+dige oder Gerichte durch eigene Einschätzung zu einem anderen Ergebnis kommen.
+- 18 -
+Exkurs: Adresswohnlagen
+Neben den Wohnlagekategorien "normal" und "gut" wird im Zusammenhang mit Mieterhöhungs-
+verlangen teilweise auch der Begriff der "Adresswohnlage" herangezogen. Auch von den Gerichten
+ist dieser Terminus aufgegriffen worden, ohne dass bisher eine einheitliche Verwendung gefunden
+wäre.
+Unter "Adresswohnlagen" sind einzelne Straßen oder Straßenabschnitte zu verstehen, bei denen
+der konkrete Straßenname (die "Adresse") für eine sehr begrenzte, kaufkräftige Nachfragergruppe
+ein zusätzliches Kriterium für die positive Bewertung der Wohnlage bildet. Das Prestige dieser
+Wohnlagen geht weit über das der Wohnlagenkategorie "gut" hinaus, auch wenn einzelne andere
+Lagemerkmale, insbesondere die Verkehrsbelastung, eine negative Ausprägung aufweisen können.
+Das Kriterium der Adresswohnlage bildet also ein zusätzliches, sehr positiv bewertetes Merkmal der
+Wohnlage für spezielle Nachfragergruppen. Es kann einen Adressenzuschlag rechtfertigen, überla-
+gert jedoch nicht unbedingt alle anderen mietwertbestimmenden Merkmale der Wohnung, des Ge-
+bäudes oder des Wohnumfeldes, sondern tritt ergänzend hinzu.
+- 19 -
+7 Ergebnisse der Aktualisierung der Wohnlagenbewertung
+Im Rahmen der Erstellung des Hamburger Wohnlagenverzeichnisses 2021 wurden
+23.421 Blockseiten (Straßenabschnitte) in Hamburg aktualisiert oder erstmals eingestuft. Die
+Blockseiten verteilen sich danach auf
+▪ 15.163 Blockseiten mit normaler Wohnlageneinstufung und
+▪ 8.258 Blockseiten mit guter Wohnlageneinstufung.
+Bezogen auf alle bewerteten Blockseiten (einschließlich der erstmals bewerteten Blockseiten) er-
+folgte bei rd. 6,2 % eine Umstufung der Wohnlage, wobei
+▪ mit 514 Blockseiten rd. 2,2 % von gut auf normal abgewertet und
+▪ mit 932 Blockseiten rd. 4,0 % von normal auf gut aufgewertet wurden.
+Obgleich sich die Wohnlagenumstufungen über das gesamte Stadtgebiet verteilen, gibt es Stadttei-
+le bzw. Quartiere mit höheren Anteilen an Umstufungen. Hierzu gehören insbesondere:
+▪ Lokstedt: Aufstufungen im Bereich Vizelinstraße/Lohkoppelweg/Grandweg
+▪ Winterhude: Aufstufungen im Bereich Geibelstraße/Gertigstraße/Schinkelstraße
+▪ Ottensen: Aufstufung im Bereich Arnoldstraße/Keplerstraße/Rothestraße
+▪ Marienthal: Abstufung im Bereich Bärenallee/Rantzaustraße/Schloßgarten
+▪ Rahlstedt: Abstufung im Bereich Ringstraße/Fallstraße/Linckestraße
+In den Bereichen St. Pauli, Karolinenviertel und Sternschanze gab es dagegen keine Veränderun-
+gen zur bisherigen Einstufung.
+Im Wohnlagenverzeichnis 2021 sind 147 Blockseiten erstmals bewertet worden. Hierbei handelt es
+sich um Neubauten, die bisher nicht in die Wohnlagenberechnung eingezogen wurden. Von den
+erstmalig bewerteten Blockseiten wurden
+▪ 134 als normale Wohnlage eingestuft und
+▪ 13 als gute Wohnlage eingestuft.
+- 20 -
+7.1 Einwendungen zur Wohnlageneinstufung
+Bei den Einwendungen handelt es sich um Fälle, bei denen Mieter/-innen oder Vermieter/-innen
+mit der bisherigen Wohnlagenbewertung nicht (mehr) einverstanden sind oder in denen keine Be-
+wertung vorliegt.
+Von den bis zum 31.12.2020 vorliegenden Einwendungen hatten
+• 25 eine Aufwertung,
+• 22 eine Abwertung und
+• 4 eine Erstbewertung
+zum Ziel.
+Im Rahmen der Aktualisierung des Wohnlagenverzeichnisses 2021 wurde für alle Blockseiten in
+Hamburg eine Neuberechnung der Wohnlagen vorgenommen. Dies umfasste auch die von den
+Einwendungen betroffenen Adressen und Gebiete. Eine gesonderte Betrachtung der Einwendungen
+fand somit nicht statt. Im Ergebnis erfolgten bezogen auf die Einwendungen
+• in 10 Fällen Aufwertungen,
+• in 16 Fällen Bestätigungen der bisherigen Einstufung,
+• in 7 Fällen eine Abwertung,
+• in 5 Fällen eine Ersteinstufung in die gute Wohnlage und
+• in 4 Fällen eine Ersteinstufung in die normale Wohnlage.
+Die Ergebnisse der Neuberechnung für die Blockseiten mit Einwendungen sind in folgender Tabelle
+aufgelistet.
+Tab. 3 Einwendungen gegen bestehende Wohnlageneinstufungen
+(Stand 31.12.2020)
+Adresse/Gebiete mit Einwendung Wohnlage Wohnlage Wohnlagenwert
+2019 2021
+Alardusstraße 2 gut gut 566,56
+Alte Dorfstraße 4 keine keine kein Wohnen
+Alter Teichweg 005 bis 033 normal normal 436,87
+Beim Schlump 021 bis 036 normal normal 503,83
+Bismarckstraße komplett gut gut 570,25-649,12
+Blumenau 2-92, 13-93 normal gut 557,68-559,09
+Blumenau 113 normal normal 537,19
+Brombeerweg 93 und 95 normal normal 484,18
+Bundesstraße 074 bis 076 gut gut 562,52
+Dorotheenstraße 112 bis 114 normal normal 484,07
+Eißendorfer Straße 57 normal normal 369,51
+- 21 -
+Wohnlage Wohnlage
+Adresse/Gebiete mit Einwendung Wohnlagenwert
+2019 2021
+Elsa-Brandström-Straße 21 bis 25 keine keine Wohnheim
+Falkenried 76 gut gut 559,35
+Geschwister-Scholl-Straße 146 normal normal 535,78
+Goebenstraße 32 gut gut 567,60
+Gorch-Fock-Straße 002 bis 010 normal normal 539,95
+Groten Hoff 9 gut gut 646,09
+Harkortstraße 42 a bis d normal normal 490,67
+Hebbelstraße 15 gut gut 571,78
+Heestweg 40 bis 48 normal normal 519,02
+Heidberg 009a bis 045 normal normal 478,17
+Adresse nicht vor-
+Hesten 28 keine keine
+handen
+Heuorts Land komplett gut gut 547,08
+Hohe Weide
+4-10 gut 555,11
+5-13 normal 540,21
+19 gut 571,95
+20-28 gut 552,47
+diverse
+21-33 gut 586,05
+30-32 normal 528,90
+36-56 gut 563,62
+39-53 gut 571,62
+58-88 gut 548,91
+Höltystraße 9 gut gut 580,39
+Hüllenkamp
+1-51 gut 550,91
+2-58 gut 552,83
+57-97 normal 513,10
+64-94 diverse normal 416,91
+96-102 normal 400,80
+104-152 normal 368,84
+113-119 normal 365,24
+127-145 normal 397,86
+Hummelsbütteler Kirchenweg 032 bis 042 normal normal 476,21
+Isestraße 10 gut gut 613,30
+Kellinghusenstraße
+8-14 gut 569,67
+15-23 diverse normal 501,65
+18-20 normal 501,35
+25-27 normal 501,44
+Koopstraße 001 bis 021 gut gut 596,07
+Koopstraße 21 gut gut 596,07
+Kurvenstraße 16 normal normal 502,51
+Lenaustraße 9 normal normal 522,79
+Lohkoppelweg 002 bis 040 normal gut 545,15
+- 22 -
+Wohnlage Wohnlage
+Adresse/Gebiete mit Einwendung Wohnlagenwert
+2019 2021
+Max-Zelck-Straße 12 gut gut 542,39
+Neubertstraße komplett normal normal 507,11
+Niendorfer Kirchenweg 1a gut gut 541,78
+Oortskamp 15 normal normal 476,86
+Osterstraße 2 gut gut 555,45
+Redderplatz 2 gut gut 543,16
+Rönkkoppel 46 normal normal 476,59
+Saselbergring 002 bis 060 gut gut 600,03
+Schinkelstraße 25 normal gut 545,39
+Semperstraße 22 normal normal 518,10
+Sievekingsallee 12 keine keine kein Wohnen
+Sunderweg 3 gut gut 592,49
+Tiefenstraße 9 gut normal 531,04
+Uhlandstraße 36 b gut normal 528,91
+Wichelwisch 53 normal normal 516,97
+Widukindstraße 1 gut gut 564,37
+Wittigstieg 10 gut gut 557,97
+Wolliner Straße 71 normal normal 513,75
+Quelle: Wohnlagenverzeichnis 2021

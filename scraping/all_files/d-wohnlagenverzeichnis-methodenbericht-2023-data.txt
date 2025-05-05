@@ -1,0 +1,341 @@
+Hansestadt Hamburg
+Behörde für Stadtentwicklung und
+Wohnen - Amt WSB -
+Aktualisierung des
+Hamburger
+Wohnlagenverzeichnisses
+2023
+Bericht vom 18. März 2024
+- i -
+Inhaltsverzeichnis
+1 Einleitung .................................................................................................. 1
+2 Überprüfung von Einwendungen ................................................................. 2
+3 Ersteinstufungen ........................................................................................ 4
+4 Weitere Aktualisierungen ............................................................................ 4
+5 Bewertungssystem des Hamburger Wohnlagenverzeichnisses ....................... 5
+5.1 Wohnlagen und Binnendifferenzierung .................................................. 7
+5.1.1 Normierung der Wohnlagenwerte ............................................................................ 7
+6 Ergebnis der Einwendungen und Neubewertungen ..................................... 10
+Abbildungsverzeichnis
+Abb. 1 Verteilung aller Wohnlagenbewertungen ...................................................................... 8
+Abb. 2 Verteilung der normalen Wohnlagenbewertungen ........................................................ 8
+Abb. 3 Verteilung der guten Wohnlagenbewertungen .............................................................. 9
+Tabellenverzeichnis
+Tab. 1 Indikatoren der Wohnlagenberechnung ....................................................................... 5
+Tab. 2 Einwendungen gegen bestehende Wohnlageneinstufungen sowie Ersteinstufungen ..... 10
+- 1 -
+1 Einleitung
+Analyse & Konzepte wurde vom Amt für Wohnen, Stadterneuerung und Bodenordnung beauftragt,
+zur Vorbereitung für die Erhebungen des Hamburger Mietenspiegels 2023 das Wohnlagenverzeichnis
+zu aktualisieren.
+Im Jahr 2021 wurden alle Hamburger Wohnlagen mittels eines 2017 entwickelten mathematisch-
+statistischen Verfahrens grundlegend überprüft. In diesem Zuge wurden neun Wohnlagenindikatoren
+identifiziert, die eine Berechnung der Wohnlage auf Grundlage objektiv mess- und überprüfbarer
+Merkmale ermöglichen und subjektive Faktoren bei der Bewertung ausschließen.
+Mit dieser Aktualisierung werden zwischenzeitlich neu hinzugekommene Blockseiten unter Verwen-
+dung dieses Verfahrens einer Wohnlage zugeordnet. Darüber hinaus erfolgt eine Plausibilitätsprü-
+fung, die geänderte Verhältnisse vor Ort berücksichtigt. Dazu werden Blockseiten überprüft, für die
+entweder von Mietern oder Vermietern eine Einwendung bezüglich der Wohnlageneinstufung vorge-
+bracht wurde oder für die ein Überprüfungswunsch seitens des Auftraggebers besteht. Hierbei kann
+es sich z. B. um Prüfungen bei heterogenen Einstufungen oder um die Begutachtung von größeren
+Quartieren oder Wohngebieten, die einem stärkeren strukturellen Wandel unterliegen bzw. bei denen
+Ansatzpunkte für weitergehende Veränderungen bestehen, handeln. Auch die Indikatoren werden
+im Rahmen der Plausibilitätsprüfung auf strukturelle Veränderungen untersucht.
+Grundsätzlich wird bei der Aktualisierung unterstellt, dass die bestehende Systematik zur Wohnla-
+geneinstufung Gültigkeit besitzt, sodass im Rahmen der turnusmäßigen Aktualisierungen keine voll-
+ständige Überprüfung aller bewerteten Hamburger Blockseiten durchgeführt wird. Diese Prämisse
+wird auch dadurch bestätigt, dass die Anzahl von Einwendungen und Kritiken auch nach der kom-
+pletten Neuberechnung 2021 auf einem niedrigen Niveau liegt. Für die Aktualisierung 2023 gingen
+Einwendungen zu insgesamt 45 bewerteten Blockseiten ein.
+Die im Rahmen der Aktualisierung für den Hamburger Mietenspiegel 2023 durchgeführten Arbeits-
+schritte umfassen somit folgende Leistungen:
+▪ Überprüfung der Blockseiten, bei denen es seit der letzten Aktualisierung zu Einwendungen von
+Mieter- oder Eigentümerseite gekommen ist, auf Basis von Datenanalysen.
+▪ Recherche und Ersteinordnung von Neubauquartieren und bestehenden Blockseiten, für die bis-
+her keine Wohnlageneinordnung bestand.
+Die Ergebnisse wurden dem begleitenden Arbeitskreis "Mietenspiegel" im Rahmen der Sitzungen
+vorgestellt und schriftlich zur Verfügung gestellt.
+- 2 -
+2 Überprüfung von Einwendungen
+Bei den Einwendungen handelt es sich um Fälle, bei denen Mieter oder Vermieter mit der bisherigen
+Wohnlagenbewertung nicht (mehr) einverstanden sind oder in denen (noch) keine Bewertung vor-
+liegt. Letztere werden zusammen mit den Ersteinstufungen behandelt.
+Die Ursachen für die Einwendungen waren recht unterschiedlich, wobei sich keine eindeutigen Mus-
+ter feststellen ließen. Wie schon in den Vorjahren war die regionale Verteilung der Einwendungen
+sehr breit und beschränkte sich nicht auf bestimmte Stadtteile.
+Von den Einwendungen zu den 45 bewerteten Blockseiten hatten
+▪ 8 eine Aufwertung und
+▪ 37 eine Abwertung
+zum Ziel.
+Im Rahmen der Aktualisierung des Wohnlagenverzeichnisses 2023 wurden insgesamt 98 Blockseiten
+überprüft oder erstmals bewertet.
+Dabei wurde wie folgt vorgegangen, um mögliche Veränderungen wohnlagenrelevanter Merkmale
+zu erfassen und im Rahmen der rechnerischen Einstufung berücksichtigen zu können:
+▪ Aktualisierung der für die Wohnlagenberechnung notwendigen Merkmale bzw. Daten (z. B. Sta-
+tusindex, Bodenrichtwerte, Einwohnerdichte)
+▪ Neuberechnung der Wohnlage unter Berücksichtigung der aktualisierten statistischen Daten
+Für alle Indikatoren wurden dabei die aktuell verfügbaren Daten herangezogen. In diesem Zuge
+erfolgte auch eine Plausibilitätsprüfung bezogen auf mögliche Strukturverschiebungen bei den Indi-
+katoren, die eine Anpassung der Bewertung erforderlich machen würden.
+Mit Ausnahme des aktuell ermittelten Bodenrichtwertes konnten alle Indikatorenwerte unverändert
+in die Berechnungsformel zur Ermittlung der Wohnlage übernommen werden.1 Relevant hierfür war,
+dass sich die Indikatoren in ihren Ausprägungen bezüglich der Wertestruktur (Spannenwerte und
+Mittelwerte) gegenüber der Erhebung 2021 nicht deutlich verändert haben. Die Bodenrichtwerte
+wiesen mit einem allgemeinen Anstieg dagegen eine Strukturveränderung auf. Die Spanne der Bo-
+denrichtwerte hat sich zwischen den Erhebungen 2021 und 2023 von rd. 270-9.500 €/m² auf 410-
+10.500 €/m² erhöht. Um dieser Veränderung zu begegnen, erfolgte für die Bodenrichtwerte eine
+Normierung auf das Niveau von 2021.
+1 Eine ausführliche Darstellung der für die Wohnlagenbewertung relevanten Indikatoren sowie die Erfassungsmethoden
+zu den einzelnen Indikatoren können dem Methodenbericht zum Wohnlagenverzeichnis 2021 entnommen werden.
+- 3 -
+Exkurs: Normierung der Bodenrichtwerte 2023 auf das Niveau 2021
+Die Normierung der Bodenrichtwerte auf das 2021er Niveau stellt sicher, dass sich eine positive
+Entwicklung des Bodenrichtwertes einer Blockseite im Verhältnis zur Gesamtentwicklung in einem
+besseren Wohnlagenkennwert widerspiegelt, zugleich aber der allgemeine Anstieg der Bodenricht-
+werte allein nicht zu einer Aufwertung führt.
+Eine Blockseite, die 2021 mit einem Bodenrichtwert von 980 € in die Berechnung eingegangen ist
+und sich parallel zum Gesamtmarkt entwickelt hat, weist 2023 einen Bodenrichtwert von 1.180 €
+auf. Würden diese 1.180 € in der Wohnlagenformel berücksichtigt, stiege der Wohnlagenwert deut-
+lich an. Unter der Annahme, dass alle anderen Indikatoren unverändert bleiben, müsste der Wohn-
+lagenwert aber unverändert bleiben, da relativ zum Gesamtmarkt keine Veränderung erfolgte. Für
+diese Blockseite wird daher für die 2023er Berechnung weiterhin ein Bodenrichtwert von 980 € an-
+gesetzt.
+Steigt der Bodenrichtwert der Blockseite dagegen auf 1.500 €, besteht auch relativ zum Gesamt-
+markt eine Steigerung. Der Wohnlagenwert dieser Blockseite müsste gegenüber 2021 also ansteigen.
+Auch aus dieser Steigerung muss dabei die allgemeine Marktentwicklung herausgerechnet werden.
+Bezogen auf das Bodenrichtwertgefüge 2021 ergibt sich für diese Blockseite daraus ein rechnerischer
+Bodenrichtwert für 2023 von 1.270 €.
+Die Neuberechnung der Wohnlageneinstufungen unter Berücksichtigung der Aktualisierung der sta-
+tistischen Grundlagendaten hat bei fünf der untersuchten 45 Blockseiten mit Veränderungseingabe
+zu einer Abstufung und bei vier Blockseiten zur Aufwertung geführt. Bei den übrigen 36 Blockseiten
+ergab die Neuberechnung keine Veränderung der Wohnlageneinstufung.
+Die Ergebnisse dieser Überprüfungen sind im Kapitel 6 dargestellt.
+- 4 -
+3 Ersteinstufungen
+Insgesamt sind 53 einzelne Blockseiten erstmalig eingestuft worden. Hierunter fallen sowohl nicht
+eingestufte Blockseiten, die von Einwendern genannt wurden, als auch Blockseiten, die neu im ak-
+tuellen Straßenverzeichnis aufgeführt wurden. Grund für eine fehlende Wohnlageneinstufung war
+die bisher nicht vorhandene Wohnbebauung einer Blockseite. Auch neu gebaute Straßen mit einer
+Wohnbebauung fallen in diese Kategorie.
+Die Vorgehensweise für Neueinstufungen ist analog zur Vorgehensweise bei Einwendungen, es wur-
+den also auch hier Datenrecherchen und die entsprechenden Wohnlageberechnungen durchgeführt.
+Insgesamt wurden von den 53 erstmalig eingestuften Blockseiten
+▪ 18 als gute Wohnlage und
+▪ 35 als normale Wohnlage eingestuft.
+Die Ergebnisse dieser Ersteinordnungen sind in Anlage 2 dargestellt.
+4 Weitere Aktualisierungen
+Seit der Aktualisierung 2021 haben sich auch Veränderungen in der Datengrundlage der Wohnla-
+gendatei, dem Regionalen Bezugssystem (RBS), ergeben. Hierunter fallen, neben den schon berück-
+sichtigten Erweiterungen der im Wohnlagenverzeichnis aufzuführenden Straßen, auch Umbenennun-
+gen von Straßen. Diese wurden im Rahmen eines Abgleichs mit dem "Nachtrag zum Straßen- und
+Gebietsverzeichnis" der Freien und Hansestadt Hamburg berücksichtigt.
+- 5 -
+5 Bewertungssystem des Hamburger Wohnlagenverzeichnisses
+Die aktuelle Wohnlageneinstufung für den Hamburger Mietenspiegel basiert auf einem Set von neun
+Indikatoren, die zur Bestimmung der Wohnlage eingesetzt werden. Diese Indikatoren fließen in eine
+Formel (Basis: logistische Regression) ein, die auf einer breit angelegten empirischen Überprüfung
+verschiedener potenzieller Einflussfaktoren basiert.
+Dieser rechnerische Ansatz wurde gewählt, um die Wohnlageneinstufung für das gesamte Gebiet
+der Freien und Hansestadt Hamburg möglichst objektiv durchführen zu können und subjektive Be-
+urteilungen einzelner Nachfragegruppen (z. B. die unterschiedlichen Wohnpräferenzen von Familien-
+oder Singlehaushalten) weitestgehend auszuschließen. Die Zuordnung zu einer Wohnlage beruht in
+Hamburg daher ausschließlich auf objektiv messbaren und erfassbaren Faktoren.
+Im Rahmen der umfassenden Aktualisierung 2021 wurde mithilfe multivariater statistischer Analysen
+untersucht, welchen Einfluss einzelne Indikatoren auf die Wohnlageneinstufung besitzen.
+Die Bestimmung wohnlagerelevanter Indikatoren basierten auf Regressionsanalysen mit einer Viel-
+zahl von möglichen Indikatoren, deren Einflüsse anhand von Referenzgebieten ermittelt und über-
+prüft wurden, die jeweils beispielhaft "normale" bzw. "gute" Wohnlagen repräsentierten.
+In die abschließende Fassung der Regressionsanalyse wurden neun Indikatoren einbezogen, die in
+der folgenden Tabelle mit ihrem Anteil an der Wohnlagenbewertung aufgeführt werden. Dieser Anteil
+zeigt die Bedeutung des jeweiligen Indikators für die Wohnlagenbewertung. Hierbei zeigt sich, dass
+insgesamt vor allem der Bodenrichtwert und der Statusindex zentrale Indikatoren für die Bewertung
+einer Wohnlage darstellen. In diesen beiden Indikatoren spiegelt sich – mehr als bei den Entfer-
+nungsindikatoren – die "Beliebtheit" einer Wohnlage wider.
+Tab. 1 Indikatoren der Wohnlagenberechnung
+Indikator Anteil an der
+Wohnlagenbewertung
+Bodenrichtwert 19 %
+Statusindex 18 %
+Einwohnerdichte 16 %
+Grünflächenanteil 15 %
+Lärmbelastung 12 %
+Art der Straße (4+ Spuren) 8 %
+Entfernung zum Einzelhandel 8 %
+Entfernung zu Metrobusstation 3 %
+Entfernung zu U-/S-Bahn/AKN 2 %
+- 6 -
+Exkurs: Die Wohnlagenformel
+Die Wohnlagenformel wurde über eine logistische Regression ermittelt. Bei der logistischen Regres-
+sion werden die Einflüsse unabhängiger Variablen (die Indikatoren der Wohnlagenberechnung) auf
+die abhängige Variable (die Wohnlage) bestimmt, wobei die abhängige Variable nur zwei Ausprä-
+gungen aufweist ("normal" und "gut").
+Im Ergebnis der Regressionsanalyse ergibt sich die folgende Formel für die Wohnlagenberechnung
+der einzelnen Blockseiten:
+Wohnlagenwert= -12,17525 + 0,00734 * Bodenrichtwert – 1,18619 * Statusindex
+- 0,53252 * Einwohnerdichte + 0,22984 * Grünflächenanteil
+- 0,70716 * Lärmbelastung - 8,38736 * Art der Straße
+- 0,00019 * Entfernung Metrobus - 0,00027 * Entfernung zu U-/S-Bahn/AKN
+– 0,00233 * Entfernung Einzelhandel
+Neben dem Basiswert (-12,17525) ist für jeden Indikator ein Steigungskoeffizient ermittelt worden.
+Der Steigungskoeffizient gibt an, um welchen Betrag sich der Wohnlagenwert verändert, wenn sich
+der dazugehörige Indikatorwert um den Betrag "1" ändert. So erhöht sich zum Beispiel mit jedem
+Euro beim Bodenrichtwert der Wohnlagenwert um 0,00734 Punkte. Die Größe des Steigungskoeffi-
+zienten hat dabei keinen Zusammenhang mit der Bedeutung des Indikators für die Wohnlagenbe-
+rechnung. Die Bedeutung der Indikatoren ist in obiger Tabelle 1 dargestellt.
+Für die konkrete Wohnlagenberechnung müssen die für die einzelnen Indikatoren ermittelten Be-
+träge in die Formel eingetragen werden. Beispielhaft ist dies im Folgenden für die Blockseite Alter
+Teichweg 78-84 dargestellt:
+Wohnlagenwert= -12,17525
++ 0,00734* 1.143,33 (Bodenrichtwert)
+- 1,18619 * 3,27 (Statusindex)
+- 0,53252 * 11,6 (Einwohnerdichte)
++ 0,22984 * 7,808 (Grünflächenanteil)
+- 0,00027 * 626 (Entfernung zu U-/S-Bahn/AKN)
+- 0,00019 * 175 (Entfernung Metrobus)
+- 0,70716 * 4,16 (Lärmbelastung)
+- 8,38736 * 0 (Art der Straße)
+- 0,00233 * 331 (Entfernung Einzelhandel)
+= - 15,96 => normale Wohnlage (Wohnlagenkennwert: 417,77)
+- 7 -
+5.1 Wohnlagen und Binnendifferenzierung
+Im Rahmen der Regressionsanalysen wurde für jede Blockseite ein Ergebniswert berechnet. In einem
+nächsten Schritt wird der Ergebniswert mit dem im Jahr 2021 ermittelten Grenzwert verglichen.
+Blockseiten, die eine Ausprägung unterhalb dieses Grenzwertes aufweisen, erhalten die Wohnlagen-
+zuordnung "normal", Blockseiten oberhalb des Grenzwertes werden als "gut" eingestuft. Der Grenz-
+wert zwischen normaler und guter Wohnlage liegt bei -1,207.2
+5.1.1 Normierung der Wohnlagenwerte
+Über den ermittelten Wohnlagenwert je Blockseite ist es außerdem möglich, auch innerhalb der
+beiden Wohnlagen "normal" und "gut" eine Abschätzung vorzunehmen, ob sich die Blockseite im
+unteren, mittleren oder oberen Bereich der jeweiligen Wohnlage befindet. Um die Anwendung der
+Wohnlagenwerte zu erleichtern und alle Werte im positiven Zahlenbereich darstellen zu können,
+wurden diese auf eine Skala von 1,00 bis 1.000,00 normiert. Das Verhältnis der Wohnlagenbewer-
+tung der Blockseiten zueinander sowie die jeweiligen Einstufungen in die normale und die gute
+Wohnlage bleiben davon unberührt.
+Der Grenzwert zwischen normaler und guter Wohnlage liegt nach der Normierung bei 541,04, der
+Median der normalen Wohnlagen bei 465,79, der Median der guten Wohnlagen bei 590,67. Das
+bedeutet, innerhalb der Wohnlageklassen befinden sich jeweils genauso viele Blockseiten oberhalb
+wie unterhalb der genannten Mediane. Die Verteilung aller bewerteten Blockseiten insgesamt sowie
+in den Wohnlageklassen ist in den Abbildungen 1 bis 3 ersichtlich.
+2 Die Bedingungen zur Festlegung des Grenzwertes können dem Methodenbericht zum Wohnlagenverzeichnis 2021 ent-
+nommen werden.
+- 8 -
+Abb. 1 Verteilung aller Wohnlagenbewertungen
+Quelle: Wohnlagenverzeichnis 2021, Aktualisierung 2023
+www.analyse-konzepte.de
+Abb. 2 Verteilung der normalen Wohnlagenbewertungen
+Quelle: Wohnlagenverzeichnis 2021, Aktualisierung 2023
+www.analyse-konzepte.de
+- 9 -
+Abb. 3 Verteilung der guten Wohnlagenbewertungen
+Quelle: Wohnlagenverzeichnis 2021, Aktualisierung 2023
+www.analyse-konzepte.de
+- 10 -
+6 Ergebnis der Einwendungen und Neubewertungen
+Die Ergebnisse der Neuberechnung für die Blockseiten mit Einwendungen sowie der Erstbewertun-
+gen sind in folgender Tabelle aufgelistet.
+Tab. 2 Einwendungen gegen bestehende Wohnlageneinstufungen sowie
+Ersteinstufungen (Stand 06.02.2023)
+Adresse Wohnlage 2021 Wohnlage 2023 Wohnlagenwert
+Alsterdorfer Straße 145 - 165 gut gut 586,38
+Berner Allee 024 - 032a gut gut 546,62
+Borndeel 012 - 020 normal normal 539,45
+Bülowstraße 002 - 012 gut gut 567,60
+Bundesstraße 006 - 028a normal normal 449,04
+Bundesstraße 063 - 077 gut gut 541,98
+Bundesstraße 079 - 083 gut gut 541,42
+Bundesstraße 080 - 086 gut gut 581,07
+Durchschnitt 020 - 032 gut gut 556,59
+Elbchaussee 574 - 590 gut gut 686,16
+Ellenbogen 002 - 018 gut gut 550,59
+Ellenbogen 005 - 015 gut gut 555,25
+Emilienstraße 066a - 078 gut gut 549,65
+Falkensteiner Ufer 070 - 090 gut gut 747,83
+Gorch-Fock-Straße 002 - 010 normal gut 563,60
+Gustav-Falke-Straße 002 - 014 normal normal 465,28
+Hainholzweg 071a - 155 gut gut 546,05
+Hallerstraße 036 - 070 normal gut 551,77
+Heuorts Land 002 - 059 gut normal 536,31
+Hohe Weide 005 - 013 normal gut 575,22
+Hohe Weide 020 – 028 gut gut 570,07
+Hohe Weide 030 – 032 normal gut 558,59
+Holzdamm 018 - 024 gut gut 593,66
+Jean-Paul-Weg 022 -038 gut gut 558,36
+Kippingstraße 034 - 040 gut gut 552,72
+Kippingstraße 035 - 039 gut gut 556,86
+Kirchenheerweg 001d - 007 gut gut 596,25
+Kornradenweg 001 - 023 gut normal 527,05
+Lohbekstieg 004 - 032g gut gut 570,65
+Mansteinstraße 004 - 048 gut gut 560,71
+Nettelnburger Straße 001 - 049e gut normal 540,48
+Nordalbingerweg 30a gut gut 564,02
+Papendamm 019 - 025 gut gut 562,65
+Pidder-Lüng-Weg 001 - 065 normal normal 534,95
+Schenkendorfstraße 026 - 030 gut gut 606,97
+Schönsberg 001 - 031 gut gut 602,64
+Schröderstiftweg 002 - 022 gut gut 551,94
+- 11 -
+Adresse Wohnlage 2021 Wohnlage 2023 Wohnlagenwert
+Simrockstraße 158 - 184 gut gut 569,40
+Tierparkallee 005 - 031 normal normal 518,34
+Tönsfeldtstraße 005 - 011 gut gut 559,02
+Wandsbeker Chaussee 281 - 299 normal normal 448,45
+Wilhelm-Bock-Weg 002 - 038 gut gut 598,24
+Wohlers Allee 002 - 044 gut gut 544,66
+Wolffsonweg 001 - 007 gut gut 592,35
+Wrangelstraße 088 - 092 gut gut 570,39
+Am Aschenland 001 - 009 nicht bewertet normal 432,24
+Am Aschenland 004 - 006 nicht bewertet normal 191,68
+Am Felde 27 nicht bewertet gut 599,56
+Am Sandtorpark 001 - 003 nicht bewertet gut 572,29
+Am Finkenhof 01a - 013 nicht bewertet normal 425,68
+Am Dorfgraben 001 - 016 nicht bewertet normal 507,64
+Am Dänenstein 002 - 024 nicht bewertet normal 483,07
+Baurstraße 061 - 063 nicht bewertet gut 617,52
+Beethovenstraße 043 - 047 nicht bewertet normal 488,52
+Bei der Matthäuskirche 004 - 006 nicht bewertet normal 519,46
+Bredenbekkamp 20a - 056 nicht bewertet gut 632,86
+Budnikowsky-Twiete 001 - 005 nicht bewertet normal 490,11
+Eiffestraße 048 - 080 nicht bewertet normal 173,08
+Elsa-Brändström-Straße 021 - 025 nicht bewertet normal 289,31
+Freiligrathstraße 01a - 01p nicht bewertet normal 467,08
+Friedrich-Ebert-Damm 241a - 243 nicht bewertet normal 426,65
+Flatterbinsenweg 010 - 010 nicht bewertet normal 431,77
+Flatterbinsenweg 001 - 022 nicht bewertet normal 205,16
+Feldahornweg 065 - 083 nicht bewertet normal 540,03
+Greifenberger Straße 050 - 056 nicht bewertet normal 513,73
+Großer Grasbrook 019 - 019 nicht bewertet gut 614,88
+Gimpelweg 001 - 015 nicht bewertet normal 195,30
+Hübenerstraße 002 - 002 nicht bewertet gut 578,45
+Heideblütenweg 03a - 07e nicht bewertet normal 518,22
+Im Fischbeker Heidbrook 10a - 10e nicht bewertet normal 520,63
+Knoopstraße 001 - 009 nicht bewertet normal 374,27
+Kirchdorfer Damm 001 - 006 nicht bewertet normal 67,27
+Königswiesen 044 - 054 nicht bewertet normal 416,46
+Liebezeitstraße 012 - 014 nicht bewertet normal 319,32
+Martha-Muchow-Weg 003 - 015 nicht bewertet normal 514,40
+Nagelsweg 018 - 022 nicht bewertet normal 340,53
+Neuenfelder Straße 14a - 019 nicht bewertet normal 191,89
+Neumayerstraße 008 - 010 nicht bewertet normal 498,00
+Petunienweg 060 - 068 nicht bewertet gut 609,76
+Rehmkoppel 002 - 004 nicht bewertet gut 619,29
+Rehmkoppelstieg 003 - 005 nicht bewertet gut 618,92
+Rotenhäuser Damm 030 - 058 nicht bewertet normal 406,54
+Rotenhäuser Wettern 001 - 005 nicht bewertet normal 410,66
+- 12 -
+Adresse Wohnlage 2021 Wohnlage 2023 Wohnlagenwert
+Rübenkamp 148 - 148 nicht bewertet gut 566,13
+Sonninstraße 01a - 017 nicht bewertet normal 345,10
+Steilshooper Allee 501 - 519 nicht bewertet normal 363,50
+Singapurstraße 002 - 006 nicht bewertet gut 582,57
+Sophie-Rahel-Jansen-Straße 078 - 092 nicht bewertet gut 718,24
+Sophie-Rahel-Jansen-Straße 124 - 124 nicht bewertet gut 681,03
+Sophie-Rahel-Jansen-Straße 094 - 120 nicht bewertet gut 710,22
+Sophie-Rahel-Jansen-Straße 075 - 093 nicht bewertet gut 705,48
+Sophie-Rahel-Jansen-Straße 043 - 067 nicht bewertet gut 714,08
+Thörlstraße 017 - 19d nicht bewertet normal 450,71
+Thörlweg 001 - 007 nicht bewertet normal 449,83
+Tokiostraße 003 - 003 nicht bewertet gut 578,85
+Tasköprüstraße 001 - 003 nicht bewertet normal 499,76
+Vancouverstraße 02a - 002 nicht bewertet gut 585,11
+Wittenkamp 022 - 028 nicht bewertet normal 414,77
+Quelle: Wohnlagenverzeichnis 2023

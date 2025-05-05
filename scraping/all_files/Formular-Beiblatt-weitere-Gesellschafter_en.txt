@@ -1,0 +1,167 @@
+Name der entgegennehmenden Gemeinde Gemeindekennzahl Datum der IGN
+Freie und Hansestadt Hamburg Betriebsstätte (Sitz) Gewerbeanmeldung
+02000000
+Beiblatt zur Gewerbe Anmeldung Ummeldung Abmeldung nach §14 GewO oder §55 c GewO
+1 Anzeigepflichtiger
+Angaben zu Person 1
+3 Name 4 Vornamen 4a Geschlecht
+männl. weibl.
+5 Geburtsname (nur bei Abweichung vom Namen) 6 Geburtsdatum 7 Geburtsort und -land
+8 Staatsangehörigkeit(en)
+deutsch: andere:
+9 Anschrift der Wohnung (Straße, Haus-Nr., PLZ, Ort)
+Telefon-Nr. Telefax-Nr.
+Straße, Nr.:
+Postleitz., Ort
+f
+E
+re
+-m
+iw
+a
+il
+i
+l
+l
+i
+/
+g
+W
+:
+eb
+30 Liegt eine Aufenthaltsgenehmigung
+Ja Nein Wenn Ja, Ausstellungsdatum und erteilende Behörde:
+vor?
+31 Enthält die Aufenthaltsgenehmigung
+Ja Nein Wenn Ja, sie enthält folgende Auflagen bzw. Beschränkungen:
+eine Auflage oder Beschränkung?
+Angaben zu Person 2
+3 Name 4 Vornamen 4a Geschlecht
+männl. weibl.
+5 Geburtsname (nur bei Abweichung vom Namen) 6 Geburtsdatum 7 Geburtsort und -land
+8 Staatsangehörigkeit(en)
+deutsch: andere:
+9 Anschrift der Wohnung (Straße, Haus-Nr., PLZ, Ort)
+Telefon-Nr. Telefax-Nr.
+Straße, Nr.:
+Postleitz., Ort
+f
+E
+re
+-m
+iw
+a
+il
+i
+l
+l
+i
+/
+g
+W
+:
+eb
+30 Liegt eine Aufenthaltsgenehmigung
+Ja Nein Wenn Ja, Ausstellungsdatum und erteilende Behörde:
+vor?
+31 Enthält die Aufenthaltsgenehmigung
+Ja Nein Wenn Ja, sie enthält folgende Auflagen bzw. Beschränkungen:
+eine Auflage oder Beschränkung?
+Angaben zu Person 3
+3 Name 4 Vornamen 4a Geschlecht
+männl. weibl.
+5 Geburtsname (nur bei Abweichung vom Namen) 6 Geburtsdatum 7 Geburtsort und -land
+8 Staatsangehörigkeit(en)
+deutsch: andere:
+9 Anschrift der Wohnung (Straße, Haus-Nr., PLZ, Ort)
+Telefon-Nr. Telefax-Nr.
+Straße, Nr.:
+Postleitz., Ort
+f
+E
+re
+-m
+iw
+a
+il
+i
+l
+l
+i
+/
+g
+W
+:
+eb
+30 Liegt eine Aufenthaltsgenehmigung
+Ja Nein Wenn Ja, Ausstellungsdatum und erteilende Behörde:
+vor?
+31 Enthält die Aufenthaltsgenehmigung
+Ja Nein Wenn Ja, sie enthält folgende Auflagen bzw. Beschränkungen:
+eine Auflage oder Beschränkung?
+Angaben zu Person 4
+3 Name 4 Vornamen 4a Geschlecht
+männl. weibl.
+5 Geburtsname (nur bei Abweichung vom Namen) 6 Geburtsdatum 7 Geburtsort und -land
+8 Staatsangehörigkeit(en)
+deutsch: andere:
+9 Anschrift der Wohnung (Straße, Haus-Nr., PLZ, Ort)
+Telefon-Nr. Telefax-Nr.
+Straße, Nr.:
+Postleitz., Ort
+f
+E
+re
+-m
+iw
+a
+il
+i
+l
+l
+i
+/
+g
+W
+:
+eb
+30 Liegt eine Aufenthaltsgenehmigung
+Ja Nein Wenn Ja, Ausstellungsdatum und erteilende Behörde:
+vor?
+31 Enthält die Aufenthaltsgenehmigung
+Ja Nein Wenn Ja, sie enthält folgende Auflagen bzw. Beschränkungen:
+eine Auflage oder Beschränkung?
+32 33
+(Datum) (Unterschrift) Ausfertigung für
+Name of community Free and Hanseatic City of Hamburg
+Community code of branch (location)
+Date of registration of business
+IGN
+Additional sheet
+for business
+registration
+change of address
+deregistration of business
+acc. to art. 14, Trade Law or art. 55c tr.l.
+1 Person obliged to register
+Personal information about person no. 1
+3 Name
+4 First names
+4a gender male female
+5 Name at birth (only if different from name)
+6 Date of birth
+7 birth place and country
+8 Nationality(ies) German: others:
+9 residential address (street, house-no., postal code, city)
+street, no.: phone-no. fax-no.
+postal-code, city: e-mail/website (voluntary information)
+30 Does the person have a residence permit? Yes No If yes, please state issue date and issuing
+authority:
+31 Is there an obligation or a restriction Yes No If yes, please state the obligations
+to the residence permit? and restrictions contained therein:
+Personal information about person no. 2
+Personal information about person no. 3
+Personal information about person no. 4
+(Date)
+(Signature)
+copy for

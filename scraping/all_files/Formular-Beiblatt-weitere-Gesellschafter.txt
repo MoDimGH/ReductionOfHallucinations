@@ -1,0 +1,59 @@
+Name der entgegennehmenden Gemeinde Gemeindekennzahl Datum der IGN
+Freie und Hansestadt Hamburg Betriebsstätte (Sitz) Gewerbemeldung
+02000000
+Beiblatt zur Gewerbe Anmeldung Ummeldung Abmeldung nach §14 GewO oder §55 c GewO
+1 Anzeigepflichtiger
+Angaben zu Person 1
+3 Name 4 Vornamen 4a Geschlecht
+männl. weibl.
+5 Geburtsname (nur bei Abweichung vom Namen) 6 Geburtsdatum 7 Geburtsort und -land
+8 Staatsangehörigkeit(en) deutsch: andere:
+9 Anschrift der Wohnung (Straße, Haus-Nr., PLZ, Ort) Telefon-Nr. Telefax-Nr.
+Straße, Nr.:
+freiwillig:
+Postleitz., Ort E-mail/Web
+30 Liegt eine Aufenthaltsgenehmigung Ja Nein Wenn Ja, Ausstellungsdatum und erteilende Behörde:
+vor?
+31 Enthält die Aufenthaltsgenehmigung Ja Nein Wenn Ja, sie enthält folgende Auflagen bzw. Beschränkungen:
+eine Auflage oder Beschränkung?
+Angaben zu Person 2
+3 Name 4 Vornamen 4a Geschlecht
+männl. weibl.
+5 Geburtsname (nur bei Abweichung vom Namen) 6 Geburtsdatum 7 Geburtsort und -land
+8 Staatsangehörigkeit(en) deutsch: andere:
+9 Anschrift der Wohnung (Straße, Haus-Nr., PLZ, Ort) Telefon-Nr. Telefax-Nr.
+Straße, Nr.:
+freiwillig:
+Postleitz., Ort E-mail/Web
+30 Liegt eine Aufenthaltsgenehmigung Ja Nein Wenn Ja, Ausstellungsdatum und erteilende Behörde:
+vor?
+31 Enthält die Aufenthaltsgenehmigung Ja Nein Wenn Ja, sie enthält folgende Auflagen bzw. Beschränkungen:
+eine Auflage oder Beschränkung?
+Angaben zu Person 3
+3 Name 4 Vornamen 4a Geschlecht
+männl. weibl.
+5 Geburtsname (nur bei Abweichung vom Namen) 6 Geburtsdatum 7 Geburtsort und -land
+8 Staatsangehörigkeit(en) deutsch: andere:
+9 Anschrift der Wohnung (Straße, Haus-Nr., PLZ, Ort) Telefon-Nr. Telefax-Nr.
+Straße, Nr.:
+freiwillig:
+Postleitz., Ort E-mail/Web
+30 Liegt eine Aufenthaltsgenehmigung Ja Nein Wenn Ja, Ausstellungsdatum und erteilende Behörde:
+vor?
+31 Enthält die Aufenthaltsgenehmigung Ja Nein Wenn Ja, sie enthält folgende Auflagen bzw. Beschränkungen:
+eine Auflage oder Beschränkung?
+Angaben zu Person 4
+3 Name 4 Vornamen 4a Geschlecht
+männl. weibl.
+5 Geburtsname (nur bei Abweichung vom Namen) 6 Geburtsdatum 7 Geburtsort und -land
+8 Staatsangehörigkeit(en) deutsch: andere:
+9 Anschrift der Wohnung (Straße, Haus-Nr., PLZ, Ort) Telefon-Nr. Telefax-Nr.
+Straße, Nr.:
+freiwillig:
+Postleitz., Ort E-mail/Web
+30 Liegt eine Aufenthaltsgenehmigung Ja Nein Wenn Ja, Ausstellungsdatum und erteilende Behörde:
+vor?
+31 Enthält die Aufenthaltsgenehmigung Ja Nein Wenn Ja, sie enthält folgende Auflagen bzw. Beschränkungen:
+eine Auflage oder Beschränkung?
+32 33
+(Datum) (Unterschrift) Ausfertigung für
