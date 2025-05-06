@@ -1,9 +1,12 @@
+"""Dieses Script gruppiert die vorhandenen Dokumente in die angegebenen Use-Cases"""
+
+
 import glob
 import os
 import json
 
 
-FILES_DIR = './all_files'
+FILES_DIR = '../scraping/all_files'
 
 USECASE_KEYWORDS = {
     "meldebescheinigung": ["meldebescheinigung", "anmeldung", "abmeldung", "ummeldung"],
@@ -12,15 +15,18 @@ USECASE_KEYWORDS = {
     "personalausweis": ["personalausweis", "ausweis", "identitätsnachweis"],
     "kfz": ["kfz", "zulassung", "auto", "fahrzeug", "kennzeichen"],
 }
+USECASE_SONSTIGES_KEYWORD = "sonstiges"
 
+"""Lädt die Dokumente in den Programmspeicher"""
 def load_documents():
     docs = []
-    for file in glob.glob(os.path.join(FILES_DIR, "*.md")):
+    for file in glob.glob(os.path.join(FILES_DIR, "*.md")) + glob.glob(os.path.join(FILES_DIR, "*.txt")):
         with open(file, encoding="utf-8") as f:
             content = f.read()
             docs.append({"filename": os.path.basename(file), "content": content})
     return docs
 
+"""Klassifiziert Dokument nach Use-Case"""
 def assign_usecase_by_content_and_title(doc, usecase_keywords):
     content = doc["content"].lower()
     title = doc["filename"].lower()
@@ -29,11 +35,12 @@ def assign_usecase_by_content_and_title(doc, usecase_keywords):
         if any(keyword in content for keyword in keywords) or any(keyword in title for keyword in keywords):
             return usecase
         
-    return "sonstiges"
+    return USECASE_SONSTIGES_KEYWORD
 
-def sort_documents_by_usecase(docs):
+"""Gruppiert alle Dokumente nach Use-Cases"""
+def group_documents_by_usecase(docs):
     docs_by_usecase = {key: [] for key in USECASE_KEYWORDS.keys()}
-    docs_by_usecase["sonstiges"] = []
+    docs_by_usecase[USECASE_SONSTIGES_KEYWORD] = []
 
     for doc in docs:
         usecase = assign_usecase_by_content_and_title(doc, USECASE_KEYWORDS)
@@ -41,12 +48,18 @@ def sort_documents_by_usecase(docs):
     
     return docs_by_usecase
 
-
-
-if __name__ == "__main__":
+"""
+    - Lädt alle Dokumente des Datensatzes und
+    - gruppiert sie nach 5 Use-Cases
+"""
+def main():
     docs = load_documents()
-    output_dict = sort_documents_by_usecase(docs)
+    output_dict = group_documents_by_usecase(docs)
     with open("use_cases.json", 'w', encoding="utf-8") as f:
         json.dump(output_dict, f)
     
     print("Dokumente wurden erfolgreich nach usecases gruppiert!")
+
+
+if __name__ == "__main__":
+    main()

@@ -1,2 +1,7 @@
 scraping/venv/
 benchmarking/venv/
+rag-pipeline/venv/
+api/venv/
+venv/
+
+rag-pipeline/db
