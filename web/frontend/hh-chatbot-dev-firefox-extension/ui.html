@@ -10,62 +10,6 @@
             <input type="text" placeholder="Frage mich etwas..." />
         <button>Send</button>
     </div>
-    <script>
-        const input = chatbot.querySelector('input');
-        const button = chatbot.querySelector('button');
-        const messages = chatbot.querySelector('#chatbot-messages');
-
-        function appendMessage(from, text) {
-            const div = document.createElement('div');
-            div.textContent = `${from}: ${text}`;
-            messages.appendChild(div);
-            messages.scrollTop = messages.scrollHeight;
-        }
-
-        const chatHistory = JSON.parse(localStorage.getItem('chatbotSession') || '[]');
-        chatHistory.forEach(m => appendMessage(m.from, m.text));
-
-        function sendMessage() {
-            const userText = input.value.trim();
-            if (!userText) return;
-            appendMessage('Du', userText);
-            input.value = '';
-
-            const message = { from: 'You', text: userText };
-            chatHistory.push(message);
-
-            fetchAnswer(userText);
-        }
-
-        async function fetchAnswer(userText) {
-            try {
-                const response = await browser.runtime.sendMessage({
-                    type: "chat_request",
-                    message: userText,
-                    url: window.location.href
-                });
-
-                if (!response.ok) throw new Error('Server error');
-
-                const data = await response.json();
-                const botReply = data.answer || 'Entschuldigung, ich habe keine Antowort finden können.';
-                appendMessage('Bot', botReply);
-                chatHistory.push({ from: 'Bot', text: botReply });
-                localStorage.setItem('chatbotSession', JSON.stringify(chatHistory));
-            } catch (err) {
-                console.error(err);
-                appendMessage('Bot', 'Ups! Ein Fehler ist aufgetreten.')
-            }
-        }
-
-        button.onclick = sendMessage;
-        input.onkeydown = (e) => {
-            if (e.key === 'Enter') sendMessage();
-        };
-
-        window.addEventListener('beforeunload', () => {
-            localStorage.setItem('chatbotSession', JSON.stringify(chatHistory));
-        });
-    </script>
+    <script src="main.js"></script>
 </body>
 </html>
