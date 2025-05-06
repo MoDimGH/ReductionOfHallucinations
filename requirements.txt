@@ -1,0 +1,12 @@
+requests
+markdownify
+bs4
+pdfplumber
+pypandoc
+langchain
+langchain-ollama
+langchain-chroma
+ragas
+fastapi
+pydantic
+datasets

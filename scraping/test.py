@@ -1,6 +1,5 @@
 import json
 import requests
-from tqdm import tqdm
 
 
 with open("website_structure.json") as f:
@@ -17,7 +16,7 @@ def try_fetch(url):
         print(f"Error scraping {url}: {e}")
         broken_urls.add(url)
 
-for l in tqdm(data, desc="Checking links..."):
+for l in data:
     try_fetch(l.rstrip("/n0"))
     continue
     if l[-3:] == "/n0":

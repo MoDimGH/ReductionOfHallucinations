@@ -56,9 +56,9 @@ def generate_answer(prompt):
 """CLI-Interface für das Verwenden der RAG-Pipeline"""
 def main():
     parser = argparse.ArgumentParser()
-    parser.add_argument("query_text", type=str, help="The query text. If omitted, a chat instance will be started.")
+    parser.add_argument("--query_text", type=str, help="The query text. If omitted, a chat instance will be started.", required=False)
     args = parser.parse_args()
-    query_text = None or args.query_text
+    query_text = args.query_text
 
     Model.init()
 
@@ -69,7 +69,7 @@ def main():
             query_text = input("Query: ")
             if query_text == "q" or not query_text:
                 break
-            query_rag(query_text, DB_PATH)
+            query_rag(query_text)
 
 
 if __name__ == "__main__":
