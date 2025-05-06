@@ -1,8 +1,9 @@
 from fastapi import FastAPI, Request
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
-from query_rag import query_rag
-from model import Model
+from rag_pipeline.query_rag import query_rag
+from rag_pipeline.model import Model
+
 
 app = FastAPI()
 

@@ -4,4 +4,4 @@ rag-pipeline/venv/
 api/venv/
 venv/
 
-rag-pipeline/db
+rag_pipeline/db
