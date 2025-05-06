@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div id="chat">
+    <div id="messages"></div>
+    <input type="text" id="user-input" placeholder="Frage eingeben..." />
+  </div>
+  <script>
+    const input = document.getElementById("user-input");
+    const messages = document.getElementById("messages");
+
+    input.addEventListener("keydown", async (e) => {
+      if (e.key === "Enter") {
+        const userMessage = input.value;
+        input.value = "";
+
+        messages.innerHTML += `<div class="user">${userMessage}</div>`;
+
+        const response = await browser.runtime.sendMessage({
+          type: "chat_request",
+          message: userMessage
+        });
+
+        messages.innerHTML += `<div class="bot">${response.answer}</div>`;
+        messages.scrollTop = messages.scrollHeight;
+      }
+    });
+  </script>
+</body>
+</html>

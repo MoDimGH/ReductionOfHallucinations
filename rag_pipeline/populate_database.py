@@ -6,7 +6,7 @@ import shutil
 from langchain_community.document_loaders import DirectoryLoader, PyPDFDirectoryLoader
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 from langchain.schema.document import Document
-from model import Model
+from rag_pipeline.model import Model
 from langchain_chroma import Chroma
 from math import ceil
 

@@ -3,19 +3,19 @@
 import argparse
 from langchain_community.vectorstores.chroma import Chroma
 from langchain.prompts import ChatPromptTemplate
-from model import Model
+from rag_pipeline.model import Model
 
 
 DB_PATH = "./db"
 
 PROMPT_TEMPLATE = """
-Beantworte die Frage ausschliesslich basierend auf folgendem Kontext:
+Du bist ein Chatbot für das Bürger-Service-Center von Hamburg. Beantworte die Frage ausschliesslich basierend auf folgendem Kontext:
 
 {context}
 
 ---
 
-Beantworte die Frage basierend auf dem obigen Kontext: {question}
+Nutzer-Query: {question}
 """
 
 

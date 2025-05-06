@@ -1,3 +1,6 @@
+uglifyjs ./web/frontend/chatbot_loader.js -o ./web/frontend/chatbot_loader.min.js
+python -m rag_pipeline
+uvicorn web.backend.endpoints:app --reload --host 0.0.0.0 --port 8000
 
 **Bremen University of Applied Sciences**
 

@@ -1,10 +1,10 @@
 javascript:(function() {
     if (!window.chatbotInjected) {
         const script = document.createElement('script');
-        script.src = 'https://172.236.193.62/chatbot-loader.js';
+        script.src = 'https://github.com/MoDimGH/ReductionOfHallucinations/blob/main/web/frontend/chatbot_loader.js';
         script.onload = () => window.chatbotInjected = true;
         document.body.appendChild(script);
     } else {
-        document.querySelector('#hamburg-chatbot').classList.toggle('hidden);
+        document.querySelector('#hamburg-chatbot').classList.toggle('hidden');
     }
 })();

@@ -1,0 +1,27 @@
+{
+    "manifest_version": 2,
+    "name": "Hamburg Chatbot Loader",
+    "version": "1.0",
+    "description": "Injects chatbot into hamburg.de",
+    "permissions": [
+      "tabs",
+      "activeTab",
+      "<all_urls>",
+      "webRequest",
+      "webRequestBlocking"
+    ],
+    "content_scripts": [
+      {
+        "matches": ["*://*.hamburg.de/*"],
+        "js": ["content.js"]
+      }
+    ],
+    "background": {
+      "scripts": ["background.js"]
+    },
+    "browser_action": {
+      "default_title": "Chatbot aktivieren"
+    },
+    "web_accessible_resources": ["ui.html", "style.css"]
+  }
+  
