@@ -4,30 +4,68 @@
   <link rel="stylesheet" href="style.css" />
 </head>
 <body>
-  <div id="chat">
-    <div id="messages"></div>
-    <input type="text" id="user-input" placeholder="Frage eingeben..." />
-  </div>
-  <script>
-    const input = document.getElementById("user-input");
-    const messages = document.getElementById("messages");
+    <div id="chatbot-header">Hamburg Services Chatbot</div>
+        <div id="chatbot-messages"></div>
+        <div id="chatbot-input">
+            <input type="text" placeholder="Frage mich etwas..." />
+        <button>Send</button>
+    </div>
+    <script>
+        const input = chatbot.querySelector('input');
+        const button = chatbot.querySelector('button');
+        const messages = chatbot.querySelector('#chatbot-messages');
 
-    input.addEventListener("keydown", async (e) => {
-      if (e.key === "Enter") {
-        const userMessage = input.value;
-        input.value = "";
+        function appendMessage(from, text) {
+            const div = document.createElement('div');
+            div.textContent = `${from}: ${text}`;
+            messages.appendChild(div);
+            messages.scrollTop = messages.scrollHeight;
+        }
 
-        messages.innerHTML += `<div class="user">${userMessage}</div>`;
+        const chatHistory = JSON.parse(localStorage.getItem('chatbotSession') || '[]');
+        chatHistory.forEach(m => appendMessage(m.from, m.text));
 
-        const response = await browser.runtime.sendMessage({
-          type: "chat_request",
-          message: userMessage
+        function sendMessage() {
+            const userText = input.value.trim();
+            if (!userText) return;
+            appendMessage('Du', userText);
+            input.value = '';
+
+            const message = { from: 'You', text: userText };
+            chatHistory.push(message);
+
+            fetchAnswer(userText);
+        }
+
+        async function fetchAnswer(userText) {
+            try {
+                const response = await browser.runtime.sendMessage({
+                    type: "chat_request",
+                    message: userText,
+                    url: window.location.href
+                });
+
+                if (!response.ok) throw new Error('Server error');
+
+                const data = await response.json();
+                const botReply = data.answer || 'Entschuldigung, ich habe keine Antowort finden können.';
+                appendMessage('Bot', botReply);
+                chatHistory.push({ from: 'Bot', text: botReply });
+                localStorage.setItem('chatbotSession', JSON.stringify(chatHistory));
+            } catch (err) {
+                console.error(err);
+                appendMessage('Bot', 'Ups! Ein Fehler ist aufgetreten.')
+            }
+        }
+
+        button.onclick = sendMessage;
+        input.onkeydown = (e) => {
+            if (e.key === 'Enter') sendMessage();
+        };
+
+        window.addEventListener('beforeunload', () => {
+            localStorage.setItem('chatbotSession', JSON.stringify(chatHistory));
         });
-
-        messages.innerHTML += `<div class="bot">${response.answer}</div>`;
-        messages.scrollTop = messages.scrollHeight;
-      }
-    });
-  </script>
+    </script>
 </body>
 </html>
