@@ -16,7 +16,7 @@ How effective are various methods for reducing hallucinations in RAG-based enter
 | |  |
 | ------------------------ | ------------------------------------------ |
 | Study program:           | Dual study program Computer Science B. Sc. |
-| Planned submission date: | 13.07.2025                                 |
+| Planned submission date: | 20.07.2025                                 |
 
 Bremen, 25.04.2025
 
