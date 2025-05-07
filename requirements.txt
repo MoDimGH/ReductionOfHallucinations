@@ -1,6 +1,6 @@
 requests
 markdownify
-bs4
+beautifulsoup4
 pdfplumber
 pypandoc
 langchain
