@@ -1,3 +1,5 @@
+const isExtension = typeof browser !== 'undefined' && browser.runtime && browser.runtime.sendMessage;
+
 const input = document.querySelector('input');
 const button = document.querySelector('button');
 const messages = document.querySelector('#chatbot-messages');
@@ -25,17 +27,43 @@ function sendMessage() {
 }
 
 async function fetchAnswer(userText) {
-    const botReply = await browser.runtime.sendMessage({
+    const botReply = typeof browser !== 'undefined' ? await browser.runtime.sendMessage({
+        type: "chat_request",
+        message: userText,
+        url: window.location.href
+    }) : await fetch_standalone({
         type: "chat_request",
         message: userText,
         url: window.location.href
     });
 
-    console.log(JSON.stringify(botReply, 0, 2));
-
     appendMessage('Bot', botReply.answer.content);
     chatHistory.push({ from: 'Bot', text: botReply.answer.content });
     localStorage.setItem('chatbotSession', JSON.stringify(chatHistory));
+}
+
+async function fetch_standalone(request) {
+    console.log("Chat request received");
+    if (request.type === "chat_request") {
+        try {
+            console.log("request.message")
+            const response = await fetch("http://172.236.193.62:8000/api/chat", {
+                method: "POST",
+                headers: { "Content-Type": "application/json" },
+                body: JSON.stringify({ question: request.message, url: request.url })
+            });
+
+            if (!response.ok) throw new Error(`Server error`);
+
+            const data = await response.json();
+            const botReply = data.answer || 'Entschuldigung, ich habe keine Antwort finden können.';
+            return { answer: botReply };
+        } catch (err) {
+            console.error(err);
+            return { answer: 'Ups! Ein Fehler ist aufgetreten.' };
+        }
+    }
+    return { answer:'Ups! Ein Fehler ist aufgetreten.' };
 }
 
 button.onclick = sendMessage;
