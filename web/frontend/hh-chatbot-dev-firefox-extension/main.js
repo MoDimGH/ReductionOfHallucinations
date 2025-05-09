@@ -56,7 +56,7 @@ async function fetch_standalone(request) {
             if (!response.ok) throw new Error(`Server error`);
 
             const data = await response.json();
-            const botReply = data.answer || 'Entschuldigung, ich habe keine Antwort finden können.';
+            const botReply = data.answer || 'Ups! Ein Fehler ist aufgetreten.';
             return { answer: botReply };
         } catch (err) {
             console.error(err);

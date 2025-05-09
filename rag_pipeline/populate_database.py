@@ -29,7 +29,8 @@ def add_files(path_to_data_dir):
     chunks = split_documents(documents)
 
     print("Adding chunks to database")
-    add_to_db(chunks)
+    chunks_with_ids = calculate_chunk_ids(chunks)
+    add_to_db(chunks_with_ids)
 
 
 """Lädt die Dokumente in den Programmspeicher"""
@@ -51,13 +52,11 @@ def split_documents(documents: list[Document]):
 
 
 """Fügt die angegebenen Dokumentenabschnitte zur Chroma-Datenbank hinzu"""
-def add_to_db(chunks: list[Document], db_path=DB_PATH):
+def add_to_db(chunks_with_ids: list[Document], db_path=DB_PATH):
     db = load_db(db_path)
 
-    chunks_with_ids = calculate_chunk_ids(chunks)
-
     existing_items = db.get(include=[])
-    print(existing_items)
+    # print(existing_items)
     existing_ids = set(existing_items["ids"])
     print(f"Number of existing chunks in DB: {len(existing_ids)}")
 
@@ -95,7 +94,7 @@ def calculate_chunk_ids(chunks):
 
     for chunk in chunks:
         source = chunk.metadata.get("source")
-        page = chunk.metadata.get("page")
+        page = chunk.metadata.get("page") or 0
         current_page_id = f"{source}:{page}"
 
         if current_page_id == prev_page_id:

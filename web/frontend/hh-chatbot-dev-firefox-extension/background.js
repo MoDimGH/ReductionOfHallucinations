@@ -11,13 +11,14 @@ browser.runtime.onMessage.addListener((request, sender, sendResponse) => {
                 });
 
                 if (!response.ok) throw new Error(`Server error`);
-
+		
                 const data = await response.json();
-                const botReply = data.answer || 'Entschuldigung, ich habe keine Antwort finden können.';
+                console.log(JSON.stringify(data, 0, 2));
+		const botReply = data.answer || 'Entschuldigung, ich habe keine Antwort finden können.';
                 return sendResponse({ answer: botReply });
             } catch (err) {
                 console.error(err);
-                return sendResponse({ answer: 'Ups! Ein Fehler ist aufgetreten.' });
+                return sendResponse({ answer: `Ups! Ein Fehler ist aufgetreten. ${err}` });
             }
         })();
     } else {
