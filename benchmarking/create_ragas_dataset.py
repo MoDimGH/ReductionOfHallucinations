@@ -14,12 +14,12 @@ import json
 import asyncio
 
 
-INPUT_DIR = "../scraping/all_files"
-OUTPUT_DIR = "./testsets"
+INPUT_DIR = "./scraping/all_files"
+OUTPUT_DIR = "./benchmarking/testsets"
 
-PATH_TO_USE_CASES = "./use_cases.json"
+PATH_TO_USE_CASES = "./benchmarking/use_cases.json"
 USECASE_SONSTIGES_KEYWORD = "sonstiges"
-PATH_TO_USE_CASES_PERSONAS = "./use_case_personas.json"
+PATH_TO_USE_CASES_PERSONAS = "./benchmarking/use_case_personas.json"
 
 TESTSET_SIZE = 50
 MODEL = "mistral-nemo"

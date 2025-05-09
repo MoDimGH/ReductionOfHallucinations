@@ -1,8 +1,9 @@
-from fastapi import FastAPI, Request
+from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
 from rag_pipeline.query_rag import query_rag
 from rag_pipeline.model import Model
+import traceback
 
 
 app = FastAPI()
@@ -27,4 +28,5 @@ async def chat(req: QuestionRequest):
         answer, sources = query_rag(req.question)
         return { "answer": answer, "sources": sources }
     except Exception as e:
-        return { "answer": "Sorry, I couldn't procss your request. Please try again later." }
+        traceback.print_exc()
+        return { "answer": "Ups! Ein Fehler ist aufgetreten. Bitte versuchen Sie es später noch einmal." }

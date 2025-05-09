@@ -37,8 +37,8 @@ async function fetchAnswer(userText) {
         url: window.location.href
     });
 
-    appendMessage('Bot', botReply.answer.content);
-    chatHistory.push({ from: 'Bot', text: botReply.answer.content });
+    appendMessage('Bot', botReply.answer);
+    chatHistory.push({ from: 'Bot', text: botReply.answer });
     localStorage.setItem('chatbotSession', JSON.stringify(chatHistory));
 }
 

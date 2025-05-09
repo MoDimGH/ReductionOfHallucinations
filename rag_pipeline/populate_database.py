@@ -1,6 +1,5 @@
 """Dieses Script setzt basierend auf dem Datensatz die Vektordatenbank der RAG-Pipeline auf"""
 
-import argparse
 import os
 import shutil
 from langchain_community.document_loaders import DirectoryLoader, PyPDFDirectoryLoader
@@ -11,19 +10,25 @@ from langchain_chroma import Chroma
 from math import ceil
 
 
-DB_PATH = "./db"
-DATA_PATH = "../scraping/all_files/"
+DB_PATH = "./rag_pipeline/db"
+DATA_PATH = "./scraping/all_files/"
 
 
 """Lädt die Datenbank"""
-def load_db():
-    return Chroma(persist_directory=DB_PATH, embedding_function=Model.getEmbeddingFunction())
+def load_db(db_path):
+    return Chroma(persist_directory=db_path, embedding_function=Model.getEmbeddingFunction())
 
 
 """Ergänzt, falls nicht schon enthalten, alle Dokumente der angegebenen Directory in die Datenbank"""
 def add_files(path_to_data_dir):
+    print("Loading documents")
     documents = load_documents(path_to_data_dir)
+    print("Loaded documents successfully")
+
+    print("Splitting documents into chunks")
     chunks = split_documents(documents)
+
+    print("Adding chunks to database")
     add_to_db(chunks)
 
 
@@ -46,15 +51,15 @@ def split_documents(documents: list[Document]):
 
 
 """Fügt die angegebenen Dokumentenabschnitte zur Chroma-Datenbank hinzu"""
-def add_to_db(chunks: list[Document]):
-    db = load_db()
+def add_to_db(chunks: list[Document], db_path=DB_PATH):
+    db = load_db(db_path)
 
     chunks_with_ids = calculate_chunk_ids(chunks)
 
     existing_items = db.get(include=[])
     print(existing_items)
     existing_ids = set(existing_items["ids"])
-    print(f"Number of existing documents in DB: {len(existing_ids)}")
+    print(f"Number of existing chunks in DB: {len(existing_ids)}")
 
     new_chunks = []
     for chunk in chunks_with_ids:
@@ -63,13 +68,18 @@ def add_to_db(chunks: list[Document]):
 
     if len(new_chunks):
         new_chunk_ids = [chunk.metadata["id"] for chunk in new_chunks]
-        print(f"Adding new documents: {len(new_chunks)}")
+        print(f"Adding new chunks: {len(new_chunks)}")
 
         max_batch_size = 5000
         n_batches = ceil(len(new_chunks) / max_batch_size)
         for i in range(n_batches):
             db.add_documents(new_chunks[i * max_batch_size : (i+1) * max_batch_size], ids=new_chunk_ids)
-            db.persist()
+
+            if i == n_batches-1:
+                print(f"Successfully added all chunks to database")
+            else:
+                print(f"Added first batch of chunks. {n_batches - i - 1} to go.")
+            
     else:
         print("No new documents to add")
 
@@ -108,8 +118,8 @@ def clear_database():
 
 
 """Löscht alle Abschnitte des angegebenen Dokuments aus der Datenbank"""
-def remove_file(pdf_filename):
-    db = load_db()
+def remove_file(pdf_filename, db_path=DB_PATH):
+    db = load_db(db_path)
 
     existing_items = db.get(include=[])
     existing_ids = set(existing_items["ids"])
@@ -119,20 +129,16 @@ def remove_file(pdf_filename):
     if to_delete:
         print(f"Removing {len(to_delete)} document(s) of {pdf_filename}")
         db.delete(to_delete)
-        db.persist()
         print("Deletion completed")
     else:
         print("No matching documents found in the database.")
 
 
 """Erstellt CLI für die Datenbankerstellung und lädt die Dokumente in die Vektordatenbank"""
-def main():
-    parser = argparse.ArgumentParser()
-    parser.add_argument("--reset", action="store_true", help="Reset the database.")
-    args = parser.parse_args()
-    if args.reset:
-        print("Clearing Database")
+def main(reset=False):
+    if reset:
         clear_database()
+        print("Database cleared!")
 
     Model.init()
     add_files(DATA_PATH)

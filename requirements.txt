@@ -10,3 +10,6 @@ ragas
 fastapi
 pydantic
 datasets
+uvicorn
+unstructured
+"unstructured[md]"

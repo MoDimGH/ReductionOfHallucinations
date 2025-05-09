@@ -1,15 +1,14 @@
 """Dieses Script bietet ein CLI zur Bedienung der RAG-Pipeline"""
 
-import argparse
-from langchain_community.vectorstores.chroma import Chroma
+from langchain_chroma import Chroma
 from langchain.prompts import ChatPromptTemplate
 from rag_pipeline.model import Model
 
 
-DB_PATH = "./db"
+DB_PATH = "./rag_pipeline/db"
 
 PROMPT_TEMPLATE = """
-Du bist ein Chatbot für das Bürger-Service-Center von Hamburg. Beantworte die Frage ausschliesslich basierend auf folgendem Kontext:
+Du bist ein Chatbot für das Bürger-Service-Center von Hamburg. Beantworte die Frage ausschliesslich basierend auf folgendem Kontext. Wenn der Kontext die Antwort nicht vollständig enthält, antworte nicht:
 
 {context}
 
@@ -51,25 +50,18 @@ def query_rag(query_text: str):
 def generate_answer(prompt):
     llm = Model.getLLMModel()
     response_text = llm.invoke(prompt)
-    return response_text
+    return response_text.content
 
-"""CLI-Interface für das Verwenden der RAG-Pipeline"""
+"""CLI-Chat für den Zugriff auf die RAG-Pipeline"""
 def main():
-    parser = argparse.ArgumentParser()
-    parser.add_argument("--query_text", type=str, help="The query text. If omitted, a chat instance will be started.", required=False)
-    args = parser.parse_args()
-    query_text = args.query_text
-
     Model.init()
 
-    if query_text:
-        query_rag(query_text)
-    else:
-        while True:
-            query_text = input("Query: ")
-            if query_text == "q" or not query_text:
-                break
-            query_rag(query_text)
+    while True:
+        query_text = input("Query: ")
+        if query_text == "q" or not query_text:
+            break
+        response_text, sources = query_rag(query_text)
+        print(response_text, sources)
 
 
 if __name__ == "__main__":

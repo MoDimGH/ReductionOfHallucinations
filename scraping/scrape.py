@@ -9,7 +9,9 @@ import re
 import os
 
 
-FILE_SAVE_LOCATION = './all_files'
+FILE_SAVE_LOCATION = './scraping/all_files'
+EXPORT_URLS_FILE = './scraping/urls_to_scrape.json'
+EXPORT_BROKEN_LINKS_FILE = './scraping/broken_links.json'
 
 visited = set()
 broken_urls = set()
@@ -126,11 +128,11 @@ def scrape(url, depth=0, max_depth=2):
         broken_urls.add(url)
 
 
-def export_urls_to_json(filename="urls_to_scrape.json"):
+def export_urls_to_json(filename=EXPORT_URLS_FILE):
     with open(filename, 'w', encoding='utf-8') as f:
         json.dump(visited, f, indent=4)
 
-    with open("broken_links.json", 'w') as f:
+    with open(EXPORT_BROKEN_LINKS_FILE, 'w') as f:
         json.dump(broken_urls, f)
 
     print(f"Url list exported to {filename}")
