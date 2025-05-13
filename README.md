@@ -12,8 +12,8 @@ Dieses CLI-Tool dient zur Steuerung einer RAG-Pipeline (Retrieval-Augmented Gene
 ## Installation
 
 ```bash
-git clone <REPO-URL>
-cd <REPO-NAME>
+git clone https://github.com/MoDimGH/ReductionOfHallucinations
+cd https://github.com/MoDimGH/ReductionOfHallucinations
 pip install -r requirements.txt
 ```
 
