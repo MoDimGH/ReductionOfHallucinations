@@ -21,7 +21,7 @@ def main(reset=False):
     data_docs = load_documents(DATA_PATH)
     qa_docs = load_documents(QA_DATA_PATH)
     documents = data_docs + qa_docs
-    print(f"Dokumente erfolgreich geladen ({data_docs.count()} + {qa_docs.count()})")
+    print(f"Dokumente erfolgreich geladen ({len(data_docs)} + {len(qa_docs)})")
 
     if reset:
         print("Entferne die bestehende Datenbank")

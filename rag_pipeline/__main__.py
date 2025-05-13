@@ -1,43 +1,84 @@
 import argparse
-from rag_pipeline import query_rag
-from rag_pipeline import populate_database
-from scraping import scrape
-from benchmarking import gather_usecase_groups, create_ragas_dataset
-import subprocess
 
 
 def main():
-    parser = argparse.ArgumentParser()
-    # parser.add_argument("--query_text", type=str, help="The query text. If omitted, a chat instance will be started.")
-    parser.add_argument('-c', '--chat', action='store_true', help="Mode: command line chat interface")
-    parser.add_argument('-a', '--api', action='store_true', help="Mode: run web api")
-    parser.add_argument('-r', '--reset', action='store_true', help="Mode: rebuild database from scraped files")
-    parser.add_argument('-d', '--create_dataset', action='store_true', help="Mode: rescrape all files")
-    parser.add_argument('-t', '--create_testset', action='store_true', help="Mode: run web api")
-    
+    parser = argparse.ArgumentParser(description="RAG-Pipeline CLI")
+    subparsers = parser.add_subparsers(dest="command", required=True)
+
+    # SETUP -------------------------------
+    setup_parser = subparsers.add_parser("setup", help="Setup steps")
+    setup_subparsers = setup_parser.add_subparsers(dest="step", required=True)
+
+    setup_subparsers.add_parser("create_dataset", help="Rescrape all files and create dataset")
+    setup_subparsers.add_parser("create_testset", help="Create testset")
+
+    update_db_parser = setup_subparsers.add_parser("update_database", help="Populate vector DB")
+    update_db_parser.add_argument("--reset", action="store_true", help="Rebuild database from scratch")
+
+    qa_opt_parser = setup_subparsers.add_parser("qa_optimization", help="QA optimization setup")
+    qa_opt_parser.add_argument("--reset", action="store_true")
+
+    hybrid_opt_parser = setup_subparsers.add_parser("hybrid_search_optimization", help="Hybrid search optimization setup")
+    hybrid_opt_parser.add_argument("--reset", action="store_true")
+
+    setup_subparsers.add_parser("score_thresholding_optimization", help="Score thresholding setup")
+    setup_subparsers.add_parser("prompt_engineering_optimization", help="Prompt engineering setup")
+
+    # RUN ----------------------------------
+    run_parser = subparsers.add_parser("run", help="Run modes")
+    run_parser.add_argument("mode", choices=["cli_chat", "web_api"], help="Choose the run mode")
+    run_parser.add_argument("--optimization", choices=["qa", "hybrid_search", "score_thresholding", "prompt_engineering"],
+                            help="Optional optimization to use during run")
+
+    # EVALUATE ------------------------------
+    evaluate_parser = subparsers.add_parser("evaluate", help="Evaluate current model setup")
+
     args = parser.parse_args()
-    chat_mode = args.chat
-    resetDB_mode = args.reset
-    scrape_mode = args.create_dataset
-    api_mode = args.api
-    createTestset_mode = args.create_testset
 
-    if len(list(filter(bool, [chat_mode, resetDB_mode, scrape_mode, api_mode, createTestset_mode]))) != 1:
-        raise Exception("Please specify one and only one execution mode.")
-    elif chat_mode:
-        query_rag.main()
-    elif resetDB_mode:
-        populate_database.main(True)
-    elif scrape_mode:
-        scrape.main()
-    elif api_mode:
-        subprocess.Popen(['uvicorn', 'web.backend.endpoints:app', '--reload', '--host', '0.0.0.0', '--port', '8000'])
-    elif createTestset_mode:
-        gather_usecase_groups.main()
-        create_ragas_dataset.main()
+    # Handle setup commands
+    if args.command == "setup":
+        if args.step == "create_dataset":
+            from scraping import scrape
+            scrape.main()
+        elif args.step == "create_testset":
+            from benchmarking import gather_usecase_groups, create_ragas_dataset
+            gather_usecase_groups.main()
+            create_ragas_dataset.main()
+        elif args.step == "update_database":
+            from rag_pipeline import populate_database
+            populate_database.main(reset=args.reset)
+        elif args.step == "qa_optimization":
+            from optimizations.qa import generate_qa_documents, populate_optimized_db
+            print("Setting up QA optimization...", "(reset)" if args.reset else "")
+            generate_qa_documents.main(reset=args.reset)
+            populate_optimized_db.main(reset=args.reset)
+        elif args.step == "hybrid_search_optimization":
+            from optimizations.hybrid_search import populate_bm25_index
+            print("Setting up Hybrid Search optimization...", "(reset)" if args.reset else "")
+            populate_bm25_index.main(reset=args.reset)
+        elif args.step == "score_thresholding_optimization":
+            print("Setting up score thresholding optimization...")
+            # ...
+        elif args.step == "prompt_engineering_optimization":
+            print("Setting up prompt engineering optimization...")
+            # ...
 
-    # TODO: besser aufteilen mit befehlen build und exec nach step/mode und ggf. optimization
+    # Handle run commands
+    elif args.command == "run":
+        if args.mode == "cli_chat":
+            from rag_pipeline import query_rag
+            print(f"Running CLI chat mode {'with optimization: ' + args.optimization if args.optimization else ''}")
+            query_rag.main()
+        elif args.mode == "web_api":
+            import subprocess
+            print(f"Starting web API {'with optimization: ' + args.optimization if args.optimization else ''}")
+            subprocess.Popen(['uvicorn', 'web.backend.endpoints:app', '--reload', '--host', '0.0.0.0', '--port', '8000'])
 
+    # Handle evaluate command
+    elif args.command == "evaluate":
+        print("Not set up yet")
+
+    # TODO: integrate optimizations
 
 if __name__ == "__main__":
     main()

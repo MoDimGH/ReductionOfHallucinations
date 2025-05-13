@@ -18,7 +18,7 @@ from rag_pipeline.utilities import load_db
 def add_files(path_to_data_dir):
     print("Loading documents")
     documents = load_documents(path_to_data_dir)
-    print(f"Loaded documents successfully ({documents.count()})")
+    print(f"Loaded documents successfully ({len(documents)})")
 
     print("Splitting documents into chunks")
     chunks = split_documents(documents)
