@@ -65,14 +65,29 @@ def main():
 
     # Handle run commands
     elif args.command == "run":
+        retriever = None
+        if args.optimization == "qa_optimization":
+            from rag_pipeline.constants import OPTIMIZED_DB_PATH
+            from rag_pipeline.utilities import create_chroma_retriever
+            retriever = create_chroma_retriever(OPTIMIZED_DB_PATH)
+        elif args.optimization == "hybrid_search_optimization":
+            from optimizations.hybrid_search.hybrid_retriever import HybridRetriever
+            HybridRetriever.init()
+            retriever = HybridRetriever.getRetriever()
+
         if args.mode == "cli_chat":
             from rag_pipeline import query_rag
             print(f"Running CLI chat mode {'with optimization: ' + args.optimization if args.optimization else ''}")
-            query_rag.main()
+            query_rag.main(retriever=retriever)
+
         elif args.mode == "web_api":
-            import subprocess
+            import uvicorn
+            from web.backend.api import API
             print(f"Starting web API {'with optimization: ' + args.optimization if args.optimization else ''}")
-            subprocess.Popen(['uvicorn', 'web.backend.endpoints:app', '--reload', '--host', '0.0.0.0', '--port', '8000'])
+            API.init(rag_retriever=retriever)
+            app = API.getApp()
+            uvicorn.run(app, host="0.0.0.0", port=8000)
+
 
     # Handle evaluate command
     elif args.command == "evaluate":

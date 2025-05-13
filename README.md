@@ -1,24 +1,156 @@
-uglifyjs ./web/frontend/chatbot_loader.js -o ./web/frontend/chatbot_loader.min.js
-python -m rag_pipeline
-uvicorn web.backend.endpoints:app --reload --host 0.0.0.0 --port 8000
+Klar! Hier ist eine passende `README.md`-Datei für dein CLI-Tool zur Steuerung deiner RAG-Pipeline:
 
-**Bremen University of Applied Sciences**
+---
 
-**Faculty IV: Electrical Engineering and Computer Science**
+# RAG-Pipeline CLI
+
+Dieses CLI-Tool dient zur Steuerung einer RAG-Pipeline (Retrieval-Augmented Generation). Es bietet Funktionen zur Einrichtung der Pipeline, zum Starten von Chat-Modi (CLI und Web-API) sowie zur Evaluation der aktuellen Konfiguration.
+
+## Voraussetzungen
+
+* Python 3.8+
+* Installierte Abhängigkeiten (siehe `requirements.txt`)
+
+---
+
+## Installation
+
+```bash
+git clone <REPO-URL>
+cd <REPO-NAME>
+pip install -r requirements.txt
+```
+
+---
+
+## Verwendung
+
+Die CLI besteht aus drei Hauptkommandos: `setup`, `run` und `evaluate`.
+
+### `setup`
+
+Initialisiert verschiedene Komponenten der Pipeline:
+
+```bash
+python main.py setup <step> [--reset]
+```
+
+**Verfügbare Schritte:**
+
+| Schritt                           | Beschreibung                                                            |
+| --------------------------------- | ----------------------------------------------------------------------- |
+| `create_dataset`                  | Re-scraped alle Dateien und erstellt ein neues Dataset                  |
+| `create_testset`                  | Erstellt ein Testset für Evaluation                                     |
+| `update_database`                 | Füllt die Vektor-Datenbank. Mit `--reset` kann sie neu aufgebaut werden |
+| `qa_optimization`                 | Setzt QA-Optimierung auf. Mit `--reset` wird alles neu generiert        |
+| `hybrid_search_optimization`      | Setzt Hybrid-Suche auf. Mit `--reset` wird der Index neu erstellt       |
+| `score_thresholding_optimization` | Platzhalter für Score-Thresholding-Setup                                |
+| `prompt_engineering_optimization` | Platzhalter für Prompt-Engineering-Setup                                |
+
+**Beispiel:**
+
+```bash
+python main.py setup update_database --reset
+```
+
+---
+
+### `run`
+
+Startet die Pipeline im gewünschten Modus:
+
+```bash
+python main.py run <cli_chat|web_api> [--optimization <qa|hybrid_search|score_thresholding|prompt_engineering>]
+```
+
+**Modi:**
+
+* `cli_chat`: Startet den interaktiven CLI-Chat
+* `web_api`: Startet eine FastAPI-Anwendung auf Port 8000
+
+**Optimierungen (optional):**
+
+* `qa`: Verwendung einer optimierten QA-Datenbank
+* `hybrid_search`: Kombination von Vektor- und BM25-Suche
+* `score_thresholding` (Platzhalter)
+* `prompt_engineering` (Platzhalter)
+
+**Beispiel:**
+
+```bash
+python main.py run cli_chat --optimization hybrid_search
+```
+
+---
+
+### `evaluate`
+
+Platzhalter-Kommando zur späteren Evaluation:
+
+```bash
+python main.py evaluate
+```
+
+---
+
+## Projektstruktur (Auszug)
+
+```
+.
+├── main.py
+├── scraping/
+├── benchmarking/
+├── rag_pipeline/
+│   ├── constants.py
+│   ├── query_rag.py
+│   ├── utilities.py
+│   └── ...
+├── optimizations/
+│   ├── qa/
+│   └── hybrid_search/
+├── web/
+│   └── backend/
+│       └── api.py
+```
+
+---
+
+## Noch offen (TODO)
+
+* Implementierung der Evaluation
+* Implementierung der Optimierungen für `score_thresholding` und `prompt_engineering`
+* Logging und Error-Handling
+* Tests
+
+---
+
+## Autor
+
+Moses Dimmel
+
+---
+
+
+
+
+
 
 ![](https://de.m.wikipedia.org/wiki/Datei:Logo_HSB_Hochschule_Bremen.png)
 
 Exposé for a bachelor thesis on the topic:
---
+==
 How effective are various methods for reducing hallucinations in RAG-based enterprise applications?
-====================================================================================================
+--
+
+Bremen University of Applied Sciences
+
+Faculty IV: Electrical Engineering and Computer Science
 
 | |  |
 | ------------------------ | ------------------------------------------ |
-| Study program:           | Dual study program Computer Science B. Sc. |
+| Study program:           | Cooperative Degree Programme in Computer Engineering B.Sc. |
 | Planned submission date: | 20.07.2025                                 |
 
-Bremen, 25.04.2025
 
 # Motivation and problem definition
 

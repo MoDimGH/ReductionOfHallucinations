@@ -2,11 +2,10 @@
 
 from langchain.prompts import ChatPromptTemplate
 from langchain_core.retrievers import BaseRetriever
-from langchain_chroma import Chroma
 
 from rag_pipeline.model import Model
 from rag_pipeline.constants import DB_PATH
-from rag_pipeline.utilities import load_db
+from rag_pipeline.utilities import create_chroma_retriever 
 
 
 PROMPT_TEMPLATE = """
@@ -22,7 +21,7 @@ Nutzer-Query: {question}
 
 """Baut den Prompt anhand des PROMPT_TEMPLATE zusammen"""
 def build_prompt(query_text, retrieved_sources):
-    context_text = "\n\n---\n\n".join([doc.page_content for doc, _ in retrieved_sources])
+    context_text = "\n\n---\n\n".join([doc.page_content for doc in retrieved_sources])
     prompt_template = ChatPromptTemplate.from_template(PROMPT_TEMPLATE)
     prompt = prompt_template.format(context=context_text, question=query_text)
     return prompt
@@ -30,14 +29,14 @@ def build_prompt(query_text, retrieved_sources):
 """Formatiert die übergebenen Quellen"""
 def format_sources(results):
     # exact_sources = [(doc.metadata.get("id", None), _score) for doc, _score in results]
-    formatted_sources = [{"source": doc.metadata.get("source"), "excerpt": doc.page_content} for doc, _ in results]
+    formatted_sources = [{"source": doc.metadata.get("source"), "excerpt": doc.page_content} for doc in results]
     return formatted_sources
     
 """Führt eine Nutzeranfrage aus"""
 def query_rag(query_text: str, retriever: BaseRetriever):
     
-
-    retrieved_sources = retriever.get_relevant_documents(query_text)
+    retrieved_sources = retriever.invoke(query_text)
+    print(retrieved_sources)
     prompt = build_prompt(query_text, retrieved_sources)
     response_text = generate_answer(prompt)
     sources = format_sources(retrieved_sources)
@@ -51,10 +50,9 @@ def generate_answer(prompt):
     return response_text.content
 
 """CLI-Chat für den Zugriff auf die RAG-Pipeline"""
-def main(db: Chroma=None, retriever: BaseRetriever=None):
+def main(retriever: BaseRetriever=None):
     Model.init()
-    db = db or load_db(DB_PATH, Model.getEmbeddingFunction())
-    retriever = retriever or db.as_retriever(search_kwargs={"k": 5})
+    retriever = retriever or create_chroma_retriever(DB_PATH)
 
     while True:
         query_text = input("Query: ")

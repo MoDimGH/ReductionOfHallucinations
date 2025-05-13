@@ -8,7 +8,7 @@ from whoosh.qparser import QueryParser
 from whoosh.index import open_dir
 
 from rag_pipeline.constants import DB_PATH, BM25_INDEX_PATH
-from rag_pipeline.utilities import load_db
+from rag_pipeline.utilities import create_chroma_retriever
 from rag_pipeline.model import Model
 
 import nltk
@@ -23,10 +23,9 @@ class HybridRetriever:
 
     """Initialisiert den Retriever"""
     @classmethod
-    def init(cls, db: Chroma=None):
+    def init(cls, db_path=DB_PATH):
         Model.init()
-        db = db or load_db(DB_PATH, Model.getEmbeddingFunction())
-        dense_retriever = db.as_retriever(search_kwargs={"k": 5})
+        dense_retriever = create_chroma_retriever(db_path, k=5)
 
         ix = open_dir(BM25_INDEX_PATH)
         sparse_retriever = BM25Retriever(searcher=ix.searcher(), parser=QueryParser("content", ix.schema), k=5, preprocess_func=word_tokenize)
