@@ -1,11 +1,13 @@
 """Dieses Script bietet ein CLI zur Bedienung der RAG-Pipeline"""
 
-from langchain_chroma import Chroma
 from langchain.prompts import ChatPromptTemplate
+from langchain_core.retrievers import BaseRetriever
+from langchain_chroma import Chroma
+
 from rag_pipeline.model import Model
+from rag_pipeline.constants import DB_PATH
+from rag_pipeline.utilities import load_db
 
-
-DB_PATH = "./rag_pipeline/db"
 
 PROMPT_TEMPLATE = """
 Du bist ein Chatbot für das Bürger-Service-Center von Hamburg. Beantworte die Frage ausschliesslich basierend auf folgendem Kontext. Wenn der Kontext die Antwort nicht vollständig enthält, antworte nicht:
@@ -17,10 +19,6 @@ Du bist ein Chatbot für das Bürger-Service-Center von Hamburg. Beantworte die 
 Nutzer-Query: {question}
 """
 
-
-"""Lädt die Datenbank"""
-def load_db(db_path, embedding_function):
-    return Chroma(persist_directory=db_path, embedding_function=embedding_function)
 
 """Baut den Prompt anhand des PROMPT_TEMPLATE zusammen"""
 def build_prompt(query_text, retrieved_sources):
@@ -36,10 +34,10 @@ def format_sources(results):
     return formatted_sources
     
 """Führt eine Nutzeranfrage aus"""
-def query_rag(query_text: str):
-    db = load_db(DB_PATH, Model.getEmbeddingFunction())
+def query_rag(query_text: str, retriever: BaseRetriever):
+    
 
-    retrieved_sources = db.similarity_search_with_score(query_text, k=5)
+    retrieved_sources = retriever.get_relevant_documents(query_text)
     prompt = build_prompt(query_text, retrieved_sources)
     response_text = generate_answer(prompt)
     sources = format_sources(retrieved_sources)
@@ -53,14 +51,16 @@ def generate_answer(prompt):
     return response_text.content
 
 """CLI-Chat für den Zugriff auf die RAG-Pipeline"""
-def main():
+def main(db: Chroma=None, retriever: BaseRetriever=None):
     Model.init()
+    db = db or load_db(DB_PATH, Model.getEmbeddingFunction())
+    retriever = retriever or db.as_retriever(search_kwargs={"k": 5})
 
     while True:
         query_text = input("Query: ")
         if query_text == "q" or not query_text:
             break
-        response_text, sources = query_rag(query_text)
+        response_text, sources = query_rag(query_text, retriever)
         print(response_text, sources)
 
 

@@ -6,3 +6,4 @@ venv/
 
 rag_pipeline/db
 optimizations/qa_pairs/db
+optimizations/hybrid_search/bm25_index

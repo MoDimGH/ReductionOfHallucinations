@@ -36,6 +36,8 @@ def main():
         gather_usecase_groups.main()
         create_ragas_dataset.main()
 
+    # TODO: besser aufteilen mit befehlen build und exec nach step/mode und ggf. optimization
+
 
 if __name__ == "__main__":
     main()

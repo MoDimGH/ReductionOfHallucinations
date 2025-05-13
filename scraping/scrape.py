@@ -1,17 +1,17 @@
-import requests
-from markdownify import MarkdownConverter
-from concurrent.futures import ThreadPoolExecutor, as_completed
-import time
-from bs4 import BeautifulSoup
-from urllib.parse import urljoin, urlparse
-import json
-import re
+"""Dieses Script dient zum Scrapen der Websiteinhalte von hamburg.de/services inkl. verlinkten Seiten und Dateien"""
+
 import os
+import time
+import re
+from concurrent.futures import ThreadPoolExecutor, as_completed
+from urllib.parse import urljoin, urlparse
+import requests
+from bs4 import BeautifulSoup
+import json
+from markdownify import MarkdownConverter
 
+from rag_pipeline.constants import DATA_PATH, SCRAPED_URLS_FILE, SCRAPED_BROKEN_LINKS_FILE
 
-FILE_SAVE_LOCATION = './scraping/all_files'
-EXPORT_URLS_FILE = './scraping/urls_to_scrape.json'
-EXPORT_BROKEN_LINKS_FILE = './scraping/broken_links.json'
 
 visited = set()
 broken_urls = set()
@@ -37,7 +37,7 @@ def get_pdf_filename(url):
 
 
 def save_pdf(filename, content):
-    with open(os.path.join(FILE_SAVE_LOCATION, filename), "wb") as f:
+    with open(os.path.join(DATA_PATH, filename), "wb") as f:
         f.write(content)
 
 
@@ -51,7 +51,7 @@ def save_as_md(article, filename):
     md_text = md_text.replace("[# \n", "# [")
 
     # Erstellung der output markdown datei
-    with open(os.path.join(FILE_SAVE_LOCATION, filename), 'w', encoding='utf-8') as out_f:
+    with open(os.path.join(DATA_PATH, filename), 'w', encoding='utf-8') as out_f:
         out_f.write(md_text)
 
 
@@ -128,11 +128,11 @@ def scrape(url, depth=0, max_depth=2):
         broken_urls.add(url)
 
 
-def export_urls_to_json(filename=EXPORT_URLS_FILE):
+def export_urls_to_json(filename=SCRAPED_URLS_FILE):
     with open(filename, 'w', encoding='utf-8') as f:
         json.dump(visited, f, indent=4)
 
-    with open(EXPORT_BROKEN_LINKS_FILE, 'w') as f:
+    with open(SCRAPED_BROKEN_LINKS_FILE, 'w') as f:
         json.dump(broken_urls, f)
 
     print(f"Url list exported to {filename}")
