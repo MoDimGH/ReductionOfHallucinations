@@ -1,0 +1,46 @@
+Hier sind 15 sachliche Frage-Antwort-Paare in deutscher Sprache, die direkt aus dem Text beantwortet werden können:
+
+1. Frage: Welche Straße hat den niedrigsten Wert im Feld "Wohnlagenkennwert"?
+Antwort: Die Jochenhofwinkel 001 mit -22,106.
+
+2. Frage: Welche Straße hat den höchsten Wert im Feld "Wohnlagenkennwert"?
+Antwort: Die Jevenstedter Straße 157 mit -11,596.
+
+3. Frage: Wie viele Ungerade-Häuser gibt es in der Liste?
+Antwort: Es gibt 14 Ungerade-Häuser (U).
+
+4. Frage: Welche Straße hat den höchsten Wert im Feld "Wohnlagenkennwert" für ein gerade Haus?
+Antwort: Die Jevenstedter Straße 158 mit -3,692.
+
+5. Frage: Wie viele Gerade-Häuser gibt es in der Liste?
+Antwort: Es gibt 14 Gerade-Häuser (G).
+
+6. Frage: Welche Straße hat den niedrigsten Wert im Feld "Wohnlagenkennwert" für ein Sonderfall- Haus?
+Antwort: Die Jochim-Wells-Weg 023 mit 0,022.
+
+7. Frage: Wie viele Sonderfälle gibt es in der Liste?
+Antwort: Es gibt 5 Sonderfälle (S).
+
+8. Frage: Welche Straße hat den höchsten Wert im Feld "Wohnlagenkennwert" für ein Sonderfall- Haus?
+Antwort: Die Johanne-Reitze-Weg 001 mit 6,928.
+
+9. Frage: Wie viele Häuser gibt es insgesamt in der Liste?
+Antwort: Es gibt 44 Häuser.
+
+10. Frage: Welche Straße hat den höchsten Wert im Feld "Wohnlagenkennwert" für ein unregelmäßiges Haus?
+Antwort: Die Jochim-Wells-Weg 024 mit 0,033.
+
+11. Frage: Wie viele Häuser haben einen negativen Wert im Feld "Wohnlagenkennwert"?
+Antwort: Es gibt 21 Häuser mit einem negativen Wert.
+
+12. Frage: Welche Straße hat den niedrigsten Wert im Feld "Wohnlagenkennwert" für ein unregelmäßiges Haus?
+Antwort: Die Jochim-Wells-Weg 023 mit 0,022.
+
+13. Frage: Wie viele Häuser haben einen positiven Wert im Feld "Wohnlagenkennwert"?
+Antwort: Es gibt 23 Häuser mit einem positiven Wert.
+
+14. Frage: Welche Straße hat den höchsten Wert im Feld "Wohnlagenkennwert" für ein normal- Haus?
+Antwort: Die Jevenstedter Straße 157 mit -11,596.
+
+15. Frage: Wie viele Häuser haben einen normalen Wert im Feld "Wohnlagenkennwert"?
+Antwort: Es gibt 26 Häuser mit einem normalen Wert.

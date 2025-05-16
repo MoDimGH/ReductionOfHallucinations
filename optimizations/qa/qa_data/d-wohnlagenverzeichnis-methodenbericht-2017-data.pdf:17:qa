@@ -1,0 +1,46 @@
+Here are the 15 question-answer pairs based on the document:
+
+**1. Question:** Was ist der Anteil des Statusindikators an der Wohnlagenbewertung?
+**Answer:** Der Statusindex macht 26 % aus.
+
+**2. Question:** Welcher Indikator hat den größten Einfluss auf die Wohnlagenbewertung?
+**Answer:** Der Bodenrichtwert hat den zweitgrößten Einfluss mit 20 %.
+
+**3. Question:** Wie viel Prozent der Wohnlagenbewertung wird durch den Grünflächenanteil bestimmt?
+**Answer:** Der Grünflächenanteil macht 16 % aus.
+
+**4. Question:** Welcher Indikator hat den geringsten Einfluss auf die Wohnlagenbewertung?
+**Answer:** Die Entfernung zum Einzelhandel hat den geringsten Einfluss mit 1 %.
+
+**5. Question:** Wie viel Prozent der Wohnlagsenbewertung wird durch die Lärmbelastung bestimmt?
+**Answer:** Die Lärmbelastung macht 5 % aus.
+
+**6. Question:** Was ist die Bedeutung des Statusindikators für die Wohnlagenberechnung?
+**Answer:** Der Statusindex hat eine Bedeutung von 26 %.
+
+**7. Question:** Wie viel wird der Wohnlagsenwert um, wenn sich der Bodenrichtwert um einen Euro ändert?
+**Answer:** Der Wohnlagsenwert verändert sich um 0,005508278 Punkte.
+
+**8. Question:** Welcher Indikator ist am stärksten negativ auf die Wohnlagenbewertung einflussreich?
+**Answer:** Die Einwohnerdichte hat einen negativen Einfluss von -0,32665725 auf die Wohnlagsenbewertung.
+
+**9. Question:** Wie viel Prozent der Wohnlagsenbewertung wird durch die Entfernung zu U-/S-Bahn/AKN bestimmt?
+**Answer:** Die Entfernung zu U-/S-Bahn/AKN macht 6 % aus.
+
+**10. Question:** Was ist die Funktion der logistischen Regression in Bezug auf die Wohnlagenformel?
+**Answer:** Die logistische Regression wurde verwendet, um die Einflüsse unabhängiger Variablen (Indikatoren) auf die abhängige Variable (Wohnlage) zu bestimmen.
+
+**11. Question:** Wie viele Ausprägungen kann die abhängige Variable "Wohnlage" in der logistischen Regression haben?
+**Answer:** Die abhängige Variable kann nur zwei Ausprägungen aufweisen: "normal" und "gut".
+
+**12. Question:** Was ist der Basiswert für die Wohnlagenberechnung?
+**Answer:** Der Basiswert ist -6,4767.
+
+**13. Question:** Wie viel wird der Wohnlagsenwert um, wenn sich die Entfernung zu U-/S-Bahn/AKN um einen Kilometer ändert?
+**Answer:** Der Wohnlagsenwert verändert sich um -0,000249609 Punkte.
+
+**14. Question:** Welcher Indikator hat den größten positiven Einfluss auf die Wohnlagsenbewertung?
+**Answer:** Der Grünflächenanteil hat einen positiven Einfluss von 9,5424252 auf die Wohnlagsenbewertung.
+
+**15. Question:** Was ist der Zweck der Steigungskoeffizienten in der Wohnlagenformel?
+**Answer:** Die Steigungskoeffizienten geben an, um welchen Betrag sich der Wohnlagsenwert verändert, wenn sich der dazugehörige Indikatorwert um den Betrag "1" ändert.

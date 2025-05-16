@@ -1,0 +1,46 @@
+Hier sind 15 sachliche Frage-Antwort-Paare in deutscher Sprache, die direkt aus dem Text beantwortet werden können:
+
+1. Was ist ein Ausreißerwert im Kontext der Datenbereinigung?
+Antwort: Ein Ausreißerwert ist ein Mietwert, der nicht marktüblich anzusehen ist und signifikant von den anderen Mietwerten eines Tabellenfeldes abweicht.
+
+2. Wurde das gleiche statistische Verfahren zur Ausreißerbereinigung wie im Hamburger Mietenspiegel 2021 angewendet?
+Antwort: Ja, das gleiche statistische Verfahren wurde verwendet.
+
+3. Was ist die Kappungsgrenze in diesem Kontext?
+Antwort: Die Kappungsgrenze ist das 95 %-Vertrauensintervall, auf das sie festgelegt wurde.
+
+4. Warum wurden mehr Datensätze als Ausreißer klassifiziert im Vergleich zum Hamburger Mietenspiegel 2021?
+Antwort: Weil die Kappungsgrenze auf das 95 %-Vertrauensintervall festgelegt wurde, anstatt des bisherigen 99 %-Vertrauensintervals.
+
+5. Wie wird bei diesem statistischen Verfahren entschieden, ob ein Mietwert als Ausreißer gekennzeichnet wird?
+Antwort: Ein Mietwert wird als Ausreißer gekennzeichnet, wenn er außerhalb des festgelegten Vertrauensintervalls liegt.
+
+6. Wurde die Ausreißerbereinigung für jedes Tabellenfeld getrennt berechnet?
+Antwort: Ja, die Ausreißerbereinigung wurde für jedes Mietenspiegelfeld getrennt berechnet.
+
+7. Wie viele Mietwerte wurden durch die Ausreißerbereinigung nicht mehr in den weiteren Arbeitsschritten berücksichtigt?
+Antwort: 273 Mietwerte wurden nicht mehr berücksichtigt.
+
+8. Was ist der Zweck der Ausreißerbereinigung im Hamburger Mietenspiegel 2023?
+Antwort: Der Zweck ist es, Mietwerte zu identifizieren, die nicht marktüblich anzusehen sind und deshalb nicht in die weitere Berechnung einbezogen werden sollen.
+
+9. Wie viele Mietenspiegelfelder in denen durch die Ausreißerbereinigung Mietwerte aus der Datenauswertung ausgeschlossen wurden?
+Antwort: 63 von 81, das entspricht einem Anteil von 77,8%.
+
+10. Wie viel Prozent der Mietwerte vor der Ausreißerbereinigung gibt es insgesamt?
+Antwort: 100,0%.
+
+11. Wie viele Mietwerte wurden nach der Ausreißerbereinigung nicht mehr berücksichtigt?
+Antwort: 273.
+
+12. Was ist die relative Anzahl der von der Ausreißerbereinigung betroffenen Mietwerte?
+Antwort: 4,7%.
+
+13. Wie viele Mietwerte wurden am oberen Ende des Vertrauensintervalls als Ausreißer gekennzeichnet?
+Antwort: 239.
+
+14. Wie viele Mietwerte wurden am unteren Ende des Vertrauensintervalls als Ausreißer gekennzeichnet?
+Antwort: 34.
+
+15. Was ist der relative Anteil der Mietwerte nach der Ausreißerbereinigung?
+Antwort: 95,3%.

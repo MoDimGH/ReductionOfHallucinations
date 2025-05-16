@@ -1,0 +1,46 @@
+Hier sind 15 sachliche Frage-Antwort-Paare in deutscher Sprache, die direkt aus dem Text beantwortet werden können:
+
+1. Was ist die Wohnlagenformel?
+Antwort: Die Wohnlagenformel wurde über eine logistische Regression ermittelt.
+
+2. Wie wird die logistische Regression in der Wohnlagenformel verwendet?
+Antwort: Die logistische Regression wird verwendet, um die Einflüsse unabhängiger Variablen (Indikatoren) auf die abhängige Variable (Wohnlage) zu bestimmen.
+
+3. Was sind die zwei Ausprägungen der abhängigen Variable in der Wohnlagenformel?
+Antwort: Die zwei Ausprägungen sind "normal" und "gut".
+
+4. Welche Formel ergibt sich im Ergebnis der Regressionsanalyse für die Wohnlagenberechnung?
+Antwort: Die folgende Formel: Wohnlagenwert = -12,17525 + 0,00734 * Bodenrichtwert – 1,18619 * Statusindex ...
+
+5. Wie wird der Basiswert (-12,17525) in der Wohnlagenformel verwendet?
+Antwort: Der Basiswert gibt den Ausgangspunkt für die Berechnung des Wohnlagsenswerts an.
+
+6. Was geben die Steigungskoeffizienten an?
+Antwort: Die Steigungskoeffizienten ergeben, um welchen Betrag sich der Wohnlagenwert verändert, wenn sich der dazugehörige Indikatorwert um den Betrag "1" ändert.
+
+7. Was ist die Bedeutung des Steigungskoeffizienten?
+Antwort: Die Größe des Steigungskoeffizenten hat keinen Zusammenhang mit der Bedeutung des Indikators für die Wohnlagenberechnung.
+
+8. Wie wird die konkrete Wohnlagsenberechnung durchgeführt?
+Antwort: Durch Eingabe der ermittelten Werte für die einzelnen Indikatoren in die Formel.
+
+9. Welche Werte müssen für die konkrete Wohnlagsenberechnung verwendet werden?
+Antwort: Die Werte, die für die einzelnen Indikatoren ermittelt wurden.
+
+10. Wie wird der Bodenrichtwert in der Wohnlagsenformel verwendet?
+Antwort: Der Bodenrichtwert wird mit dem Steigungskoeffizienten 0,00734 multipliziert.
+
+11. Was ist der Statusindex in der Wohnlagenformel?
+Antwort: Der Statusindex ist ein Indikator, der den Einfluss auf die Wohnlage ausdrückt.
+
+12. Wie wird die Einwohnerdichte in der Wohnlagsenformel verwendet?
+Antwort: Die Einwohnerdichte wird mit dem Steigungskoeffizienten -0,53252 multipliziert.
+
+13. Welche Rolle spielt die Grünflächenanteil in der Wohnlagenformel?
+Antwort: Die Grünflächenanteil hat einen positiven Einfluss auf die Wohnlage.
+
+14. Wie wird die Lärmbelastung in der Wohnlagsenformel verwendet?
+Antwort: Die Lärmbelastung wird mit dem Steigungskoeffizienten -0,70716 multipliziert.
+
+15. Was ergibt sich als Ergebnis der Wohnlagenberechnung für die Blockseite Alter Teichweg 78-84?
+Antwort: Der Wohnlagsenwert beträgt -15,96 und die Wohnlage ist eine normale Wohnlage (Wohnlagsenkennwert: 417,77).

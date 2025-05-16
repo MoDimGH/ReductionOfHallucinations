@@ -1,0 +1,46 @@
+Hier sind 15 sachliche Frage-Antwort-Paare, die direkt aus dem Text beantwortet werden können:
+
+1. Was war der Zweck des Indikators Zentralität?
+Antwort: Der Zweck des Indikators Zentralität war, die Verfügbarkeit von gastronomischen, kulturellen und anderen Dienstleistungen für die Wohnlagen zu berücksichtigen.
+
+2. Wie wurde die Zentralität einer Adresse berechnet?
+Antwort: Die Zentralität einer Adresse wurde durch Ermittlung der Entfernung zur City und den Bezirkszentren in Metern berechnet.
+
+3. Wieso wurde die Zentralität als Indikator nicht ins Set aufgenommen?
+Antwort: Die Berechnungen zeigten, dass weder die Entfernung zur City noch die Entfernungen zu den Bezirkszentren einen signifikanten Einfluss auf die Wohnlage haben.
+
+4. Was ist Urbanität im Kontext von Zentralität?
+Antwort: Urbanität bezieht sich im Kontext von Zentralität auf Aspekte der Stadtgesellschaft und kann im Rahmen der individuellen Senneneinordnung einer Wohnung berücksichtigt werden.
+
+5. Welche Datengrundlage bildete den Indikator Baumbestand?
+Antwort: Die Datenbasis für den Indikator Baumbestand bildete das Baumkataster der Stadt Hamburg, in dem alle Bäume auf öffentlichem Grund verzeichnet sind.
+
+6. Wie wurde der Baumbestand einer Adresse berechnet?
+Antwort: Der Baumbestand einer Adresse wurde mittels Geoinformationssystem die Anzahl der Bäume im Umkreis von 50 m ermittelt.
+
+7. Wieso konnte für den Indikator Baumbestand keine signifikante Wirkung auf die Wohnlageneinstufung ermittelt werden?
+Antwort: Die signifikante Wirkung auf die Wohnlageneinstufung konnte nicht ermittelt werden, da das Baumkataster den privaten Baumbestand nicht erfasst.
+
+8. Wie wurden die Indikatorenwerte für die Blockseiten berechnet?
+Antwort: Die Indikatorenwerte für die Blockseiten wurden durch Bilden des Mittelwerts aus zur Blockseite gehörenden Adressen gebildet.
+
+9. Warum wurde der Mittelpunkt des Baublocks oder der Blockseite als Bezugspunkt herangezogen?
+Antwort: Der Mittelpunkt des Baublocks oder der Blockseite wurde als Bezugspunkt herangezogen, um die tatsächliche Lageverteilung der Adressen innerhalb der Blockseiten in der Berechnung zu berücksichtigen.
+
+10. Wie unterschieden sich die Auswirkungen des Mittelpunkts und des Blockseitens im Beispiel der Entfernung zur U-Bahn?
+Antwort: Die Auswirkungen des Mittelpunkts und des Blockseitens zeigten sich im Beispiel der Entfernung zur U-Bahn, indem die Bahnstation von den Gebäuden der Blockseite im Mittel 133 Meter entfernt war, aber bezogen auf die Blockseitenmitte 330 Meter entfernt war.
+
+11. Was ist ein Baublock?
+Antwort: Ein Baublock ist eine Abteilung eines Stadtgebiets, die durch Straßen und Gebäude definiert wird.
+
+12. Wie wurde die Wohnlageneinstufung vorgenommen?
+Antwort: Die Wohnlageneinstufung erfolgte auf Ebene der Blockseiten.
+
+13. Warum mussten alle auf Adressebene ermittelten Werte zu Blockseitenwerten zusammengeführt werden?
+Antwort: Alle auf Adressebene ermittelten Werte mussten zu Blockseitenwerten zusammengeführt werden, um die tatsächliche Lageverteilung der Adressen innerhalb der Blockseiten in der Berechnung zu berücksichtigen.
+
+14. Was ist ein Block?
+Antwort: Ein Block ist eine Abteilung eines Stadtgebiets, die durch Straßen und Gebäude definiert wird.
+
+15. Warum wurde der neue Ansatz für die Berechnung der Indikatorenwerte für die Blockseiten vorgenommen?
+Antwort: Der neue Ansatz wurde vorgenommen, um Unschärfen zu vermeiden, die durch den alten Ansatz bei Baublockseiten, die nur am Anfang bebaut waren, entstanden.

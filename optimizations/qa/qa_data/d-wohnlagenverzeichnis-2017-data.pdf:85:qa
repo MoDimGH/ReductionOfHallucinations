@@ -1,0 +1,46 @@
+Hier sind 15 sachliche Frage-Antwort-Paare in deutscher Sprache:
+
+1. Frage: Wie viele Straßen werden in diesem Dokument gelistet?
+Antwort: 55 Straßen werden gelistet.
+
+2. Frage: Was bedeutet die Abkürzung "U" im Spaltenkopf?
+Antwort: Die Abkürzung "U" steht für ungerade Straße.
+
+3. Frage: Welche Art von Straße wird in der Spalte "Art*" aufgeführt?
+Antwort: Es werden ungerade, gerade und Sonderfälle (ungeradige oder fortlaufende Numerierung) aufgeführt.
+
+4. Frage: Wie viele Wohnlagen sind im Dokument definiert?
+Antwort: Keine Wohnlage ist im Dokument explizit definiert. Es wird nur die Straßennummer und -name aufgeführt.
+
+5. Frage: Was ist der Wohnlageskennwert in dieser Tabelle?
+Antwort: Der Wohnlageskennwert ist ein Wert, der nicht klar definiert ist.
+
+6. Frage: Gibt es eine Korrelation zwischen der Straßenzahl und dem Wohnlageskennwert?
+Antwort: Nein, es gibt keine offensichtliche Korrelation zwischen den beiden Spalten.
+
+7. Frage: Welche Straße hat den höchsten Wohnlageskennwert?
+Antwort: Die Buchwaldstraße 084 mit einem Wert von 2,139 ist die Straße mit dem höchsten Wohnlageskennwert.
+
+8. Frage: Gibt es eine Straße, die den Kennwert 0,000 aufweist?
+Antwort: Nein, keine Straße hat den Kennwert 0,000.
+
+9. Frage: Wie viele Straßen haben einen negativen Wohnlageskennwert?
+Antwort: 17 Straßen haben einen negativen Wohnlageskennwert.
+
+10. Frage: Welche Straße hat den niedrigsten Wohnlageskennwert?
+Antwort: Die Buchfinkenweg 002 mit einem Wert von -5,950 ist die Straße mit dem niedrigsten Wohnlageskennwert.
+
+11. Frage: Gibt es eine Straße, die in der Spalte "Wohnlage" nur eine Zahl aufweist?
+Antwort: Ja, es gibt mehrere Straßen, die in der Spalte "Wohnlage" nur eine Zahl aufweisen.
+
+12. Frage: Welche Art von Straße ist die Budapester Straße?
+Antwort: Die Budapester Straße ist eine Sonderfälle (ungeradige oder fortlaufende Numerierung) Straße.
+
+13. Frage: Gibt es eine Straße, die in der Spalte "Art*" den Wert "S" aufweist?
+Antwort: Ja, es gibt mehrere Straßen, die in der Spalte "Art*" den Wert "S" aufweisen.
+
+14. Frage: Wie viele Straßen haben den Wohnlageskennwert 0,000 auf oder unter?
+Antwort: Es gibt keine Straße mit einem Wohnlageskennwert von 0,000.
+
+15. Frage: Welche Straße hat den höchsten Straßenzahl?
+Antwort: Die Buchwaldstraße 089 mit der Straßenzahl 111 ist die Straße mit dem höchsten Straßenzahl.

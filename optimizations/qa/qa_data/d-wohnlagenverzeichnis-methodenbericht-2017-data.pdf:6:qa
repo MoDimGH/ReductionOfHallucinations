@@ -1,0 +1,46 @@
+Here are 15 question-answer pairs based on the provided document page:
+
+**Q1: What is the purpose of the basis database?**
+A1: The basis database serves to collect indicator values and forms the foundation for calculating living conditions.
+
+**Q2: What is the smallest unit of consideration in the database?**
+A2: The smallest unit of consideration in the database is the house entrance or address in Hamburg.
+
+**Q3: How are living conditions assigned?**
+A3: Living conditions are assigned on the level of block pages (Blockseiten).
+
+**Q4: What is special about an address-level database?**
+A4: An address-level database offers the possibility to consider different characteristic manifestations within a block page and form averages that correspond to actual location characteristics.
+
+**Q5: Where did the basis for the database come from?**
+A5: The basis for the database was provided by the Landesbetrieb Geoinformation und Vermessung (LGV) in the form of an ALKIS extract (Amtliches Liegenschaftskatasterinformationssystem).
+
+**Q6: What does the ALKIS extract contain?**
+A6: The ALKIS extract contains address information, geographic coordinates, and usage information for each building.
+
+**Q7: Why was only the usage information from buildings with residential function included in the database?**
+A7: To ensure that only buildings with residential function were included in the living condition assessment, it was necessary to use only the usage information from buildings with this function.
+
+**Q8: How were indicator values obtained or collected?**
+A8: Indicator values were obtained or collected on the level of addresses.
+
+**Q9: Why is it necessary to aggregate address-level data and transfer higher-level data to street section level?**
+A9: It was necessary to aggregate address-level data and transfer higher-level data to street section level for some indicators (siehe Kap. 4).
+
+**Q10: What are the reference levels of aggregation?**
+A10: The reference levels of aggregation are: block pages (Baublockseiten), blocks (Baublock), statistical areas (Statistisches Gebiet), and neighborhoods (Stadtteil).
+
+**Q11: How were data aggregated for living condition calculation?**
+A11: Data was aggregated on the level of block pages (Blockseiten) to form the basis for calculating living conditions for individual block pages.
+
+**Q12: What is the purpose of aggregating data on block page level?**
+A12: The purpose of aggregating data on block page level is to form the basis for calculating living conditions for individual block pages.
+
+**Q13: How were addresses assigned to higher-level reference levels?**
+A13: Addresses were assigned to higher-level reference levels, such as blocks (Baublock), statistical areas (Statistisches Gebiet), and neighborhoods (Stadtteil).
+
+**Q14: Why is it necessary to assign addresses to higher-level reference levels?**
+A14: It was necessary to assign addresses to higher-level reference levels to enable aggregation of address-level data on räumlich höheren Ebenen.
+
+**Q15: What is the purpose of aggregating address-level data on higher-level reference levels?**
+A15: The purpose of aggregating address-level data on higher-level reference levels is to enable calculation of living conditions for different spatial levels (räumliche Ebenen).

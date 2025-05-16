@@ -1,0 +1,46 @@
+Hier sind 15 sachliche Frage-Antwort-Paare, die direkt aus dem Text beantwortet werden können:
+
+1. Was bedeutet der Indikator "Art der Straße"?
+Antwort: Er berücksichtigt mögliche Beeinträchtigungen durch große Straßen hinausgehend über den Lärm.
+
+2. Wie wird die Art der Straße in Hamburg bestimmt?
+Antwort: Durch das Straßennetz der Hamburger Straßeninformationsbank (HH-SIB) kann die Anzahl der Fahrspuren einzelner Straßenabschnitte bekannt gemacht werden.
+
+3. Was bedeutet eine "Blockseite" im Kontext von Straßen?
+Antwort: Eine Blockseite ist eine Straße mit mindestens vier Fahrspuren.
+
+4. Wie wird die Lärmzustand der Wohnadressen in Hamburg bestimmt?
+Antwort: Durch strategische Lärmkartierungen, die die Ausbreitung und Intensität zentraler Lärmquellen berücksichtigen.
+
+5. Welche Arten von Lärm werden bei der Lärmzustand-Bestimmung in Hamburg berücksichtigt?
+Antwort: Fluglärm, Schienenlärm, Gewerbelärm und Straßenverkehrslärm.
+
+6. Wie wird die Entfernung einer Adresse zu U-Bahn, S-Bahn oder AKN bestimmt?
+Antwort: Über das GIS wurde jeder Adresslage die nächstgelegene Haltestelle zugeordnet und die Entfernung in Metern bestimmt.
+
+7. Was ist der Mittelwert für die durchschnittliche Entfernung einer Blockseite zur nächsten Haltestelle?
+Antwort: Der Mittelwert wird errechnet, indem man die Entfernungen aller Adressen in einer Blockseite addiert und durch die Anzahl der Adressen teilt.
+
+8. Wie werden die Lärmwerte für Straßen mit weniger als 8.000 Fahrzeugen pro Tag bestimmt?
+Antwort: Es gibt keine Lärmdaten für diese Straßen, da die Grundlage zum Straßenlärm nur für Straßen mit einer durchschnittlichen täglichen Verkehrsmenge ab 8.000 Fahrzeugen vorliegt.
+
+9. Wer bereitstellt die Lärmpegel und -ausbreitung des Schienenverkehrs?
+Antwort: Die Behörde für Umwelt und Energie (BUE) und das Eisenbahn-Bundesamt (EBA).
+
+10. Welche Daten werden von der Gewerbelärmkartierung bereitgestellt?
+Antwort: Die Lärmdaten geben den konkreten Lärmpegel in einem 10-Meter-Raster in dB(A) an.
+
+11. Was ist die Bedeutung des HH-SIB-Netzes für die Art der Straße-Bestimmung?
+Antwort: Das Straßennetz der Hamburger Straßeninformationsbank (HH-SIB) ermöglicht es, die Anzahl der Fahrspuren einzelner Straßenabschnitte zu bestimmen.
+
+12. Wie viele Lärmarten werden bei der Lärmzustand-Bestimmung in Hamburg berücksichtigt?
+Antwort: Vier Lärmarten: Fluglärm, Schienenlärm, Gewerbelärm und Straßenverkehrslärm.
+
+13. Welche Datenquelle dient als Grundlage für die Lärmbelastung der Wohnadressen?
+Antwort: Die strategischen Lärmkartierungen.
+
+14. Wie wird die Entfernung einer Adresse zu U-Bahn, S-Bahn oder AKN in Metern bestimmt?
+Antwort: Über das GIS wurde jeder Adresslage die nächstgelegene Haltestelle zugeordnet und die Entfernung in Metern bestimmt.
+
+15. Was ist der Zweck des Lärmindikators "Art der Straße"?
+Antwort: Der Lärmindikator berücksichtigt mögliche Beeinträchtigungen durch große Straßen hinausgehend über den Lärm und zeigt an, ob eine Blockseite an einer Straße mit mindestens vier Fahrspuren liegt.

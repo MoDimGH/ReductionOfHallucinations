@@ -1,0 +1,46 @@
+Here are 15 question-answer pairs in German that can be directly answered based on the text:
+
+1. Was wird bei der Ermittlung der Entfernung zum Metrobus berücksichtigt?
+Antwort: Die hohen Taktfrequenz und teilweise vorhandene eigenen Busspuren.
+
+2. Wie sind die Lagedaten der Metrobus-Haltestellen bereitgestellt worden?
+Antwort: Von dem Hamburger Verkehrsverbund (HVV).
+
+3. Welche Methodik wurde verwendet, um die Entfernung zur nächstgelegenen Station in Metern zu bestimmen?
+Antwort: Mittels GIS.
+
+4. Was wird bei der Ermittlung der Entfernung zum Einzelhandel berücksichtigt?
+Antwort: Die jeweils nächstgelegenen drei Supermärkte.
+
+5. Wie wurde die Datengrundlage für die Ermittlung der Entfernung zum Einzelhandel bereitgestellt?
+Antwort: Durch Adressangaben der großen Handelsketten zu ihren Supermarktstandorten, ergänzt um eine Auswertung der Supermarktstandorte aus der Openstreetmap-Datenbank.
+
+6. Welche Methodik wurde verwendet, um die durchschnittliche Entfernung jeder Adresse zu den nächstgelegenen drei Supermärkten in Metern ermittelt?
+Antwort: Mittels GIS.
+
+7. Wie wurden die Indikatorenwerte für die Blockseiten berechnet?
+Antwort: Durch Bilden eines Mittelwerts aus den Indikatorwerten der einzelnen Adressen einer Blockseite.
+
+8. Warum wurde für die Berechnung der Indikatorenwerte nicht der Mittelpunkt des Baublocks oder der Blockseite herangezogen?
+Antwort: Weil dies zu Unschärfen führen würde, die durch die adressbezoogene Berechnung vermieden werden.
+
+9. Wie sind die Auswirkungen der unterschiedlichen Bezugspunkte am Beispiel der Entfernung zur U-Bahn von Adressen in der Hammer Landstraße dargestellt?
+Antwort: Durch eine Karte, die die Blockseite (orange Fläche) und den Mittelpunkt des Blocks (gelbes Dreieck) zeigt.
+
+10. Wie ist die Bahnstation im Mittel zu den Gebäuden der Blockseite entfernt?
+Antwort: 133 Meter.
+
+11. Wie ist die Bahnstation bezogen auf die Blockseitenmitte entfernt?
+Antwort: 330 Meter.
+
+12. Was ist das Ergebnis für die Bewohner, wenn man die Blockseitenmitte als Bezugspunkt nimmt?
+Antwort: Die Blockseitenmitte ist fast 200 Meter weiter von der Bahnstation entfernt, als es real für die Bewohner.
+
+13. Welche Quelle wurde verwendet, um die Adressangaben der großen Handelsketten zu ihren Supermarktstandorten zu erhalten?
+Antwort: Die Openstreetmap-Datenbank.
+
+14. Wie wurden die Lagedaten der Metrobus-Haltestellen bereitgestellt?
+Antwort: Von dem Hamburger Verkehrsverbund (HVV).
+
+15. Welche Methodik wurde verwendet, um die Entfernung zur nächstgelegenen Station in Metern zu bestimmen?
+Antwort: Mittels GIS.

@@ -1,0 +1,37 @@
+Hier sind 15 sachliche Frage-Antwort-Paare in deutscher Sprache, die direkt aus dem Text beantwortet werden können:
+
+1. Was bildet die Grundlage für die Berechnung der Wohnlagen?
+Antwort: Die Basis-Datenbank.
+
+2. Welche kleinste Betrachtungs-Ebene sind in der Datenbank hinterlegt?
+Antwort: Hauseingänge bzw. Adressen in Hamburg.
+
+3. Wie erfolgt die Wohnlagen-Zuordnung im Text?
+Antwort: Auf Ebene der Blockseite.
+
+4. Was bietet eine adresse scharfe Datenbank an?
+Antwort: Die Möglichkeit, unterschiedliche Merkmalsausprägungen innerhalb einer Blockseite zu berücksichtigen und Durchschnittswerte zu bilden.
+
+5. Welche Quelle wurde als Grundlage für die Datenbank verwendet?
+Antwort: Ein Auszug aus dem ALKIS (Amtliches Liegenschaftskatasterinformationssystem) vom Landesbetrieb Geoinformation und Vermessung (LGV).
+
+6. Was enthält der Auszug aus dem ALKIS?
+Antwort: Neben Adressinformationen und Geokoordinaten auch Angaben zur Nutzung des jeweiligen Gebäudes.
+
+7. Wie wurde sichergestellt, dass nur Gebäude mit Wohnfunktion in die Wohnlageneinstufung einbezogen wurden?
+Antwort: Durch Angaben zur Nutzung des jeweiligen Gebäudes im ALKIS-Auszug.
+
+8. Werden alle Indikatorenwerte auf Ebene der Adressen ermittelt?
+Antwort: Ja, sie werden auf Ebene der Adressen ermittelt oder in die Basisdatenbank aufgenommen.
+
+9. Warum wird jede Adresse den jeweils übergeordneten Bezugsebenen zugeordnet?
+Antwort: Um ein Aggregieren der adresse scharfen Daten auf räumlich höheren Ebenen sowie eine Übernahme der Daten räumlich höherer Ebenen auf die Straßenabschnittebene zu ermöglichen.
+
+10. Welche Bezugsebenen werden einer Adresse zugeordnet?
+Antwort: Baublockseiten, Baublock, Statistisches Gebiet und Stadtteil.
+
+11. Auf welcher Ebene werden die Daten aggregiert für die abgeschlossene Wohnlagenberechnung?
+Antwort: Auf Blockseitenebene.
+
+12. Was bildet die Grundlage für die Wohnlagenberechnung der einzelnen Blockseiten?
+Antwort: Die Daten auf Blockseitenebene, die aggregiert wurden.

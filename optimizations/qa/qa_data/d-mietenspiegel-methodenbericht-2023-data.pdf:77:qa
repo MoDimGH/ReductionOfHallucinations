@@ -1,0 +1,46 @@
+Here are 15 question-answer pairs in German based on the provided document:
+
+1. Frage: Was ist das arithmetische Mittel des Mietenspiegels für das Feld C1?
+Antwort: 12,12 €/m²
+
+2. Frage: Welche Standardabweichung gibt es im Mietenspiegel für das Feld C1?
+Antwort: 2,83
+
+3. Frage: Was ist der untere Wert der 2/3-Spanne im Mietenspiegel für das Feld C1?
+Antwort: 9,06 €/m²
+
+4. Frage: Wie viele Mietwerte gibt es insgesamt im Mietenspiegelfeld C1?
+Antwort: 55
+
+5. Frage: Was ist das arithmetische Mittel des Mietenspiegels für das Feld I1?
+Antwort: 9,01 €/m²
+
+6. Frage: Welche Standardabweichung gibt es im Mietenspiegel für das Feld I1?
+Antwort: 2,24
+
+7. Frage: Was ist der untere Wert der 2/3-Spanne im Mietenspiegel für das Feld I1?
+Antwort: 7,28 €/m²
+
+8. Frage: Wie viele Mietwerte gibt es insgesamt im Mietenspiegelfeld I1?
+Antwort: 41
+
+9. Frage: Was ist das arithmetische Mittel des Mietenspiegels für das Feld I2?
+Antwort: 7,54 €/m²
+
+10. Frage: Welche Standardabweichung gibt es im Mietenspiegel für das Feld I2?
+Antwort: 1,15
+
+11. Frage: Was ist der untere Wert der 2/3-Spanne im Mietenspiegel für das Feld I2?
+Antwort: 6,76 €/m²
+
+12. Frage: Wie viele Mietwerte gibt es insgesamt im Mietenspiegelfeld I2?
+Antwort: 177
+
+13. Frage: Was ist der maximale Mietwert in den drei Mietenspiegel-Feldern C1, I1 und I2?
+Antwort: 19,84 €/m² (Feld C1), 14,02 €/m² (Feld I1) oder 11,39 €/m² (Feld I2)
+
+14. Frage: Was ist der minimale Mietwert in den drei Mietenspiegel-Feldern C1, I1 und I2?
+Antwort: 6,35 €/m² (Feld C1), 5,57 €/m² (Feld I1) oder 5,91 €/m² (Feld I2)
+
+15. Frage: Wie viele verschiedene Mietwerte gibt es in den drei Mietenspiegel-Feldern C1, I1 und I2?
+Antwort: 55 (Feld C1), 41 (Feld I1) und 177 (Feld I2)

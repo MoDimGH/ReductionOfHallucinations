@@ -1,0 +1,46 @@
+Hier sind 15 sachliche Frage-Antwort-Paare in deutscher Sprache, die direkt aus dem Text beantwortet werden können:
+
+1. Was ist das Arithmetische Mittel des Mietenspiegels für das Mietenspiegelfeld C1?
+Antwort: 12,12 €/m²
+
+2. Wie hoch ist die Standardabweichung für das Mietenspiegelfeld C1?
+Antwort: 2,83
+
+3. Was ist der Untere Wert der 2/3-Spanne des Mietenspiegels für das Mietenspiegelfeld C1?
+Antwort: 9,06 €/m²
+
+4. Wie viele Mietwerte gibt es insgesamt im Mietenspiegelfeld C1?
+Antwort: 55
+
+5. Was ist das Arithmetische Mittel des Mietenspiegels für das Mietenspiegelfeld I3?
+Antwort: 6,64 €/m²
+
+6. Wie hoch ist die Standardabweichung für das Mietenspiegelfeld I3?
+Antwort: 1,21
+
+7. Was ist der Mindestwert des Mietenspiegels für das Mietenspiegelfeld I3?
+Antwort: 4,58 €/m²
+
+8. Wie viele Mietwerte gibt es im Mietenspiegelfeld I3 insgesamt?
+Antwort: 456
+
+9. Was ist das Arithmetische Mittel des Mietenspiegels für das Mietenspiegelfeld I4?
+Antwort: 8,60 €/m²
+
+10. Wie hoch ist die Standardabweichung für das Mietenspiegelfeld I4?
+Antwort: 1,79
+
+11. Was ist der Untere Wert der 2/3-Spanne des Mietenspiegels für das Mietenspiegelfeld I4?
+Antwort: 7,17 €/m²
+
+12. Wie viele Mietwerte gibt es im Mietenspiegelfeld I4 insgesamt?
+Antwort: 15
+
+13. Was ist der Maximum-Wert des Mietenspiegels für das Mietenspiegelfeld C1?
+Antwort: 19,84 €/m²
+
+14. Wie hoch ist die Standardabweichung für das Mietenspiegelfeld C1 im Vergleich zum Mietenspiegelfeld I4?
+Antwort: Die Standardabweichung des Mietenspiegels für das Mietenspiegelfeld C1 (2,83) ist höher als die des Mietenspiegels für das Mietenspiegelfeld I4 (1,79).
+
+15. Welches Mietenspiegelfeld hat den geringsten Mietwert?
+Antwort: Das Mietenspiegelfeld C1 hat den geringsten Mietwert mit einem Minimum-Wert von 6,35 €/m².

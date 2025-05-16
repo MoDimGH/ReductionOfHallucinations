@@ -1,0 +1,48 @@
+Hier sind 15 sachliche Frage-Antwort-Paare in deutscher Sprache, die direkt aus dem Text beantwortet werden können:
+
+1. Wer ist der Antragsteller?
+Antwort: Name, Vorname (aus dem Feld "Name" und "Vorname")
+
+2. Ist der Antragsteller verheiratet/eingetragene Lebenspartnerschaft?
+Antwort: Ja/Nein (aus dem Feld "Familienstand: ")
+
+3. Welches ist das Geschlecht des Antragstellers?
+Antwort: männlich/weiblich/divers (aus dem Feld "Geschlecht: ")
+
+4. Wie viele Personen gehören zum Haushalt des Antragstellers?
+Antwort: [Anzahl] (nicht explizit in der Frage enthalten, aber im Text vermerkt)
+
+5. Wer ist die Ehefrau/Lebenspartnerin des Antragstellers?
+Antwort: Name, Vorname (aus dem Feld "Name" und "Vorname" von Person 2)
+
+6. Ist das Eigenes Einkommen des Antragstellers bekannt?
+Antwort: Ja/Nein (aus dem Feld "Eigenes Einkommen?" von Person 1)
+
+7. Welche ist die Nationalität des Antragstellers/Ausländer?
+Antwort: ___________________________________ (aus dem Feld "Nationalität Antragstellerin / Antragsteller")
+
+8. Gibt es eine unbefristete Aufenthaltsgenehmigung für den Antragsteller/Ausländer?
+Antwort: Ja/Nein (aus dem Feld "Die unbefristete Aufenthaltsgenehmigung liegt vor in Form einer" von 3.2)
+
+9. Gibt es eine auf mindestens ein Jahr befristete Aufenthaltserlaubnis für den Antragsteller?
+Antwort: Ja/Nein (aus dem Feld "Es liegt eine auf mindestens ein Jahr befristete Aufenthaltserlaubnis vor" von 3.3)
+
+10. Was ist die Stellung der Person zum Antragsteller (z.B. Ehefrau, Lebenspartner, Kind)?
+Antwort: Name, Vorname (aus dem Feld "Stellung zum Antragsteller" von Person 2)
+
+11. Wie viele Personen gehören zum Haushalt des Antragstellers/Ausländer?
+Antwort: [Anzahl] (nicht explizit in der Frage enthalten, aber im Text vermerkt)
+
+12. Ist die unbefristete Aufenthaltsgenehmigung für den Ausländer/Mitantragsteller vorliegend?
+Antwort: Ja/Nein (aus dem Feld "Die unbefristete Aufenthaltsgenehmigung liegt vor in Form einer" von 3.2)
+
+13. Gibt es eine auf mindestens ein Jahr befristete Aufenthaltserlaubnis für den Ausländer?
+Antwort: Ja/Nein (aus dem Feld "Es liegt eine auf mindestens ein Jahr befristete Aufenthaltserlaubnis vor" von 3.3)
+
+14. Wie viele Mitantragsteller gibt es?
+Antwort: [Anzahl] (nicht explizit in der Frage enthalten, aber im Text vermerkt)
+
+15. Gibt es eine Wohnberechtigungsbescheinigung für den Antragsteller/Ausländer?
+Antwort: Ja/Nein (keine explizite Frage, aber die Antragsformular-Ausfüllung impliziert)
+
+Es ist zu beachten, dass einige Fragen keine expliziten Antworten im Text enthalten, da sie auf weitere Informationen oder Belege abzielen.

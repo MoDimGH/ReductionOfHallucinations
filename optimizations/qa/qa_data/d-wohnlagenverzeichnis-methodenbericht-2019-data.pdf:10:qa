@@ -1,0 +1,46 @@
+Here are 15 question-answer pairs based on the document:
+
+1. Frage: Welche Adresse hat den Wohnlagenwert von 1,941?
+Antwort: Abendrothsweg 015 - 041.
+
+2. Frage: Welche Adresse wurde in der Kategorie "normal" eingestuft?
+Antwort: Brookwisch 001 - 001.
+
+3. Frage: Wie viele Adressen haben den Wohnlagenwert von mehr als 0,000?
+Antwort: 14 (Abendrothsweg 015 - 041, Abendrothsweg 020 - 038, ..., Bundesstraße 074 - 076).
+
+4. Frage: Welche Adresse hat den geringsten Wohnlagenwert?
+Antwort: Abendrothsweg 064 - 064 (0,021).
+
+5. Frage: Wie viele Adressen haben den Wohnlagenwert von negativen Werten?
+Antwort: 6 (Achter de Höf 001 - 021, Beim Schlump 021 - 036, ..., Brookwisch 002 - 020).
+
+6. Frage: Welche Adresse hat den höchsten Wohnlagenwert?
+Antwort: Bornstraße 016 - 033 (3,195).
+
+7. Frage: Wie viele Adressen sind in der Kategorie "gut" eingestuft?
+Antwort: 22.
+
+8. Frage: Welche Adresse wurde in der Kategorie "normal" und hat einen negativen Wohnlagenwert?
+Antwort: Brookwisch 002 - 020 (-4,320).
+
+9. Frage: Wie viele Adressen haben den Wohnlagenwert von zwischen 0,000 und 1,000?
+Antwort: 11.
+
+10. Frage: Welche Adresse hat den Wohnlagenwert von 2,572?
+Antwort: Allhornring 004 - 051.
+
+11. Frage: Wie viele Adressen sind in der Kategorie "gut" und haben einen Wohnlagenwert von mehr als 1,000?
+Antwort: 3 (Abendrothsweg 015 - 041, Abendrothsweg 020 - 038, ...).
+
+12. Frage: Welche Adresse hat den Wohnlagsenwert von negativem Wert und ist in der Kategorie "normal" eingestuft?
+Antwort: Bundesstraße 003 - 015 (-2,987).
+
+13. Frage: Wie viele Adressen haben den Wohnlagenwert von zwischen -1 und 0?
+Antwort: 5.
+
+14. Frage: Welche Adresse hat den höchsten negativen Wohnlagsenwert?
+Antwort: Brookwisch 002 - 020 (-4,320).
+
+15. Frage: Wie viele Adressen sind in der Kategorie "normal" und haben einen positiven Wohnlagenwert?
+Antwort: 5 (Beim Schlump 005 - 007, ..., Bundesstraße 068 - 072).

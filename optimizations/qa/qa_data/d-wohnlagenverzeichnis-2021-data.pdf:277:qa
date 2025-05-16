@@ -1,0 +1,46 @@
+Here are 15 question-answer pairs based on the document:
+
+**Question 1:** Which street has a good living area rating?
+**Answer:** Lottbeker Weg (637,73), Lottbekkamp (626,04), Löwenstraße (590,68)
+
+**Question 2:** What is the minimum house number range for Lottbeker Weg?
+**Answer:** 068a - 080
+
+**Question 3:** Which street has a normal living area rating?
+**Answer:** Lötzener Stieg (509,30), Louise-Schroeder-Straße (458,85), Lübbersmeyerweg (464,83)
+
+**Question 4:** What is the maximum house number range for Lottbekkoppeln?
+**Answer:** 012 - 016b
+
+**Question 5:** Which street has a good living area rating with a value of over 600?
+**Answer:** Lottbekheide (617,90), Lottbekkamp (624,75)
+
+**Question 6:** What is the minimum house number range for Löwenzahnweg?
+**Answer:** 001 - 031
+
+**Question 7:** Which street has an ungerade (odd) rating?
+**Answer:** Lübecker Straße (001), Luckmoor (001), Lüdemanns Weg (003)
+
+**Question 8:** What is the maximum house number range for Louise-Schroeder-Straße?
+**Answer:** 033
+
+**Question 9:** Which street has a good living area rating with a value of over 580?
+**Answer:** Löwenstraße (586,24), Löwenzahnweg (545,00)
+
+**Question 10:** What is the minimum house number range for Lübecker Straße?
+**Answer:** 001 - 001a
+
+**Question 11:** Which street has a special living area rating (Sonderfälle)?
+**Answer:** Lottbektal (S), Lucie-Suhling-Weg (S)
+
+**Question 12:** What is the maximum house number range for Lüdemannstraße?
+**Answer:** 013a
+
+**Question 13:** Which street has a good living area rating with a value of over 640?
+**Answer:** Lüdemanns Weg (662,42), Lüdemannstraße (640,96)
+
+**Question 14:** What is the minimum house number range for Lucie-Suhling-Weg?
+**Answer:** 001 - 045
+
+**Question 15:** Which street has a normal living area rating with a value of over 350?
+**Answer:** Lübecker Straße (345,71), Lüdersring (294,42)

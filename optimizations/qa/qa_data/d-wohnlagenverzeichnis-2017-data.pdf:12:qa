@@ -1,0 +1,46 @@
+Here are 15 question-answer pairs based on the document page:
+
+1. Frage: Was ist die Behörde, auf die die Seite 10 referiert?
+Antwort: Die Behörde für Stadtentwicklung und Wohnen.
+
+2. Frage: Welche Straße hat den höchsten Wert im Spalten "Wohnlagenkennwert"?
+Antwort: Alte Landstraße 199 (Wert: 3,182).
+
+3. Frage: Wie viele Einträge sind in der Tabelle enthalten?
+Antwort: 34 Einträge.
+
+4. Frage: Welche Straße hat den niedrigsten Wert im Spalten "Wohnlagenkennwert"?
+Antwort: Alte Franzosenheide 001 (Wert: -1,955).
+
+5. Frage: Gibt es Straßen mit ungerader Nummerierung?
+Antwort: Ja, sieben Straßen haben ungerade Nummern (Alte Dorfstraße 001b, Alte Holstenstraße 061, ...).
+
+6. Frage: Wie viele Straßen haben die Kennzeichnung "ungerade" (U)?
+Antwort: Zehn Straßen haben diese Kennzeichnung.
+
+7. Frage: Welche Straße hat den kürzesten Wert im Spalten "Wohnlagenkennwert"?
+Antwort: Alte Franzosenheide 001 (Wert: -1,955).
+
+8. Frage: Gibt es Straßen mit gerade Nummerierung?
+Antwort: Ja, zwölf Straßen haben gerade Nummern.
+
+9. Frage: Wie viele Straßen haben die Kennzeichnung "gerade" (G)?
+Antwort: Elf Straßen haben diese Kennzeichnung.
+
+10. Frage: Welche Straße hat den höchsten Wert im Spalten "Wohnlage"?
+Antwort: Alte Landstraße 199 (Wert: U, gut-).
+
+11. Frage: Gibt es Sonderfälle bei der Nummerierung?
+Antwort: Ja, eine Straße hat unregelmäßige oder fortlaufende Numerierung (Alte Holstenstraße).
+
+12. Frage: Wie viele Straßen haben die Kennzeichnung "Sonderfälle" (S)?
+Antwort: Eine Straße hat diese Kennzeichnung.
+
+13. Frage: Welche Straße hat den niedrigsten Wert im Spalten "Wohnlage"?
+Antwort: Alte Franzosenheide 001 (Wert: normal-).
+
+14. Frage: Gibt es Straßen, die in der Spalte "Art" eine andere Kennzeichnung als U oder G haben?
+Antwort: Nein.
+
+15. Frage: Welche Jahre sind im Dokument erwähnt?
+Antwort: Nur das Jahr 2017 ist im Dokument erwähnt.

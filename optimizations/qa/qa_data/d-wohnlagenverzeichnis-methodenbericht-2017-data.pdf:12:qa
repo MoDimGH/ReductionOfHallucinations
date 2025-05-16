@@ -1,0 +1,46 @@
+Here are 15 question-answer pairs based on the document page:
+
+1. Was wurde bei der Wohnlagenberechnung getan, um die Lärmstufen zu bestimmen?
+Antwort: Jeder Adresse wurden die Lärmstufen der verschiedenen Lärmquellen zugespielt und die höchste Lärmstufe herangezogen.
+
+2. Welche Lärmquellen wurden bei der Wohnlagenberechnung nicht berücksichtigt?
+Antwort: Kindergärten, Schulen, Sportplätze und einzelne kleinere Gewerbebetriebe.
+
+3. Warum wurden diese Lärmquellen nicht berücksichtigt?
+Antwort: Der von diesen Einrichtungen ausgehende Lärm ist als hinnehmbar einzustufen (Kindergärten, Schulen) oder betrifft nur einzelne Bereiche einer Blockseite.
+
+4. Kann eine Wohnlage besondere Belastungen durch Lärmquellen berücksichtigt werden?
+Antwort: Ja, wenn einzelne Wohnungen, ein Wohngebäude oder ein Teil einer Blockseite besondere Belastungen durch Lärmquellen erfährt, kann dieses im Rahmen der individuellen Senneneinordnung einer Wohnung berücksichtigt werden.
+
+5. Welcher neue Indikator wurde aufgenommen?
+Antwort: Die Entfernung zur nächsten Metrobusstation wurde als neuer Indikator aufgenommen.
+
+6. Warum ist die Metrobus-Anbindung wichtig?
+Antwort: Die Metrobusse gewährleisten, insbesondere in von den U-Bahnen und S-Bahnen weniger erschlossenen Gebieten, mit ihrer hohen Taktfrequenz und den teilweise vorhandenen eigenen Busspuren eine schnelle Anbindung.
+
+7. Wer hat die Lagedaten der Metrobus-Haltestellen bereitgestellt?
+Antwort: Der Hamburger Verkehrsverbund (HVV) hat die Lagedaten der Metrobus-Haltestellen bereitgestellt.
+
+8. Wie wurde die Entfernung zur nächstgelegenen Station in Metern bestimmt?
+Antwort: Mittels GIS wurde für jede Adresse die Entfernung zur nächstgelegenen Station in Metern bestimmt.
+
+9. Welcher Aspekt wird mit der Entfernung zum Einzelhandel bestimmt?
+Antwort: Die Versorgungsmöglichkeiten und -qualitäten im näheren Umfeld werden bestimmt.
+
+10. Wie viele Supermärkte werden bei der Berechnung der Entfernung zum Einzelhandel berücksichtigt?
+Antwort: Die jeweils nächstgelegenen drei Supermärkte werden berücksichtigt.
+
+11. Von welcher Datengrundlage bilde ten die Adressangaben der großen Handelsketten zu ihren Supermarktstandorten und Openstreetmap-Datenbank2 ihre Auswertung?
+Antwort: Die Datengrundlage bilde ten die Adressangaben der großen Handelsketten zu ihren Supermarktstandorten, ergänzt um eine Auswertung der Supermarktstandorte aus der Openstreetmap-Datenbank.
+
+12. Wie wurde die durchschnittliche Entfernung jeder Adresse zu den nächstgelegenen drei Supermärkten in Metern ermittelt?
+Antwort: Mittels GIS wurde die durchschnittliche Entfernung jeder Adresse zu den nächstgelegenen drei Supermärkten in Metern ermittelt.
+
+13. Warum wird die Differenzierung des Angebots im näheren Umfeld als wohnwerterhöhend sicherzustellen?
+Antwort: Um nicht nur eine Grundversorgung, sondern eine gewisse Differenzierung des Angebotes zu sicherstellen.
+
+14. Was wurde bisher bei der Wohnlagenzuordnung nicht berücksichtigt?
+Antwort: Die Entfernung zum Einzelhandel wurde bisher bei der Wohnlagenzuordnung nicht berücksichtigt.
+
+15. Welcher Anreiz wird durch die Einführung des Indikators "Entfernung zum Einzelhandel" geschaffen?
+Antwort: Der Anreiz, dass eine gewisse Differenzierung des Angebotes im näheren Umfeld bestimmt wird.

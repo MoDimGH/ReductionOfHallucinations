@@ -1,0 +1,46 @@
+Hier sind 15 sachliche Frage-Antwort-Paare in deutscher Sprache, die direkt aus dem Text beantwortet werden können:
+
+1. Was ist der Name des Dokuments?
+Antwort: Hamburger Mietenspiegel 2023
+
+2. Wie viele Mietwerte sind insgesamt enthalten?
+Antwort: 43 (31 in Feld C1 und 12 in Feld O1/O2)
+
+3. Was sind die Baualtersklassen in Feld C1?
+Antwort: bis 31.12.1918
+
+4. Was ist das Mindestmaß an Wohnfläche in Feld C1?
+Antwort: 25 m²
+
+5. Was ist das Höchstmaß an Wohnfläche in Feld O2?
+Antwort: 66 m²
+
+6. Wie hoch ist das Arithmetische Mittel der Mietwerte in Feld C1?
+Antwort: 14,77 €/m²
+
+7. Was ist die Standardabweichung der Mietwerte in Feld C1?
+Antwort: 3,53
+
+8. Wie viel beträgt der Untere Wert der 2/3-Spanne in Feld C1?
+Antwort: 11,50 €/m²
+
+9. Wie viel beträgt der Obere Wert der 2/3-Spanne in Feld O2?
+Antwort: 21,17 €/m²
+
+10. Was ist das Minimum an Miete in Feld C1?
+Antwort: 7,86 €/m²
+
+11. Was ist das Maximum an Miete in Feld O1?
+Antwort: 23,17 €/m²
+
+12. Wie viele Mietwerte sind in Feld O1 enthalten?
+Antwort: 12
+
+13. Wie hoch ist das Arithmetische Mittel der Mietwerte in Feld O1?
+Antwort: 17,57 €/m²
+
+14. Was sind die Baualtersklassen in Feld O1/O2?
+Antwort: 2016 bis 2022
+
+15. Wie hoch ist die Standardabweichung der Mietwerte in Feld O1?
+Antwort: 3,38

@@ -1,0 +1,46 @@
+Hier sind 15 sachliche Frage-Antwort-Paare in der Sprache deutsch, die direkt aus dem Text beantwortet werden können:
+
+1. Was sind die Datenquellen für den Statusindex?
+Antwort: Das Statistikamt Nord und der Landesbetrieb Geoinformation und Vermessung (LGV).
+
+2. Wie wird der Einwohnerdichte Wert ermittelt?
+Antwort: Als Einwohnerzahl in Bezug zur Fläche, unter dem Mischindikator "Verdichtung".
+
+3. Was bedeutet der Indikator "Art der Straße"?
+Antwort: Der Indikator berücksichtigt die möglichen Beeinträchtigungen durch große Straßen als Barrieren im Raum.
+
+4. Wie wurde bisher die Art der Straße berücksichtigt?
+Antwort: Unter dem Indikator "Verkehrsbelastung" war die Art der Straße im Rahmen von Begehungen ermittelt worden.
+
+5. Was ist neu in Bezug auf die Straßennetz-Datengrundlage?
+Antwort: Die städtische Datengrundlage der Hamburger Straßeninformationsbank (HH-SIB) enthält Angaben zur Anzahl der Fahrspuren einzelner Straßenabschnitte.
+
+6. Wie werden alle Blockseiten, die vier und mehr Fahrspuren aufweisen, bewertet?
+Antwort: Mit "1", alle Blockseiten mit weniger Fahrspuren mit "0" bewertet.
+
+7. Wie wird die Entfernung zu U-Bahn, S-Bahn oder AKN ermittelt?
+Antwort: Über das GIS wird die nächstgelegene Haltestelle zugeordnet und die Entfernung in Metern bestimmt.
+
+8. Was ist neu in Bezug auf die Entfernung zu U-Bahn, S-Bahn oder AKN?
+Antwort: Die Bezugsebene ist nicht mehr der Block, sondern die einzelne Adresse.
+
+9. Wie wurde bisher die Lärmbelastung ermittelt?
+Antwort: Im Rahmen von Begehungen für jede Blockseite wurden dabei der Straßenverkehrslärm und das Vorhandensein möglicher sonstiger Lärmquellen (u. a. Gewerbebetriebe, Tankstellen, Sportplätze) erfasst.
+
+10. Was ist neu in Bezug auf die Lärmbelastung?
+Antwort: Durch die strategischen Lärmkartierungen besteht jetzt flächendeckend die Möglichkeit, die zentralen Lärmquellen in ihrer tatsächlichen Ausbreitung und Lautstärke zu berücksichtigen.
+
+11. Welche Lärmarten werden nunmehr berücksichtigt?
+Antwort: Fraktionsweise wurden die folgenden Lärmarten berücksichtigt:
+
+12. Was ist der Zweck des Indikators "Art der Straße"?
+Antwort: Der Indikator zeigt an, ob eine Blockseite an einer Straße mit mindestens vier Fahrspuren liegt.
+
+13. Wie wurde bisher die Einwohnerdichte berücksichtigt?
+Antwort: Als Einwohnerzahl in Bezug zur Fläche, unter dem Mischindikator "Verdichtung".
+
+14. Was ist neu in Bezug auf den Statusindex?
+Antwort: Jeder Adresse wird der Wert des statistischen Gebietes zugespielt, an dem die Adresse liegt, und anschließend eine Glättung über die umliegenden zehn Adressen vollzogen.
+
+15. Wie wurde bisher die Lärmbelastung von individuellen Rahmenbedingungen abhängig?
+Antwort: Die Lärmfeststellung war von individuellen Rahmenbedingungen, etwa dem Lärmempfinden des Erhebers sowie dem Erhebungszeitpunkt, abhängig.

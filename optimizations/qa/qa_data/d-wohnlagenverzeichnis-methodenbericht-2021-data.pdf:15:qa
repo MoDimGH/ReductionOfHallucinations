@@ -1,0 +1,46 @@
+Here are 15 factual question-answer pairs based on the provided document page:
+
+1. Frage: Was war das Ziel bei der Ermittlung des Grenzwerts für die Wohnlagen?
+Antwort: Das Ziel war es, dass die Abweichungen zur Wohnlageneinstufung 2019 möglichst gering sind und die Vorhersagegenauigkeit für die guten Wohnlagen genau so groß ist wie die Vorhersagegenauigkeit für die normalen Wohnlagen.
+
+2. Frage: Wie wurde der Grenzwert zwischen normaler und guter Wohnlage ermittelt?
+Antwort: Der Grenzwert lag bei -1,207.
+
+3. Frage: In welchem Bereich liegen die ermittelten Wohnlagenwerte?
+Antwort: Die ermittelten Wohnlagsenwerte liegen zwischen -64,368 und + 52,471.
+
+4. Frage: Was ist der Zweck der Normierung der Wohnlagsenwerte?
+Antwort: Der Zweck war es, alle Werte im positiven Zahlenbereich darzustellen und die Anwendung der Wohnlagsenwerte zu erleichtern.
+
+5. Frage: Wie wurde der Grenzwert zwischen normaler und guter Wohnlage nach Normierung ermittelt?
+Antwort: Der Grenzwert lag bei 541,04.
+
+6. Frage: Was bedeutet der Median der normalen Wohnlagen nach Normierung?
+Antwort: Der Median der normalen Wohnlagen liegt bei 465,83.
+
+7. Frage: Was bedeutet der Median der guten Wohnlagen nach Normierung?
+Antwort: Der Median der guten Wohnlagen liegt bei 590,60.
+
+8. Frage: Gibt es eine Verbindung zwischen den Mediane und der Verteilung der Blockseiten in den Wohnlageklassen?
+Antwort: Ja, innerhalb der Wohnlageklassen befinden sich jeweils genauso viele Blockseiten oberhalb wie unterhalb der genannten Mediane.
+
+9. Frage: In welchen Abbildungen ist die Verteilung aller bewerteten Blockseiten in den Wohnlagenernstlich?
+Antwort: Die Verteilung aller bewerteten Blockseiten in den Wohnlagen ist in den Abbildungen 4 und 5 ersichtlich.
+
+10. Frage: Was ist die Aufgabe der Regressionsanalysen?
+Antwort: Die Aufgabe war es, für jede Blockseite einen Ergebniswert zu berechnen.
+
+11. Frage: Wie viele Ergebnisse wurden für jede Blockseite berechnet?
+Antwort: Eine Ergebniswerte wurde für jede Blockseite berechnet.
+
+12. Frage: Was ist das Ergebnis der Regressionsanalysen?
+Antwort: Das Ergebnis ist ein ermittelter Wohnlagsenwert je Blockseite.
+
+13. Frage: Welche Ausprägung haben Blockseiten, die den Grenzwert unterhalb aufweisen?
+Antwort: Diese Blockseiten erhalten die Wohnlageneinstufung "normal".
+
+14. Frage: Welche Ausprägung haben Blockseiten, die den Grenzwert oberhalb aufweisen?
+Antwort: Diese Blockseiten werden als "gut" eingestuft.
+
+15. Frage: Was ist das Ziel bei der Wahl des Grenzwerts für die Wohnlagen?
+Antwort: Das Ziel war es, dass die Abweichungen zur Wohnlageneinstufung 2019 möglichst gering sind und die Vorhersagegenauigkeit für die guten Wohnlagen genau so groß ist wie die Vorhersagegenauigkeit für die normalen Wohnlagen.

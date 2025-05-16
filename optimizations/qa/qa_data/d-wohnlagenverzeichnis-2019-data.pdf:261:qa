@@ -1,0 +1,46 @@
+Hier sind 15 Frage-Antwort-Paare, die direkt aus dem Text beantwortet werden können:
+
+1. Was bedeutet "U" in der Spalte "Art"?
+Antwort: U = ungerade.
+
+2. Welche Wohnlage ist am schlechtesten bewertet (niedrigster Kennwert)?
+Antwort: Laubaner Straße (-8,461) und Lauenburger Straße (-12,381).
+
+3. Gibt es Straßen mit einer Bewertung über 0?
+Antwort: Ja, es gibt einige Straßen mit positiven Werten, zum Beispiel Laurembergstieg (2,532), Laurembergweg (2,513) usw.
+
+4. Welche Straße hat die meisten Hausnummern?
+Antwort: Laubsängerweg (27d).
+
+5. Was bedeutet "S" in der Spalte "Art"?
+Antwort: S = Sonderfälle, unregelmäßige oder fortlaufende Numerierung.
+
+6. Gibt es Straßen mit einer Bewertung um 0?
+Antwort: Ja, einige Straßen haben ein Kennwert um 0, zum Beispiel Lastropsweg (-0,405), Lattenkampstieg (-0,404) usw.
+
+7. Welche Straße hat die beste Bewertung (höchster Kennwert)?
+Antwort: Lausitzerweg (0,344).
+
+8. Wie viele Straßen haben eine normale Wohnlage?
+Antwort: Viele Straßen haben einen normalen Wohnlagenkennwert, zum Beispiel Lassallestraße (-18,565), Lastropsweg (-0,688) usw.
+
+9. Gibt es Straßen mit einer Bewertung unter -5?
+Antwort: Ja, einige Straßen haben ein Kennwert unter -5, zum Beispiel Laubaner Straße (-8,461), Lauenburger Straße (-12,381) usw.
+
+10. Welche Straße hat eine ungerade Hausnummerierung?
+Antwort: Viele Straßen haben eine ungerade Hausnummerierung, zum Beispiel Lastropsweg (U), Laurembergstieg (U) usw.
+
+11. Wie viele Straßen haben eine gute Wohnlage?
+Antwort: Einige Straßen haben eine gute Wohnlage, zum Beispiel Latekopweg (2,330), Lattenkamp (1,538) usw.
+
+12. Gibt es Straßen mit einer Bewertung zwischen -5 und 0?
+Antwort: Ja, einige Straßen haben ein Kennwert zwischen -5 und 0, zum Beispiel Lastropsweg (-0,688), Laurembergweg (2,424) usw.
+
+13. Welche Straße hat eine gerade Hausnummerierung?
+Antwort: Viele Straßen haben eine gerade Hausnummerierung, zum Beispiel Lassallestraße (G), Laubaner Straße (G) usw.
+
+14. Wie viele Straßen haben eine normale oder gute Wohnlage?
+Antwort: Die meisten Straßen haben eine normale oder gute Wohnlage, zum Beispiel Lastropsweg (-0,688), Laurembergweg (2,424) usw.
+
+15. Gibt es Straßen mit einer Bewertung zwischen 1 und 5?
+Antwort: Ja, einige Straßen haben ein Kennwert zwischen 1 und 5, zum Beispiel Lattenkamp (1,538), Laurembergstieg (2,532) usw.

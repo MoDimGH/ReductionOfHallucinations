@@ -1,0 +1,46 @@
+Here are 15 question-answer pairs based on the provided document page:
+
+**1. What is the difference between the Ausgangswerte and the Statusindex?**
+Antwort: The Statusindex does not provide a percentage, but is dimensionsless.
+
+**2. How was the Statusindex calculated for addresses?**
+Antwort: Each address received the status value of its statistical district, followed by averaging the values of surrounding 10 addresses to smoothen border effects.
+
+**3. Why was the Statusindex introduced in the first place?**
+Antwort: To reduce "Grenzproblematik" (border problems) and ensure that status values are representative of reality.
+
+**4. What is the Bodenrichtwert indicator used for?**
+Antwort: It assesses the average value of a plot of land per square meter on the basis of Bodenrichtwert zones, which roughly align with block sides.
+
+**5. How are Bodenrichtwerte calculated?**
+Antwort: They are calculated annually by the Gutachterausschuss (expert committee) of the Hansestadt Hamburg and then averaged over the last three years to reduce volatility.
+
+**6. What is the purpose of averaging Bodenrichtwerte?**
+Antwort: To reduce high volatilities on a small-scale level.
+
+**7. How are Bodenrichtwerte transferred into address data?**
+Antwort: Through spatial intersection using a Geoinformationssystem (GIS).
+
+**8. Has the Bodenrichtwert been used in the past?**
+Antwort: Yes, but only as part of the "Gebietsstatus" indicator on a larger scale.
+
+**9. How is the Grünflächenanteil calculated?**
+Antwort: By determining the percentage of public green spaces within an 800-meter radius around each address and calculating a mean value per block side.
+
+**10. What sources do you use for Grünflächenanteil calculations?**
+Antwort: The city's Grünplan (green space plan) and Geoinformationssystem (GIS).
+
+**11. How is Einwohnerdichte calculated?**
+Antwort: By comparing the number of inhabitants to the number of buildings with residential use at the level of statistical districts.
+
+**12. Why is a pure look at population numbers not possible?**
+Antwort: Due to different district boundaries, making it meaningless to compare population figures across districts.
+
+**13. How does Einwohnerdichte relate to other indicators?**
+Antwort: It combines two values (inhabitants and buildings) to provide a meaningful comparison.
+
+**14. What is the main goal of calculating Einwohnerdichte?**
+Antwort: To gain insights into population density at the level of statistical districts.
+
+**15. Is there any additional information available about the Statusindex calculation?**
+Antwort: Yes, more detailed information can be found in the Pilotbericht zum Sozialmonitoring 2010 of the BSW (available online).

@@ -1,0 +1,46 @@
+Hier sind 15 sachliche Frage-Antwort-Paare, die direkt aus dem Text beantwortet werden können:
+
+1. Was ist die Wohnlagenformel?
+Antwort: Die Wohnlagenformel wurde über eine logistische Regression ermittelt.
+
+2. Welche Art von Regression wurde für die Wohnlagenformel verwendet?
+Antwort: Es wurde eine logistische Regression verwendet.
+
+3. Wie viele Ausprägungen aufweist die abhängige Variable in der Regressionsanalyse?
+Antwort: Die abhängige Variable hat nur zwei Ausprägungen, nämlich "normal" und "gut".
+
+4. Was ist der Zweck der logistischen Regression bei der Wohnlagenformel?
+Antwort: Der Zweck ist es, die Einflüsse unabhängiger Variablen (Indikatoren) auf die abhängige Variable (Wohnlage) zu bestimmen.
+
+5. Was ist der Basiswert in der Wohnlagenformel?
+Antwort: Der Basiswert ist -12,17525.
+
+6. Wie viele Indikatoren werden in der Wohnlagenformel berücksichtigt?
+Antwort: Es werden 8 Indikatoren berücksichtigt (Bodenrichtwert, Statusindex, Einwohnerdichte, Grünflächenanteil, Lärmbelastung, Art der Straße, Entfernung Metrobus, Entfernung zu U-/S-Bahn/AKN und Entfernung Einzelhandel).
+
+7. Was ist der Steigungskoeffizient in der Wohnlagenformel?
+Antwort: Der Steigungskoeffizient gibt an, um welchen Betrag sich der Wohnlagenwert verändert, wenn sich der dazugehörige Indikatorwert um den Betrag "1" ändert.
+
+8. Wie verändert sich der Wohnlagenwert, wenn sich der Bodenrichtwert um 1 Euro ändert?
+Antwort: Der Wohnlagenwert erhöht sich um 0,00734 Punkte.
+
+9. Was ist die Bedeutung des Steigungskoeffizienten in der Wohnlagenformel?
+Antwort: Die Größe des Steigungskoeffizenten hat keinen Zusammenhang mit der Bedeutung des Indikators für die Wohnlagenberechnung.
+
+10. Wie viele Ausprägungen haben die Indikatoren in der Wohnlagenformel?
+Antwort: Es werden keine Ausprägungen der Indikatoren genannt, da sie nur als Wert verändert werden können.
+
+11. Was ist das Ergebnis der Regressionsanalyse?
+Antwort: Das Ergebnis ist die folgende Formel für die Wohnlagenberechnung: Wohnlagenwert = -12,17525 + ... .
+
+12. Wie viele Punkte erhöht sich der Wohnlagenwert, wenn sich die Grünflächenanteil um 1 Prozent ändert?
+Antwort: Es wird keine Angabe zu dieser Frage in dem Text gemacht.
+
+13. Was ist der Zweck des Steigungskoeffizenten in der Wohnlagenformel?
+Antwort: Der Zweck ist es, anzuzeigen, um welchen Betrag sich der Wohnlagenwert verändert, wenn sich der dazugehörige Indikatorwert um den Betrag "1" ändert.
+
+14. Wie viele Punkte reduziert sich der Wohnlagenwert, wenn sich die Lärmbelastung um 1 Prozent ändert?
+Antwort: Der Wohnlagenwert reduziert sich um 0,70716 Punkte.
+
+15. Was muss für die konkrete Wohnlagenberechnung getan werden?
+Antwort: Für die konkrete Wohnlagenberechnung müssen die Beträge der Indikatoren entsprechend den Erläuterungen in Kapitel 4.1 in die Formel eingetragen werden.

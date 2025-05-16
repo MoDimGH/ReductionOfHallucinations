@@ -1,0 +1,46 @@
+Hier sind 15 sachliche Frage-Antwort-Paare in deutscher Sprache, die direkt aus dem Text beantwortet werden können:
+
+1. Was war das Ziel bei der Ermittlung der Wohnlagenformel?
+Antwort: Die abschließende Berechnungsformel sollte im Ergebnis für die Referenzgebiete eine hohe Übereinstimmung mit der bisherigen Einstufung aufweisen.
+
+2. Welches statistische Verfahren wurde zur Ermittlung der Wohnlagenformel verwendet?
+Antwort: Das statistische Verfahren der logistischen Regression wurde verwendet (s. Exkurs, S. 13).
+
+3. Was sind die Vorteile des Verwendung von logistischer Regression bei der Berechnung der Wohnlagenformel?
+Antwort: Zum einen steht am Ende der Berechnung eine Formel, mit der alle Wohnlagen berechnet und nachvollzogen werden können. Zum anderen kann über den berechneten Wohnlagenwert innerhalb der Wohnlagen noch eine weitere Ausdifferenzierung der Wohnlagequalitäten erfolgen.
+
+4. Welche abhängige Variable wurde in die Regressionsanalyse zur Ermittlung der Wohnlagenformel 2021 aufgenommen?
+Antwort: Die bestehende Wohnlagenkategorie in den Ausprägungen "Gut" und "Normal" für die Referenzgebiete.
+
+5. Welche unabhängigen Variablen wurden in die Regressionsanalyse aufgenommen?
+Antwort: Die in Kapitel 4.1 vorgestellten Merkmale bzw. Indikatoren.
+
+6. Wie viele Indikatoren wurden in die Regressionsanalyse zur Ermittlung der Wohnlagenformel 2021 aufgenommen?
+Antwort: Neun Indikatoren.
+
+7. Was zeigt den Anteil an der Wohnlagenbewertung in Tabell 2?
+Antwort: Der Anteil an der Wohnlagsenbewertung zeigt die Bedeutung des jeweiligen Indikators für die Wohnlagsenbewertung.
+
+8. Hat sich die Bedeutung des Lärms bei der Berechnung zum Wohnlagenverzeichnis 2017 geändert?
+Antwort: Ja, die Bedeutung des Lärms hat zugenommen.
+
+9. Wie hat sich der Statusindex bei der Berechnung zum Wohnlagenverzeichnis 2017 verändert?
+Antwort: Der Statusindex hat weniger Auswirkung auf die Wohnlage als 2017.
+
+10. Warum haben sich Verschiebungen ergeben bei der Berechnung zur Wohnlagsenformel 2021 im Vergleich zu 2017?
+Antwort: Durch die Veränderung der Indikatorenwerte verändert sich auch das Wertungsgefüge, das sich in einer neuen Wohnlagsenformel widerspiegelt.
+
+11. Welcher Anteil des Bodenrichtwerts an der Wohnlagenbewertung ist?
+Antwort: 19 %.
+
+12. Welcher Indikator hat den höchsten Anteil an der Wohnlagsenbewertung?
+Antwort: Der Bodenrichtwert (19 %).
+
+13. Wie viel Prozent des Lärmbelastungsanteils an der Wohnlagenbewertung ist?
+Antwort: 12 %.
+
+14. Welcher Indikator hat den niedrigsten Anteil an der Wohnlagsenbewertung?
+Antwort: Der Entfernung zu U-/S-Bahn/AKN (2 %).
+
+15. Wie viel Prozent des Grünflächenanteils an der Wohnlagsenbewertung ist?
+Antwort: 15 %.

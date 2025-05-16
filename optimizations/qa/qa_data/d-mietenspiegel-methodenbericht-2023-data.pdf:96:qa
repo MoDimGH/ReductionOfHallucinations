@@ -1,0 +1,46 @@
+Hier sind 15 sachliche Frage-Antwort-Paare in deutscher Sprache, die direkt aus dem Text beantwortet werden können:
+
+1. Frage: Welches ist das Durchschnittspreis für Mietwerte in Feld C1?
+Antwort: Das Arithmetische Mittel beträgt 12,12 €/m².
+
+2. Frage: Wie hoch ist die Standardabweichung für Mietwerte in Feld C1?
+Antwort: Die Standardabweichung beträgt 2,83.
+
+3. Frage: Welcher ist der niedrigste Mietwert innerhalb des Feldes C1?
+Antwort: Der Minimum-Mietwert beträgt 6,35 €/m².
+
+4. Frage: Wie viele Mietwerte gibt es insgesamt in Feld C1?
+Antwort: Es gibt insgesamt 55 Mietwerte in Feld C1.
+
+5. Frage: Welches ist das Durchschnittspreis für Mietwerte in Feld M9?
+Antwort: Das Arithmetische Mittel beträgt 14,85 €/m².
+
+6. Frage: Wie hoch ist die Standardabweichung für Mietwerte in Feld M9?
+Antwort: Die Standardabweichung beträgt 2,54.
+
+7. Frage: Welcher ist der niedrigste Mietwert innerhalb des Feldes M9?
+Antwort: Der Minimum-Mietwert beträgt 10,36 €/m².
+
+8. Frage: Wie viele Mietwerte gibt es insgesamt in Feld M9?
+Antwort: Es gibt insgesamt 17 Mietwerte in Feld M9.
+
+9. Frage: Welcher ist der höchste Mietwert innerhalb des Feldes C1?
+Antwort: Der Maximum-Mietwert beträgt 19,84 €/m².
+
+10. Frage: Wie hoch ist das durchschnittliche Mietpreis für alle Anlagen?
+Antwort: Es gibt keine allgemeine Aussage über den Durchschnittsmietpreis, da es sich um zwei separate Felder handelt (C1 und M9).
+
+11. Frage: Welches ist das Oberes Ende der 2/3-Spanne für Mietwerte in Feld C1?
+Antwort: Das obere Ende der 2/3-Spanne beträgt 14,81 €/m².
+
+12. Frage: Wie hoch ist das untere Ende der 2/3-Spanne für Mietwerte in Feld M9?
+Antwort: Das untere Ende der 2/3-Spanne beträgt 12,07 €/m².
+
+13. Frage: Welcher ist der höchste Mietwert innerhalb des Feldes M9?
+Antwort: Der Maximum-Mietwert beträgt 19,02 €/m².
+
+14. Frage: Wie groß ist die Anzahl an Mietwerten im Vergleich zu Feld C1 und M9?
+Antwort: Es gibt insgesamt 55 Mietwerte in Feld C1 und 17 Mietwerte in Feld M9.
+
+15. Frage: Welche sind die Hauptunterschiede zwischen den beiden Mietenspiegelfeldern (C1 und M9)?
+Antwort: Die Hauptunterschiede sind die Baualtersklasse, die Wohnlagedefinition und die Größe der Anlagen (25 m² bis 41 m² in Feld C1 und ab 131 m² in Feld M9).

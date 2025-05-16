@@ -1,0 +1,46 @@
+Hier sind 15 sachliche Frage-Antwort-Paare in deutscher Sprache, die direkt aus dem Text beantwortet werden können:
+
+1. Wie viele Einträge gibt es auf der Dokumentenseite?
+Antwort: 35
+
+2. Welche Behörde ist für die Stadtentwicklung und Wohnen zuständig?
+Antwort: Behörde für Stadtentwicklung und Wohnen
+
+3. Was bedeutet die Abkürzung "U" in der Spalte "Art"?
+Antwort: Ungerade Straße
+
+4. Welche Straße hat den höchsten Kennwert in der Spalte "Sandhöhe"?
+Antwort: Sandmoorweg 121
+
+5. Gibt es Straßen, die nicht gerade oder ungerade sind? Wenn ja, welche?
+Antwort: Ja, siehe Spalte "Art", S = Sonderfälle, unregelmäßige oder fortlaufende Numerierung San
+
+6. Welche Straße hat den niedrigsten Kennwert in der Spalte "Sandhöhe"?
+Antwort: Sandkäferweg 001
+
+7. Wie viele verschiedene Straßennummern gibt es insgesamt?
+Antwort: 75
+
+8. Was bedeutet die Abkürzung "G" in der Spalte "Art"?
+Antwort: Gerade Straße
+
+9. Welche Straße hat den höchsten Kennwert in der Spalte "Wohnlagen-kennwert"?
+Antwort: Sandmoorweg 121
+
+10. Gibt es Straßen, die einen Kennwert in der Spalte "Sandhöhe" haben, der negativ ist? Wenn ja, welche?
+Antwort: Ja, siehe Spalte "Sandhöhe", negative Werte sind Sandkäferweg 001 (-5,466), Sandkäferweg 002 (-5,306) usw.
+
+11. Wie viele Straßen haben einen Kennwert in der Spalte "Wohnlagen-kennwert" von mehr als 10?
+Antwort: 14
+
+12. Welche Straße hat den niedrigsten Kennwert in der Spalte "Wohnlagen-kennwert"?
+Antwort: Sandkoppelweg 005 (-6,331)
+
+13. Gibt es Straßen, die einen Kennwert in der Spalte "Sandhöhe" haben, der über 10 liegt? Wenn ja, welche?
+Antwort: Ja, siehe Spalte "Sandhöhe", positive Werte sind Sandmoorweg 069 (7,576), Sandmoorweg 121 (9,239) usw.
+
+14. Wie viele Straßen haben einen Kennwert in der Spalte "Wohnlagen-kennwert" von weniger als 5?
+Antwort: 6
+
+15. Welche Straße hat den höchsten Kennwert in der Spalte "Sandhöhe"?
+Antwort: Sandmoorweg 121

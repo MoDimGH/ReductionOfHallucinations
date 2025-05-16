@@ -1,0 +1,40 @@
+Here are the 15 question-answer pairs in German, directly answered by the text:
+
+**Q1:** Was wurde für jede Blockseite im Rahmen der Regressionsanalysen berechnet?
+**A1:** Ein Ergebniswert wurde berechnet.
+
+**Q2:** Wie wurden die Ergebnissewerte mit dem im Jahr 2021 ermittelten Grenzwert verglichen?
+**A2:** Der Ergebniswert wurde mit dem Grenzwert verglichen, um die Wohnlagenzuordnung zu bestimmen.
+
+**Q3:** Welche Wohnlagenzuordnungen gibt es?
+**A3:** Es gibt zwei Wohnlagenzuordnungen: "normal" und "gut".
+
+**Q4:** Wie wird die Wohnlagezuordnung bestimmt?
+**A4:** Die Wohnlagezuordnung wird bestimmt, indem der Ergebniswert mit dem Grenzwert verglichen wird.
+
+**Q5:** Welcher ist der Grenzwert zwischen normaler und guter Wohnlage?
+**A5:** Der Grenzwert liegt bei -1,207.2.
+
+**Q6:** Wie werden die Blockseiten innerhalb von "normal" und "gut" kategorisiert?
+**A6:** Es wird eine Abschätzung vornehmen, ob sich die Blockseite im unteren, mittleren oder oberen Bereich der jeweiligen Wohnlage befindet.
+
+**Q7:** Warum wurden die Wohnlagenwerte normiert?
+**A7:** Die Werte wurden normalisiert, um alle Werte im positiven Zahlenbereich darstellen zu können.
+
+**Q8:** Welche Skala wurde verwendet, um die Werte zu normalisieren?
+**A8:** Die Werte wurden auf eine Skala von 1,00 bis 1.000,00 normiert.
+
+**Q9:** Wie ändert sich der Grenzwert nach der Normalisierung?
+**A9:** Der Grenzwert zwischen normaler und guter Wohnlage liegt nach der Normalisierung bei 541,04.
+
+**Q10:** Was sind die Mediane der normalen und guten Wohnlagen nach der Normalisierung?
+**A10:** Die Median der normalen Wohnlagen ist 465,79, die Median der guten Wohnlagen ist 590,67.
+
+**Q11:** Wie viele Blockseiten befinden sich innerhalb jeder Wohnlageklasse ober- oder unterhalb der Mediane?
+**A11:** Innerhalb jeder Wohnlageklasse befinden sich jeweils genauso viele Blockseiten oberhalb wie unterhalb der Mediane.
+
+**Q12:** Wo kann man die Verteilung aller bewerteten Blockseiten finden?
+**A12:** Die Verteilung aller bewerteten Blockseiten ist in den Abbildungen 1 bis 3 ersichtlich.
+
+**Q13:** Wo kann man die Bedingungen zur Festlegung des Grenzwertes finden?
+**A13:** Die Bedingungen können dem Methodenbericht zum Wohnlagenverzeichnis 2021 entnommen werden.

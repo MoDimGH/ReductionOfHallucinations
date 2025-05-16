@@ -1,0 +1,46 @@
+Hier sind 15 sachliche Frage-Antwort-Paare in deutscher Sprache, die direkt aus dem Text beantwortet werden können:
+
+1. Was ist die Behörde, die die Dokumentseite erstellt?
+Antwort: Die Behörde für Stadtentwicklung und Wohnen.
+
+2. Wie heißen die Straßen, auf denen sich die Adressen befinden?
+Antwort: Es finden sich folgende Straßennamen: Klipperweg, Klobbenheeg, Klophausring, Klöpperstieg, Klopstockplatz, Klopstockstraße, Klopstockterrasse, Klosterallee, Klostergarten, Klosterhagen, Klosterstern, Klosterstieg, Klosterwall, Klosterwisch, Klotzenmoor und Klövensteenweg.
+
+3. Wie viele Einträge sind in der Liste enthalten?
+Antwort: Es gibt 43 Einträge in der Liste.
+
+4. Was bedeutet das Zeichen "U" in der Spalte "Art"?
+Antwort: Das Zeichen "U" steht für ungerade Straße.
+
+5. Wie viele Sondereinträge ("S") sind in der Liste enthalten?
+Antwort: Es gibt 12 Sondereinträge ("S") in der Liste.
+
+6. Was ist das Kennwert-Wert-Feld in der Dokumentseite?
+Antwort: Das Kennwert-Wert-Feld enthält die Werte für den Wohnlagenkennwert.
+
+7. Welcher Eintrag hat den höchsten Wert im Kennwert-Wert-Feld?
+Antwort: Der Eintrag "Klostergarten 001" hat den höchsten Wert von 12,577.
+
+8. Welche Straße hat den niedrigsten Wert im Kennwert-Wert-Feld?
+Antwort: Die Straße "Klosterhagen 006" hat den niedrigsten Wert von -2,343.
+
+9. Wie viele Einträge haben eine negative Kennwerte-Zahl?
+Antwort: Es gibt 10 Einträge mit einer negativen Kennwerte-Zahl.
+
+10. Welche Straße hat den größten Unterschied zwischen zwei Werten im Kennwert-Wert-Feld?
+Antwort: Die Straße "Klosterallee" hat den größten Unterschied zwischen 5,832 und -2,411.
+
+11. Wie viele Einträge haben den Wert "normal-" in der Spalte "Wohnlage"?
+Antwort: Es gibt 7 Einträge mit dem Wert "normal-" in der Spalte "Wohnlage".
+
+12. Welcher Eintrag hat die höchste Kennwerte-Zahl in der Spalte "S gut-"?
+Antwort: Der Eintrag "Klosterstern 008" hat die höchste Kennwerte-Zahl von 11,819.
+
+13. Wie viele Einträge haben den Wert "gut-" in der Spalte "Wohnlage"?
+Antwort: Es gibt 25 Einträge mit dem Wert "gut-" in der Spalte "Wohnlage".
+
+14. Welche Straße hat den niedrigsten Kennwerte-Wert in der Spalte "U gut-"?
+Antwort: Die Straße "Klosterhagen" hat den niedrigsten Kennwerte-Wert von -2,536.
+
+15. Wie viele Einträge haben den Wert "ungerade" ("U") in der Spalte "Art"?
+Antwort: Es gibt 22 Einträge mit dem Wert "ungerade" ("U") in der Spalte "Art".

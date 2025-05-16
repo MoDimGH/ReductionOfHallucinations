@@ -1,0 +1,46 @@
+Here are 15 question-answer pairs based on the document:
+
+**1. What was the approach taken to determine the formula for the residential zones assignment?**
+Antwort: Die Ermittlung der Wohnlagenformel erfolgte unter der Prämisse, dass die bisherige Wohnlagenzuordnung der Blockseiten insgesamt einer konsistenten Systematik unterliegt und grundsätzlich zutreffend ist.
+
+**2. What was the goal of the formula determination?**
+Antwort: Die abschließende Berechnungsformel soll daher im Ergebnis für die Referenzgebiete eine hohe Übereinstimmung mit der bisherigen Einstufung aufweisen.
+
+**3. How was the residential zones formula determined?**
+Antwort: Die Wohnlagenformel wurde über das statistische Verfahren der logistischen Regression ermittelt (s. Exkurs S. 17).
+
+**4. What were the advantages of using logistic regression over discriminant analysis?**
+Antwort: Diese Vorgehensweise hat gegenüber der bisher eingesetzten Diskriminanzanalyse zwei Vorteile: Zum einen steht am Ende der Berechnungen nur eine Formel für den Wohnlagenwert... Zum anderen kann über den berechneten Wohnlagenwert auch innerhalb der Wohnlagen noch eine weitere Ausdifferenzierung der Wohnlagequalitäten erfolgen.
+
+**5. What was the dependent variable in the regression analysis?**
+Antwort: Die abhängige Variable ist die bestehende Wohnlagenkategorie in den Ausprägungen "Gut" und "Normal" für die Referenzgebiete.
+
+**6. What were the independent variables in the regression analysis?**
+Antwort: Die unabhängigen Variablen sind die in Kapitel 4.1 vorgestellten Merkmale bzw. Indikatoren.
+
+**7. How many of the 11 indicators were found to be suitable for the residential zones calculation?**
+Antwort: Nach Überprüfung von zahlreichen Merkmalskombinationen zeigt sich, dass neun der geprüften elf Indikatoren für die Wohnlagenberechnung geeignet waren.
+
+**8. Which two indicators were not considered further in the analysis?**
+Antwort: Nicht weiter berücksichtigt wurden die Indikatoren "Zentralität" und "Baumbestand".
+
+**9. Why were the indicators "Zentralität" and "Baumbestand" not considered further?**
+Antwort: Beide Indikatoren wiesen auf Basis der für die Berechnungen verfügbaren Daten keinen nennenswerten Einfluss auf und brachten somit keinen zusätzlichen Nutzen im Rahmen der Wohnlagenformel.
+
+**10. How many indicators were ultimately included in the final regression analysis?**
+Antwort: In die abschließende Fassung der Regressionsanalyse wurden somit neun Indikatoren einbezogen.
+
+**11. What is the purpose of the table showing the percentage contribution of each indicator to the residential zones evaluation?**
+Antwort: Der Anteil an der Wohnlagenbewertung zeigt die Bedeutung des jeweiligen Indikators für die Wohnlagebewertung.
+
+**12. Is there a high correlation between the calculated residential zones formula and the previous assignment categories?**
+Antwort: Die abschließende Berechnungsformel soll daher im Ergebnis für die Referenzgebiete eine hohe Übereinstimmung mit der bisherigen Einstufung aufweisen.
+
+**13. Can the calculated residential zones value be used to further differentiate within the residential zones?**
+Antwort: Ja, kann über den berechneten Wohnlagenwert auch innerhalb der Wohnlagen noch eine weitere Ausdifferenzierung der Wohnlagequalitäten erfolgen.
+
+**14. What is the advantage of using a single formula for the residential zones evaluation compared to previous approaches?**
+Antwort: Zum einen steht am Ende der Berechnungen nur eine Formel für den Wohnlagenwert... Damit konnte zwar zielsicher die Wohnlage bestimmt werden, die Nachvollziehbarkeit für Dritte war aber geringer und eine weitere Einordnung innerhalb der Wohnlagen aufgrund der Berechnungsergebnisse war nicht möglich.
+
+**15. Can the calculated residential zones value be used to improve the evaluation of individual residential zones within a given category?**
+Antwort: Ja, kann über den berechneten Wohnlagenwert auch innerhalb der Wohnlagen noch eine weitere Ausdifferenzierung der Wohnlagequalitäten erfolgen.

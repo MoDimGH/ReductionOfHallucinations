@@ -1,0 +1,46 @@
+Here are 15 question-answer pairs based on the document page:
+
+1. Frage: Was ist das Ziel des Datenbanksystems?
+Antwort: Das Ziel des Datenbanksystems ist es, eine effiziente und sichere Verwaltung von Daten zu ermöglichen.
+
+2. Frage: Welche Vorteile bietet ein Datenbanksystem?
+Antwort: Ein Datenbanksystem bietet eine Vielzahl an Vorteilen, wie z.B. die Verbesserung der Datensicherheit, die Erhöhung der Datenzugriffsgeschwindigkeit und die Vereinfachung der Datenverwaltung.
+
+3. Frage: Was ist ein Transaktionskonzept?
+Antwort: Ein Transaktionskonzept ist ein Verfahren, das es ermöglicht, eine Serie von Operationen als eine atomare Einheit auszuführen, sodass entweder alle Operationen erfolgreich durchgeführt werden oder keine Operationen durchgeführt werden.
+
+4. Frage: Was sind Locks?
+Antwort: Locks (Ausschluss) sind Mechanismen, die es ermöglichen, dass nur ein bestimmter Prozess auf eine Ressource zugreifen kann, um Konflikte zwischen verschiedenen Prozessen zu vermeiden.
+
+5. Frage: Welche drei Arten von Anfragen gibt es in einem Datenbanksystem?
+Antwort: In einem Datenbanksystem gibt es drei Arten von Anfragen: Read-Only-Anfragen, DML-Anfragen (Data Manipulation Language) und DDL-Anfragen (Data Definition Language).
+
+6. Frage: Was ist ein Index?
+Antwort: Ein Index ist ein Datenstruktur, die es ermöglicht, schnelle Suchen in einem Datenbanksystem durchzuführen.
+
+7. Frage: Welche Vorteile bietet ein Index?
+Antwort: Ein Index bietet die Vorteile, dass es schnelle Suchen ermöglicht und die Ausführung von Anfragen beschleunigt.
+
+8. Frage: Was ist eine Transaktion?
+Antwort: Eine Transaktion ist eine Serie von Operationen, die als eine atomare Einheit ausgeführt werden soll, sodass entweder alle Operationen erfolgreich durchgeführt werden oder keine Operationen durchgeführt werden.
+
+9. Frage: Welche Bedeutung hat die Kaskadenmethode in einem Datenbanksystem?
+Antwort: Die Kaskadenmethode ist ein Verfahren, das es ermöglicht, eine komplexe Transaktion in mehrere einfache Transaktionen aufzuteilen, um sicherzustellen, dass alle Operationen erfolgreich durchgeführt werden.
+
+10. Frage: Was ist ein Trigger?
+Antwort: Ein Trigger ist ein Mechanismus, der automatisch ausgeführt wird, wenn ein bestimmtes Ereignis im Datenbanksystem auftritt, wie z.B. wenn eine Zeile in einer Tabelle hinzugefügt oder gelöscht wird.
+
+11. Frage: Welche Bedeutung hat die Rollback-Funktion in einem Datenbanksystem?
+Antwort: Die Rollback-Funktion ist ein Verfahren, das es ermöglicht, eine Transaktion zu roll-backen, wenn etwas schief geht und alle Operationen rückgängig gemacht werden müssen.
+
+12. Frage: Was sind Stored Procedures?
+Antwort: Stored Procedures sind vordefinierte Prozeduren, die in einem Datenbanksystem abgelegt sind und von Anwendungen aufgerufen werden können.
+
+13. Frage: Welche Vorteile bietet eine Stored Procedure?
+Antwort: Eine Stored Procedure bietet die Vorteile, dass es schnelle und effiziente Ausführung von Prozeduren ermöglicht und die Datenverwaltung vereinfacht.
+
+14. Frage: Was ist ein View?
+Antwort: Ein View ist eine virtuelle Tabelle, die aus den Daten einer anderen Tabelle besteht und spezielle Operationen auf die ursprüngliche Tabelle anwendet.
+
+15. Frage: Welche Vorteile bietet ein View?
+Antwort: Ein View bietet die Vorteile, dass es ermöglicht, komplexe Sichtbarkeiten auf die Daten zu definieren und die Datenverwaltung zu vereinfachen.

@@ -1,0 +1,46 @@
+Hier sind 15 sachliche Frage-Antwort-Paare in deutscher Sprache direkt aus dem Text:
+
+1. Was ist die Adresse des Behörde für Stadtentwicklung und Wohnen?
+Antwort: Straße Hausnr. Art* Wohnlage Wohnlagen-kennwert (nicht speziell eine Adresse, sondern ein Dokumententitel)
+
+2. Wie heißen die Straßen in der Liste?
+Antwort: Stader Straße, Stadionstraße, Stadtbahnstraße, Stadthausbrücke, Stadtweg, Stahltwiete, Stakenkamp, Stammannstraße und Stangestraße
+
+3. Was bedeutet "U" in der Spalte "Art*"?
+Antwort: U steht für ungerade (ungeradige Adresse)
+
+4. Wie viele verschiedene Straßen werden in der Liste genannt?
+Antwort: 15 verschiedene Straßen werden in der Liste genannt.
+
+5. Welche Straße hat die höchste Kennwert-Wertung (-11,781)?
+Antwort: Stader Straße 338-344
+
+6. Was bedeutet "G" in der Spalte "Art*"?
+Antwort: G steht für gerade (geradige Adresse)
+
+7. Welche Straße hat den günstigsten Kennwert-Wert (-10,014)?
+Antwort: Stadthausbrücke 008b-008b
+
+8. Wie viele Straßen haben eine gut-Wertung (>0)?
+Antwort: 14 Straßen haben eine gut-Wertung.
+
+9. Welche Straße hat die schlechteste Kennwert-Wertung (-7,258)?
+Antwort: Stader Straße 206-216
+
+10. Wie viele Straßen haben eine normal-Wertung (=0)?
+Antwort: 8 Straßen haben eine normal-Wertung.
+
+11. Welche Straße hat den höchsten Kennwert-Wert (1,206)?
+Antwort: Stadtbahnstraße 106-110
+
+12. Was bedeutet "S" in der Spalte "Art*"?
+Antwort: S steht für Sonderfälle (ungeradige oder fortlaufende Numerierung)
+
+13. Wie viele Straßen haben eine gut-Wertung (<1)?
+Antwort: 9 Straßen haben eine gut-Wertung.
+
+14. Welche Straße hat den niedrigsten Kennwert-Wert (-4,883)?
+Antwort: Stahltwiete 001-019c
+
+15. Wie viele Straßen haben eine ungerade Adresse?
+Antwort: 11 Straßen haben eine ungerade Adresse.

@@ -1,0 +1,46 @@
+Here are 15 question-answer pairs in German, based on the provided document page:
+
+1. Was bedeutet der Statusindex?
+Antwort: Der Statusindex gibt den dimensionslosen Statuswert eines statistischen Gebietes an, ohne einen prozentualen Anteil auszudrücken.
+
+2. Wie wird der Statusindex für eine Adresse berechnet?
+Antwort: Zunächst wird dem Adressen der Statuswert des Statistischen Gebietes zugespielt, in dem die Adresse liegt. Dann wird durch Glättung über die umliegenden zehn Adressen ein Mittelwert ermittelt.
+
+3. Was ist der Bodenrichtwert?
+Antwort: Der Bodenrichtwert erfasst den Normschichtwert "Wohnen" (Bodenrichtwert für Wohnnutzung, umgerechnet auf eine WGFZ von 1,0) in Euro pro Quadratmeter Grundstücksfläche auf Ebene der Bodenrichtwertzonen.
+
+4. Wie wird der Bodenrichtwert berechnet?
+Antwort: Der Bodenrichtwert wird jährlich durch den Gutachterausschuss der Hansestadt Hamburg berechnet und mittels einer räumlichen Verschneidung der Datensätze mittels eines Geoinformationssystems (GIS) übernommen.
+
+5. Was ist der Grünflächenanteil?
+Antwort: Der Grünflächenanteil beschreibt den Anteil öffentlicher Grünflächen in Prozent innerhalb eines fußläufigen Einzugsbereichs von 800 m pro Adresse.
+
+6. Wie wird der Grünflächenanteil berechnet?
+Antwort: Der Grünflächenanteil wurde durch Ordnen der zugrundeliegenden Grünflächen anhand des Grünplans der Stadt Hamburg und mittels eines Geoinformationssystems zugeordnet.
+
+7. Was ist die Einwohnerdichte?
+Antwort: Die Einwohnerdichte beschreibt das Verhältnis von Einwohnern zu Wohngebäuden auf Ebene des Statistischen Gebietes.
+
+8. Wie wird die Einwohnerdichte berechnet?
+Antwort: Die Einwohnerdichte wurde über die Maßzahl "Einwohner pro Wohngebäude" berechnet, wobei die Zahl der Einwohner ins Verhältnis zur Anzahl der Gebäude mit Wohnnutzung gesetzt wurde.
+
+9. Warum ist eine reine Betrachtung der Einwohnerzahl nicht sinnvoll?
+Antwort: Eine reine Betrachtung der Einwohnerzahl ist aufgrund des unterschiedlichen Zuschnittes der Statistischen Gebiete nicht sinnvoll, da dies zu Fehlinterpretationen führen könnte.
+
+10. Wer sind die Datenquellen für die Einwohnerdichte?
+Antwort: Die Datenquellen für die Einwohnerdichte sind das Statistikamt Nord und der Landesbetrieb Geoinformation und Vermessung (LGV).
+
+11. Wie wird jeder Adressenwert bestimmt?
+Antwort: Jeder Adresse wurde zunächst der Wert des Statistischen Gebietes zugespielt, in dem die Adresse liegt, und anschließend eine Glättung über die umliegenden zehn Adressen vollzogen.
+
+12. Wie wird der Statusindex für Grenzlagen reduziert?
+Antwort: Der Statusindex wurde für den Indicator "Statusindex" durch Berechnung des Mittelwerts der umliegenden zehn Adressen ermittelt, um die Grenzbereiche der Statistischen Gebiete zu glätten.
+
+13. Was ist das Ziel bei der Berechnung von Bodenrichtwerten?
+Antwort: Das Ziel bei der Berechnung von Bodenrichtwerten ist es, die auf kleinräumiger Ebene bestehenden hohen Volatilitäten zu verringern, indem die Bodenrichtwerte der letzten drei verfügbaren Jahre gemittelt werden.
+
+14. Was sind die Datenquellen für den Bodenrichtwert?
+Antwort: Die Datenquelle für den Bodenrichtwert ist der Gutachterausschuss der Hansestadt Hamburg.
+
+15. Wie wird die räumliche Verschneidung der Datensätze durchgeführt?
+Antwort: Die räumliche Verschneidung der Datensätze wird mittels eines Geoinformationssystems (GIS) durchgeführt, um die Übernahme von Bodenrichtwerten in die Adressendatenbank zu ermöglichen.

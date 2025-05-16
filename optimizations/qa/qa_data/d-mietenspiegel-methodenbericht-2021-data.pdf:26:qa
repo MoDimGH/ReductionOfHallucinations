@@ -1,0 +1,46 @@
+Hier sind 15 sachliche Frage-Antwort-Paare in deutscher Sprache, die direkt aus dem Text beantwortet werden können:
+
+1. Was ist der Zweck der Datenbereinigung im Hamburger Mietenspiegel?
+Antwort: Die Daten bereinigung erfolgte, um plausibele und mietenspiegelrelevante Datensätze zu erzeugen.
+
+2. Welche Filterfragen wurden bei der Erstellung des Mietenspiegels verwendet?
+Antwort: Es wurden keine konkreten Filterfragen genannt, aber es wird erwähnt, dass Wohnungen mit zu kleiner Wohnfläche aussortiert wurden.
+
+3. Wie viele Datensätze blieben nach der IT-gestützten Plausibilitätskontrolle und Aussortierung von Wohnungen mit zu kleiner Wohnfläche?
+Antwort: 13.923 Datensätze blieben.
+
+4. Warum wurden die Spalte B im Datenpool reduziert?
+Antwort: Die Spalte B wurde aufgrund zu niedrigen Rücklaufs und abweichender Antworten bezüglich der Minderausstattungen in den Fällen, in denen Kontrollbefragungen vorlagen, reduziert.
+
+5. Wie viele vollgültige Datensätze wurden in die Mietenspiegeltabelle einfließen?
+Antwort: 13.556 vollgültige Datensätze wurden in die Mietenspiegeltabelle einfließen.
+
+6. Wie viele vollgültige Mieter-Interviews wurden in die Mietenspiegeltabelle einfließen?
+Antwort: 5.406 vollgültige Mieter-Interviews wurden in die Mietenspiegeltabelle einfließen.
+
+7. Was sind die Gründe, die zu einem Ausschluss von Datensätzen geführt haben?
+Antwort: Die Gründe sind: Es bestand kein Mietverhältnis, Mietverträge außerhalb der 6-Jahresregel, fehlende oder falsche Angaben zum Baualter, unplausible Mietangaben, Wohnfläche kleiner als 25 m² und unlogische Datenkombinationen.
+
+8. Wie viele Datensätze wurden gekennzeichnet und in den weiteren Arbeitsschritten nicht mehr berücksichtigt?
+Antwort: 9.594 Datensätze wurden gekennzeichnet und in den weiteren Arbeitsschritten nicht mehr berücksichtigt.
+
+9. Warum wurde die Zahl der Kontrollbefragungen im Hamburger Mietenspiegel höher als in vergangenen Mietenspiegeln?
+Antwort: Die Zahl der Kontrollbefragungen fiel höher aus, weil eine Befragung durch Interviewerinnen und Interviewer für den Hamburger Mietenspiegel nicht möglich war.
+
+10. Was ist die Funktion einer Überprüfung der Angaben auf der jeweils anderen Vertragsseite?
+Antwort: Die Überprüfung dient dazu, die Plausibilität von Daten zu überprüfen und Unstimmigkeiten zu klären.
+
+11. Wie viele Wohnungsdatensätze wurden in Kontrollbefragungen erneut abgefragt?
+Antwort: Es wurden insbesondere die Wohnungen in Kontrollbefragungen erneut abgefragt, für die eine Minderausstattung vorlag.
+
+12. Warum wurde der Datenpool reduziert, um die Ausreißerwerte zu entfernen?
+Antwort: Der Datenpool wurde reduziert, um die Ausreißerwerte zu entfernen und die Plausibilität von Daten zu überprüfen.
+
+13. Wie viele Datensätze wurden nach der Zusammenfassung der Daten und den Überprüfungen zur Vollständigkeit und Plausibilität bereinigt?
+Antwort: Es werden keine konkreten Zahlen genannt, aber es wird erwähnt, dass die von ALP auf inhaltliche Plausibilität überprüften und Unstimmigkeiten geklärten Daten verwendet wurden.
+
+14. Was sind die Voraussetzungen für die Einordnung in das Mietenspiegelraster?
+Antwort: Die Voraussetzungen sind fehlende oder falsche Angaben zur Miete, der Wohnfläche oder zu Ausstattungsmerkmalen, die für die Einordnung in das Mietenspiegelraster notwendig sind.
+
+15. Warum wurde die IT-gestützte Datenbereinigung durchgeführt?
+Antwort: Die IT-gestützte Datenbereinigung wurde durchgeführt, um plausibele und mietenspiegelrelevante Datensätze zu erzeugen.
