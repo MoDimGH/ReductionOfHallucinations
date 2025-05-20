@@ -1,5 +1,7 @@
 import argparse
 
+from benchmarking import generate_ragas_dataset
+
 
 def main():
     parser = argparse.ArgumentParser(description="RAG-Pipeline CLI")
@@ -41,9 +43,9 @@ def main():
             from scraping import scrape
             scrape.main()
         elif args.step == "create_testset":
-            from benchmarking import gather_usecase_groups, create_ragas_dataset
+            from benchmarking import gather_usecase_groups
             gather_usecase_groups.main()
-            create_ragas_dataset.main()
+            generate_ragas_dataset.main()
         elif args.step == "update_database":
             from rag_pipeline import populate_database
             populate_database.main(reset=args.reset)
