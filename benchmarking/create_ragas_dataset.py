@@ -9,6 +9,8 @@ from ragas.testset import TestsetGenerator
 from langchain_ollama import ChatOllama
 from langchain_ollama import OllamaEmbeddings
 from ragas.testset.synthesizers.single_hop.specific import SingleHopSpecificQuerySynthesizer
+from ragas.testset.synthesizers.multi_hop.specific import MultiHopSpecificQuerySynthesizer
+
 from ragas.testset.persona import Persona
 import json
 import asyncio
@@ -69,7 +71,10 @@ def setup_models(model=MODEL):
     ragas_llm = LangchainLLMWrapper(langchain_llm=langchain_llm)
     ragas_embedding = LangchainEmbeddingsWrapper(embeddings=langchain_embeddings)
 
-    distribution = [(SingleHopSpecificQuerySynthesizer(llm=ragas_llm), 1.0)]
+    distribution = [
+        (SingleHopSpecificQuerySynthesizer(llm=ragas_llm), 0.6),
+        (MultiHopSpecificQuerySynthesizer(llm=ragas_llm), 0.4),
+    ]
 
     async def set_prompts_for_distribution():
         for query, _ in distribution:
