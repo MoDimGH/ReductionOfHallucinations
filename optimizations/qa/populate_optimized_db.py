@@ -19,7 +19,7 @@ def clean_db():
 def main(reset=False):
     print("Lade Dokumente...")
     data_docs = load_documents(DATA_PATH)
-    qa_docs = load_documents(QA_DATA_PATH)
+    qa_docs = load_documents(QA_DATA_PATH, "*")
     documents = data_docs + qa_docs
     print(f"Dokumente erfolgreich geladen ({len(data_docs)} + {len(qa_docs)})")
 
