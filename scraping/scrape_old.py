@@ -3,14 +3,14 @@
 import os
 import time
 import re
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from urllib.parse import urljoin, urlparse
 import requests
 from bs4 import BeautifulSoup
 import json
 from markdownify import MarkdownConverter
-from tqdm import tqdm
 
-from rag_pipeline.constants import DATA_PATH, SCRAPED_URLS_FILE, SCRAPED_BROKEN_LINKS_FILE, DATASET_SOURCES_PATH
+from rag_pipeline.constants import DATA_PATH, SCRAPED_URLS_FILE, SCRAPED_BROKEN_LINKS_FILE
 
 
 visited = set()
@@ -36,12 +36,12 @@ def get_pdf_filename(url):
     return sanitize_filename(name) + '.pdf'
 
 
-def save_pdf(filename, usecase, content):
-    with open(os.path.join(DATA_PATH, usecase, filename), "wb") as f:
+def save_pdf(filename, content):
+    with open(os.path.join(DATA_PATH, filename), "wb") as f:
         f.write(content)
 
 
-def save_as_md(article, usecase, filename):
+def save_as_md(article, filename):
     # soup zu markdown konviertieren
     md_text = MarkdownConverter().convert_soup(article)
 
@@ -51,7 +51,7 @@ def save_as_md(article, usecase, filename):
     md_text = md_text.replace("[# \n", "# [")
 
     # Erstellung der output markdown datei
-    with open(os.path.join(DATA_PATH, usecase, filename), 'w', encoding='utf-8') as out_f:
+    with open(os.path.join(DATA_PATH, filename), 'w', encoding='utf-8') as out_f:
         out_f.write(md_text)
 
 
@@ -78,7 +78,7 @@ def clean_soup(soup):
     return soup.main
 
 
-def process_new_url(url, usecase, new_url):
+def process_new_url(url, depth, new_url):
     absolute_link = urljoin(url, new_url['href'])
     absolute_link = absolute_link.strip()
     absolute_link = absolute_link.split('#')[0]  # Remove anchors
@@ -88,61 +88,71 @@ def process_new_url(url, usecase, new_url):
 
     if (urlparse(absolute_link).netloc != urlparse(url).netloc and "https://fhh" not in absolute_link) or absolute_link in visited:
         return
-    
-    if absolute_link[-4:] != ".pdf":
-        return
 
-    scrape(absolute_link, usecase)
+    if 'https://www.hamburg.de/service/' in absolute_link:
+        scrape(absolute_link, 0)
+    else:
+        scrape(absolute_link, depth + 1)
 
 
-def scrape(url, usecase):
+def scrape(url, depth=0, max_depth=2):
+    print(f"{'  ' * depth}{url}")
     visited.add(url)
 
     try:
         response = requests.get(url, timeout=5)
         if response.status_code != 200:
-            raise Exception(f"Error - Response Code {response.status_code}")
+            broken_urls.add(url)
+            return
 
         if url[-4:] == ".pdf":
             filename = get_pdf_filename(url[:-4])
-            save_pdf(filename, usecase, response.content)
+            save_pdf(filename, response.content)
             return
         
         soup = BeautifulSoup(response.text, 'html.parser')
         article = clean_soup(soup)
 
-        if article is None:
+        if depth >= max_depth or article is None:
             return
         
         filename = get_md_filename(soup.title, url)
-        save_as_md(article, usecase, filename)
+        save_as_md(article, filename)
         
         new_urls = article.find_all('a', href=True)
-        for new_url in new_urls:
-            process_new_url(url, usecase, new_url)
+        with ThreadPoolExecutor(max_workers=8) as executor:
+            futures.extend([executor.submit(lambda x: process_new_url(url, depth, x), new_url) for new_url in new_urls])
         
     except Exception as e:
         print(f"Error scraping {url}: {e}")
         broken_urls.add(url)
 
-def load_source_urls():
-    with open(DATASET_SOURCES_PATH) as f:
-        return json.load(f)
+
+def export_urls_to_json(filename=SCRAPED_URLS_FILE):
+    with open(filename, 'w', encoding='utf-8') as f:
+        json.dump(visited, f, indent=4)
+
+    with open(SCRAPED_BROKEN_LINKS_FILE, 'w') as f:
+        json.dump(broken_urls, f)
+
+    print(f"Url list exported to {filename}")
+
 
 """
-    Scrapes all urls for each usecase
+    Scrapes all urls under hamburg.de/service/, including containing pdf files and linked webpages of hamburg.de
 """
 def main():
-    source_urls = load_source_urls()
+    # Example usage:
+    start_url = 'https://www.hamburg.de/service/'
+    scrape(start_url)
+    export_urls_to_json()
 
-    for usecase, urls in source_urls.items():
-        for url in tqdm(urls, desc=usecase):
-            scrape(url, usecase)
-            time.sleep(0.1)
-        for url in set(broken_urls):
-            scrape(url, usecase)
-            time.sleep(0.1)
-        broken_urls.clear()
+    while(True):
+        for future in as_completed(futures):
+            print(future.result())
+        time.sleep(0.5)
+        if len(futures) == 0:
+            return
 
 
 if __name__ == "__main__":
