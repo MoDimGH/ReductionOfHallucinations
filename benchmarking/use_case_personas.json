@@ -1,28 +1,27 @@
 {
   "meldebescheinigung": {
-      "name": "Arbeitnehmer für Meldebescheinigung",
-      "role_description": "Ein Arbeitnehmer, der eine aktuelle Meldebescheinigung für seinen Arbeitgeber oder das Finanzamt benötigt und alles über den Prozess erfahren möchte, um die Bescheinigung schnell und korrekt zu erhalten.",
-      "reference_dir": "./scraping/dataset/meldebescheinigung"
-    },
+    "name": "Arbeitnehmer für Meldebescheinigung",
+    "role_description": "Ein Arbeitnehmer, der eine aktuelle Meldebescheinigung für seinen Arbeitgeber oder das Finanzamt benötigt und alles über den Prozess erfahren möchte, um die Bescheinigung schnell und korrekt zu erhalten.",
+    "reference_dir": "./scraping/dataset/meldebescheinigung"
+  },
   "wohnsitz_umzug": {
-      "name": "Neuer Stadtteilbewohner",
-      "role_description": "Eine Person, die kürzlich in einen anderen Stadtteil gezogen ist und nun die Umzugsmeldung durchführen muss. Sie möchte wissen, wie der Prozess der Ummeldung funktioniert, was dafür notwendig ist und welche Fristen zu beachten sind.",
-      "reference_dir": "./scraping/dataset/wohnsitz_umzug"
-    },
+    "name": "Neuer Stadtteilbewohner",
+    "role_description": "Eine Person, die kürzlich in einen anderen Stadtteil gezogen ist und nun die Umzugsmeldung durchführen muss. Sie möchte wissen, wie der Prozess der Ummeldung funktioniert, was dafür notwendig ist und welche Fristen zu beachten sind.",
+    "reference_dir": "./scraping/dataset/wohnsitz_umzug"
+  },
   "gewerbe": {
-      "name": "Kleingewerbetreibender",
-      "role_description": "Ein Gründer oder Unternehmer, der ein Kleingewerbe anmelden oder sein bestehendes Gewerbe abmelden möchte. Er ist interessiert an den genauen rechtlichen Anforderungen, Formulare und Antragsverfahren für die Anmeldung oder Abmeldung seines Gewerbes.",
-      "reference_dir": "./scraping/dataset/gewerbe"
-    },
+    "name": "Kleingewerbetreibender",
+    "role_description": "Ein Gründer oder Unternehmer, der ein Kleingewerbe anmelden oder sein bestehendes Gewerbe abmelden möchte. Er ist interessiert an den genauen rechtlichen Anforderungen, Formulare und Antragsverfahren für die Anmeldung oder Abmeldung seines Gewerbes.",
+    "reference_dir": "./scraping/dataset/gewerbe"
+  },
   "personalausweis": {
-      "name": "Personalausweis erneuerer",
-      "role_description": "Eine Person, deren Personalausweis bald abläuft und die einen neuen Ausweis beantragen muss. Sie möchte wissen, wie der Antrag abläuft, welche Unterlagen erforderlich sind und wie lange der Prozess dauert.",
-      "reference_dir": "./scraping/dataset/personalausweis"
-    },
+    "name": "Personalausweis erneuerer",
+    "role_description": "Eine Person, deren Personalausweis bald abläuft und die einen neuen Ausweis beantragen muss. Sie möchte wissen, wie der Antrag abläuft, welche Unterlagen erforderlich sind und wie lange der Prozess dauert.",
+    "reference_dir": "./scraping/dataset/personalausweis"
+  },
   "kfz": {
-      "name": "Autokäufer/Verkäufer",
-      "role_description": "Eine Person, die kürzlich ein Auto gekauft oder verkauft hat und nun die Ummeldung des Fahrzeugs vornehmen muss. Sie möchte wissen, welche Dokumente notwendig sind, wie lange es dauert und welche Gebühren dabei anfallen.",
-      "reference_dir": "./scraping/dataset/kfz"
-    }
+    "name": "Autokäufer/Verkäufer",
+    "role_description": "Eine Person, die kürzlich ein Auto gekauft oder verkauft hat und nun die Ummeldung des Fahrzeugs vornehmen muss. Sie möchte wissen, welche Dokumente notwendig sind, wie lange es dauert und welche Gebühren dabei anfallen.",
+    "reference_dir": "./scraping/dataset/kfz"
   }
-  
+}
