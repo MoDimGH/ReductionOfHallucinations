@@ -93,12 +93,12 @@ def main():
     ragas_llm, ragas_embedding, distribution = setup_models()
     usecase_personas = load_personas(USECASES_PERSONAS_PATH)
 
-    for usecase_ix, persona in usecase_personas.items():
+    for usecase, persona in usecase_personas.items():
         name = persona.get("name")
         role_description = persona.get("role_description")
         reference_dir = persona.get("reference_dir")
 
-        print(f"Generating Testset for usecase {usecase_ix}: \"{name}\"...")
+        print(f"Generating Testset for usecase \"{usecase}\"...")
 
         docs = load_documents(reference_dir)
         persona_list = [
@@ -109,7 +109,7 @@ def main():
         ]
 
         df = generate_testset(docs, ragas_llm, ragas_embedding, distribution, persona_list, testset_size=TESTSET_SIZE_PER_USECASE)
-        df.to_json(os.path.join(TESTSET_PATH, os.path.basename(reference_dir) + ".json"), orient="records", indent=2, force_ascii=False)
+        df.to_json(os.path.join(TESTSET_PATH, usecase + ".json"), orient="records", indent=2, force_ascii=False)
 
 
 if __name__ == "__main__":
