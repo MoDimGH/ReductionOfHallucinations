@@ -14,8 +14,9 @@ SCRAPED_BROKEN_LINKS_FILE = './scraping/broken_links.json'
 # Testset constants
 TESTSET_PATH = "./benchmarking/testset"
 USECASES_PERSONAS_PATH = "./benchmarking/use_case_personas.json"
-TESTSET_SIZE_PER_USECASE = 50
-TESTSET_MODEL = "llama3:70b"
+KNOWLEDGE_GRAPH_PATH = './benchmarking/knowledge_graph.json'
+TESTSET_SIZE_PER_USECASE = 250
+TESTSET_MODEL = "mistral-nemo" # "llama3:70b"
 
 # Optimizations constants
 QA_DATA_PATH = "./optimizations/qa/qa_data"
@@ -24,8 +25,10 @@ QA_DATA_PATH = "./optimizations/qa/qa_data"
 RETRIEVAL_MODEL, GENERATION_MODEL = "llama3", "llama3"
 
 # Usecases
+"""
 UC_MELDEBESCHEINIGUNG = "meldebescheinigung"
 UC_WOHNSITZ_UMZUG = "wohnsitz_umzug"
 UC_GEWERBE = "gewerbe"
 UC_PERSONALAUSWEIS = "personalausweis"
 UC_KFZ = "kfz"
+"""

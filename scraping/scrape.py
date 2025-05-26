@@ -97,7 +97,7 @@ def process_new_url(url, usecase, new_url):
 
 def scrape(url, usecase):
     visited.add(url)
-
+    
     try:
         response = requests.get(url, timeout=5)
         if response.status_code != 200:

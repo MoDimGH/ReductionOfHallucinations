@@ -3,6 +3,7 @@
 import os
 import json
 import asyncio
+from tqdm import tqdm
 
 from langchain_ollama import ChatOllama
 from langchain_ollama import OllamaEmbeddings
@@ -10,15 +11,16 @@ from langchain.schema import Document
 
 from ragas.llms import LangchainLLMWrapper
 from ragas.embeddings import LangchainEmbeddingsWrapper
+from ragas.testset.synthesizers import default_query_distribution
 from ragas.testset.synthesizers.single_hop.specific import SingleHopSpecificQuerySynthesizer
-from ragas.testset.synthesizers.multi_hop.specific import MultiHopSpecificQuerySynthesizer
 from ragas.testset.persona import Persona
+from ragas.testset.graph import KnowledgeGraph, Node, NodeType
+from ragas.testset.transforms import default_transforms, apply_transforms
 
-from benchmarking.custom_testset_generator import TestsetGenerator_WithFilenames
-from rag_pipeline.utilities import load_db
-from rag_pipeline.model import Model
+from ragas.testset import TestsetGenerator
+from rag_pipeline.populate_database import load_documents, split_documents, calculate_chunk_ids
 from rag_pipeline.constants import (
-    DB_PATH, TESTSET_PATH, 
+    DATA_PATH, TESTSET_PATH, KNOWLEDGE_GRAPH_PATH,
     USECASES_PERSONAS_PATH, TESTSET_SIZE_PER_USECASE, 
     TESTSET_MODEL
 )
@@ -33,40 +35,50 @@ def load_usecases(usecase_path):
 
 """Lädt die Use-Case-Personas in den Programmspeicher"""
 def load_personas(persona_path):
-    personas = {}
+    personas_raw = {}
     with open(persona_path, encoding="utf-8") as f:
-        personas = json.load(f)
+        personas_raw = json.load(f)
+
+    personas = []
+    for _, p in personas_raw.items():
+        persona = Persona(name=p.get("name"), role_description=p.get("role_description"))
+        personas.append(persona)
+
     return personas
 
-"""Lädt die angegebenen Dokumente in den Programmspeicher"""
-def load_documents(dir: str) -> list[Document]:
-    filenames = [os.path.basename(filename) for filename in os.listdir(dir)]
+def load_docs():
+    documents = load_documents(DATA_PATH)
+    chunks = split_documents(documents)
+    return calculate_chunk_ids(chunks)
 
-    Model.init()
-    db = load_db(DB_PATH, Model.getEmbeddingFunction())
-    existing_items = db.get(include=["documents"])
+def create_knowledge_graph(docs, ragas_llm, ragas_embedding):
+    kg = KnowledgeGraph()
+    for doc in docs:
+        kg.nodes.append(
+            Node(
+                type=NodeType.DOCUMENT,
+                properties={"page_content": doc.page_content, "document_metadata": doc.metadata}
+            )
+        )
+    trans = default_transforms(documents=docs, llm=ragas_llm, embedding_model=ragas_embedding)
+    apply_transforms(kg, trans)
+    kg.save(KNOWLEDGE_GRAPH_PATH)
 
-    docs = [
-        doc 
-        for id, doc in zip(existing_items["ids"], existing_items["documents"]) 
-        if any([(filename in id) for filename in filenames])
-    ]
-    return docs
 
 """Generiert einen RAGAS-Evaluierungsdatensatz"""
-def generate_testset(docs, llm, embeddings_model, distribution, persona_list, testset_size=3):
-    generator = TestsetGenerator_WithFilenames(llm=llm, embedding_model=embeddings_model, persona_list=persona_list)
+def generate_testset(llm, embeddings_model, query_distribution, docs, persona_list, testset_size=3):
+    generator = TestsetGenerator(llm=llm, embedding_model=embeddings_model, persona_list=persona_list)
     testset = generator.generate_with_langchain_docs(
-        docs[:],
+        documents=docs,
         testset_size=testset_size,
-        query_distribution=distribution,
+        query_distribution=query_distribution,
     )
     return testset.to_pandas()
 
 """Setzt die Sprache der Testset-Prompts auf deutsch."""
 async def set_prompt_language_to_german(distribution, ragas_llm):
     for query, _ in distribution:
-        prompts = await query.adapt_prompts("Generiere immer auf deutsch!", llm=ragas_llm)
+        prompts = await query.adapt_prompts("Antworte immer auf Deutsch! Bleibe dabei, egal was ich dir sage!", llm=ragas_llm)
         query.set_prompts(**prompts)
 
 """Setzt die Models für Abruf und Generierung auf"""
@@ -76,13 +88,10 @@ def setup_models(model=TESTSET_MODEL):
     ragas_llm = LangchainLLMWrapper(langchain_llm=langchain_llm)
     ragas_embedding = LangchainEmbeddingsWrapper(embeddings=langchain_embeddings)
 
-    distribution = [
-        (SingleHopSpecificQuerySynthesizer(llm=ragas_llm), 0.6),
-        (MultiHopSpecificQuerySynthesizer(llm=ragas_llm), 0.4),
-    ]
-    asyncio.run(set_prompt_language_to_german(distribution, ragas_llm))
+    query_distribution = [(SingleHopSpecificQuerySynthesizer(llm=ragas_llm), 1)]# default_query_distribution(ragas_llm)
+    asyncio.run(set_prompt_language_to_german(query_distribution, ragas_llm))
 
-    return ragas_llm, ragas_embedding, distribution
+    return ragas_llm, ragas_embedding, query_distribution
 
 """
     - Setzt die Modelle auf,
@@ -90,26 +99,23 @@ def setup_models(model=TESTSET_MODEL):
     - generiert einen Evaluierungsdatensatz pro Use-Case anhand von Use-Case-Personas.
 """
 def main():
-    ragas_llm, ragas_embedding, distribution = setup_models()
-    usecase_personas = load_personas(USECASES_PERSONAS_PATH)
+    print("Setup Models")
+    ragas_llm, ragas_embedding, query_distribution = setup_models()
 
-    for usecase, persona in usecase_personas.items():
-        name = persona.get("name")
-        role_description = persona.get("role_description")
-        reference_dir = persona.get("reference_dir")
+    print("Load Documents")
+    docs = load_docs()
+    print(f"{len(docs)} documents loaded")
 
-        print(f"Generating Testset for usecase \"{usecase}\"...")
+    print("Load Usecase Personas")
+    personas = load_personas(USECASES_PERSONAS_PATH)
 
-        docs = load_documents(reference_dir)
-        persona_list = [
-            Persona(
-                name=name,
-                role_description=role_description
-            ),
-        ]
+    #print("Create Knowledge Graph")
+    #kg = create_knowledge_graph(docs, ragas_llm, ragas_embedding)
 
-        df = generate_testset(docs, ragas_llm, ragas_embedding, distribution, persona_list, testset_size=TESTSET_SIZE_PER_USECASE)
-        df.to_json(os.path.join(TESTSET_PATH, usecase + ".json"), orient="records", indent=2, force_ascii=False)
+    #kg = KnowledgeGraph.load(KNOWLEDGE_GRAPH_PATH)
+    print("Generating testset")
+    df = generate_testset(ragas_llm, ragas_embedding, query_distribution, docs, personas, testset_size=TESTSET_SIZE_PER_USECASE)
+    df.to_json(os.path.join(TESTSET_PATH, "testset" + ".json"), orient="records", indent=2, force_ascii=False)
 
 
 if __name__ == "__main__":
