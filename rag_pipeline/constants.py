@@ -13,10 +13,12 @@ SCRAPED_BROKEN_LINKS_FILE = './scraping/broken_links.json'
 
 # Testset constants
 TESTSET_PATH = "./benchmarking/testset"
+TESTSET_DB_PATH = "./benchmarking/dbs"
 USECASES_PERSONAS_PATH = "./benchmarking/use_case_personas.json"
 KNOWLEDGE_GRAPH_PATH = './benchmarking/knowledge_graph.json'
 TESTSET_SIZE_PER_USECASE = 250
-TESTSET_MODEL = "mistral-nemo" # "llama3:70b"
+TESTSET_GENERATION_MODEL = "mistral-nemo"
+TESTSET_EMBEDDING_MODEL = "bge-large"
 
 # Optimizations constants
 QA_DATA_PATH = "./optimizations/qa/qa_data"

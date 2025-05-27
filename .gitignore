@@ -10,3 +10,4 @@ optimizations/qa/db
 optimizations/qa/db_full
 optimizations/hybrid_search/bm25_index
 optimizations/hybrid_search/bm25_index_full
+benchmarking/db

@@ -47,8 +47,9 @@ def split_documents(documents: list[Document]):
 
 
 """Fügt die angegebenen Dokumentenabschnitte zur Chroma-Datenbank hinzu"""
-def add_to_db(chunks_with_ids: list[Document], db_path=DB_PATH):
-    db = load_db(db_path, Model.getEmbeddingFunction())
+def add_to_db(chunks_with_ids: list[Document], db_path=DB_PATH, embedding_model=None):
+    embedding_model = embedding_model or Model.getEmbeddingFunction()
+    db = load_db(db_path, embedding_model)
 
     existing_items = db.get(include=[])
     # print(existing_items)
@@ -110,9 +111,9 @@ def calculate_chunk_ids(chunks):
 
 
 """Löscht die gesamte Datenbank"""
-def clear_database():
-    if os.path.exists(DB_PATH):
-        shutil.rmtree(DB_PATH)
+def clear_database(db_path=DB_PATH):
+    if os.path.exists(db_path):
+        shutil.rmtree(db_path)
 
 
 """Löscht alle Abschnitte des angegebenen Dokuments aus der Datenbank"""
