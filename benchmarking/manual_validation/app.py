@@ -201,7 +201,8 @@ def main():
 if __name__ == "__main__":
     # Model.init()
     DataHandler.init()
-    st.session_state['current_i'] = 0
+    if 'current_i' not in st.session_state:
+        st.session_state['current_i'] = 0
     main()
 
 
