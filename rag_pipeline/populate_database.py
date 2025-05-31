@@ -32,7 +32,7 @@ def add_files(path_to_data_dir):
 def load_documents(path_to_dir, glob="*.md"):
     md_document_loader = DirectoryLoader(path_to_dir, recursive=True, glob=glob)
     pdf_document_loader = PyPDFDirectoryLoader(path_to_dir, recursive=True)
-    return md_document_loader.load() + pdf_document_loader.load()
+    return md_document_loader.load() #+ pdf_document_loader.load()
 
 
 """Unterteilt die angegebenen Dokumente in Abschnitte"""

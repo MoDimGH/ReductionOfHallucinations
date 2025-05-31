@@ -1,6 +1,7 @@
 """Dieses Script dient zum Scrapen der Websiteinhalte von hamburg.de/services inkl. verlinkten Seiten und Dateien"""
 
 import os
+import shutil
 import time
 import re
 from urllib.parse import urljoin, urlparse
@@ -135,7 +136,14 @@ def load_source_urls():
 def main():
     source_urls = load_source_urls()
 
+    if os.path.exists(DATA_PATH):
+        shutil.rmtree(DATA_PATH)
+
+    os.mkdir(DATA_PATH)
+
     for usecase, urls in source_urls.items():
+        os.mkdir(os.path.join(DATA_PATH, usecase))
+        
         for url in tqdm(urls, desc=usecase):
             scrape(url, usecase)
             time.sleep(0.1)
