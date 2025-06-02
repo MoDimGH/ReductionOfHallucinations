@@ -202,7 +202,7 @@ class DataHandler:
     
     @classmethod
     def get_alternative_answers(cls, usecase, i):
-        return cls.helper_data.get(usecase).get(str(i)).get(TESTSET_HELPER_ALTERNATIVE_ANSWER_KW)
+        return cls.helper_data.get(usecase).get(str(i)).get(TESTSET_HELPER_ALTERNATIVE_ANSWERS_KW)
 
     @classmethod
     def get_get_sources(cls, usecase, i):

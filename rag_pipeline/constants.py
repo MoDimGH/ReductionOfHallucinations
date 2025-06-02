@@ -19,7 +19,7 @@ USECASES_PERSONAS_PATH = "./benchmarking/use_case_personas.json"
 TESTSET_TEST_ITEM_TEMPLATE_PATH = './benchmarking/manual_validation/data/test_item_template.json'
 TESTSET_VALIDATED_PATH = './benchmarking/manual_validation/data/validated_testset.json'
 TESTSET_HELPER_DATA = './benchmarking/manual_validation/data/generated_helper_data.json'
-TESTSET_HELPER_DATA_ITEM_TEMPLATE = './benchmarking/manual_validation/data/helper_data_item_template.json'
+TESTSET_HELPER_DATA_ITEM_TEMPLATE_PATH = './benchmarking/manual_validation/data/helper_data_item_template.json'
 
 TESTSET_SIZE_PER_USECASE = 50
 TESTSET_GENERATION_MODEL = "mistral-nemo"

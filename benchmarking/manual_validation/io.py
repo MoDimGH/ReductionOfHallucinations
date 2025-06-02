@@ -6,9 +6,7 @@ from rag_pipeline.constants import (
     TESTSET_VALIDATED_PATH, 
     TESTSET_TEST_ITEM_TEMPLATE_PATH, 
     TESTSET_HELPER_DATA,
-    TESTSET_HELPER_DATA_ITEM_TEMPLATE,
-    TESTSET_HELPER_GENERATED_ANSWER_KW, 
-    TESTSET_HELPER_REFERENCES_KW
+    TESTSET_HELPER_DATA_ITEM_TEMPLATE_PATH
 )
 
 
@@ -44,35 +42,3 @@ def save_helper_data(data):
 def load_helper_data_item_template():
     with open(TESTSET_HELPER_DATA_ITEM_TEMPLATE, "r", encoding="utf-8") as f:
         return json.load(f)
-
-
-# ----------------------------------------------------------
-
-
-def init_helper_data_item(usecase, i):
-    data = load_helper_data()
-    if usecase not in data:
-        raise Exception("Invalid Usecase.")
-    
-    if not data.get(usecase).get(str(i)):
-        data[usecase][str(i)] = { TESTSET_HELPER_GENERATED_ANSWER_KW: "", TESTSET_HELPER_REFERENCES_KW: [] }
-    
-    save_helper_data(data)
-
-
-def get_helper_data_item(usecase, i):
-    data = load_helper_data()
-    return data.get(usecase).get(str(i))
-
-
-def save_helper_expected_answer(usecase, i, helper_answer):
-    data = load_helper_data()
-    data[usecase][str(i)][TESTSET_HELPER_GENERATED_ANSWER_KW] = helper_answer
-    save_helper_data(data)
-    
-
-def save_helper_references(usecase, i, helper_references):
-    data = load_helper_data()
-
-    data[usecase][str(i)][TESTSET_VALIDATION_REFERENCES_KW] = helper_references
-    save_helper_data(data)
