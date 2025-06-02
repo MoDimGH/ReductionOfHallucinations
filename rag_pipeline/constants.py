@@ -10,7 +10,6 @@ DATA_PATH = "./scraping/dataset/"
 DATASET_SOURCES_PATH = "./scraping/dataset_sources.json"
 SCRAPED_URLS_FILE = './scraping/urls_to_scrape.json'
 SCRAPED_BROKEN_LINKS_FILE = './scraping/broken_links.json'
-CLEAN_DATASET = './benchmarking/clean_dataset'
 
 # Testset constants
 TESTSET_PATH = "./benchmarking/testset"

@@ -13,18 +13,16 @@ from langchain.schema import Document
 from ragas.llms import LangchainLLMWrapper
 from ragas.embeddings import LangchainEmbeddingsWrapper
 from ragas.testset.synthesizers import default_query_distribution
-#from ragas.testset.synthesizers.single_hop.specific import SingleHopSpecificQuerySynthesizer
 from ragas.testset.persona import Persona
 from ragas.testset.graph import KnowledgeGraph, Node, NodeType
 from ragas.testset.transforms import default_transforms, apply_transforms
 
 from ragas.testset import TestsetGenerator
-from benchmarking.custom_testset_generator import TestsetGenerator_WithFilenames
 from rag_pipeline.populate_database import load_documents, split_documents, calculate_chunk_ids, add_to_db, clear_database
 from rag_pipeline.constants import (
-    TESTSET_DB_PATH, TESTSET_PATH, KNOWLEDGE_GRAPH_PATH,
+    TESTSET_DB_PATH, TESTSET_PATH, DATA_PATH,
     USECASES_PERSONAS_PATH, TESTSET_SIZE_PER_USECASE, 
-    TESTSET_GENERATION_MODEL, TESTSET_EMBEDDING_MODEL, CLEAN_DATASET
+    TESTSET_GENERATION_MODEL, TESTSET_EMBEDDING_MODEL
 )
 
 
@@ -42,14 +40,12 @@ def load_personas(persona_path):
         persona_data = json.load(f)
 
     return [
-        (usecase, data.get("reference_dir"), Persona(name=data.get("name"), role_description=data.get("role_description")))
+        (usecase, Persona(name=data.get("name"), role_description=data.get("role_description")))
         for usecase, data in persona_data.items()
     ]
 
 def load_docs(path):
     documents = load_documents(path)
-    #for doc in documents:
-    #    doc.page_content = doc.page_content.strip().replace("\n", "")
     chunks = split_documents(documents)
     return calculate_chunk_ids(chunks)
 
@@ -113,14 +109,12 @@ def main():
     print("Load Usecase Personas")
     personas = load_personas(USECASES_PERSONAS_PATH)
 
-    for usecase, dataset_path, persona in tqdm(personas, desc="Generiere Testsets"):
-        dataset_path = os.path.join(CLEAN_DATASET, os.path.basename(dataset_path))
+    for usecase, persona in tqdm(personas, desc="Generiere Testsets"):
+        dataset_path = os.path.join(DATA_PATH, usecase)
         print(f"Usecase: {usecase}")
 
         print("Load Documents...")
         docs = load_docs(dataset_path)
-        
-
         print(f"{len(docs)} documents loaded")
         
         print("Create Database...")
@@ -128,9 +122,6 @@ def main():
         clear_database(db_path)
         add_to_db(docs, db_path, embedding_model=langchain_embeddings)
         print("Database created successfully")
-
-        # print("Create Knowledge Graph")
-        # kg = create_knowledge_graph(docs, ragas_llm, ragas_embedding)
 
         print("Generating testset")
         df = generate_testset(ragas_llm, ragas_embedding, query_distribution, docs, [persona], testset_size=TESTSET_SIZE_PER_USECASE)

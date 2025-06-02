@@ -51,6 +51,10 @@ def save_as_md(article, usecase, filename):
     md_text = md_text.replace("[## \n", "## [")
     md_text = md_text.replace("[# \n", "# [")
 
+    # clean of whitespace
+    md_text = md_text.strip()
+    md_text = re.sub(r"\n{2,}", "\n", md_text)
+
     # Erstellung der output markdown datei
     with open(os.path.join(DATA_PATH, usecase, filename), 'w', encoding='utf-8') as out_f:
         out_f.write(md_text)
