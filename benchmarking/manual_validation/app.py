@@ -1,132 +1,15 @@
-import os
-import json
 import streamlit as st
 
-from langchain_ollama import ChatOllama
-from langchain_ollama import OllamaEmbeddings
+from rag_pipeline.constants import TESTSET_VALIDATION_EXPECTED_ANSWER_KW, TESTSET_VALIDATION_REFERENCES_KW
 
-from rag_pipeline.constants import TESTSET_PATH, DB_PATH, TESTSET_GENERATION_MODEL, TESTSET_EMBEDDING_MODEL, TESTSET_DB_PATH, TESTSET_VALIDATION_REFERENCES_KW, TESTSET_VALIDATION_EXPECTED_ANSWER_KW, TESTSET_VALIDATED_DATA_PATH
-from rag_pipeline.model import Model
-from rag_pipeline.query_rag import generate_answer, format_sources
-from rag_pipeline.populate_database import load_db
-from rag_pipeline.utilities import create_chroma_retriever
+from benchmarking.manual_validation.utils import get_status_color
+from benchmarking.manual_validation.io import init_validated_data_item, get_validated_data_item, save_validated_expected_answer, save_validated_references
+from benchmarking.manual_validation.datahandler import DataHandler
+from benchmarking.manual_validation.llm_validation_helper import check_for_incorrect, check_for_unsupported
 
 
-class DataHandler:
-    dbs = []
-    model = None
-    testdata = []
-
-
-    @classmethod
-    def init(cls):
-        if not cls.dbs:
-            embedding_model = OllamaEmbeddings(model=TESTSET_EMBEDDING_MODEL)
-            for db_path in os.listdir(TESTSET_DB_PATH):
-                cls.dbs.append(load_db(db_path, embedding_model))
-        if not cls.model:
-            cls.model = ChatOllama(model=TESTSET_GENERATION_MODEL)
-        if not cls.testdata:
-            cls.testdata = list(load_testdata().items())
-
-
-def load_testdata():
-    testset_dir = TESTSET_PATH
-    filepaths = [f for f in os.listdir(testset_dir) if f.endswith(".json")]
-    
-    data = {}
-    for filepath in filepaths:
-        with open(os.path.join(testset_dir, filepath), "r", encoding="utf-8") as f:
-            data[os.path.basename(filepath)] = json.load(f)
-
-    return data
-
-
-def query(query):
-    # return generate_answer(validation_prompt)
-    return DataHandler.model.invoke(query)
-
-
-def validate_rag_pipeline(expected_answer):
-    retriever = create_chroma_retriever(DB_PATH)
-    sources = format_sources(retriever.invoke(expected_answer))
-
-    validation_prompt = f"""Hier ist die Antwort, die du mir vorhin gegeben hast: {expected_answer}
-
-        -------------------------------------------------
-
-        Bitte prüfe die Quellen in der folgenden json-Liste. 
-
-        Quellen: {sources}
-        
-        -------------------------------------------------
-
-        Wenn alle Teile der Antwort durch die Quellen gestützt werden, dann gib mir bitte die genauen Zitate aus den Quellen an, die die Antwort unterstützen. In diesem Fall melde bitte den Status "correct". 
-        Wenn ein Teil der Antwort nicht durch die Quellen gestützt wird, gib mir bitte die genauen Zitate aus der Antwort an, die nicht gestützt wird. In diesem Fall melde bitte den Status "unsupported".
-        Wenn ein Teil der Antwort falsch ist und im Widerspruch zu den Informationen in den Quellen steht, dann gib mir bitte die genauen Zitate aus den Quellen an, die im Widerspruch zur Antwort stehen. In diesem Fall melde bitte den Status "incorrect".
-
-        Deine Evalutierungsantwort gebe bitte unter "report" an.
-        
-        Bitte antworte strikt nach dem json-Format aus dem folgenden Beispiel. Bitte Antwort nichts anderes als das json:
-
-        {{
-            "report": "Teile der Antwort werden nicht von den Quellen unterstützt. Hamburg ist nicht die Hautstadt von Deutschand. Auch ist für einen Personalausweisantrag eine Gebühr zu zahlen."
-            "status": "incorrect",
-            "zitate": ["in Hamburg, der Hauptstadt von Deutschland", "für einen Personalausweisantrag müssen Sie keine Gebühr zahlen"]
-        }}
-    """
-
-    validation_results = query(validation_prompt)
-    
-    return validation_results
-
-
-def check_for_incorrect(expected_answer, sources):
-    validation_prompt = f"""
-        Bitte gleiche folgende Aussage mit den folgenden Quellen ab:
-        
-        Aussage: { expected_answer }
-
-        Quellen: { sources }
-
-        =>
-
-        Wenn die Aussage ganz mit den Informationen aus den Quellen übereinstimmt, sage einfach "wahr". Ansonsten sage einfach "falsch".
-    """
-    validation_result = ""
-    for _ in range(5):
-        validation_result = query(validation_prompt)
-        if validation_result in ["wahr", "falsch"]:
-            break
-    print(validation_result)
-
-    return 1 if validation_result == "falsch" else 2 if validation_result == "wahr" else 0
-
-
-def check_for_unsupported(expected_answer, sources):
-    validation_prompt = f"""
-        Bitte gleiche folgende Aussage mit den folgenden Quellen ab:
-        
-        Aussage: { expected_answer }
-
-        Quellen: { sources }
-
-        =>
-
-        Wenn die Informationenen der Aussage nicht in den Quellen nicht wiedergefunden werden können, sage einfach "fehlt". Ansonsten sage einfach "gefunden".
-    """
-
-    validation_result = ""
-    for _ in range(5):
-        validation_result = query(validation_prompt)
-        if validation_result in ["gefunden", "fehlt"]:
-            break
-    print(validation_result)
-    return 1 if validation_result == "fehlt" else 2 if validation_result == "gefunden" else 0
-
-
-def validate_testcase(expected_answer):
-    raw_sources = DataHandler.db.similarity_search_with_relevance_scores(expected_answer, k=5)
+def validate_testcase(usecase, question, expected_answer):
+    raw_sources = DataHandler.dbs.get(usecase).similarity_search_with_relevance_scores(question)
     # sources = [s.get("excerpt") for s in format_sources(raw_sources)]
     sources = [(doc, doc.metadata.get("id", None), _score) for doc, _score in raw_sources]
     sources.sort(key=lambda x: x[2], reverse=True)
@@ -136,36 +19,6 @@ def validate_testcase(expected_answer):
     unsupported_validation_result = check_for_unsupported(expected_answer, source_contents)
     
     return {"incorrect": incorrect_validation_result, "unsupported": unsupported_validation_result}, sources
-
-
-def load_validated_data():
-    with open(TESTSET_VALIDATED_DATA_PATH) as f:
-        return json.load(f)
-
-def save_validated_data(data):
-    with open(TESTSET_VALIDATED_DATA_PATH, 'w') as f:
-        json.dump(data, f)
-
-
-def get_validated_data(usecase, ix):
-    data = load_validated_data()
-    return data.get(usecase).get(str(ix))
-
-
-def save_validated_expected_answer(usecase, i, validated_answer):
-    data = load_validated_data()
-    data[usecase][str(i)][TESTSET_VALIDATION_EXPECTED_ANSWER_KW] = validated_answer
-    save_validated_data(data)
-    
-
-def save_validated_references(usecase, ix, validated_ids):
-    data = load_validated_data()
-    data[usecase][str(ix)][TESTSET_VALIDATION_REFERENCES_KW] = validated_ids
-    save_validated_data(data)
-
-
-def get_status_color(status):
-    return "🟩" if status == 2 else "🟥" if status == 1 else "🟧"
 
 
 def main():
@@ -187,6 +40,8 @@ def main():
     expected_contexts = current_testcase['reference_contexts']
     expected_answer = current_testcase['reference']
 
+    init_validated_data_item(current_usecase, i)
+
     if st.button("Zurück", key="back"):
         if st.session_state.testelement_ix > 0:
             st.session_state.testelement_ix -= 1
@@ -197,7 +52,7 @@ def main():
 
     if st.button("Weiter", key="forward"):
         if st.session_state.testelement_ix < len(DataHandler.testdata[st.session_state.testset_ix]) - 1:
-            st.session_state.testsetelement_ix += 1
+            st.session_state.testelement_ix += 1
         elif st.session_state.testset_ix < len(DataHandler.testdata) - 1:
             st.session_state.testset_ix += 1
             st.session_state.testelement_ix = len(DataHandler.testdata[st.session_state.testset_ix]) - 1
@@ -205,16 +60,19 @@ def main():
 
     st.markdown(f"### Testset { st.session_state.testset_ix }: Test { i + 1 }")
     st.markdown(f"**❓ Frage:** { query }")
-    st.markdown(f"**✅ Erwartete Antwort:** { expected_answer }")
+    st.markdown(f"**✅ Generierte Antwort:** { expected_answer }")
+    st.markdown(f"**ℹ️ Referenz{'en' if len(expected_contexts) > 1 else ''}**")
+    for reference in expected_contexts:
+        st.write(reference)
 
-    validated_answer = st.text_input(value=get_validated_data(current_usecase, i), label="Valid Answer")
+    validated_answer = st.text_input(value=get_validated_data_item(current_usecase, i).get(TESTSET_VALIDATION_EXPECTED_ANSWER_KW), label="Valid Answer")
     save_validated_expected_answer(current_usecase, i, validated_answer)
 
     if "selected_ids" not in st.session_state:
-        st.session_state.selected_ids = get_validated_data(current_usecase, i)[TESTSET_VALIDATION_REFERENCES_KW]
+        st.session_state.selected_ids = get_validated_data_item(current_usecase, i).get(TESTSET_VALIDATION_REFERENCES_KW)
 
     if st.button("🔍 Live-RAG ausführen", key=f"run_{i}"):
-        status, quellen = validate_testcase(expected_answer)
+        status, quellen = validate_testcase(current_usecase, query, expected_answer)
         st.markdown(f"*Incorrect-Check:* {get_status_color(status['incorrect'])}")
         st.markdown(f"*Unsupported-Check:* {get_status_color(status['unsupported'])}")
 
@@ -246,19 +104,17 @@ def main():
 
         with col2:
             st.markdown("### RAG-Quellen")
-            for idx, quelle in enumerate(quellen):
-                q_id = f"rag_{idx}"
-                confidence = 0.87  # Platzhalterwert
-                is_selected = q_id in st.session_state.selected_ids
+            for quelle, source_id, confidence in quellen:
+                is_selected = source_id in st.session_state.selected_ids
                 border_color = "3px solid green" if is_selected else "1px solid lightgray"
 
                 with st.container():
-                    if st.button(f"{'☑️' if is_selected else '⬜'} {q_id}", key=f"sel_{q_id}"):
+                    if st.button(f"{'☑️' if is_selected else '⬜'} {source_id}", key=f"sel_{source_id}"):
                         if is_selected:
-                            st.session_state.selected_ids.remove(q_id)
+                            st.session_state.selected_ids.remove(source_id)
                         elif len(st.session_state.selected_ids) < 5:
-                            st.session_state.selected_ids.append(q_id)
-                        save_validated_references(current_usecase, i, st.session_state.selected_ids)
+                            st.session_state.selected_ids.append(source_id)
+                        save_validated_references(current_usecase, i, [quellen[id][1] for id in st.session_state.selected_ids])
                         st.rerun()
 
                     st.markdown(f"""
@@ -274,7 +130,7 @@ if __name__ == "__main__":
     main()
 
 
-# 1. generierung durch eine sehr gute KI
+# 1. generierung durch eine sehr gute KI für fehlende und unsupported hallucinations
 # 2. Status prüfung in 3 schritte aufteilen
 # 3. wenn das nicht reicht, erst ohne json, dann einen prompt um alles in json einzufügen
 # 4. wenn das nicht reicht, noch einen prompt um json zu überprüfen

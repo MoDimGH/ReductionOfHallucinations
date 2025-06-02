@@ -15,13 +15,38 @@ SCRAPED_BROKEN_LINKS_FILE = './scraping/broken_links.json'
 TESTSET_PATH = "./benchmarking/testset"
 TESTSET_DB_PATH = "./benchmarking/dbs"
 USECASES_PERSONAS_PATH = "./benchmarking/use_case_personas.json"
-KNOWLEDGE_GRAPH_PATH = './benchmarking/knowledge_graph.json'
-TESTSET_VALIDATED_DATA_PATH = './benchmarking/manual_validation/validated_data.json'
+# KNOWLEDGE_GRAPH_PATH = './benchmarking/knowledge_graph.json'
+TESTSET_TEST_ITEM_TEMPLATE_PATH = './benchmarking/manual_validation/data/test_item_template.json'
+TESTSET_VALIDATED_PATH = './benchmarking/manual_validation/data/validated_testset.json'
+TESTSET_HELPER_DATA = './benchmarking/manual_validation/data/generated_helper_data.json'
+TESTSET_HELPER_DATA_ITEM_TEMPLATE = './benchmarking/manual_validation/data/helper_data_item_template.json'
+
 TESTSET_SIZE_PER_USECASE = 50
 TESTSET_GENERATION_MODEL = "mistral-nemo"
 TESTSET_EMBEDDING_MODEL = "bge-large"
+
+TESTSET_VALIDATION_QUERY_KW = "user_input"
 TESTSET_VALIDATION_REFERENCES_KW = "references"
 TESTSET_VALIDATION_EXPECTED_ANSWER_KW = "expected_answer"
+
+TESTSET_HELPER_IS_QUERY_SUPPORTED_KW = "isQuerySupported"
+TESTSET_HELPER_ALTERNATIVE_QUERIES_KW = "alternativeQueries"
+TESTSET_HELPER_IS_ANSWER_FACTUALLY_HALLUCINATED_KW = "isAnswerFactuallyHallucinated"
+TESTSET_HELPER_ANSWER_FACTUALLY_WRONG_MESSAGES_KW = "answerFactuallyWrongMessages"
+TESTSET_HELPER_IS_ANSWER_STRUCTURALLY_HALLUCINATED_KW = "isAnswerStructurallyHallucinated"
+TESTSET_HELPER_ANSWER_STRUCTURALLY_HALLUCINATED_MESSAGES_KW = "answerStructurallyHallucinatedMessages"
+TESTSET_HELPER_IS_ANSWER_SEMANTICALLY_HALLUCINATED_KW = "isAnswerSemanticallyHallucinated"
+TESTSET_HELPER_ANSWER_SEMANTICALLY_HALLUCINATED_MESSAGES_KW = "answerSemanticallyHallucinatedMessages"
+TESTSET_HELPER_IS_ANSWER_REASONING_HALLUCINATED_KW = "isAnswerReasoningHallucinated"
+TESTSET_HELPER_ANSWER_REASONING_HALLUCINATED_MESSAGES_KW = "answerReasoningHallucinatedMessages"
+TESTSET_HELPER_IS_ANSWER_CITATIONWISE_HALLUCINATED_KW = "isAnswerCitationwiseHallucinated"
+TESTSET_HELPER_ANSWER_CITATIONWISE_HALLUCINATED_MESSAGES_KW = "answerCitationwiseHallucinatedMessages"
+TESTSET_HELPER_IS_ANSWER_CONTEXTUALLY_HALLUCINATED_KW = "isAnswerContextuallyHallucinated"
+TESTSET_HELPER_ANSWER_CONTEXTUALLY_HALLUCINATED_MESSAGES_KW = "answerContextuallyHallucinatedMessages"
+TESTSET_HELPER_IS_ANSWER_EXTRACTIONWISE_HALLUCINATED_KW = "isAnswerExtractionwiseHallucinated"
+TESTSET_HELPER_ANSWER_EXTRACTIONWISE_HALLUCINATED_MESSAGES_KW = "answerExtractionwiseHallucinatedMessages"
+TESTSET_HELPER_ALTERNATIVE_ANSWERS_KW = "alternativeAnswers"
+TESTSET_HELPER_SOURCES_KW = "sources"
 
 # Optimizations constants
 QA_DATA_PATH = "./optimizations/qa/qa_data"

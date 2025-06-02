@@ -45,7 +45,7 @@ def load_personas(persona_path):
     ]
 
 def load_docs(path):
-    documents = load_documents(path)
+    documents = load_documents(path, load_pdfs=False)
     chunks = split_documents(documents)
     return calculate_chunk_ids(chunks)
 
@@ -100,9 +100,6 @@ def setup_models(generation_model=TESTSET_GENERATION_MODEL, embedding_model=TEST
     - generiert einen Evaluierungsdatensatz pro Use-Case anhand von Use-Case-Personas.
 """
 def main():
-    #print(f"argument list {sys.argv}")
-    #i = int(sys.argv[1])
-    
     print("Setup Models")
     ragas_llm, ragas_embedding, langchain_embeddings, query_distribution = setup_models()
 

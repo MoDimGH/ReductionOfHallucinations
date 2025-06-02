@@ -1,0 +1,29 @@
+{
+    "isQuerySupported": [],
+    "alternativeQueries": [],
+
+    "isAnswerFactuallyHallucinated": [],
+    "answerFactuallyWrongMessages": [],
+
+    "isAnswerStructurallyHallucinated": [],
+    "answerStructurallyHallucinatedMessages": [],
+
+    "isAnswerSemanticallyHallucinated": [],
+    "answerSemanticallyHallucinatedMessages": [],
+
+    "isAnswerReasoningHallucinated": [],
+    "answerReasoningHallucinatedMessages": [],
+
+    "isAnswerCitationwiseHallucinated": [],
+    "answerCitationwiseHallucinatedMessages": [],
+
+    "isAnswerContextuallyHallucinated": [],
+    "answerContextuallyHallucinatedMessages": [],
+
+    "isAnswerExtractionwiseHallucinated": [],
+    "answerExtractionwiseHallucinatedMessages": [],
+
+    "alternativeAnswers": [],
+
+    "sources": []
+}

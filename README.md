@@ -1,3 +1,5 @@
+python -m streamlit run ./benchmarking/manual_validation/app.py
+
 # RAG-Pipeline CLI
 
 Dieses CLI-Tool dient zur Steuerung einer RAG-Pipeline (Retrieval-Augmented Generation). Es bietet Funktionen zur Einrichtung der Pipeline, zum Starten von Chat-Modi (CLI und Web-API) sowie zur Evaluation der aktuellen Konfiguration.

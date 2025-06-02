@@ -29,10 +29,11 @@ def add_files(path_to_data_dir):
 
 
 """Lädt die Dokumente in den Programmspeicher"""
-def load_documents(path_to_dir, glob="*.md"):
+def load_documents(path_to_dir, glob="*.md", load_pdfs=True):
     md_document_loader = DirectoryLoader(path_to_dir, recursive=True, glob=glob)
-    pdf_document_loader = PyPDFDirectoryLoader(path_to_dir, recursive=True)
-    return md_document_loader.load() #+ pdf_document_loader.load()
+    if load_pdfs:
+        pdf_document_loader = PyPDFDirectoryLoader(path_to_dir, recursive=True)
+    return md_document_loader.load() + (pdf_document_loader.load() if load_pdfs else [])
 
 
 """Unterteilt die angegebenen Dokumente in Abschnitte"""
