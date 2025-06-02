@@ -40,5 +40,5 @@ def save_helper_data(data):
         json.dump(data, f)
 
 def load_helper_data_item_template():
-    with open(TESTSET_HELPER_DATA_ITEM_TEMPLATE, "r", encoding="utf-8") as f:
+    with open(TESTSET_HELPER_DATA_ITEM_TEMPLATE_PATH, "r", encoding="utf-8") as f:
         return json.load(f)

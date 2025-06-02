@@ -31,6 +31,7 @@ from rag_pipeline.constants import (
     TESTSET_HELPER_IS_QUERY_SUPPORTED_KW
 )
 
+from benchmarking.manual_validation.testset_item import TestsetItem
 from benchmarking.manual_validation.io import (
     load_original_testsets,
     load_validated_testsets, save_validated_testsets,
@@ -41,27 +42,28 @@ from benchmarking.manual_validation.io import (
 
 
 class DataHandler:
-    dbs: dict[str, Chroma]
-    model: object
-    original_testsets: list[tuple[str, list]]
-    validated_testsets: dict[str, dict]
-    testset_size: int
-    testset_item_template: dict
-    helper_data_item_template: dict
+    dbs = {}
+    model = None
+    original_testsets = []
+    validated_testsets = {}
+    helper_data = {}
+    testset_item_template = {}
+    helper_data_item_template = {}
 
     @classmethod
     def init(cls):
         if not cls.dbs:
             embedding_model = OllamaEmbeddings(model=TESTSET_EMBEDDING_MODEL)
             for db_path in os.listdir(TESTSET_DB_PATH):
-                cls.dbs[os.path.basename(db_path).rstrip(".json")] = load_db(os.path.join(TESTSET_DB_PATH, db_path), embedding_model)
+                cls.dbs[os.path.basename(db_path).rstrip(".json")] = load_db(
+                    os.path.join(TESTSET_DB_PATH, db_path), embedding_model
+                )
 
         if not cls.model:
             cls.model = ChatOllama(model=TESTSET_GENERATION_MODEL)
 
         if not cls.original_testsets:
             testsets = load_original_testsets()
-            cls.testset_amount = len(testsets)
             cls.original_testsets = list(testsets.items())
 
         if not cls.testset_item_template:
@@ -80,10 +82,19 @@ class DataHandler:
     @classmethod
     def get_db(cls, usecase):
         return cls.dbs.get(usecase)
+    
+    @classmethod
+    def get_testset_usecase(cls, testset_i) -> str:
+        return cls.original_testsets[testset_i][0]
 
     @classmethod
-    def get_original_testset(cls, testset_i):
-        return cls.original_testsets[testset_i]
+    def get_original_testset_item(cls, testset_i, item_i) -> TestsetItem:
+        raw_testset_item = cls.original_testsets[testset_i][1][item_i]
+        return TestsetItem(
+            raw_testset_item.get(TESTSET_VALIDATION_QUERY_KW), 
+            raw_testset_item.get(TESTSET_VALIDATION_EXPECTED_ANSWER_KW), 
+            raw_testset_item.get(TESTSET_VALIDATION_REFERENCES_KW)
+        )
 
     @classmethod
     def get_testset_amount(cls) -> int:

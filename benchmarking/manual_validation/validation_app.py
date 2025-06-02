@@ -1,21 +1,8 @@
 import streamlit as st
 
-
 from benchmarking.manual_validation.utils import get_status_color
-from benchmarking.manual_validation.io import init_validated_data_item, get_validated_data_item, save_validated_expected_answer, save_validated_references
 from benchmarking.manual_validation.datahandler import DataHandler
 from benchmarking.manual_validation.llm_validation_helper import check_for_incorrect, check_for_unsupported
-
-
-class TestsetItem:
-    query: str
-    expected_answer: str
-    expected_contexts: list[str]
-
-    def __init__(self, query, expected_answer, expected_contexts, **_):
-        self.query = query
-        self.expected_answer = expected_answer
-        self.expected_contexts = expected_contexts
 
 
 def init_session_state():
@@ -27,20 +14,20 @@ def init_session_state():
 
 
 def handle_back_button():
-    if st.session_state.testelement_ix > 0:
-        st.session_state.testelement_ix -= 1
-    elif st.session_state.testset_ix > 0:
-        st.session_state.testset_ix -= 1
-        st.session_state.testelement_ix = len(DataHandler.testdata[st.session_state.testset_ix]) - 1
+    if st.session_state.testset_item > 0:
+        st.session_state.testset_item -= 1
+    elif st.session_state.testset > 0:
+        st.session_state.testset -= 1
+        st.session_state.testset_item = len(DataHandler.testdata[st.session_state.testset]) - 1
     st.rerun()
 
 
 def handle_forward_button():
-    if st.session_state.testelement_ix < len(DataHandler.testdata[st.session_state.testset_ix]) - 1:
-        st.session_state.testelement_ix += 1
-    elif st.session_state.testset_ix < len(DataHandler.testdata) - 1:
-        st.session_state.testset_ix += 1
-        st.session_state.testelement_ix = len(DataHandler.testdata[st.session_state.testset_ix]) - 1
+    if st.session_state.testset_item < len(DataHandler.testdata[st.session_state.testset]) - 1:
+        st.session_state.testset_item += 1
+    elif st.session_state.testset < len(DataHandler.testdata) - 1:
+        st.session_state.testset += 1
+        st.session_state.testset_item = len(DataHandler.testdata[st.session_state.testset]) - 1
     st.rerun()
 
 
@@ -52,15 +39,12 @@ def main():
     st.set_page_config(layout="wide")
     st.title("RAGAS Testset Validator")
 
-    testset_i = st.session_state.testset_ix
+    testset_i = st.session_state.testset
     item_i = st.session_state.testset_item
-    usecase, raw_original_testset = DataHandler.get_original_testset(testset_i)
-    original_item = TestsetItem(**raw_original_testset[item_i])
+    usecase = DataHandler.get_testset_usecase(testset_i)
+    original_item = DataHandler.get_original_testset_item(usecase, item_i)
 
-    DataHandler.init_validated_data_item(usecase, item_i)
-    raw_validated_testset = DataHandler.get_validated_testset(usecase)
-    validated_item = TestsetItem(**raw_validated_testset.get(item_i))
-    
+    DataHandler.init_validated_testset_item(usecase, item_i)
     DataHandler.init_helper_data_item(usecase, item_i)
 
     # header
