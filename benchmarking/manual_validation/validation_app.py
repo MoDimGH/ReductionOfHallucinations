@@ -1,8 +1,8 @@
 import streamlit as st
 
 from benchmarking.manual_validation.utils import get_status_color
-from benchmarking.manual_validation.datahandler import DataHandler
-from benchmarking.manual_validation.llm_validation_helper import check_query
+from benchmarking.datahandler import DataHandler
+from benchmarking.llm_validation_helper import check_query
 from rag_pipeline.constants import (
     TESTSET_HELPER_PROMPT_PARAM_IS_QUERY_SUPPORTED_KW,
     TESTSET_HELPER_PROMPT_PARAM_ALTERNATIVE_QUERIES_KW

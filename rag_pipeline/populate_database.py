@@ -29,7 +29,7 @@ def add_files(path_to_data_dir, db_path=DB_PATH):
 
 
 """Lädt die Dokumente in den Programmspeicher"""
-def load_documents(path_to_dir, glob="*.md", load_pdfs=True):
+def load_documents(path_to_dir, glob="*.md", load_pdfs=False):
     md_document_loader = DirectoryLoader(path_to_dir, recursive=True, glob=glob)
     if load_pdfs:
         pdf_document_loader = PyPDFDirectoryLoader(path_to_dir, recursive=True)

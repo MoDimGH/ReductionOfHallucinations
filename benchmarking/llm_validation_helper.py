@@ -74,6 +74,14 @@ def validate_testset_user_input(query, reference_contexts) -> list[dict]:
     # -> manuelle Sichtung des Testdatensatzes und korrektur der Fragen/antworten bzw. wegstreichen bei ungehaltvollen contexts
     # => ground truth hergestellt!
 
+    # Vorgehen:
+    # 1. openai vector dbs erstellen
+    # 2. Erstellen von ragas testbenches aus den dokumenten der vector dbs
+    # 3. Ergänzen der Ragas testbenches um reference_contexts aus openai rag
+    # 4. Openai Bewertungen des User Input und der References erstellen (auch selbstständiges script)
+    # 5. UI zum Bearbeiten der Testbenchdaten auf Basis der Openai Bewertungen erstellen
+    # => Ground truth
+
 
 def validate_testset_reference(query, reference_contexts) -> list[dict]:
     prompt_template = ChatPromptTemplate.from_template(

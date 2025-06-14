@@ -23,6 +23,7 @@ from langchain.prompts import ChatPromptTemplate
 
 from ragas.testset import TestsetGenerator
 from benchmarking.llm_validation_helper import validate_testset_user_input
+from benchmarking.openai_rag_pipeline import populate_database as populate_openai_database
 from rag_pipeline.populate_database import load_documents, split_documents, calculate_chunk_ids, add_to_db, clear_database
 from rag_pipeline.constants import (
     TESTSET_DB_PATH, TESTSET_PATH, DATA_PATH,
@@ -117,17 +118,10 @@ def main():
 
     for usecase, persona in tqdm(personas, desc="Generiere Testsets"):
         dataset_path = os.path.join(DATA_PATH, usecase)
+        db_path = os.path.join(TESTSET_DB_PATH, usecase)
         print(f"Usecase: {usecase}")
 
-        print("Load Documents...")
-        docs = load_docs(dataset_path)
-        print(f"{len(docs)} documents loaded")
-        
-        print("Create Database...")
-        db_path = os.path.join(TESTSET_DB_PATH, usecase)
-        clear_database(db_path)
-        add_to_db(docs, db_path, embedding_model=langchain_embeddings)
-        print("Database created successfully")
+        docs = populate_openai_database(dataset_path, db_path, langchain_embeddings)
 
         print("Generating testset")
         df = generate_testset(ragas_llm, ragas_embedding, query_distribution, transforms, docs, [persona], testset_size=TESTSET_SIZE_PER_USECASE)
