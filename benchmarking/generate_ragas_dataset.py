@@ -6,18 +6,23 @@ import asyncio
 from tqdm import tqdm
 import sys
 
-from langchain_ollama import ChatOllama
-from langchain_ollama import OllamaEmbeddings
-from langchain.schema import Document
+from openai import OpenAI
+from langchain_openai import OpenAIEmbeddings
+from langchain_openai import ChatOpenAI
 
+from ragas.testset.transforms.extractors.llm_based import NERExtractor
+from ragas.testset.transforms.extractors.llm_based import HeadlinesExtractor
+from ragas.testset.transforms.splitters import HeadlineSplitter
 from ragas.llms import LangchainLLMWrapper
 from ragas.embeddings import LangchainEmbeddingsWrapper
 from ragas.testset.synthesizers import default_query_distribution
 from ragas.testset.persona import Persona
 from ragas.testset.graph import KnowledgeGraph, Node, NodeType
 from ragas.testset.transforms import default_transforms, apply_transforms
+from langchain.prompts import ChatPromptTemplate
 
 from ragas.testset import TestsetGenerator
+from benchmarking.llm_validation_helper import validate_testset_user_input
 from rag_pipeline.populate_database import load_documents, split_documents, calculate_chunk_ids, add_to_db, clear_database
 from rag_pipeline.constants import (
     TESTSET_DB_PATH, TESTSET_PATH, DATA_PATH,
@@ -65,11 +70,12 @@ def create_knowledge_graph(docs, ragas_llm, ragas_embedding):
 
 
 """Generiert einen RAGAS-Evaluierungsdatensatz"""
-def generate_testset(llm, embeddings_model, query_distribution, docs, persona_list, testset_size=3):
+def generate_testset(llm, embeddings_model, query_distribution, transforms, docs, persona_list, testset_size=3):
     generator = TestsetGenerator(llm=llm, embedding_model=embeddings_model, persona_list=persona_list) # , knowledge_graph=kg)
     testset = generator.generate_with_langchain_docs(
         documents=docs,
         testset_size=testset_size,
+        transforms=transforms,
         query_distribution=query_distribution,
         #num_personas=1,
         with_debugging_logs=True
@@ -83,9 +89,9 @@ async def set_prompt_language_to_german(distribution, ragas_llm):
         query.set_prompts(**prompts)
 
 """Setzt die Models für Abruf und Generierung auf"""
-def setup_models(generation_model=TESTSET_GENERATION_MODEL, embedding_model=TESTSET_EMBEDDING_MODEL):
-    langchain_llm = ChatOllama(model=generation_model)
-    langchain_embeddings = OllamaEmbeddings(model=embedding_model)
+def setup_models(generation_model=TESTSET_GENERATION_MODEL, embedding_model=TESTSET_EMBEDDING_MODEL, openai_client=None):
+    langchain_llm = ChatOpenAI(model=generation_model, temperature=0.7)
+    langchain_embeddings = OpenAIEmbeddings(client=openai_client, model=embedding_model)
     ragas_llm = LangchainLLMWrapper(langchain_llm=langchain_llm)
     ragas_embedding = LangchainEmbeddingsWrapper(embeddings=langchain_embeddings)
 
@@ -100,8 +106,11 @@ def setup_models(generation_model=TESTSET_GENERATION_MODEL, embedding_model=TEST
     - generiert einen Evaluierungsdatensatz pro Use-Case anhand von Use-Case-Personas.
 """
 def main():
+    client = OpenAI()
+    transforms = [HeadlinesExtractor(), HeadlineSplitter(), NERExtractor()]
+
     print("Setup Models")
-    ragas_llm, ragas_embedding, langchain_embeddings, query_distribution = setup_models()
+    ragas_llm, ragas_embedding, langchain_embeddings, query_distribution = setup_models(openai_client=client)
 
     print("Load Usecase Personas")
     personas = load_personas(USECASES_PERSONAS_PATH)
@@ -121,11 +130,22 @@ def main():
         print("Database created successfully")
 
         print("Generating testset")
-        df = generate_testset(ragas_llm, ragas_embedding, query_distribution, docs, [persona], testset_size=TESTSET_SIZE_PER_USECASE)
+        df = generate_testset(ragas_llm, ragas_embedding, query_distribution, transforms, docs, [persona], testset_size=TESTSET_SIZE_PER_USECASE)
         df.to_json(os.path.join(TESTSET_PATH, usecase + ".json"), orient="records", indent=2, force_ascii=False)
+        print(df.head())
+        for row in df.iterrows():
+            query = row['user_input']
+            reference_contexts = row['reference_contexts']
+            query_evaluation = validate_testset_user_input(query, reference_contexts)
+            
+            # get json answer from llm
+            # convert json to dict object
+            # assign dict object to new column item
     
     print("All testsets generated successfully.")
 
 
 if __name__ == "__main__":
     main()
+
+# . am ende von saetzen im Testdatensatz, damit ragas korrekt parsen kann

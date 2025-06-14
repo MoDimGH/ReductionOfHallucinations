@@ -36,7 +36,7 @@ def format_sources(results):
 def query_rag(query_text: str, retriever: BaseRetriever):
     
     retrieved_sources = retriever.invoke(query_text)
-    print(retrieved_sources)
+    #print(retrieved_sources)
     prompt = build_prompt(query_text, retrieved_sources)
     response_text = generate_answer(prompt)
     sources = format_sources(retrieved_sources)
@@ -59,7 +59,7 @@ def main(retriever: BaseRetriever=None):
         if query_text == "q" or not query_text:
             break
         response_text, sources = query_rag(query_text, retriever)
-        print(response_text, sources)
+        print(response_text) #, sources)
 
 
 if __name__ == "__main__":

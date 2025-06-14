@@ -22,15 +22,22 @@ TESTSET_HELPER_DATA = './benchmarking/manual_validation/data/generated_helper_da
 TESTSET_HELPER_DATA_ITEM_TEMPLATE_PATH = './benchmarking/manual_validation/data/helper_data_item_template.json'
 
 TESTSET_SIZE_PER_USECASE = 50
-TESTSET_GENERATION_MODEL = "mistral-nemo"
-TESTSET_EMBEDDING_MODEL = "bge-large"
+TESTSET_GENERATION_MODEL = "gpt-4.1"  # "mistral-nemo"
+TESTSET_EMBEDDING_MODEL = "text-embedding-ada-002"
+
+TESTSET_ORIGINAL_QUERY_KW = "user_input"
+TESTSET_ORIGINAL_EXPECTED_ANSWER_KW = "reference"
+TESTSET_ORIGINAL_REFERENCES_KW = "reference_contexts"
 
 TESTSET_VALIDATION_QUERY_KW = "user_input"
-TESTSET_VALIDATION_REFERENCES_KW = "references"
 TESTSET_VALIDATION_EXPECTED_ANSWER_KW = "expected_answer"
+TESTSET_VALIDATION_REFERENCES_KW = "references"
 
 TESTSET_HELPER_IS_QUERY_SUPPORTED_KW = "isQuerySupported"
 TESTSET_HELPER_ALTERNATIVE_QUERIES_KW = "alternativeQueries"
+TESTSET_HELPER_PROMPT_PARAM_IS_QUERY_SUPPORTED_KW = "wirdFrageBeantwortet"
+TESTSET_HELPER_PROMPT_PARAM_ALTERNATIVE_QUERIES_KW = "passendereFrage"
+
 TESTSET_HELPER_IS_ANSWER_FACTUALLY_HALLUCINATED_KW = "isAnswerFactuallyHallucinated"
 TESTSET_HELPER_ANSWER_FACTUALLY_WRONG_MESSAGES_KW = "answerFactuallyWrongMessages"
 TESTSET_HELPER_IS_ANSWER_STRUCTURALLY_HALLUCINATED_KW = "isAnswerStructurallyHallucinated"
@@ -48,6 +55,8 @@ TESTSET_HELPER_ANSWER_EXTRACTIONWISE_HALLUCINATED_MESSAGES_KW = "answerExtractio
 TESTSET_HELPER_ALTERNATIVE_ANSWERS_KW = "alternativeAnswers"
 TESTSET_HELPER_SOURCES_KW = "sources"
 
+BENCHMARKING_EMBEDDINGS_DB = "./benchmarking/db"
+
 # Optimizations constants
 QA_DATA_PATH = "./optimizations/qa/qa_data"
 
@@ -56,6 +65,7 @@ RETRIEVAL_MODEL, GENERATION_MODEL = "llama3", "llama3"
 
 # Usecases
 """
+# muss in readme rein
 UC_MELDEBESCHEINIGUNG = "meldebescheinigung"
 UC_WOHNSITZ_UMZUG = "wohnsitz_umzug"
 UC_GEWERBE = "gewerbe"

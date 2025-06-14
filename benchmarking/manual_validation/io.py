@@ -15,13 +15,13 @@ def load_original_testsets() -> dict[str, list]:
     data = {}
     for filepath in filepaths:
         with open(os.path.join(TESTSET_PATH, filepath), "r", encoding="utf-8") as f:
-            data[os.path.basename(filepath).rstrip(".json")] = json.load(f)
+            data[os.path.splitext(os.path.basename(filepath))[0]] = json.load(f)
 
     return data
 
 def load_validated_testsets() -> dict[str, list]:
-        with open(TESTSET_VALIDATED_PATH, "r", encoding="utf-8") as f:
-            return json.load(f)
+    with open(TESTSET_VALIDATED_PATH, "r", encoding="utf-8") as f:
+        return json.load(f)
 
 def save_validated_testsets(data):
     with open(TESTSET_VALIDATED_PATH, 'w') as f:

@@ -15,7 +15,7 @@ from rag_pipeline.utilities import load_db
 
 
 """Ergänzt, falls nicht schon enthalten, alle Dokumente der angegebenen Directory in die Datenbank"""
-def add_files(path_to_data_dir):
+def add_files(path_to_data_dir, db_path=DB_PATH):
     print("Loading documents")
     documents = load_documents(path_to_data_dir)
     print(f"Loaded documents successfully ({len(documents)})")
@@ -25,7 +25,7 @@ def add_files(path_to_data_dir):
 
     print("Adding chunks to database")
     chunks_with_ids = calculate_chunk_ids(chunks)
-    add_to_db(chunks_with_ids)
+    add_to_db(chunks_with_ids, db_path=db_path)
 
 
 """Lädt die Dokumente in den Programmspeicher"""
@@ -39,8 +39,8 @@ def load_documents(path_to_dir, glob="*.md", load_pdfs=True):
 """Unterteilt die angegebenen Dokumente in Abschnitte"""
 def split_documents(documents: list[Document]):
     text_splitter = RecursiveCharacterTextSplitter(
-        chunk_size=800,
-        chunk_overlap=80,
+        chunk_size=1000,
+        chunk_overlap=500,
         length_function=len,
         is_separator_regex=False,
     )

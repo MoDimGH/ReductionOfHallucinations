@@ -1,0 +1,6 @@
+/1. mit openai etc. embeddings erstellen und embeddings generieren in benchmarkings || was ist optimale chunkgroesse
+/2. mit openai und ragas testset generieren (am meisten multihop) (mit punkt am satzende)  und nes extraktoren header splitter -> whoer?
+3. kann jede frage ausnahmslos aus den chunks beantwortet werden? -> best of 3, antworten speichern
+3. reference und Antwort generieren mit llama3
+4. hallucination bewertung durch openai -> best of 3
+5. hallucination bewertung durch mensch -> validation app
