@@ -1,42 +1,26 @@
+# Fahrzeug-Zulassung Mitte Kfz, Versicherungswechsel
 
-
-
-
-
-Fahrzeug-Zulassung Mitte Kfz, Versicherungswechsel
-==================================================
-
-Beschreibung der Leistung
--------------------------
-
+## Beschreibung der Leistung
 Der Fahrzeughalter ist verpflichtet für ununterbrochenen Versicherungsschutz zu sorgen. Damit ist auch jeder Versicherungswechsel der Zulassungsbehörde (LBV) anzuzeigen.
-
 Die Mitteilung erfolgt in elektronischer Form durch die jeweilige Versicherung in Form einer Versicherungsbestätigung zur Übermittlung (VBÜ).
-
 Der Versicherungsmakler generiert die VBÜ, die über den Gesamtverband der Deutschen Versicherungswirtschaft e.V.(GdV) und des Kraftfahrt-Bundesamts (KBA) an die jeweilige Zulassungsbehörde übermittelt wird. Der Versicherungsmakler bzw. die Geschäftsstelle der Versicherung erhält elektronisch eine Eingangsbestätigung. **Bei Rückfragen kann sich der Makler bzw. die Versicherung vorrangig an den GdV wenden.**
 
-Informationen
--------------
+## Informationen
 
 ### Wichtige Hinweise
 
 ### Zu Beachten
-
 Der erforderliche Nachweis über den neuen Versicherungsschutz kann nur mittels einer elektronischen Versicherungsbestätigung zur Übermittlung **durch die Versicherung** erfolgen. Die Vorlage eines Überweisungsträgers oder Durchschrift eines neuen Versicherungsvertrages reicht hierzu nicht aus.
-
 Weiterführende Informationen erhalten Sie ebenfalls unter "Kfz, Fahrzeugmängel, erloschener Versicherungsschutz, Fahrzeugverkauf".
 
 ### Formulare, Services & Links
 
 #### Links auf hamburg.de
-
 * [Landesbetrieb Verkehr - Kontakt](https://www.hamburg.de/verkehr/lbv/kontakt)
 
-Adresse und Kontakt
--------------------
+## Adresse und Kontakt
 
 ### Fahrzeug-Zulassung Mitte
-
 * [Ausschläger Weg 100   
   20537 Hamburg](#)
 * [+49 40 428580](tel:+4940428580 "+49 40 428580")
@@ -49,21 +33,13 @@ Adresse und Kontakt
 * Fotoautomat
 
 ### Infos zur Einrichtung
-
 Bitte nutzen Sie die Einfahrt Höhe Süderstraße 142. Schilderpräger finden Sie vor Ort.
-  
-  
+
 Es ist ein Fotoautomat (Speed Capture Terminal) vorhanden.
-  
-  
+
 QR-Codes der Terminbestätigungen können eingescannt werden, sofern das Display Ihres mobilen Endgeräts keine Risse oder sonstige Beschädigungen aufweist.
 
-Noch nicht das passende gefunden?
----------------------------------
-
+## Noch nicht das passende gefunden?
  [Zur Hamburg Service Startseite](/service/)
-
 Suchwörter: Zwangsabmeldung, Kfz elektronische Versicherungsübermittlung EVÜ Versicherungsbestätigung zur Übermittlung VBÜ, Versicherungsbestätigung zur Übermittlung Versicherungsbestätigung zur Übermittlung, VBÜ eVB Kfz, Elektronische Versicherungsbestätigung, Versicherungswechsel Deckungskarte, Versicherungswechsel KFZ Versicherung, Versicherungswechsel Doppelkarte, Versicherungswechsel elektronische Versicherungsbestätigungsnummer, Versicherungswechsel eVB Nummer, Versicherungswechsel grüne Deckungskarte, Versicherungswechsel VB Nummer, Versicherungswechsel Versicherungsbestätigungskarte, Versicherungswechsel
-
-Letzte Aktualisierung: 30.05.2025
-
+Letzte Aktualisierung: 16.06.2025

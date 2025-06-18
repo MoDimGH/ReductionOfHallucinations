@@ -1,61 +1,41 @@
-
-
-
-
-
-ARD ZDF Deutschlandradio Beitragsservice Rundfunkbeitrag ummelden
-=================================================================
-
+# ARD ZDF Deutschlandradio Beitragsservice Rundfunkbeitrag ummelden
 Melden Sie Änderungen Ihrer persönlichen Daten zum Rundfunkbeitrag der zuständigen Stelle.
 
-Online-Service nutzen
----------------------
-
+## Online-Service nutzen
 [Rundfunkbeitrag](https://www.rundfunkbeitrag.de/)
 
-Beschreibung der Leistung
--------------------------
-
+## Beschreibung der Leistung
 Der Rundfunkbeitrag ist eine pauschale Gebühr, die alle Haushalte in Deutschland zahlen müssen, um die öffentlich-rechtlichen Rundfunkanstalten wie ARD, ZDF und Deutschlandradio zu finanzieren. Er wird pro Haushalt erhoben, unabhängig davon, wie viele Geräte für den Empfang von Radio und Fernsehen vorhanden sind.  
-  
-Teilen Sie eine Änderungen Ihrer persönlichen Daten zum Rundfunkbeitrag, wie
 
+Teilen Sie eine Änderungen Ihrer persönlichen Daten zum Rundfunkbeitrag, wie
 * Adressänderung, zum Beispiel weil Sie umgezogen sind oder
 * Namensänderung oder
 * Änderung Ihrer Bankdaten
-
 dem der zuständigen Stelle mit.
 
-Informationen
--------------
+## Informationen
 
 ### Wichtige Hinweise
 
 ### Voraussetzungen
-
 Ihre persönlichen Daten haben sich geändert, insbesondere:
-
 * Adressänderung
 * Namensänderung
 * neue Kontoverbindung
 * andere Zahlungsweise
 
 ### Benötigte Unterlagen
-
 Änderungsformular
 
 ### Zu Beachten
-
 Wenn Sie die Änderungen nicht melden, handeln Sie ordnungswidrig. Die Ordnungswidrigkeit kann mit einer Geldbuße geahndet werden.
 
 ### Fristen
-
 Zeigen Sie die Änderung der Daten unverzüglich an.
 
 ### Ablauf, Dauer & Gebühren
 
 ### Verfahrensablauf
-
 * Wenn sich persönliche Daten zum Rundfunkbeitrag ändern, können Sie diese über den Online-Service des Beitragsservice oder schriftlich per Formular mitteilen.
 * Sie wählen aus, ob die Adresse, der Name, die Bankverbindung oder die Zahlungsweise geändert werden soll.
 * Sie füllen das Online-Formular auf der Webseite des Beitragsservice aus. Sie tragen die neue Adresse, Kontodaten oder persönlichen Angaben ein.
@@ -69,48 +49,36 @@ Zeigen Sie die Änderung der Daten unverzüglich an.
 * Sie erhalten eine Bestätigung per Post oder per E-Mail.
 
 ### Dauer
-
 Die Bearbeitungsdauer beträgt normalerweise 4 bis 6 Wochen.
 
 ### Gebühren
-
 Die Änderung der Daten ist gebührenfrei.
 
 ### Rechtliche Hinweise
 
 ### Rechtsbehelf
-
 Es ist kein Rechtsbehelf vorgesehen.
 
 ### Rechtsgrundlage
-
 Rundfunkbeitragsstaatsvertrag (RBStV)  
-  
+
 <https://www.rundfunkbeitrag.de/e175/e4794/Rundfunkbeitragsstaatsvertrag.pdf>
 
 ### Formulare, Services & Links
 
 #### Links im Internet
-
 * [Rundfunkbeitrag](https://www.rundfunkbeitrag.de/)
 
-Adresse und Kontakt
--------------------
+## Adresse und Kontakt
 
 ### ARD ZDF Deutschlandradio Beitragsservice
-
 * Freimersdorfer Weg 6   
   50656 Köln
 * [+49 1806 99955510](tel:+49180699955510 "+49 1806 99955510")
 * [+49 1806 99955501](tel:+49180699955501 "+49 1806 99955501")
 * [Kontakt speichern](//iason.hamburg.de/befi/info/vcard/11348434/ "Kontakt speichern")
 
-Noch nicht das passende gefunden?
----------------------------------
-
+## Noch nicht das passende gefunden?
  [Zur Hamburg Service Startseite](/service/)
-
 Suchwörter: GEZ Ummeldungen Ummeldung Rundfunk- und Fernsehgebühren Umzug Radio, Beitragspflicht, Ummeldung Hörfunk, Beitragspflicht, Ummeldung Gebühreneinzugszentrale, Ummeldung Rundfunkgebühren, Ummeldung Öffentlich-rechtlicher Rundfunk, Ummeldung Fernsehgebühr, Ummeldung Fernsehen, Ummeldung ARD, ZDF, Deutschlandradio, Ummeldung Beitragsservice Deutschlandradio Fernsehgebühr GEZ Rundfunkbeitrag
-
-Letzte Aktualisierung: 30.05.2025
-
+Letzte Aktualisierung: 16.06.2025

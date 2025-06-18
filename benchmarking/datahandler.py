@@ -1,7 +1,8 @@
 import os
+from openai import OpenAI
 
-from langchain_ollama import ChatOllama
-from langchain_ollama import OllamaEmbeddings
+from langchain_openai import OpenAIEmbeddings
+from langchain_openai import ChatOpenAI
 
 from rag_pipeline.populate_database import load_db
 from rag_pipeline.constants import (
@@ -45,8 +46,10 @@ from benchmarking.manual_validation.io import (
 
 
 class DataHandler:
+    openai_client = None
     dbs = {}
-    model = None
+    generation_model = None
+    embedding_model = None
     output_formatting_model = None
     original_testsets = []
     validated_testsets = {}
@@ -56,19 +59,21 @@ class DataHandler:
 
     @classmethod
     def init(cls):
+        if not cls.openai_client:
+            cls.openai_client = OpenAI()
+
+        if not cls.embedding_model:
+            cls.embedding_model = OpenAIEmbeddings(model=TESTSET_EMBEDDING_MODEL)
+
         if not cls.dbs:
-            embedding_model = OllamaEmbeddings(model=TESTSET_EMBEDDING_MODEL)
             for db_path in os.listdir(TESTSET_DB_PATH):
                 cls.dbs[os.path.splitext(os.path.basename(db_path))[0]] = load_db(
-                    os.path.join(TESTSET_DB_PATH, db_path), embedding_model
+                    os.path.join(TESTSET_DB_PATH, db_path), cls.embedding_model
                 )
 
-        if not cls.model:
-            cls.model = ChatOllama(model=GENERATION_MODEL)
+        if not cls.generation_model:
+            cls.generation_model = ChatOpenAI(model=TESTSET_GENERATION_MODEL)
         
-        if not cls.output_formatting_model:
-            cls.output_formatting_model = ChatOllama(model=TESTSET_GENERATION_MODEL)
-
         if not cls.original_testsets:
             testsets = load_original_testsets()
             cls.original_testsets = list(testsets.items())
@@ -87,16 +92,20 @@ class DataHandler:
     
 
     @classmethod
+    def get_openai_client(cls):
+        return cls.openai_client
+
+    @classmethod
     def get_db(cls, usecase):
         return cls.dbs.get(usecase)
     
     @classmethod
-    def get_model(cls):
-        return cls.model
+    def get_embedding_model(cls):
+        return cls.embedding_model
     
     @classmethod
-    def get_output_formatting_model(cls):
-        return cls.output_formatting_model
+    def get_generation_model(cls):
+        return cls.generation_model
     
     @classmethod
     def get_testset_usecase(cls, testset_i) -> str:

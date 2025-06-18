@@ -21,8 +21,8 @@ TESTSET_VALIDATED_PATH = './benchmarking/manual_validation/data/validated_testse
 TESTSET_HELPER_DATA = './benchmarking/manual_validation/data/generated_helper_data.json'
 TESTSET_HELPER_DATA_ITEM_TEMPLATE_PATH = './benchmarking/manual_validation/data/helper_data_item_template.json'
 
-TESTSET_SIZE_PER_USECASE = 50
-TESTSET_GENERATION_MODEL = "gpt-4.1"  # "mistral-nemo"
+TESTSET_SIZE = 250
+TESTSET_GENERATION_MODEL = "gpt-4o"  # "mistral-nemo"
 TESTSET_EMBEDDING_MODEL = "text-embedding-ada-002"
 
 TESTSET_ORIGINAL_QUERY_KW = "user_input"

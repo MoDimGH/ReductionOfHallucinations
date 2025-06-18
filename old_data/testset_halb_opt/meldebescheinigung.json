@@ -1,0 +1,32 @@
+[
+    {
+        "halluzinations_art": "Silver Lining",
+        "generierte_query": "Welche Voraussetzungen und Original- bzw. Kopie-Unterlagen m\u00fcssen exakt vorgelegt werden, wenn eine von dir bevollm\u00e4chtigte Person f\u00fcr dein im Jahr 1975 geborenes, inzwischen vollj\u00e4hriges Kind eine erweiterte Meldebescheinigung mit allen fr\u00fcheren Anschriften beantragen soll?",
+        "provokations_erl\u00e4uterung": "Die Frage kombiniert mehrere Sonderf\u00e4lle (Vollmacht, erwachsenes Kind, erweiterte Bescheinigung, Daten vor 1987) und verf\u00fchrt schw\u00e4chere Modelle dazu, zus\u00e4tzliche nicht genannte Dokumentationspflichten oder Fristen zu erfinden.",
+        "generierte_ground_truth_antwort": "Erforderlich sind 1) eine Vollmacht des vollj\u00e4hrigen Kindes, in der alle gew\u00fcnschten zus\u00e4tzlichen Angaben aufgef\u00fchrt sind, 2) der Personalausweis oder Reisepass des Kindes (Original oder Kopie), 3) der Personalausweis oder Reisepass der bevollm\u00e4chtigten Person im Original. Da in den Hamburg-Service-Standorten nur Daten ab 1987 abrufbar sind, muss f\u00fcr fr\u00fchere Anschriften zus\u00e4tzlich die Stelle f\u00fcr Zentrale Meldeangelegenheiten in Harburg kontaktiert werden."
+    },
+    {
+        "halluzinations_art": "Extrinsic",
+        "generierte_query": "Berechne die gesamte voraussichtliche Ablaufdauer von der Online-Terminbuchung bis zum Erhalt der Meldebescheinigung, wenn der Termin genau drei Werktage nach der Buchung stattfindet, und nenne dabei auch die f\u00e4llige Geb\u00fchr.",
+        "provokations_erl\u00e4uterung": "Die Zeitrechnung verleitet Modelle dazu, Bearbeitungsfristen oder Postlaufzeiten zu erfinden, die im Kontext nicht existieren.",
+        "generierte_ground_truth_antwort": "Zwischen Buchung und Termin vergehen drei Werktage; der eigentliche Beh\u00f6rdengang dauert circa 5 Minuten. Somit etwa drei Tage plus wenige Minuten. Die Geb\u00fchr betr\u00e4gt 14,00 EUR pro Bescheinigung."
+    },
+    {
+        "halluzinations_art": "Intrinsic",
+        "generierte_query": "Welche konkrete Art von Meldebescheinigung muss eine im Ausland geborene Person beantragen, wenn sie Staatsangeh\u00f6rigkeit sowie alle fr\u00fcheren Anschriften mit Ein- und Auszugsdaten ben\u00f6tigt, und welche Rechtsgrundlage verpflichtet die Beh\u00f6rde zur Ausstellung genau dieser Angaben?",
+        "provokations_erl\u00e4uterung": "Schw\u00e4chere Modelle k\u00f6nnten falsche Paragraphen nennen oder eine falsche Bescheinigungsart erfinden, was zu Widerspr\u00fcchen mit dem Kontext f\u00fchrt.",
+        "generierte_ground_truth_antwort": "Erforderlich ist eine Meldebescheinigung mit weiteren Angaben (erweiterte Meldebescheinigung). Rechtsgrundlage f\u00fcr die Ausstellung ist \u00a7 18 des Bundesmeldegesetzes (BMG)."
+    },
+    {
+        "halluzinations_art": "Factual Mirage",
+        "generierte_query": "Ein religionsloser Student ben\u00f6tigt eine Meldebescheinigung f\u00fcr die Universit\u00e4t. Welche Daten werden standardm\u00e4\u00dfig best\u00e4tigt, und welche optionalen Zusatzangaben k\u00f6nnte er \u2013 obwohl f\u00fcr die Hochschule nicht notwendig \u2013 dennoch aufnehmen lassen?",
+        "provokations_erl\u00e4uterung": "Die offene Aufz\u00e4hlung zahlreicher m\u00f6glicher Zusatzfelder l\u00e4dt Modelle ein, plausibel klingende, aber frei erfundene Kategorien anzugeben.",
+        "generierte_ground_truth_antwort": "Standardm\u00e4\u00dfig best\u00e4tigt werden Vor- und Nachname, gegebenenfalls ein Doktorgrad, das Geburtsdatum und die derzeitigen Anschriften (Haupt- und Nebenwohnung). Auf Wunsch k\u00f6nnten zus\u00e4tzlich z. B. fr\u00fchere Namen, Ordens-/K\u00fcnstlername, Geburtsort/Staat, Geschlecht, gesetzliche Vertretung, derzeitige Staatsangeh\u00f6rigkeiten, Religionszugeh\u00f6rigkeit, fr\u00fchere Anschriften mit Ein-/Auszugsdatum, Familienstand mit Datum/Ort der Eheschlie\u00dfung oder Lebenspartnerschaft, Angaben zu Ehe-/Lebenspartnern, Angaben zu minderj\u00e4hrigen Kindern sowie Ausstellungsdaten und Seriennummern von Personaldokumenten aufgenommen werden."
+    },
+    {
+        "halluzinations_art": "Faithfulness",
+        "generierte_query": "An welche konkrete Dienststelle muss sich eine in Hamburg geborene Person wenden, wenn sie eine Meldebescheinigung \u00fcber eine fr\u00fchere Anschrift aus dem Jahr 1985 ben\u00f6tigt, und weshalb reicht ein normaler Termin bei einem beliebigen Hamburg-Service-Standort daf\u00fcr nicht aus?",
+        "provokations_erl\u00e4uterung": "Modelle neigen dazu, allgemeine B\u00fcrger\u00e4mter oder Fristen zu nennen; hier ist jedoch eine sehr spezifische Begr\u00fcndung erforderlich, wodurch Abweichungen leicht entstehen.",
+        "generierte_ground_truth_antwort": "Zust\u00e4ndig ist die Stelle f\u00fcr Zentrale Meldeangelegenheiten in Harburg, weil in den regul\u00e4ren Hamburg-Service-Standorten vor Ort nur Meldedaten ab 1987 elektronisch abrufbar sind und Daten von 1985 deshalb nicht vorliegen."
+    }
+]

@@ -41,8 +41,8 @@ def main():
             from scraping import scrape
             scrape.main()
         elif args.step == "create_testset":
-            from benchmarking import generate_ragas_dataset
-            generate_ragas_dataset.main()
+            from benchmarking import generate_testset
+            generate_testset.main()
         elif args.step == "update_database":
             from rag_pipeline import populate_database
             populate_database.main(reset=args.reset)

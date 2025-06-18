@@ -42,6 +42,25 @@ def save_pdf(filename, usecase, content):
         f.write(content)
 
 
+def clean_markdown(content):
+    # Convert H1 Setext-style (underlined with '=') to H1 Atx-style
+    content = re.sub(r'([^\n]+)\n[=]+', r'# \1', content)
+
+    # Convert H2 Setext-style (underlined with '-') to H2 Atx-style
+    content = re.sub(r'([^\n]+)\n[-]+', r'## \1', content)
+
+    # Remove excessive whitespace and empty lines
+    content = re.sub(r'\n\s*\n', '\n\n', content)
+
+    # Remove sections with no content (e.g., "Fristen", "Rechtsbehelf")
+    content = re.sub(r'###\s+[A-Za-zäöüÄÖÜß\s]+(\n\s*)*###\s*$', '', content)
+
+    # Normalize headings (e.g., ensure there's one empty line before headings)
+    content = re.sub(r'([^\n])\n(#)', r'\1\n\n\2', content)  # Make sure headings aren't stuck to previous text
+
+    return content
+
+
 def save_as_md(article, usecase, filename):
     # soup zu markdown konviertieren
     md_text = MarkdownConverter().convert_soup(article)
@@ -54,6 +73,8 @@ def save_as_md(article, usecase, filename):
     # clean of whitespace
     md_text = md_text.strip()
     md_text = re.sub(r"\n{2,}", "\n", md_text)
+
+    md_text = clean_markdown(md_text)
 
     # Erstellung der output markdown datei
     with open(os.path.join(DATA_PATH, usecase, filename), 'w', encoding='utf-8') as out_f:
@@ -109,6 +130,7 @@ def scrape(url, usecase):
             raise Exception(f"Error - Response Code {response.status_code}")
 
         if url[-4:] == ".pdf":
+            return
             filename = get_pdf_filename(url[:-4])
             save_pdf(filename, usecase, response.content)
             return
