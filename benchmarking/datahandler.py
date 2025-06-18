@@ -58,36 +58,36 @@ class DataHandler:
     helper_data_item_template = {}
 
     @classmethod
-    def init(cls):
-        if not cls.openai_client:
+    def init(cls, reinit=False):
+        if reinit or not cls.openai_client:
             cls.openai_client = OpenAI()
 
-        if not cls.embedding_model:
+        if reinit or not cls.embedding_model:
             cls.embedding_model = OpenAIEmbeddings(model=TESTSET_EMBEDDING_MODEL)
 
-        if not cls.dbs:
+        if reinit or not cls.dbs:
             for db_path in os.listdir(TESTSET_DB_PATH):
                 cls.dbs[os.path.splitext(os.path.basename(db_path))[0]] = load_db(
                     os.path.join(TESTSET_DB_PATH, db_path), cls.embedding_model
                 )
 
-        if not cls.generation_model:
+        if reinit or not cls.generation_model:
             cls.generation_model = ChatOpenAI(model=TESTSET_GENERATION_MODEL)
         
-        if not cls.original_testsets:
+        if reinit or not cls.original_testsets:
             testsets = load_original_testsets()
             cls.original_testsets = list(testsets.items())
 
-        if not cls.testset_item_template:
+        if reinit or not cls.testset_item_template:
             cls.testset_item_template = load_testset_item_template()
 
-        if not cls.helper_data_item_template:
+        if reinit or not cls.helper_data_item_template:
             cls.helper_data_item_template = load_helper_data_item_template()
 
-        if not cls.validated_testsets:
+        if reinit or not cls.validated_testsets:
             cls.validated_testsets = load_validated_testsets()
         
-        if not cls.helper_data:
+        if reinit or not cls.helper_data:
             cls.helper_data = load_helper_data()
     
 

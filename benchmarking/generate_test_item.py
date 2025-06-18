@@ -27,9 +27,9 @@ def query_model(query) -> list[str]:
             
     return answers
 
-def generate_test_items(n_queries, existing_queries, docs):
+def generate_test_items(n_queries, existing_queries, docs, persona):
     prompt_template = ChatPromptTemplate.from_template("""
-    Du bist ein Experte für RAG-Halluzinations-Evaluierung. Generiere auf Basis des Kontextes {n_queries} Queries, welche eine zufällige der folgenden Halluzinationsarten bei schwacheren Models möglichst effektiv provozieren soll. Generiere fuer die Provokation der Halluzinationen möglichst komplexe oder abstrakte Fragen wo man mehr Nachdenken und mehr Informationen miteinander verknüpfen muss:
+    Du bist ein Experte für RAG-Halluzinations-Evaluierung. Generiere auf Basis des Kontextes und des Usecases {n_queries} Queries, welche eine zufällige der folgenden Halluzinationsarten bei schwacheren Models möglichst effektiv provozieren soll. Generiere fuer die Provokation der Halluzinationen möglichst komplexe oder abstrakte Fragen wo man mehr Nachdenken und mehr Informationen miteinander verknüpfen muss:
     
     ======================================================
                                                        
@@ -42,6 +42,12 @@ def generate_test_items(n_queries, existing_queries, docs):
     - **Factual Mirage**: Die Antwort klingt glaubwürdig, ist aber inhaltlich erfunden oder falsch (z. B. „Konan Doyle war Royal Detective“).
     - **Silver Lining**: Die Eingabe enthält bereits einen Fehler, und die Antwort verstärkt oder ergänzt diesen mit zusätzlichen Halluzinationen.
     - **Keine Halluzination**: Die Antwort stimmt mit dem Kontext und der Frage überein und ist korrekt.
+
+    ======================================================
+                                                       
+    Usecase: 
+           
+    {persona}
 
     ======================================================
 
@@ -75,7 +81,7 @@ def generate_test_items(n_queries, existing_queries, docs):
 
     context = "\n-----------------------------------------------------------------------\n".join(docs)
 
-    prompt = prompt_template.format(n_queries=n_queries, existing_queries=existing_queries, context=context)
+    prompt = prompt_template.format(n_queries=n_queries, existing_queries=existing_queries, context=context, persona=persona)
 
 
     response = with_n_retrys(5, lambda: DataHandler.get_openai_client().responses.create(model="o3", input=prompt))
@@ -105,8 +111,6 @@ if __name__ == "__main__":
         usecase_personas = json.load(f)
 
     for usecase, persona in tqdm(usecase_personas.items()):
-        if usecase != "kfz":
-            continue
         md_documents = DirectoryLoader(os.path.join(DATA_PATH, usecase), recursive=True, glob="*.md").load()
         print("loaded files")
 
@@ -120,7 +124,7 @@ if __name__ == "__main__":
         for batch in tqdm(data_batches, desc=f"Generating testset for {usecase}..."):
             n_queries = TESTSET_SIZE * get_usecase_dataset_share(usecase) / len(data_batches)
             existing_queries = get_existing_queries(testset)
-            sub_testset = generate_test_items(n_queries, existing_queries, batch)
+            sub_testset = generate_test_items(n_queries, existing_queries, batch, persona.get("role_description"))
             testset.extend(sub_testset)
 
         with open(os.path.join(TESTSET_PATH, usecase + ".json"), "w", encoding="utf-8") as f:

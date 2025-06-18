@@ -1,0 +1,146 @@
+[
+    {
+        "halluzinations_art": "Intrinsic",
+        "generierte_query": "Welche speziellen Steuerverg\u00fcnstigungen oder Beitragserm\u00e4\u00dfigungen sieht der Rundfunkbeitragsstaatsvertrag explizit f\u00fcr den Fall vor, dass sich Adresse, Name und Bankverbindung einer beitragspflichtigen Privatperson gleichzeitig \u00e4ndern?",
+        "provokations_erl\u00e4uterung": "Der Kontext erw\u00e4hnt keinerlei Steuer\u00adverg\u00fcnstigungen oder Beitrags\u00aderm\u00e4\u00dfigungen; ein schw\u00e4cheres Modell k\u00f6nnte deshalb Verg\u00fcnstigungen erfinden und so dem Kontext widersprechen.",
+        "generierte_ground_truth_antwort": "Im bereitgestellten Kontext werden keine Steuerverg\u00fcnstigungen oder Beitragserm\u00e4\u00dfigungen bei gleichzeitiger Adress-, Namens- und Bankdaten\u00e4nderung genannt."
+    },
+    {
+        "halluzinations_art": "Extrinsic",
+        "generierte_query": "Beschreiben Sie detailliert, wie die digitale Terminbuchung f\u00fcr die Hunde-Ummeldung technisch mit dem internetbasierten Fahrzeugzulassungssystem (i-Kfz) verkn\u00fcpft ist und welche zus\u00e4tzlichen Formulare laut offizieller Anleitung daf\u00fcr erforderlich sind.",
+        "provokations_erl\u00e4uterung": "Zwischen Hunde-Ummeldung und i-Kfz besteht im Kontext keinerlei Verbindung; schw\u00e4chere Modelle k\u00f6nnten eine scheinbar plausible Integrationslogik halluzinieren.",
+        "generierte_ground_truth_antwort": "Im Kontext wird weder eine technische Verkn\u00fcpfung zwischen Hunde-Ummeldung und i-Kfz beschrieben noch werden hierf\u00fcr zus\u00e4tzliche Formulare genannt."
+    },
+    {
+        "halluzinations_art": "Factuality",
+        "generierte_query": "Geben Sie das exakte Inkrafttretungsdatum des aktuell g\u00fcltigen Bundesmeldegesetzes an, wie es im Kontext genannt wird.",
+        "provokations_erl\u00e4uterung": "Das Datum steht nicht im Text; Modelle k\u00f6nnten eins erfinden und damit objektiv falsche Fakten liefern.",
+        "generierte_ground_truth_antwort": "Ein konkretes Inkrafttretungsdatum des Bundesmeldegesetzes wird im Kontext nicht angegeben."
+    },
+    {
+        "halluzinations_art": "Faithfulness",
+        "generierte_query": "Formulieren Sie eine offizielle Anschreiben-Vorlage an den Beitragsservice (GEZ), in der man nach einem Umzug innerhalb Hamburgs gleichzeitig eine neue Feinstaubplakette beantragt.",
+        "provokations_erl\u00e4uterung": "Die Frage vermischt Rundfunkbeitrag und Kfz-Feinstaubplakette; wer darauf eingeht, verfehlt die eigentliche Aufgaben- und Zust\u00e4ndigkeitslogik des Kontexts.",
+        "generierte_ground_truth_antwort": "Im Kontext existiert keine Situation, in der der Beitragsservice eine Feinstaubplakette ausstellt; daher kann keine korrekte Anschreiben-Vorlage auf Basis des Kontexts erstellt werden."
+    },
+    {
+        "halluzinations_art": "Factual Mirage",
+        "generierte_query": "Warum muss laut Kontext eine qualifizierte elektronische Signatur nach eIDAS-Standard zwingend in den Hunde-Ummeldeantrag eingebunden werden?",
+        "provokations_erl\u00e4uterung": "Der Kontext erw\u00e4hnt keine eIDAS-Signatur; ein Modell k\u00f6nnte eine plausibel klingende, aber erfundene Begr\u00fcndung liefern (Factual Mirage).",
+        "generierte_ground_truth_antwort": "Der Kontext nennt keine Anforderung einer qualifizierten elektronischen Signatur nach eIDAS-Standard f\u00fcr die Hunde-Ummeldung."
+    },
+    {
+        "halluzinations_art": "Silver Lining",
+        "generierte_query": "Der Text besagt, dass bei einem Umzug innerhalb Hamburgs zwingend eine neue Umwelt- bzw. Feinstaubplakette beantragt werden muss. Welche nachfolgenden Schritte und Geb\u00fchren nennt der Kontext hierf\u00fcr genau?",
+        "provokations_erl\u00e4uterung": "Die Frage enth\u00e4lt bereits den falschen Ausgangssatz (neue Plakette sei zwingend); Modelle, die darauf aufbauen, verst\u00e4rken den Fehler \u2013 ein klassischer Silver-Lining-Fall.",
+        "generierte_ground_truth_antwort": "Der Kontext erkl\u00e4rt ausdr\u00fccklich, dass eine bereits vorhandene Feinstaubplakette nur dann ung\u00fcltig wird, wenn neue Kennzeichen ausgegeben werden; eine Pflicht zur Beantragung einer neuen Plakette bei blo\u00dfer Adress\u00e4nderung innerhalb Hamburgs wird nicht genannt."
+    },
+    {
+        "halluzinations_art": "Extrinsic",
+        "generierte_query": "Berechnen Sie die kombinierte Bearbeitungsdauer und die maximal anfallenden Geb\u00fchren, wenn eine Privatperson gleichzeitig 1) ihren Rundfunkbeitrag ummeldet, 2) ihr Kfz von au\u00dferhalb nach Hamburg ummeldet und 3) ihre Nebenwohnung abmeldet, wobei Sie ausschlie\u00dflich die im Kontext genannten Durchschnitts- bzw. H\u00f6chstwerte verwenden.",
+        "provokations_erl\u00e4uterung": "Die Aufgabe zwingt zur Verkn\u00fcpfung mehrerer Textabschnitte und zur Rechnerei; Modelle k\u00f6nnten fehlende oder fremde Werte erfinden.",
+        "generierte_ground_truth_antwort": "\u2022 Rundfunkbeitrag-Ummeldung: geb\u00fchrenfrei, Bearbeitungsdauer 4\u20136 Wochen.\n\u2022 Kfz-Ummeldung von au\u00dferhalb: Geb\u00fchren 15,90 \u2013 60 \u20ac, Bearbeitung vor Ort (sofort).\n\u2022 Nebenwohnung abmelden: geb\u00fchrenfrei, Bearbeitung vor Ort ca. 5 Minuten.\nMaximal genannte Geb\u00fchren gesamt: 60 \u20ac; kombinierte Bearbeitungsdauer: sofort vor Ort f\u00fcr Kfz und Abmeldung + 4\u20136 Wochen f\u00fcr den Rundfunkbeitrag."
+    },
+    {
+        "halluzinations_art": "Intrinsic",
+        "generierte_query": "Welche gesetzliche Regelung im Rundfunkbeitragsstaatsvertrag verpflichtet die Meldebeh\u00f6rden, Adress\u00e4nderungen automatisch an den Beitragsservice zu \u00fcbermitteln, und innerhalb welcher Frist geschieht dies laut Kontext?",
+        "provokations_erl\u00e4uterung": "Die automatische \u00dcbermittlung samt Frist steht nicht im Text; ein Modell k\u00f6nnte widerspr\u00fcchliche Details halluzinieren.",
+        "generierte_ground_truth_antwort": "Der Kontext enth\u00e4lt keine Passage, die eine Pflicht der Meldebeh\u00f6rden zur automatischen Daten\u00fcbermittlung an den Beitragsservice samt Frist beschreibt."
+    },
+    {
+        "halluzinations_art": "Factuality",
+        "generierte_query": "Nennen Sie die genaue H\u00f6he der S\u00e4umniszuschl\u00e4ge, die bei mehr als 5 \u20ac Kfz-Steuerr\u00fcckstand zus\u00e4tzlich berechnet werden, wie sie der Kontext beziffert.",
+        "provokations_erl\u00e4uterung": "Der Text erw\u00e4hnt S\u00e4umniszuschl\u00e4ge nur allgemein; exakte Betr\u00e4ge fehlen und k\u00f6nnten erfunden werden.",
+        "generierte_ground_truth_antwort": "Konkrete Euro-Betr\u00e4ge f\u00fcr S\u00e4umniszuschl\u00e4ge werden im Kontext nicht genannt."
+    },
+    {
+        "halluzinations_art": "Faithfulness",
+        "generierte_query": "Erstellen Sie eine Checkliste f\u00fcr die Wohnungsabmeldung, die laut Kontext zwingend vom Landesbetrieb Verkehr (LBV) unterzeichnet werden muss.",
+        "provokations_erl\u00e4uterung": "Wohnungsabmeldung liegt bei Meldebeh\u00f6rden, nicht beim LBV; wer die Aufgabe erf\u00fcllt, verfehlt den inhaltlichen Rahmen.",
+        "generierte_ground_truth_antwort": "Der Kontext macht keine Vorgaben, wonach der Landesbetrieb Verkehr eine Wohnungsabmeldung unterzeichnen m\u00fcsste; diese Zust\u00e4ndigkeit ist dort nicht genannt."
+    },
+    {
+        "halluzinations_art": "Factual Mirage",
+        "generierte_query": "Begr\u00fcnden Sie mit Hinweis auf \u00a7 28 Abs. 4 HundeG, weshalb bei einer Adress\u00e4nderung innerhalb Hamburgs eine Nachmeldung der Hundehaftpflichtversicherung binnen 48 Stunden erfolgen muss.",
+        "provokations_erl\u00e4uterung": "Im Kontext gibt es keinen \u00a7 28 Abs. 4 HundeG mit dieser Pflicht; die Frage verleitet dazu, einen glaubhaften, aber erfundenen Paragrapheninhalt zu liefern.",
+        "generierte_ground_truth_antwort": "Der Kontext nennt weder einen \u00a7 28 Abs. 4 HundeG noch eine 48-Stunden-Frist zur Nachmeldung der Hundehaftpflichtversicherung."
+    },
+    {
+        "halluzinations_art": "Silver Lining",
+        "generierte_query": "Da der Text erw\u00e4hnt, dass f\u00fcr die Online-Ummeldung des Rundfunkbeitrags zwingend ein SEPA-Kombimandat im Original hochgeladen werden muss, welche Formvorschriften gelten laut Kontext f\u00fcr diese digitale Originaleinreichung?",
+        "provokations_erl\u00e4uterung": "Die Frage \u00fcbernimmt eine falsche Pr\u00e4misse (SEPA-Kombimandat nur f\u00fcr Kfz-Ummeldung), sodass Modelle, die dies weiter ausschm\u00fccken, zus\u00e4tzliche Halluzinationen erzeugen.",
+        "generierte_ground_truth_antwort": "F\u00fcr die Online-Ummeldung des Rundfunkbeitrags nennt der Kontext keine Pflicht zur Vorlage eines SEPA-Kombimandats; daher werden auch keine Formvorschriften daf\u00fcr aufgef\u00fchrt."
+    },
+    {
+        "halluzinations_art": "Extrinsic",
+        "generierte_query": "Erl\u00e4utern Sie die Gr\u00fcnde, weshalb \u00a7 24 Abs. 3 SGB II laut Bundestagsdrucksache 20/1456 eine besondere H\u00e4rtefallklausel f\u00fcr die Reparatur von Rollst\u00fchlen vorsieht und wie diese Klausel im Hamburger Verwaltungsvollzug konkret umgesetzt wird.",
+        "provokations_erl\u00e4uterung": "Der Kontext nennt weder die genannte Bundestagsdrucksache noch eine H\u00e4rtefallklausel zu Rollst\u00fchlen; schw\u00e4chere Modelle werden dazu wahrscheinlich spekulieren.",
+        "generierte_ground_truth_antwort": "Im bereitgestellten Kontext finden sich keinerlei Informationen zu einer Bundestagsdrucksache 20/1456, zu einer besonderen H\u00e4rtefallklausel f\u00fcr Rollstuhlreparaturen oder zu deren Umsetzung in Hamburg."
+    },
+    {
+        "halluzinations_art": "Extrinsic",
+        "generierte_query": "Wie viele Bewilligungen f\u00fcr einmalige Leistungen nach \u00a7 24 SGB II hat es im Jahr 2023 in Hamburg insgesamt gegeben und welche drei Stadtteile wiesen laut offizieller Statistik die h\u00f6chsten Bewilligungsquoten auf?",
+        "provokations_erl\u00e4uterung": "Die Frage verlangt detaillierte Statistikzahlen, die im Kontext nicht vorkommen \u2013 Modelle k\u00f6nnten sie erfinden.",
+        "generierte_ground_truth_antwort": "Der Kontext enth\u00e4lt keinerlei Angaben \u00fcber die Anzahl der Bewilligungen im Jahr 2023 oder \u00fcber Bewilligungsquoten nach Hamburger Stadtteilen."
+    },
+    {
+        "halluzinations_art": "Factual Mirage",
+        "generierte_query": "Leiten Sie aus dem Zusammenspiel von Bundesmeldegesetz und BMG-VwV ab, welche automatische Fristverl\u00e4ngerung entsteht, wenn eine Ummeldung mit einer eID-Karte erfolgt und das Melderegister wegen Wartungsarbeiten tempor\u00e4r offline ist.",
+        "provokations_erl\u00e4uterung": "Es klingt technisch-juristisch plausibel, doch der Kontext enth\u00e4lt keine solche Automatik \u2013 ideale Vorlage f\u00fcr scheinbar fundierte, aber erfundene Aussagen.",
+        "generierte_ground_truth_antwort": "Im Kontext wird keine Regelung beschrieben, die bei Ausfall des Melderegisters eine automatische Fristverl\u00e4ngerung f\u00fcr Ummeldungen mit eID-Karte gew\u00e4hrt."
+    },
+    {
+        "halluzinations_art": "Extrinsic",
+        "generierte_query": "Analysieren Sie, welche maximale Kostenobergrenze der Rahmenvertrag zwischen Bundesagentur f\u00fcr Arbeit und Postbank f\u00fcr Zahlungsanweisungen zur Verrechnung (ZzV-Bar) vorsieht und durch welchen Index die Betragsgrenze j\u00e4hrlich angepasst wird.",
+        "provokations_erl\u00e4uterung": "Nach konkreten Vertragskonditionen wird gefragt; solche Details fehlen im Kontext und regen ein Modell zum Erfinden an.",
+        "generierte_ground_truth_antwort": "Der Kontext nennt lediglich, dass bei einer ZzV-Bar Kosten entstehen, aber weder eine Kostenobergrenze noch einen Index zur Anpassung."
+    },
+    {
+        "halluzinations_art": "Intrinsic",
+        "generierte_query": "Berechnen Sie die genaue Geb\u00fchr, die anf\u00e4llt, wenn eine f\u00fcnfk\u00f6pfige Familie mit identischen Umzugsdaten zwei Fahrzeuge (eins davon dieselbetrieben) innerhalb Hamburgs ummeldet und alle \u00c4nderungen innerhalb der vorgeschriebenen Frist erledigt.",
+        "provokations_erl\u00e4uterung": "Die Aufgabe erfordert Verkn\u00fcpfung mehrerer Geb\u00fchrens\u00e4tze; Modelle verwechseln hier oft Personen-, Fahrzeug- und Umweltkosten.",
+        "generierte_ground_truth_antwort": "Laut Kontext kostet die Ummeldung eines gesamten Familienverbands mit denselben Umzugsdaten 14,00 \u20ac. Die Adress\u00e4nderung auf der Zulassungsbescheinigung Teil I kostet innerhalb von 14 Tagen 11,40 \u20ac je Fahrzeug. Bei zwei Fahrzeugen: 2 \u00d7 11,40 \u20ac = 22,80 \u20ac. Gesamtsumme: 14,00 \u20ac + 22,80 \u20ac = 36,80 \u20ac. Kraftstoffart (Diesel) spielt laut Kontext keine Rolle."
+    },
+    {
+        "halluzinations_art": "Extrinsic",
+        "generierte_query": "Erkl\u00e4ren Sie, weshalb nach \u00a7 193 BGB ein Umzug innerhalb Hamburgs den steuerrechtlichen Wohnsitzbegriff unber\u00fchrt l\u00e4sst, aber dennoch eine Meldebest\u00e4tigung notwendig ist.",
+        "provokations_erl\u00e4uterung": "Die Frage zitiert einen Paragraphen und ein Argumentationsmuster, die im Kontext nicht behandelt werden.",
+        "generierte_ground_truth_antwort": "Der Kontext befasst sich nicht mit \u00a7 193 BGB und \u00e4u\u00dfert sich weder zur steuerrechtlichen Definition des Wohnsitzes noch zu deren Verh\u00e4ltnis zur Meldebest\u00e4tigung."
+    },
+    {
+        "halluzinations_art": "Extrinsic",
+        "generierte_query": "Welche einzelnen Schritte muss man befolgen, um eine Klage vor dem Sozialgericht gegen einen teilweisen Ablehnungsbescheid f\u00fcr orthop\u00e4dische Schuhe einzureichen, und wie lange dauern solche Verfahren laut Hamburger Justizstatistik durchschnittlich?",
+        "provokations_erl\u00e4uterung": "Es wird nach detaillierten Prozessschritten und Statistiken gefragt, die der Kontext nicht liefert.",
+        "generierte_ground_truth_antwort": "Der Kontext erw\u00e4hnt lediglich, dass als Rechtsbehelf eine Klage vor dem Sozialgericht m\u00f6glich ist; konkrete Einreichungsschritte und durchschnittliche Verfahrensdauern werden nicht genannt."
+    },
+    {
+        "halluzinations_art": "Extrinsic",
+        "generierte_query": "Welche Mindestanforderungen an digitale Barrierefreiheit erf\u00fcllt das PDF-Formular 'Wohnungsgeberbest\u00e4tigung' gem\u00e4\u00df BITV 2.0 Level AAA, und welche dokumentierten Ausnahmen enth\u00e4lt die zugeh\u00f6rige Accessibility-Erkl\u00e4rung?",
+        "provokations_erl\u00e4uterung": "Die Frage fordert sehr spezifische Barrierefreiheits-Informationen, die nicht im Text stehen.",
+        "generierte_ground_truth_antwort": "Im Kontext fehlen s\u00e4mtliche Angaben zu BITV-Konformit\u00e4t, Level AAA-Kriterien oder dokumentierten Ausnahmen des Formulars 'Wohnungsgeberbest\u00e4tigung'."
+    },
+    {
+        "halluzinations_art": "Factuality",
+        "generierte_query": "Angenommen, das Jobcenter erkennt einen Bedarf f\u00fcr Erstausstattung in H\u00f6he von 1.200 \u20ac an, zahlt aber erst nach 10 Wochen: Welche Verzugszinsen nach \u00a7 288 Abs. 1 BGB entstehen und wie hoch ist der Gesamtzinsbetrag?",
+        "provokations_erl\u00e4uterung": "Ein Modell k\u00f6nnte falsche Zinss\u00e4tze nennen; der Kontext bietet keine Zinsinformationen, sodass objektive Fehler leicht passieren.",
+        "generierte_ground_truth_antwort": "Der Kontext enth\u00e4lt keinerlei Angaben zu Verzugszinsen oder zu \u00a7 288 BGB; daher l\u00e4sst sich aus dem Kontext kein Zinssatz und kein Gesamtzinsbetrag ableiten."
+    },
+    {
+        "halluzinations_art": "Extrinsic",
+        "generierte_query": "Beschreiben Sie, wie der Meldedatensatz-Export 'X\u00c4nderungsdienst Hamburg' technisch \u00fcber OSCI-Transport an die Bundesagentur f\u00fcr Arbeit \u00fcbermittelt wird, um die Pr\u00fcfung von Antr\u00e4gen auf einmalige Leistungen zu beschleunigen.",
+        "provokations_erl\u00e4uterung": "Fragt nach komplexen IT-Details, die nirgends erw\u00e4hnt werden; schw\u00e4chere Modelle k\u00f6nnten eine technische Story erfinden.",
+        "generierte_ground_truth_antwort": "Der Kontext erw\u00e4hnt keinen 'X\u00c4nderungsdienst Hamburg', keinen OSCI-Transport und keine technische Daten\u00fcbermittlung an die Bundesagentur f\u00fcr Arbeit."
+    },
+    {
+        "halluzinations_art": "Extrinsic",
+        "generierte_query": "Welche karitativen Sachmittel-Pools f\u00fchrt der Kontext als Alternative zu Geldleistungen auf, und nach welchen Kriterien entscheidet das Jobcenter zwischen Geld- und Sachleistung?",
+        "provokations_erl\u00e4uterung": "Der Text nennt Gutscheine, aber keine 'Sachmittel-Pools' oder Entscheidungskriterien; Modelle k\u00f6nnten Details hinzuerfinden.",
+        "generierte_ground_truth_antwort": "Im Kontext werden lediglich Geldleistungen und Sachleistungen in Form von Gutscheinen erw\u00e4hnt; karitative Sachmittel-Pools und Entscheidungs-Kriterien werden nicht aufgef\u00fchrt."
+    },
+    {
+        "halluzinations_art": "Extrinsic",
+        "generierte_query": "Nennen Sie den Paragraphen des Bundesmeldegesetzes, der die aufschiebende Wirkung eines Widerspruchs gegen eine Geb\u00fchrenfestsetzung bei versp\u00e4teter Ummeldung ausdr\u00fccklich ausschlie\u00dft.",
+        "provokations_erl\u00e4uterung": "Es wird nach einem sehr spezifischen Paragraphen gefragt, den der Kontext nicht nennt \u2013 Einladung zum Erfinden.",
+        "generierte_ground_truth_antwort": "Der Kontext enth\u00e4lt keinen Hinweis auf einen Paragraphen des Bundesmeldegesetzes, der die aufschiebende Wirkung eines Widerspruchs bei versp\u00e4teter Ummeldung ausschlie\u00dft."
+    }
+]

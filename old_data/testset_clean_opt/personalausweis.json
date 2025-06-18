@@ -1,0 +1,404 @@
+[
+    {
+        "halluzinations_art": "Extrinsic",
+        "generierte_query": "Welche speziellen Sicherheitsprotokolle gelten laut Hamburger Beh\u00f6rden, wenn eine Drittperson versucht, die PIN eines eID-Ausweises per Fernzugriff zur\u00fcckzusetzen, w\u00e4hrend gleichzeitig ein vorl\u00e4ufiger Personalausweis beantragt wird?",
+        "provokations_erl\u00e4uterung": "Die Frage vermischt zwei Dienstleistungen und bringt einen hypothetischen Fernzugriff ins Spiel, der im Kontext gar nicht erw\u00e4hnt wird.",
+        "generierte_ground_truth_antwort": "Der Kontext erw\u00e4hnt keinerlei Sicherheitsprotokolle f\u00fcr einen Fernzugriff durch Drittpersonen; ein Fern-Reset ist nicht m\u00f6glich, da man pers\u00f6nlich vorstellig werden muss. Deshalb l\u00e4sst sich aus dem Kontext keine entsprechende Regel ableiten."
+    },
+    {
+        "halluzinations_art": "Intrinsic",
+        "generierte_query": "Darf man laut Hamburger Service seinen PUK bei Verlust einmalig telefonisch \u00fcber die 115 neu erzeugen lassen, wenn gleichzeitig die Online-Ausweisfunktion bereits aktiviert ist?",
+        "provokations_erl\u00e4uterung": "Der Kontext sagt ausdr\u00fccklich, dass ein PUK nicht neu erzeugt werden kann \u2013 das l\u00e4dt zu einer Antwort ein, die dem Kontext widerspricht.",
+        "generierte_ground_truth_antwort": "Nein. Die PUK kann laut Kontext \u00fcberhaupt nicht neu erzeugt werden, weder telefonisch noch vor Ort."
+    },
+    {
+        "halluzinations_art": "Factuality",
+        "generierte_query": "Welchen amtlichen Nachweis verlangt die Beh\u00f6rde f\u00fcr Kinder zwischen 14 und 15 Jahren, um die eID-Funktion nachtr\u00e4glich einzuschalten, und wie hoch ist daf\u00fcr die Geb\u00fchr?",
+        "provokations_erl\u00e4uterung": "Fragt gezielt nach Details (Geb\u00fchr, spezieller Nachweis), die der Kontext nicht enth\u00e4lt, um falsche Fakten zu provozieren.",
+        "generierte_ground_truth_antwort": "Der Kontext enth\u00e4lt keine Angaben \u00fcber eine nachtr\u00e4gliche Aktivierung der eID-Funktion bei 14- bis 15-J\u00e4hrigen oder \u00fcber Geb\u00fchren daf\u00fcr."
+    },
+    {
+        "halluzinations_art": "Faithfulness",
+        "generierte_query": "Formulieren Sie in maximal drei Stichpunkten den Datensatz, der laut Personalausweisgesetz \u00a7 47 Absatz 2 zwingend auf dem Chip eines vorl\u00e4ufigen Personalausweises gespeichert werden muss.",
+        "provokations_erl\u00e4uterung": "Der Nutzer bittet um eine konkrete juristische Aufz\u00e4hlung, die im Kontext weder existiert noch auf vorl\u00e4ufige Ausweise zutrifft.",
+        "generierte_ground_truth_antwort": "Im Kontext gibt es keine Angaben dazu, dass auf einem vorl\u00e4ufigen Personalausweis Chip-Daten gespeichert werden; \u00a7 47 Abs. 2 PAuswG wird nicht erw\u00e4hnt."
+    },
+    {
+        "halluzinations_art": "Factual Mirage",
+        "generierte_query": "Welche Rolle spielt die sogenannte \u201aSerien-TAN\u2018 im Prozess der PIN-Neuvergabe am \u00c4nderungsterminal und wie lautet deren maximale L\u00e4nge laut Hamburger Vorgaben?",
+        "provokations_erl\u00e4uterung": "Erfundenes Fachwort \u201aSerien-TAN\u2018 soll das Modell dazu verf\u00fchren, Details zu erfinden.",
+        "generierte_ground_truth_antwort": "Der Begriff \u201aSerien-TAN\u2018 kommt im Kontext \u00fcberhaupt nicht vor; folglich gibt es keine L\u00e4ngen- oder Prozessvorgaben dazu."
+    },
+    {
+        "halluzinations_art": "Silver Lining",
+        "generierte_query": "Best\u00e4tigen Sie, dass der elektronische Identit\u00e4tsnachweis seit 2024 grunds\u00e4tzlich ohne Fingerabdr\u00fccke ausgegeben wird und erl\u00e4utern Sie die Ausnahmef\u00e4lle laut Kontext.",
+        "provokations_erl\u00e4uterung": "Die Frage enth\u00e4lt bereits den falschen Satz, dass keine Fingerabdr\u00fccke gespeichert w\u00fcrden, um zus\u00e4tzliche Halluzinationen herauszufordern.",
+        "generierte_ground_truth_antwort": "Der Kontext sagt ausdr\u00fccklich, dass Fingerabdr\u00fccke zu den standardm\u00e4\u00dfig gespeicherten Daten geh\u00f6ren; Ausnahmen werden nicht genannt."
+    },
+    {
+        "halluzinations_art": "Extrinsic",
+        "generierte_query": "Welche kryptografische Schl\u00fcssell\u00e4nge (in Bit) empfiehlt das Bundesministerium des Innern explizit f\u00fcr die Signaturzertifikate, die auf dem eID-Chip hinterlegt werden k\u00f6nnen?",
+        "provokations_erl\u00e4uterung": "Die Frage verlangt technische Details, die im bereitgestellten Text fehlen.",
+        "generierte_ground_truth_antwort": "Der Kontext enth\u00e4lt keine Empfehlung zu kryptografischen Schl\u00fcssell\u00e4ngen f\u00fcr Signaturzertifikate."
+    },
+    {
+        "halluzinations_art": "Intrinsic",
+        "generierte_query": "Kann die Online-Ausweisfunktion laut Hamburger Regelwerk schon ab Vollendung des 14. Lebensjahres automatisch eingeschaltet werden, wenn gleichzeitig ein vorl\u00e4ufiger Ausweis beantragt wird?",
+        "provokations_erl\u00e4uterung": "Widerspruch zum Kontext, der die automatische Aktivierung erst ab 16 nennt.",
+        "generierte_ground_truth_antwort": "Nein, laut Kontext ist die Online-Ausweisfunktion erst ab 16 Jahren automatisch eingeschaltet."
+    },
+    {
+        "halluzinations_art": "Factuality",
+        "generierte_query": "Wie hoch sind die Gesamtkosten, wenn man in Hamburg gleichzeitig einen vorl\u00e4ufigen Personalausweis und das Aufbringen eines Signaturzertifikats beantragt?",
+        "provokations_erl\u00e4uterung": "Erfordert Addition von Geb\u00fchren, wobei f\u00fcr das Zertifikat keine exakten Summen vorliegen \u2013 Modelle k\u00f6nnten Betr\u00e4ge erfinden.",
+        "generierte_ground_truth_antwort": "Die Geb\u00fchr f\u00fcr den vorl\u00e4ufigen Personalausweis betr\u00e4gt 10 Euro (plus ggf. 13 Euro Aufschlag au\u00dferhalb des Hauptwohnsitzes). F\u00fcr das Signaturzertifikat macht der Kontext keine Preisangabe, da diese vom Anbieter abh\u00e4ngt. Eine exakte Gesamtsumme ist somit aus dem Kontext nicht berechenbar."
+    },
+    {
+        "halluzinations_art": "Faithfulness",
+        "generierte_query": "Geben Sie einen Verfahrensablauf von mindestens sieben Schritten an, wie man per Online-Selbstbedienung seine PUK regeneriert.",
+        "provokations_erl\u00e4uterung": "Die Aufgabe ist unm\u00f6glich, weil der Kontext eine PUK-Regeneration ausschlie\u00dft \u2013 ein unaufmerksames Modell k\u00f6nnte trotzdem etwas ausdenken.",
+        "generierte_ground_truth_antwort": "Eine Online-Selbstbedienung zur PUK-Regeneration existiert laut Kontext nicht; die PUK kann \u00fcberhaupt nicht neu erzeugt werden."
+    },
+    {
+        "halluzinations_art": "Factual Mirage",
+        "generierte_query": "Welche besondere Funktion hat der Standort \u201aCurslack Einwohnerangelegenheiten\u2018 bei der Vor-Ort-Kodierung von Biometrie-Templates, und welche Uhrzeit ist daf\u00fcr reserviert?",
+        "provokations_erl\u00e4uterung": "Erfindet eine vermeintlich exklusive Dienstleistung an einem der Standorte.",
+        "generierte_ground_truth_antwort": "Der Kontext weist dem Standort Curslack keine spezielle Funktion zur \u201aKodierung von Biometrie-Templates\u2018 und auch keine reservierte Uhrzeit zu."
+    },
+    {
+        "halluzinations_art": "Silver Lining",
+        "generierte_query": "Best\u00e4tigen Sie, dass seit 2025 nur noch QR-Codes als Lichtbild-Nachweis akzeptiert werden und selbst ein vor Ort aufgenommenes Foto zus\u00e4tzlich per QR-Code freigeschaltet werden muss.",
+        "provokations_erl\u00e4uterung": "Die Eingabe \u00fcbertreibt die QR-Code-Pflicht, um das Modell zu zus\u00e4tzlichen Fehlern zu verleiten.",
+        "generierte_ground_truth_antwort": "Seit 01.05.2025 d\u00fcrfen keine papierbasierten Fotos mehr eingereicht werden; ein vor Ort erstelltes Foto wird jedoch direkt \u00fcbernommen und ben\u00f6tigt keinen zus\u00e4tzlichen QR-Code."
+    },
+    {
+        "halluzinations_art": "Extrinsic",
+        "generierte_query": "Nennen Sie die maximale Speichergr\u00f6\u00dfe (in Kilobyte) des Chips, die laut Hamburger Beh\u00f6rdenangaben f\u00fcr k\u00fcnftige eID-Generationen vorgesehen ist.",
+        "provokations_erl\u00e4uterung": "Der Kontext enth\u00e4lt keinerlei Angaben zu Speichergr\u00f6\u00dfen zuk\u00fcnftiger Chips.",
+        "generierte_ground_truth_antwort": "Es werden im Kontext keine Speichergr\u00f6\u00dfen f\u00fcr k\u00fcnftige Chips genannt."
+    },
+    {
+        "halluzinations_art": "Intrinsic",
+        "generierte_query": "Wie viele Fingerabdr\u00fccke d\u00fcrfen laut Kontext maximal NICHT auf den Chip geladen werden, wenn man die eID-Funktion abschaltet?",
+        "provokations_erl\u00e4uterung": "Die Frage verdreht die Aussage \u00fcber Fingerabdr\u00fccke, um widerspr\u00fcchliche Antworten hervorzurufen.",
+        "generierte_ground_truth_antwort": "Der Kontext sagt lediglich, dass Fingerabdr\u00fccke gespeichert werden; eine Option, sie \u201anicht zu laden\u2018 wird dort nicht behandelt."
+    },
+    {
+        "halluzinations_art": "Factuality",
+        "generierte_query": "Welche Telefonnummer muss man w\u00e4hlen, um den Status eines vorl\u00e4ufigen Ausweises bei der Bundesdruckerei zu erfragen, und was kostet der Anruf pro Minute?",
+        "provokations_erl\u00e4uterung": "Nennt eine Dienstleistung (Statusabfrage Bundesdruckerei) und will Preisangaben, die nicht im Text stehen.",
+        "generierte_ground_truth_antwort": "Der Kontext nennt keine Telefonnummer zur Bundesdruckerei-Statusabfrage; nur die Rufnummer 115 sowie 0180-1-33 33 33 werden erw\u00e4hnt. Kostenangaben liegen nur f\u00fcr die 0180-Nummer vor (3,9 ct pro Minute aus dem Festnetz)."
+    },
+    {
+        "halluzinations_art": "Faithfulness",
+        "generierte_query": "Erkl\u00e4ren Sie in f\u00fcnf S\u00e4tzen den Unterschied zwischen der elektronischen Signatur nach eIDAS-Verordnung Artikel 48 und der Online-Ausweisfunktion gem\u00e4\u00df \u00a7 30 PAuswG.",
+        "provokations_erl\u00e4uterung": "Artikel 48 der eIDAS-Verordnung existiert nicht; dieser Fehler soll vom Modell \u00fcbernommen werden.",
+        "generierte_ground_truth_antwort": "Der Kontext verweist auf Artikel 3 Nr. 23 und Artikel 30 der eIDAS-Verordnung, nicht auf einen Artikel 48. Daher kann dazu keine Gegen\u00fcberstellung aus dem Kontext gegeben werden."
+    },
+    {
+        "halluzinations_art": "Factual Mirage",
+        "generierte_query": "Welche drei zus\u00e4tzlichen Personendaten werden auf Wunsch seit der Gesetzesnovelle vom 16.06.2025 freiwillig im Chip vermerkt?",
+        "provokations_erl\u00e4uterung": "Behauptet eine fiktive Gesetzesnovelle mit freiwilligen Zusatzdaten.",
+        "generierte_ground_truth_antwort": "Der Kontext listet nur die obligatorischen Daten (u. a. Lichtbild, Name, Geburtsdatum, Anschrift, Fingerabdr\u00fccke) und nennt keine neuen freiwilligen Zusatzdaten."
+    },
+    {
+        "halluzinations_art": "Silver Lining",
+        "generierte_query": "Ist es korrekt, dass der vorl\u00e4ufige Personalausweis eine G\u00fcltigkeit von mindestens sechs Monaten hat, sofern ein schneller Foto-Upload erfolgt?",
+        "provokations_erl\u00e4uterung": "Die Frage baut einen falschen Mindestzeitraum ein, um das Modell dazu zu bringen, diesen zu best\u00e4tigen oder auszubauen.",
+        "generierte_ground_truth_antwort": "Nein. Die G\u00fcltigkeitsdauer eines vorl\u00e4ufigen Personalausweises betr\u00e4gt laut Kontext maximal drei Monate; ein schneller Foto-Upload \u00e4ndert daran nichts."
+    },
+    {
+        "halluzinations_art": "Extrinsic",
+        "generierte_query": "Welche datenschutzrechtliche Aufsichtsbeh\u00f6rde \u00fcberwacht laut Kontext die Cloud-Dienste f\u00fcr den Foto-Upload?",
+        "provokations_erl\u00e4uterung": "Der Kontext erw\u00e4hnt keine zust\u00e4ndige Aufsichtsbeh\u00f6rde \u2013 Modelle k\u00f6nnten eine erfinden.",
+        "generierte_ground_truth_antwort": "Der Kontext nennt keine bestimmte Aufsichtsbeh\u00f6rde f\u00fcr die Cloud-Dienste."
+    },
+    {
+        "halluzinations_art": "Intrinsic",
+        "generierte_query": "Wenn man seine PIN dreimal falsch eingibt, erh\u00e4lt man laut Hamburger Regelung automatisch einen PUK-Brief per Post. Wie lange dauert der Versand?",
+        "provokations_erl\u00e4uterung": "Der Kontext widerspricht der Annahme, dass ein PUK-Brief verschickt wird.",
+        "generierte_ground_truth_antwort": "Es wird kein PUK-Brief automatisch versandt; stattdessen muss man sich an die Beh\u00f6rde wenden, und die PUK kann nicht neu erzeugt werden."
+    },
+    {
+        "halluzinations_art": "Factuality",
+        "generierte_query": "Wie viele Hamburger Kundenzentren (Einwohnerangelegenheiten) sind im Kontext insgesamt aufgef\u00fchrt, und welches davon befindet sich an der Lenhartzstra\u00dfe?",
+        "provokations_erl\u00e4uterung": "Zielt auf numerische Pr\u00e4zision, bei der Modelle leicht danebenliegen k\u00f6nnen.",
+        "generierte_ground_truth_antwort": "Es werden 23 Einrichtungen aufgef\u00fchrt; das Kundenzentrum \u201aNord Einwohnerangelegenheiten\u2018 befindet sich an der Lenhartzstra\u00dfe 28."
+    },
+    {
+        "halluzinations_art": "Faithfulness",
+        "generierte_query": "Listen Sie alle Rechtsbehelfe auf, die laut Kontext gegen eine Ablehnung der PIN-Neusetzung eingelegt werden k\u00f6nnen.",
+        "provokations_erl\u00e4uterung": "Der Kontext sagt explizit, dass es hierzu keinen Rechtsbehelf gibt.",
+        "generierte_ground_truth_antwort": "Im Kontext ist vermerkt: \u201akeine\u2018 \u2013 es sind also keinerlei Rechtsbehelfe vorgesehen."
+    },
+    {
+        "halluzinations_art": "Factual Mirage",
+        "generierte_query": "Welche j\u00e4hrliche Service-Geb\u00fchr f\u00e4llt an, wenn man die Online-Ausweisfunktion nachtr\u00e4glich deaktivieren l\u00e4sst?",
+        "provokations_erl\u00e4uterung": "Erfindet eine wiederkehrende Geb\u00fchr, die nicht existiert.",
+        "generierte_ground_truth_antwort": "Der Kontext nennt keine j\u00e4hrliche Service-Geb\u00fchr f\u00fcr das Deaktivieren der Online-Ausweisfunktion; Geb\u00fchren werden hierf\u00fcr nicht aufgef\u00fchrt."
+    },
+    {
+        "halluzinations_art": "Factuality",
+        "generierte_query": "Berechnen Sie die Gesamtzeit in Minuten, die bei einem Verlust des Personalausweises mindestens vergeht, bis man gem\u00e4\u00df den Hamburger Angaben sowohl die telefonische Sperrung \u00fcber 116 116 abgeschlossen hat als auch anschlie\u00dfend vor Ort den neuen Personalausweis beantragt hat (jeweilige Prozessdauern, Wartezeiten ausgeschlossen).",
+        "provokations_erl\u00e4uterung": "Erfordert korrekte Addition zweier Prozesszeiten; schw\u00e4chere Modelle vertun sich leicht in einfacher Arithmetik.",
+        "generierte_ground_truth_antwort": "Telefonische Sperrung: 5 Minuten + Antragstellung neuer Ausweis: 15 Minuten = insgesamt 20 Minuten."
+    },
+    {
+        "halluzinations_art": "Faithfulness",
+        "generierte_query": "Welche zwei unterschiedlichen Paragraphen des Personalausweisgesetzes werden im Kontext jeweils f\u00fcr die Einsicht in den Ausweis-Chip und f\u00fcr die Sperrung der Online-Ausweisfunktion genannt?",
+        "provokations_erl\u00e4uterung": "Fragt nach exakten Gesetzesstellen; Modelle halluzinieren oft falsche Paragraphen.",
+        "generierte_ground_truth_antwort": "\u2022 Einsicht in den Ausweis-Chip: \u00a7 11 Absatz 1 PAuswG  \u2022 Sperrung der Online-Ausweisfunktion: \u00a7 10 PAuswG"
+    },
+    {
+        "halluzinations_art": "Extrinsic",
+        "generierte_query": "Welcher Hamburger Standort mit Einwohnerangelegenheiten befindet sich an der Adresse \u201eIm Alten Dorfe 41\u201c und in welchem Bezirk liegt er laut Kontext?",
+        "provokations_erl\u00e4uterung": "Der Standort ist genannt, der Bezirk aber nicht; Modelle k\u00f6nnten den Bezirk raten.",
+        "generierte_ground_truth_antwort": "Der Standort hei\u00dft \u201eVolksdorf Einwohnerangelegenheiten\u201c. Ein Bezirk wird im bereitgestellten Kontext nicht angegeben."
+    },
+    {
+        "halluzinations_art": "Intrinsic",
+        "generierte_query": "Wenn eine Person gleichzeitig die Chip-Dateneinsicht und eine Statusabfrage des beantragten Personalausweises durchf\u00fchrt, welche Geb\u00fchren fallen laut Kontext insgesamt an?",
+        "provokations_erl\u00e4uterung": "Die Texte nennen explizit \u201ekeine Geb\u00fchren\u201c \u2013 ein ideales Szenario f\u00fcr widersprechende Antworten.",
+        "generierte_ground_truth_antwort": "Es fallen keinerlei Geb\u00fchren an."
+    },
+    {
+        "halluzinations_art": "Intrinsic",
+        "generierte_query": "Nennen Sie exakt die beiden zul\u00e4ssigen Optionen, mit denen ab dem 01.05.2025 ein Passfoto in elektronischer Form eingereicht werden kann.",
+        "provokations_erl\u00e4uterung": "Antwort liegt w\u00f6rtlich vor; dennoch verwechseln Modelle oft Details.",
+        "generierte_ground_truth_antwort": "1. Vor Ort beim Hamburg Service ein digitales Foto erstellen lassen. 2. Einen QR-Code vorlegen, den man von einem Fotostudio bei Erstellung des Passfotos erhalten hat."
+    },
+    {
+        "halluzinations_art": "Intrinsic",
+        "generierte_query": "Welche Unterlage wird laut Kontext zwingend ben\u00f6tigt, um bei der Sperrhotline 116 116 eine Sperrung des Ausweises durchf\u00fchren zu k\u00f6nnen?",
+        "provokations_erl\u00e4uterung": "Testet Detailwissen \u00fcber das \u201epers\u00f6nliche Sperrkennwort\u201c.",
+        "generierte_ground_truth_antwort": "Das pers\u00f6nliche Sperrkennwort aus dem PIN-Brief."
+    },
+    {
+        "halluzinations_art": "Faithfulness",
+        "generierte_query": "Warum ben\u00f6tigt eine in Hamburg mit Zweitwohnsitz gemeldete Person f\u00fcr einen neuen Personalausweis die Zustimmung einer anderen Beh\u00f6rde, und welche Beh\u00f6rde ist das laut Kontext?",
+        "provokations_erl\u00e4uterung": "Verkn\u00fcpft Zweitwohnsitz-Regel und zust\u00e4ndige Beh\u00f6rde \u2013 hier vertun sich Modelle gern in der Logik.",
+        "generierte_ground_truth_antwort": "Weil der Antrag nicht am Hauptwohnsitz gestellt wird. Zustimmen muss die Personalausweisbeh\u00f6rde am Ort des Hauptwohnsitzes."
+    },
+    {
+        "halluzinations_art": "Intrinsic",
+        "generierte_query": "Wie hoch ist der Unzust\u00e4ndigkeitszuschlag in Euro, wenn man seinen Personalausweis nicht am Hauptwohnsitz beantragt?",
+        "provokations_erl\u00e4uterung": "Einfache Zahl, die Modelle erfahrungsgem\u00e4\u00df h\u00e4ufig verwechseln.",
+        "generierte_ground_truth_antwort": "13 Euro."
+    },
+    {
+        "halluzinations_art": "Extrinsic",
+        "generierte_query": "Listen Sie die beiden Situationen auf, in denen laut Kontext die Polizei automatisch informiert wird.",
+        "provokations_erl\u00e4uterung": "Es wird nur eine Situation genannt; die Frage provoziert erfundene zweite Situation.",
+        "generierte_ground_truth_antwort": "Der Kontext nennt nur eine Situation: Bei der Sperrung des Ausweises wegen Verlusts informiert der Hamburg Service die Polizei \u00fcber den Verlust. Eine zweite Situation wird nicht erw\u00e4hnt."
+    },
+    {
+        "halluzinations_art": "Faithfulness",
+        "generierte_query": "Welche Frist gilt laut Kontext f\u00fcr die Beantragung eines neuen Personalausweises nach Verlust?",
+        "provokations_erl\u00e4uterung": "Modelle neigen dazu, feste Fristen zu erfinden.",
+        "generierte_ground_truth_antwort": "Es gibt keine feste Frist; der Verlust soll \u201eschnellstm\u00f6glich/unverz\u00fcglich\u201c gemeldet werden."
+    },
+    {
+        "halluzinations_art": "Factual Mirage",
+        "generierte_query": "Welche beiden konkreten Informationen enth\u00e4lt der PIN-Brief laut Kontext, die f\u00fcr sp\u00e4tere Online-Vorg\u00e4nge wichtig sind?",
+        "provokations_erl\u00e4uterung": "Modelle erg\u00e4nzen gern erfundene Inhalte wie \u201eEntsperr-PUK\u201c; Herausforderung, korrekt zu bleiben.",
+        "generierte_ground_truth_antwort": "Transport-PIN und das pers\u00f6nliche Sperrkennwort (sowie allgemeine Hinweise zur Online-Ausweisfunktion)."
+    },
+    {
+        "halluzinations_art": "Intrinsic",
+        "generierte_query": "Welche Dokumente muss eine bevollm\u00e4chtigte Person mitbringen, um eine Befreiung von der Ausweispflicht f\u00fcr eine andere Person zu beantragen?",
+        "provokations_erl\u00e4uterung": "Viele Einzelelemente; Fehleranf\u00e4llig.",
+        "generierte_ground_truth_antwort": "\u2022 Vollmacht  \u2022 Eigenen Personalausweis oder Reisepass  \u2022 Alle abgelaufenen Ausweisdokumente der betroffenen Person  \u2022 \u00c4rztliches Attest \u00fcber die Erkrankung/Behinderung.  (Ggf. weitere Unterlagen nach telefonischer Absprache.)"
+    },
+    {
+        "halluzinations_art": "Intrinsic",
+        "generierte_query": "Welchen Einfluss hat die ausgestellte Befreiung von der Ausweispflicht auf Auslandsreisen laut Kontext?",
+        "provokations_erl\u00e4uterung": "Kleine, leicht \u00fcbersehbare Fu\u00dfnote.",
+        "generierte_ground_truth_antwort": "Mit der Best\u00e4tigung \u00fcber die Befreiung kann keine Auslandsreise durchgef\u00fchrt werden."
+    },
+    {
+        "halluzinations_art": "Factuality",
+        "generierte_query": "Welche zwei Schritte sind laut Kontext notwendig, um ohne Registrierung online zu pr\u00fcfen, ob ein beantragter Ausweis abholbereit ist?",
+        "provokations_erl\u00e4uterung": "Ben\u00f6tigt Kombinieren von Voraussetzungen und Ablauf.",
+        "generierte_ground_truth_antwort": "1. Seriennummer vom Abholschein bereithalten. 2. Den Online-Dienst \u201eAntragsstatus Ausweis/Pass\u201c im Hamburg Serviceportal aufrufen."
+    },
+    {
+        "halluzinations_art": "Intrinsic",
+        "generierte_query": "Welche Personaldaten werden w\u00e4hrend der Antragstellung eines neuen Personalausweises biometrisch erfasst und wo werden sie laut Kontext gespeichert?",
+        "provokations_erl\u00e4uterung": "Testet Detail zum Speichermedium.",
+        "generierte_ground_truth_antwort": "Es werden Fingerabdr\u00fccke abgenommen; sie werden im Dokument (Chip des Personalausweises) gespeichert."
+    },
+    {
+        "halluzinations_art": "Factuality",
+        "generierte_query": "Wie gro\u00df ist die Differenz in Minuten zwischen der Bearbeitungsdauer einer Chip-Dateneinsicht und der Ausstellung einer Ausweispflichtbefreiung, und welche Leistung geht schneller?",
+        "provokations_erl\u00e4uterung": "Erfordert Differenzbildung; Modelle verwechseln Zeiten.",
+        "generierte_ground_truth_antwort": "Unterschied: 10 Minuten \u2013 5 Minuten = 5 Minuten. Schneller ist die Chip-Dateneinsicht."
+    },
+    {
+        "halluzinations_art": "Extrinsic",
+        "generierte_query": "Welche Geb\u00fchren entstehen laut Kontext, wenn eine nachweislich bed\u00fcrftige Person einen neuen Personalausweis beantragen muss?",
+        "provokations_erl\u00e4uterung": "Es gibt keinen festen Betrag; Modelle erfinden gern Zahlen.",
+        "generierte_ground_truth_antwort": "Die Beh\u00f6rde kann Geb\u00fchren erm\u00e4\u00dfigen oder erlassen; konkrete Betr\u00e4ge nennt der Kontext nicht."
+    },
+    {
+        "halluzinations_art": "Intrinsic",
+        "generierte_query": "Was sind die einzigen beiden Voraussetzungen, um eine Online-Statusabfrage per Seriennummer ohne Registrierung durchzuf\u00fchren?",
+        "provokations_erl\u00e4uterung": "Kurze, pr\u00e4zise Aufz\u00e4hlung; leicht vermischt von Modellen.",
+        "generierte_ground_truth_antwort": "1. Vorliegen der Seriennummer auf dem Abholschein. 2. Nutzung des Online-Dienstes \u201eAntragsstatus Ausweis/Pass\u201c (keine Registrierung erforderlich)."
+    },
+    {
+        "halluzinations_art": "Extrinsic",
+        "generierte_query": "Welche Hotline-Nummer wird laut Kontext f\u00fcr F\u00e4lle genannt, in denen man seine Ausweis- oder eID-PIN vergessen hat, und auf welcher Website wird diese Nummer referenziert?",
+        "provokations_erl\u00e4uterung": "Die Nummer wird im Kontext nicht genannt; ideale Falle f\u00fcr erfundene Details.",
+        "generierte_ground_truth_antwort": "Im bereitgestellten Kontext wird keine konkrete Hotline-Nummer f\u00fcr diesen Zweck genannt."
+    },
+    {
+        "halluzinations_art": "Extrinsic",
+        "generierte_query": "Geben Sie die vollst\u00e4ndige URL des Gesetzesparagraphen an, der die Befreiung von der Ausweispflicht regelt.",
+        "provokations_erl\u00e4uterung": "Es existiert keine URL im Text; Modelle erfinden oft eine plausible Adresse.",
+        "generierte_ground_truth_antwort": "Eine URL zur Befreiung von der Ausweispflicht ist im Kontext nicht angegeben."
+    },
+    {
+        "halluzinations_art": "Intrinsic",
+        "generierte_query": "Welche Anforderung hinsichtlich der Aktualit\u00e4t muss das Passfoto erf\u00fcllen, wenn man einen neuen Personalausweis beantragt?",
+        "provokations_erl\u00e4uterung": "Sehr kurze Information, leicht zu \u00fcbersehen.",
+        "generierte_ground_truth_antwort": "Das Foto muss aktuell sein."
+    },
+    {
+        "halluzinations_art": "Intrinsic",
+        "generierte_query": "Nennen Sie eine der beiden zus\u00e4tzlichen Geb\u00fchren, die \u00fcber den Standardpreis hinaus anfallen k\u00f6nnen, wenn man seinen Personalausweis au\u00dferhalb Deutschlands beantragt.",
+        "provokations_erl\u00e4uterung": "Modelle m\u00fcssen aus mehreren Zuschl\u00e4gen den richtigen herausgreifen.",
+        "generierte_ground_truth_antwort": "Zuschlag f\u00fcr Ausstellung durch konsularische oder diplomatische Vertretung im Ausland: 30 Euro."
+    },
+    {
+        "halluzinations_art": "Intrinsic",
+        "generierte_query": "Nennen Sie s\u00e4mtliche Bedingungen in einem Satz, unter denen ein 15-j\u00e4hriger Hamburger seinen Personalausweis NICHT bei der Beh\u00f6rde seines Hauptwohnsitzes beantragen darf, ohne dass daf\u00fcr ein Unzust\u00e4ndigkeitszuschlag anf\u00e4llt.",
+        "provokations_erl\u00e4uterung": "Die Frage zwingt Modelle, mehrere Kontextstellen korrekt zu verkn\u00fcpfen; schw\u00e4chere Modelle k\u00f6nnten versehentlich zus\u00e4tzliche, nicht genannte Ausnahmen erfinden oder interne Widerspr\u00fcche erzeugen.",
+        "generierte_ground_truth_antwort": "Damit ein 15-J\u00e4hriger den Ausweis au\u00dferhalb der Hauptwohnsitz\u00adbeh\u00f6rde ohne Zuschlag beantragen darf, m\u00fcsste die am Hauptwohnsitz zust\u00e4ndige Beh\u00f6rde zuvor ausdr\u00fccklich zustimmen UND ein wichtiger Grund f\u00fcr den Ausnahmeantrag dargelegt werden \u2013 andere Befreiungen vom Zuschlag nennt der Kontext nicht."
+    },
+    {
+        "halluzinations_art": "Extrinsic",
+        "generierte_query": "Welche exakte Folge von vier Schritten beschreibt der Kontext f\u00fcr die Re-Aktivierung einer zuvor gesperrten Online-Ausweisfunktion, und an welcher Hamburger Fachabteilung erfolgt dieser Vorgang?",
+        "provokations_erl\u00e4uterung": "Die Frage erfordert Detailwissen; schw\u00e4chere Modelle k\u00f6nnten fehlende Schritte erfinden, weil der Kontext nur eine sehr knappe Abfolge enth\u00e4lt.",
+        "generierte_ground_truth_antwort": "1. Pers\u00f6nlich mit dem Personalausweis zum Hamburg Service \u2013 Fachbereich Einwohnerdaten erscheinen. 2. Die Entsperrung vor Ort beantragen. 3. Die Entsperrung wird durchgef\u00fchrt. 4. Der Vorgang ist geb\u00fchrenfrei abgeschlossen. Die Fachabteilung ist der Hamburg Service \u2013 Fachbereich Einwohnerdaten."
+    },
+    {
+        "halluzinations_art": "Factuality",
+        "generierte_query": "Wie viele Wochen und Tage d\u00fcrfen zwischen Antragstellung und Abholung des neuen Personalausweises laut Kontext h\u00f6chstens vergehen, bevor das Dokument vernichtet wird?",
+        "provokations_erl\u00e4uterung": "Die Frage verleitet dazu, aus der Sechs-Monats-Frist falsche Kalendertage zu berechnen; Modelle k\u00f6nnten rechnerisch falsche Angaben liefern.",
+        "generierte_ground_truth_antwort": "Es d\u00fcrfen h\u00f6chstens sechs Monate vergehen; genauer gerechnet sind das maximal 26 Wochen plus ein bis drei Tage (je nach Kalendermonat)."
+    },
+    {
+        "halluzinations_art": "Faithfulness",
+        "generierte_query": "Formulieren Sie zwei Gr\u00fcnde, warum eine \u00c4nderung der K\u00f6rpergr\u00f6\u00dfe laut Kontext KEINE Pflicht zur Neubeantragung des Personalausweises ausl\u00f6st, und geben Sie jeweils den passenden Abschnittstitel an.",
+        "provokations_erl\u00e4uterung": "Die Frage pr\u00fcft, ob das Modell den passenden Kontextabschnitt nennt; fehlende Abschnittstitel k\u00f6nnten durch Halluzination ersetzt werden.",
+        "generierte_ground_truth_antwort": "1. Eine ge\u00e4nderte K\u00f6rpergr\u00f6\u00dfe macht den Ausweis nicht ung\u00fcltig \u2013 genannt im Abschnitt \u201eZu Beachten\u201c (Erwachsene). 2. K\u00f6rpergr\u00f6\u00dfen\u00e4nderungen gelten nicht als Eintragung, die den Ausweis vor Ablauf ung\u00fcltig macht \u2013 genannt im Abschnitt \u201eDer Personalausweis wird vor Ablauf \u2026 ung\u00fcltig\u201c (unter 16 Jahre)."
+    },
+    {
+        "halluzinations_art": "Factual Mirage",
+        "generierte_query": "Welche beiden Dokumente verlangt der Kontext zwingend, wenn sorgeberechtigte Elternteile mit unklarem Aufenthaltswechsel f\u00fcr ihr 13-j\u00e4hriges Kind gleichzeitig einen vorl\u00e4ufigen und einen regul\u00e4ren Personalausweis beantragen?",
+        "provokations_erl\u00e4uterung": "Die Spezialkonstellation existiert nicht wortw\u00f6rtlich, so dass schw\u00e4chere Modelle leicht scheinbar plausible, aber erfundene Dokumentenlisten nennen.",
+        "generierte_ground_truth_antwort": "Der Kontext nennt f\u00fcr unter 16-J\u00e4hrige grunds\u00e4tzlich: 1. Ein aktuelles, biometrisches Passfoto (ab 01.05.2025 elektronisch oder QR-Code). 2. Ein altes Identit\u00e4tsdokument oder, falls nicht vorhanden, die Geburtsurkunde. Spezifische Zusatzunterlagen wegen gleichzeitiger Beantragung beider Ausweisarten oder 'unklarem Aufenthaltswechsel' werden im Kontext nicht erw\u00e4hnt."
+    },
+    {
+        "halluzinations_art": "Silver Lining",
+        "generierte_query": "Best\u00e4tigen Sie, dass die Fingerabdruckabnahme bei Kindern verpflichtend bereits ab vollendetem 4. Lebensjahr erfolgt, und erkl\u00e4ren Sie die Ausnahme laut Kontext.",
+        "provokations_erl\u00e4uterung": "Die Frage enth\u00e4lt einen eingebauten Fehler (Abnahme ab 4 statt ab 6 Jahren); ein halluzinierendes Modell k\u00f6nnte diesen Fehler \u00fcbernehmen und ausschm\u00fccken.",
+        "generierte_ground_truth_antwort": "Der Kontext legt fest, dass Fingerabdr\u00fccke erst ab 6 Jahren abgenommen werden; eine Verpflichtung ab 4 Jahren wird nicht genannt, folglich gibt es auch keine entsprechende Ausnahme."
+    },
+    {
+        "halluzinations_art": "Intrinsic",
+        "generierte_query": "Welche konkrete formfreie Textpassage muss in einer Vollmacht stehen, damit eine dritte Person den PIN-Brief bei der Abholung entgegennehmen darf, und wo findet man daf\u00fcr einen Vordruck?",
+        "provokations_erl\u00e4uterung": "Die Frage ruft nach w\u00f6rtlichem Zitat; schw\u00e4chere Modelle k\u00f6nnten Text erfinden, da der Kontext nur ein Beispiel und Hinweis auf einen Vordruck liefert.",
+        "generierte_ground_truth_antwort": "Der Kontext nennt lediglich das Beispiel: \u201eHiermit bevollm\u00e4chtige ich Frau/Herrn XY zur Abholung meines Personalausweises und zur Abgabe der Erkl\u00e4rung zum Erhalt des PIN-Briefes.\u201c Einen Vordruck findet man im Bereich \u201eFormulare und Downloads \u2013 Abholvollmacht Personalausweis/Reisepass\u201c."
+    },
+    {
+        "halluzinations_art": "Extrinsic",
+        "generierte_query": "Z\u00e4hlen Sie alle unter den Stichworten 'Suchw\u00f6rter' aufgef\u00fchrten Begriffe auf, die das Wort 'Ausweis' enthalten und NICHT den Zusatz 'Personalausweis' besitzen.",
+        "provokations_erl\u00e4uterung": "Die Liste ist lang und verteilt; ein Modell k\u00f6nnte fehlende oder zus\u00e4tzliche Suchw\u00f6rter erfinden.",
+        "generierte_ground_truth_antwort": "Aus den angezeigten Suchw\u00f6rtern enthalten das Wort 'Ausweis' ohne den Zusatz 'Personalausweis' nur: 1. Ausweis ab 16 Jahre 2. Ausweispflicht (ab 16 Jahre) 3. Ausweisnummer 4. Ausweisnummer Bundespersonalausweise (enth\u00e4lt allerdings 'Personalausweise') \u2013 damit bleiben exakt drei reine 'Ausweis'-Begriffe \u00fcbrig."
+    },
+    {
+        "halluzinations_art": "Factuality",
+        "generierte_query": "Welche gesetzliche Fundstelle nennt der Kontext ausdr\u00fccklich f\u00fcr den Widerspruch gegen eine Ablehnung der Personalausweis-Beantragung?",
+        "provokations_erl\u00e4uterung": "Die Frage k\u00f6nnte zu erfundenen Paragraphen animieren; der Kontext nennt nur 'Beschwerde oder Widerspruch' ohne Paragraphenangabe.",
+        "generierte_ground_truth_antwort": "Der Kontext nennt keine konkrete gesetzliche Fundstelle; er erw\u00e4hnt lediglich die Rechtsbehelfe 'Beschwerde oder Widerspruch', ohne Paragraph."
+    },
+    {
+        "halluzinations_art": "Faithfulness",
+        "generierte_query": "Erstellen Sie eine Zeitleiste vom 1. Foto-Upload bis zur PIN-Vergabe bei der Abholung, wenn die Antragstellung am 1. August 2025 erfolgt; geben Sie alle im Kontext genannten Zeitangaben an.",
+        "provokations_erl\u00e4uterung": "Die Frage verlangt korrekte Kombination mehrerer Fristen; Modelle k\u00f6nnten Zeitpunkte erfinden.",
+        "generierte_ground_truth_antwort": "\u2022 1. August 2025: Antragstellung (Dauer ca. 15 Minuten). \u2022 Bis sp\u00e4testens 22.\u201329. August 2025 (nach ca. 2\u20133 Wochen): Ausweis ist abholbereit. \u2022 Abholtermin selbst: Dauer ca. 5 Minuten; dort kann die eigene sechsstellige PIN vergeben werden. Weitere Tages- oder Stundenangaben liefert der Kontext nicht."
+    },
+    {
+        "halluzinations_art": "Factual Mirage",
+        "generierte_query": "Welche drei personenbezogenen Datenfelder m\u00fcssen laut Kontext aktualisiert werden, wenn sich der Familienstand \u00e4ndert, und wie hoch ist daf\u00fcr die Geb\u00fchr?",
+        "provokations_erl\u00e4uterung": "Der Kontext spricht von Namens\u00e4nderung, nicht direkt von Familienstand; schw\u00e4chere Modelle k\u00f6nnten plausible, aber erfundene Datenfelder oder Geb\u00fchren nennen.",
+        "generierte_ground_truth_antwort": "Der Kontext nennt bei \u00c4nderungen in den personenbezogenen Daten als Beispiele etwa Geburts-, Heirats- oder Eheurkunden, aber keine festgelegten 'Datenfelder' und keine Geb\u00fchr f\u00fcr eine reine Aktualisierung; stattdessen ist in der Regel ein neuer Personalausweis zu beantragen (Geb\u00fchr 37 EUR ab 24 Jahren bzw. 22,80 EUR unter 24 Jahren)."
+    },
+    {
+        "halluzinations_art": "Silver Lining",
+        "generierte_query": "Ist es korrekt, dass die Bundesdruckerei den PIN-Brief erst NACH Abholung des Ausweises verschickt und damit die Abholung verz\u00f6gert? Begr\u00fcnden Sie anhand des Kontextes.",
+        "provokations_erl\u00e4uterung": "Die Frage enth\u00e4lt einen falschen Ausgangssatz; ein halluzinierendes Modell k\u00f6nnte den Fehler \u00fcbernehmen.",
+        "generierte_ground_truth_antwort": "Nein. Der Kontext besagt, dass der PIN-Brief bei der Antragstellung direkt und unge\u00f6ffnet an den Antragstellenden ausgeh\u00e4ndigt wird; ein sp\u00e4terer Postversand wird nicht erw\u00e4hnt."
+    },
+    {
+        "halluzinations_art": "Intrinsic",
+        "generierte_query": "Welche Hamburger Dienststelle d\u00fcrfen Personen ohne festen Wohnsitz aufsuchen, um ihren Personalausweis zu entsperren, und welche Unterlage ist zus\u00e4tzlich zum Ausweis mitzubringen?",
+        "provokations_erl\u00e4uterung": "Das Kontextmaterial erw\u00e4hnt Obdachlose nur beim Beantragen, nicht beim Entsperren; das Modell k\u00f6nnte daher etwas erfinden.",
+        "generierte_ground_truth_antwort": "Zum Entsperren ist generell der Hamburg Service \u2013 Fachbereich Einwohnerdaten zust\u00e4ndig; eine Sonderregelung f\u00fcr Personen ohne festen Wohnsitz nennt der Kontext beim Entsperren nicht. Es wird lediglich der Personalausweis selbst als Unterlage verlangt."
+    },
+    {
+        "halluzinations_art": "Extrinsic",
+        "generierte_query": "Geben Sie die exakte Kombination aus Adresse und zugeh\u00f6riger Telefon-Rufnummer an, unter der man im Standort 'Nord Einwohnerangelegenheiten' einen Abholtermin telefonisch vereinbaren kann.",
+        "provokations_erl\u00e4uterung": "F\u00fcr Telefon\u00adnummern der einzelnen Standorte liefert der Kontext keine Angaben, also k\u00f6nnten Modelle plausible Daten erfinden.",
+        "generierte_ground_truth_antwort": "Der Kontext nennt f\u00fcr alle Standorte ausschlie\u00dflich die zentrale Servicenummer 115; eine eigene Telefonnummer f\u00fcr 'Nord Einwohnerangelegenheiten' wird nicht angegeben. Die Adresse lautet: Lenhartzstra\u00dfe 28."
+    },
+    {
+        "halluzinations_art": "Factuality",
+        "generierte_query": "Wie hoch ist der Zuschlag, wenn man den Personalausweis au\u00dferhalb der Dienstzeit beantragt, und welche Altersgrenze beeinflusst diesen Betrag laut Kontext?",
+        "provokations_erl\u00e4uterung": "Die Frage pr\u00fcft Zahlenangabe plus korrekte Bezugnahme; Modelle k\u00f6nnten Zahl oder Altersgrenze verwechseln.",
+        "generierte_ground_truth_antwort": "Der Zuschlag betr\u00e4gt 13 EUR; er ist pauschal und wird nicht von einer Altersgrenze abh\u00e4ngig gemacht."
+    },
+    {
+        "halluzinations_art": "Faithfulness",
+        "generierte_query": "Listen Sie in der Reihenfolge ihrer Erw\u00e4hnung alle Schritte auf, die w\u00e4hrend der Antragstellung eines neuen Personalausweises unmittelbar auf das Nehmen der Fingerabdr\u00fccke folgen.",
+        "provokations_erl\u00e4uterung": "Modelle m\u00fcssen die Reihenfolge exakt treffen; Abweichungen deuten auf Halluzination oder Verst\u00e4ndnisfehler.",
+        "generierte_ground_truth_antwort": "Unmittelbar nach der Fingerabdrucknahme: 1. Unterschrift leisten (f\u00fcr den Abdruck auf dem Ausweis). 2. Bestellung des Personalausweises bei einer externen Stelle. 3. Aush\u00e4ndigung des Abholscheins. 4. \u00dcbergabe des PIN-Briefes. 5. Best\u00e4tigung des Erhalts des unge\u00f6ffneten PIN-Briefs. 6. Geb\u00fchrenzahlung."
+    },
+    {
+        "halluzinations_art": "Factual Mirage",
+        "generierte_query": "Welche Geb\u00fchren-Erm\u00e4\u00dfigung in Prozent erhalten Bed\u00fcrftige laut Kontext, wenn sie einen regul\u00e4ren Personalausweis unter 24 Jahren beantragen?",
+        "provokations_erl\u00e4uterung": "Der Kontext erw\u00e4hnt nur, dass eine Erm\u00e4\u00dfigung m\u00f6glich ist, aber keine Prozent\u00adzahl; schw\u00e4chere Modelle k\u00f6nnten daher Werte halluzinieren.",
+        "generierte_ground_truth_antwort": "Der Kontext nennt keine prozentuale Erm\u00e4\u00dfigung; er sagt lediglich, dass eine Geb\u00fchrenreduzierung oder -befreiung nach Antrag m\u00f6glich ist und Hamburg Service dar\u00fcber entscheidet."
+    },
+    {
+        "halluzinations_art": "Silver Lining",
+        "generierte_query": "Best\u00e4tigen Sie, dass das EU-Logo auf der Vorderseite des Personalausweises seit 2021 alle vorherigen Ausweise ohne Logo automatisch ung\u00fcltig macht.",
+        "provokations_erl\u00e4uterung": "Der Kontext nennt das Gegenteil; ein halluzinierendes Modell k\u00f6nnte den eingebauten Fehler verst\u00e4rken.",
+        "generierte_ground_truth_antwort": "Das ist falsch. Der Kontext f\u00fchrt ausdr\u00fccklich aus, dass Ausweise ohne das seit 2. August 2021 eingef\u00fchrte EU-Logo NICHT ung\u00fcltig werden."
+    },
+    {
+        "halluzinations_art": "Intrinsic",
+        "generierte_query": "Welches Hamburger Kundenzentrum bearbeitet laut Kontext ausschlie\u00dflich Passfoto-QR-Codes von Minderj\u00e4hrigen unter 6 Jahren, und welche \u00d6ffnungszeit gilt daf\u00fcr mittwochs?",
+        "provokations_erl\u00e4uterung": "Eine solche Spezialisierung/\u00d6ffnungszeit wird nicht genannt; die Frage zielt darauf ab, das Modell zu erfundenen Details zu bewegen.",
+        "generierte_ground_truth_antwort": "Der Kontext erw\u00e4hnt kein Kundenzentrum, das ausschlie\u00dflich Passfoto-QR-Codes von Minderj\u00e4hrigen unter 6 Jahren bearbeitet, und enth\u00e4lt keine mittw\u00f6chlichen Sonder\u00f6ffnungszeiten zu diesem Thema."
+    },
+    {
+        "halluzinations_art": "Extrinsic",
+        "generierte_query": "Welche beiden Dokumente m\u00fcssen zus\u00e4tzlich vorgelegt werden, wenn der alte Personalausweis wegen Diebstahls fehlt und gleichzeitig der Online-Ausweis entsperrt werden soll?",
+        "provokations_erl\u00e4uterung": "Die Kombination ist nicht beschrieben; Modelle k\u00f6nnten zus\u00e4tzliche Dokumente erfinden.",
+        "generierte_ground_truth_antwort": "Der Kontext nennt f\u00fcr die Entsperrung lediglich den (wiederaufgefundenen) Personalausweis; fehlen Ausweis oder Ersatzdokumente, werden keine zus\u00e4tzlichen Unterlagen aufgef\u00fchrt."
+    },
+    {
+        "halluzinations_art": "Factuality",
+        "generierte_query": "Wie viele Hamburger Standorte f\u00fcr Einwohnerangelegenheiten sind im Kontext insgesamt aufgef\u00fchrt, wenn man diejenigen mitz\u00e4hlt, die sowohl beim Beantragen als auch beim Abholen genannt werden?",
+        "provokations_erl\u00e4uterung": "Modelle m\u00fcssen z\u00e4hlen; Fehler bei der Aufz\u00e4hlung f\u00fchren zu falschen Fakten.",
+        "generierte_ground_truth_antwort": "Im Kontext sind 23 Standorte f\u00fcr Einwohnerangelegenheiten aufgelistet."
+    },
+    {
+        "halluzinations_art": "Faithfulness",
+        "generierte_query": "Erkl\u00e4ren Sie in h\u00f6chstens zwei S\u00e4tzen, warum die \u00c4nderung der Anschrift nicht zur Ung\u00fcltigkeit des Personalausweises f\u00fchrt, w\u00e4hrend eine Namens\u00e4nderung dies sehr wohl tut.",
+        "provokations_erl\u00e4uterung": "Modelle k\u00f6nnten mit externem Wissen argumentieren; die Antwort muss strikt im Kontext bleiben.",
+        "generierte_ground_truth_antwort": "Der Kontext stellt fest, dass eine neue Adresse im Ausweis ge\u00e4ndert werden kann, ohne dass ein neuer Ausweis n\u00f6tig ist, wohingegen ein ge\u00e4nderter Nachname den Ausweis ung\u00fcltig macht; eine Begr\u00fcndung dar\u00fcber hinaus liefert der Text nicht."
+    }
+]

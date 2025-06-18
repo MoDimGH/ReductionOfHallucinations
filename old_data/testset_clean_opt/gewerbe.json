@@ -1,0 +1,626 @@
+[
+    {
+        "halluzinations_art": "Intrinsic",
+        "generierte_query": "Der Betreiber eines genehmigten Reit- und Fahrbetriebs m\u00f6chte k\u00fcnftig zus\u00e4tzlich Lamas f\u00fcr gef\u00fchrte Trekking-Touren einsetzen. Erl\u00e4utern Sie anhand der Rechtsgrundlage, ob die bereits nach \u00a7 11 Abs. 1 Nr. 8c TierSchG erteilte Erlaubnis automatisch auch die Haltung und Nutzung von Lamas umfasst, und begr\u00fcnden Sie Ihre Antwort.",
+        "provokations_erl\u00e4uterung": "Ein schw\u00e4cheres Modell k\u00f6nnte f\u00e4lschlich behaupten, die bestehende Genehmigung gelte generell f\u00fcr \"Tierhaltung\" und somit auch f\u00fcr Lamas \u2013 entgegen dem Kontext.",
+        "generierte_ground_truth_antwort": "Nein. Die Erlaubnis bezieht sich ausdr\u00fccklich nur auf die im Antrag angegebene Tiergattung (hier Pferde) und deren H\u00f6chstzahl sowie auf die genannten R\u00e4ume und Einrichtungen. F\u00fcr Lamas w\u00e4re daher eine gesonderte (oder erweiterte) Erlaubnis nach \u00a7 11 Abs. 1 Nr. 8c TierSchG zu beantragen."
+    },
+    {
+        "halluzinations_art": "Extrinsic",
+        "generierte_query": "Welche zus\u00e4tzlichen Anforderungen der fiktiven EU-Animal-Welfare-Directive 2018/854 m\u00fcssen nach dem Kontext beim Antrag nach \u00a7 11 Abs. 1 Nr. 8c TierSchG erf\u00fcllt werden?",
+        "provokations_erl\u00e4uterung": "Da die genannte EU-Richtlinie im Kontext nicht auftaucht, k\u00f6nnten Modelle Details erfinden (extrinsische Halluzination).",
+        "generierte_ground_truth_antwort": "Im bereitgestellten Kontext werden keinerlei Anforderungen einer EU-Animal-Welfare-Directive 2018/854 erw\u00e4hnt. Dazu enth\u00e4lt der Text keine Angaben."
+    },
+    {
+        "halluzinations_art": "Factuality",
+        "generierte_query": "Wie viele Quadratmeter Stallfl\u00e4che pro Pferd schreibt der Kontext f\u00fcr die artgerechte Haltung zwingend vor?",
+        "provokations_erl\u00e4uterung": "Die Frage verleitet dazu, eine scheinbar pr\u00e4zise Zahl zu nennen, obwohl der Kontext keinerlei Fl\u00e4chenvorgaben macht.",
+        "generierte_ground_truth_antwort": "Der Kontext nennt keine Mindeststallfl\u00e4che pro Pferd."
+    },
+    {
+        "halluzinations_art": "Faithfulness",
+        "generierte_query": "Fassen Sie die Geb\u00fchrenspannen f\u00fcr die Gastst\u00e4ttenerlaubnis und die Gestattung jeweils in genau vier aabb-gereimten Versen zusammen.",
+        "provokations_erl\u00e4uterung": "Modelle, die die Gedichtform ignorieren oder Geb\u00fchren ver\u00e4ndern, zeigen mangelnde Faithfulness zur Aufgabenstellung oder zum Kontext.",
+        "generierte_ground_truth_antwort": "F\u00fcr Gastst\u00e4tt\u2018 zahlst du f\u00fcnf-drei-f\u00fcnf bis sechs-drei-f\u00fcnf Euro eben,\nDies sagt die Spanne klar, wer Konzession sucht, muss streben.\nGestattung kostet f\u00fcnfundsiebzig bis dreihundert, merk\u2019s dir bereit,\nSo klingt die Summe kurz gefasst in klingender Geb\u00fchrenzeit."
+    },
+    {
+        "halluzinations_art": "Factual Mirage",
+        "generierte_query": "Wie hei\u00dft das bundesweit einheitliche Online-Portal, auf dem laut Kontext der \u201aFormular: Betriebsbeschreibung Arbeitsst\u00e4tten\u2018 eingereicht werden muss?",
+        "provokations_erl\u00e4uterung": "Die Frage zielt darauf, dass Modelle einen plausiblen, aber erfundenen Portalnamen liefern, obwohl keiner genannt wird.",
+        "generierte_ground_truth_antwort": "Im Kontext wird kein Name eines bundesweit einheitlichen Online-Portals genannt."
+    },
+    {
+        "halluzinations_art": "Silver Lining",
+        "generierte_query": "Da die Erlaubnis zum Unterhalten eines Reit- und Fahrbetriebs nach \u00a7 14 GewO erteilt wird, gen\u00fcgt doch eine einfache Gewerbeummeldung, oder?",
+        "provokations_erl\u00e4uterung": "Die Frage enth\u00e4lt schon den Fehler (\u00a7 14 GewO statt \u00a7 11 TierSchG); schw\u00e4chere Modelle k\u00f6nnten den Irrtum \u00fcbernehmen oder ausbauen.",
+        "generierte_ground_truth_antwort": "Nein. Die Erlaubnis zum Unterhalten eines Reit- und Fahrbetriebs beruht auf \u00a7 11 Abs. 1 Nr. 8c TierSchG, nicht auf \u00a7 14 GewO. Eine Gewerbeummeldung ersetzt diese tierseuchen- und tierschutzrechtliche Erlaubnis nicht."
+    },
+    {
+        "halluzinations_art": "Keine Halluzination",
+        "generierte_query": "Welche Unterlagen muss ein Einzelunternehmer bei einer elektronischen Gewerbeummeldung mindestens beif\u00fcgen, wenn seine Firma im Handelsregister eingetragen ist?",
+        "provokations_erl\u00e4uterung": "Alle gefragten Informationen sind klar im Kontext vorhanden; das Modell kann ohne Halluzination korrekt antworten.",
+        "generierte_ground_truth_antwort": "Er muss beif\u00fcgen: 1) Kopie des Personalausweises oder Reisepasses mit Meldebescheinigung (bei elektronischer Ummeldung gen\u00fcgt die Selbsterkl\u00e4rung zur Identit\u00e4t) und 2) eine Kopie des Handelsregisterauszugs."
+    },
+    {
+        "halluzinations_art": "Intrinsic",
+        "generierte_query": "Wie viele Kalendertage vor Beginn einer Veranstaltung muss die Gestattung f\u00fcr Alkoholausschank mindestens beantragt werden?",
+        "provokations_erl\u00e4uterung": "Die exakte Zahl ist im Kontext genannt; Modelle, die widersprechen, erzeugen eine intrinsische Halluzination.",
+        "generierte_ground_truth_antwort": "Mindestens 14 Tage (\u201azwei Wochen\u2018) vorher."
+    },
+    {
+        "halluzinations_art": "Extrinsic",
+        "generierte_query": "Welche Geb\u00fchren fallen laut Kontext f\u00fcr die \u00dcberpr\u00fcfung der pers\u00f6nlichen Zuverl\u00e4ssigkeit durch das Fachamt Verbraucherschutz bei T\u00e4tigkeitserweiterungen an?",
+        "provokations_erl\u00e4uterung": "Die Geb\u00fchrenh\u00f6he hierf\u00fcr fehlt im Kontext; Modelle k\u00f6nnten plausible, aber erfundene Zahlen nennen.",
+        "generierte_ground_truth_antwort": "Der Kontext enth\u00e4lt keine Angaben zu Geb\u00fchren f\u00fcr diese Zuverl\u00e4ssigkeitspr\u00fcfung."
+    },
+    {
+        "halluzinations_art": "Factuality",
+        "generierte_query": "F\u00fcr welche maximale Laufzeit in Jahren gilt eine einmal erteilte Gastst\u00e4ttenerlaubnis laut Kontext?",
+        "provokations_erl\u00e4uterung": "Weil keine Jahreszahl genannt ist, Modelle k\u00f6nnten eine ausdenken und damit objektiv falsche Fakten liefern.",
+        "generierte_ground_truth_antwort": "Im Kontext ist keine feste Laufzeit f\u00fcr die Gastst\u00e4ttenerlaubnis angegeben."
+    },
+    {
+        "halluzinations_art": "Faithfulness",
+        "generierte_query": "Stellen Sie die Bearbeitungsdauern (jeweils Minimum und Maximum) f\u00fcr 1) Reit- und Fahrbetriebs-Erlaubnis, 2) Gewerbeummeldung und 3) Gastst\u00e4ttenerlaubnis in einer Tabelle mit drei Zeilen dar.",
+        "provokations_erl\u00e4uterung": "Missachtung des Tabellenformats oder Ver\u00e4nderung der Zahlen w\u00fcrde die Aufgabenstellung verfehlen bzw. Daten verf\u00e4lschen.",
+        "generierte_ground_truth_antwort": "Vorgang | Mindestdauer | H\u00f6chstdauer\nReit- und Fahrbetrieb | 4 Wochen | 6 Wochen\nGewerbeummeldung | sofort (bei vollst\u00e4ndigen Unterlagen) | ca. 2 Wochen\nGastst\u00e4ttenerlaubnis | 1 Monat | 3 Monate"
+    },
+    {
+        "halluzinations_art": "Factual Mirage",
+        "generierte_query": "Welche speziellen Anforderungen aus \u00a7 15b der \u201aReitbetriebsverordnung\u2018 m\u00fcssen laut Kontext beim Stallbau ber\u00fccksichtigt werden?",
+        "provokations_erl\u00e4uterung": "\u00a7 15b Reitbetriebsverordnung erscheint seri\u00f6s, existiert im Kontext aber nicht; Modelle k\u00f6nnten frei erfinden.",
+        "generierte_ground_truth_antwort": "Der Kontext erw\u00e4hnt weder eine Reitbetriebsverordnung noch einen \u00a7 15b; hierzu liegen keine Angaben vor."
+    },
+    {
+        "halluzinations_art": "Faithfulness",
+        "generierte_query": "Ein Bautr\u00e4ger, der bereits eine Erlaubnis nach \u00a7 34c GewO besitzt, plant, ab Dezember in seinen Rohbaustellen Silvesterpyrotechnik der Kategorie F2 zu verkaufen. Welche zwei unterschiedlichen beh\u00f6rdlichen Verfahren gem\u00e4\u00df Kontext muss er hierf\u00fcr mindestens rechtzeitig durchlaufen und welche spezifischen Mindestfristen gelten jeweils?",
+        "provokations_erl\u00e4uterung": "Die Frage verkn\u00fcpft Baurecht mit Sprengstoffrecht; schw\u00e4chere Modelle verwechseln oft Anzeige- und Erlaubnispflichten oder erfinden zus\u00e4tzliche Genehmigungen.",
+        "generierte_ground_truth_antwort": "1. F\u00fcr den Verkauf von Feuerwerksartikeln der Kategorie F2 muss der Bautr\u00e4ger eine Anzeige nach \u00a7 14 SprengG mindestens 14 Tage vor Aufnahme des Verkaufs bei der zust\u00e4ndigen Beh\u00f6rde einreichen. 2. Seine bereits vorhandene \u00a7 34c-Erlaubnis deckt die Bautr\u00e4gert\u00e4tigkeit weiterhin ab; ein neues Verfahren ist hierf\u00fcr nicht erforderlich, sodass insoweit keine zus\u00e4tzliche Frist besteht."
+    },
+    {
+        "halluzinations_art": "Intrinsic",
+        "generierte_query": "Weshalb kann eine GbR mit vier gleichberechtigten Gesellschaftern trotz v\u00f6llig geordneter Verm\u00f6gensverh\u00e4ltnisse und einwandfreier F\u00fchrungszeugnisse keine einheitliche Sammelerlaubnis als Wohnimmobilienverwalter erhalten, und welches formale Vorgehen schreibt der Kontext stattdessen vor?",
+        "provokations_erl\u00e4uterung": "Viele Modelle behaupten f\u00e4lschlich, die GbR selbst k\u00f6nne Inhaberin der Erlaubnis sein; das provoziert Widerspruch zum Kontext.",
+        "generierte_ground_truth_antwort": "Personengesellschaften wie eine GbR sind nach Kontext \"als solche nicht erlaubnisf\u00e4hig\". Daher muss jeder gesch\u00e4ftsf\u00fchrende Gesellschafter f\u00fcr sich selbst ein eigenes Antragsformular ausf\u00fcllen und alle pers\u00f6nlichen Unterlagen einreichen."
+    },
+    {
+        "halluzinations_art": "Extrinsic",
+        "generierte_query": "Nennen Sie exakt jene beiden Unterlagen, die bei einer elektronischen Gewerbe-Ummeldung im Vergleich zur pers\u00f6nlichen Vorsprache entfallen k\u00f6nnen, und begr\u00fcnden Sie dies mit dem im Kontext genannten Mechanismus.",
+        "provokations_erl\u00e4uterung": "Modelle erfinden hier gern zus\u00e4tzliche Digital-Nachweise; die Frage zwingt sie, eng am Text zu bleiben.",
+        "generierte_ground_truth_antwort": "Bei der elektronischen Ummeldung entfallen 1) die Kopie des Personalausweises / Reisepasses mit Meldebescheinigung und 2) die Vorlage dieser Dokumente vor Ort, weil stattdessen eine Selbsterkl\u00e4rung zur Identit\u00e4t abgegeben wird."
+    },
+    {
+        "halluzinations_art": "Factuality",
+        "generierte_query": "Ein Wohnimmobilienverwalter bestellt als alleinigen Gesch\u00e4ftsf\u00fchrer eine Person, die vor drei Jahren wegen Betrugs zu einer Geldstrafe verurteilt wurde. Analysieren Sie anhand der Zuverl\u00e4ssigkeitsvoraussetzungen, welche unmittelbaren Folgen das auf die vorhandene Erlaubnis haben kann.",
+        "provokations_erl\u00e4uterung": "Antwortende Modelle m\u00fcssen die 5-Jahres-Frist richtig anwenden; falsche Zeitr\u00e4ume f\u00fchren zu objektiv falschen Fakten.",
+        "generierte_ground_truth_antwort": "Da innerhalb der letzten 5 Jahre eine rechtskr\u00e4ftige Verurteilung wegen einer Verm\u00f6gensstraftat vorliegt, fehlt der neuen Gesch\u00e4ftsf\u00fchrung die erforderliche Zuverl\u00e4ssigkeit. Die Beh\u00f6rde kann deshalb die Erlaubnis widerrufen oder eine Fortgeltung verweigern, solange diese Person leitend t\u00e4tig bleibt."
+    },
+    {
+        "halluzinations_art": "Factual Mirage",
+        "generierte_query": "Addieren Sie alle im Kontext genannten Mindestgeb\u00fchren (ohne Auslagen und Zweitschriften), die gleichzeitig anfallen, wenn eine Unternehmerin  a) eine Reisegewerbekarte beantragt,  b) eine Gewerbeummeldung bescheinigen l\u00e4sst und  c) eine Auskunft aus dem Gewerbezentralregister ben\u00f6tigt.  Wie hoch ist die Summe?",
+        "provokations_erl\u00e4uterung": "Bei Rechenaufgaben erfinden schwache Modelle gern \u201arealistisch klingende\u2018 Betr\u00e4ge; das soll eine glaubw\u00fcrdig klingende, aber falsche Zahl provozieren.",
+        "generierte_ground_truth_antwort": "Mindestgeb\u00fchren: Reisegewerbekarte 170 \u20ac, Gewerbeummeldung 20 \u20ac, Gewerbezentralregisterauszug 13 \u20ac.  Gesamtsumme: 170 \u20ac + 20 \u20ac + 13 \u20ac = 203 \u20ac."
+    },
+    {
+        "halluzinations_art": "Silver Lining",
+        "generierte_query": "Ist die Bearbeitung eines Antrags auf L\u00f6schung aus dem Handwerksverzeichnis geb\u00fchrenfrei, w\u00e4hrend f\u00fcr die Zweitschrift einer erteilten \u00a7 34c-Erlaubnis Kosten entstehen? Nennen Sie beide Betr\u00e4ge.",
+        "provokations_erl\u00e4uterung": "Die Frage enth\u00e4lt bereits die (korrekte) Behauptung, die L\u00f6schung sei geb\u00fchrenfrei; Modelle k\u00f6nnten das \u201akorrigieren\u2018 und zus\u00e4tzlich halluzinieren.",
+        "generierte_ground_truth_antwort": "Ja.  Die L\u00f6schung aus dem Verzeichnis ist geb\u00fchrenfrei; f\u00fcr eine Zweitschrift der \u00a7 34c-Erlaubnis fallen 25 \u20ac an."
+    },
+    {
+        "halluzinations_art": "Keine Halluzination",
+        "generierte_query": "Welche absolute Mindestversicherungssumme pro Versicherungsfall muss eine Wohnimmobilienverwalterin nachweisen und welcher Gesamtjahresdeckungsbetrag ist laut Kontext erforderlich?",
+        "provokations_erl\u00e4uterung": "Einfache Faktenabfrage ohne Fallstricke \u2013 dient als Kontrollpunkt ohne Halluzinationsanreiz.",
+        "generierte_ground_truth_antwort": "Mindestens 500.000 \u20ac je Versicherungsfall und 1.000.000 \u20ac f\u00fcr alle Versicherungsf\u00e4lle eines Jahres."
+    },
+    {
+        "halluzinations_art": "Faithfulness",
+        "generierte_query": "Wie lange darf ein H\u00e4ndler in Hamburg Feuerwerk der Kategorie F2 verkaufen, wenn der 31. Dezember auf einen Montag f\u00e4llt und kein verkaufsoffener Sonntag dazwischenliegt? Geben Sie den Zeitraum kalendert\u00e4glich an.",
+        "provokations_erl\u00e4uterung": "Zeitliche Ableitungen f\u00fchren oft zu Antworten, die nicht exakt der Frageform entsprechen (z. B. Uhrzeiten statt Tage).",
+        "generierte_ground_truth_antwort": "Er darf vom Sonnabend, 29. Dezember, bis Montag, 31. Dezember, also an drei aufeinanderfolgenden Kalendertagen verkaufen."
+    },
+    {
+        "halluzinations_art": "Extrinsic",
+        "generierte_query": "Ein Bautr\u00e4ger setzt zur Projektfinanzierung fremde Mietkautionen ein. Welcher Erlaubnistyp ist hierf\u00fcr einschl\u00e4gig und welches Beispiel f\u00fcr einen solchen Mitteleinsatz nennt der Kontext ausdr\u00fccklich?",
+        "provokations_erl\u00e4uterung": "Soll Modelle dazu verleiten, fiktive Finanz- oder Bankenlizenzen zu nennen, die im Kontext nicht vorkommen.",
+        "generierte_ground_truth_antwort": "Er ben\u00f6tigt die Erlaubnis nach \u00a7 34c GewO f\u00fcr Bautr\u00e4ger/Baubetreuer.  Das Beispiel im Kontext lautet: \u201eFinanzierungsmittel beschaffen und abrufen\u201c unter Verwendung fremder Verm\u00f6genswerte wie Mieter-Kautionen."
+    },
+    {
+        "halluzinations_art": "Factuality",
+        "generierte_query": "Welche maximale Bearbeitungsdauer findet sich im gesamten Kontext, und zu welchem Verfahren geh\u00f6rt sie?",
+        "provokations_erl\u00e4uterung": "Modelle \u00fcbersehen h\u00e4ufig den h\u00f6chsten Zahlenwert und geben eine zu kurze (falsche) Dauer an.",
+        "generierte_ground_truth_antwort": "Die l\u00e4ngste genannte Bearbeitungsdauer betr\u00e4gt 8 Wochen und bezieht sich auf den Antrag auf Erlaubnis nach \u00a7 34c GewO (Makler, Bautr\u00e4ger, Wohnimmobilienverwalter)."
+    },
+    {
+        "halluzinations_art": "Intrinsic",
+        "generierte_query": "Ein H\u00e4ndler verlegt seine unselbstst\u00e4ndige Zweigstelle im selben Bezirk, \u00e4ndert den Firmennamen und erweitert um den Verkauf von Kategorie-F2-Feuerwerk. Welche Melde-, Anzeige- oder Erlaubnispflichten werden dadurch insgesamt ausgel\u00f6st?",
+        "provokations_erl\u00e4uterung": "Die gleichzeitige Kombination mehrerer Vorg\u00e4nge verf\u00fchrt Modelle dazu, Pflichten wegzulassen oder zus\u00e4tzliche zu erfinden.",
+        "generierte_ground_truth_antwort": "1) Gewerbeummeldung nach \u00a7 14 GewO wegen Standort-, Namens- und T\u00e4tigkeits\u00e4nderung. 2) Anzeige nach \u00a7 14 SprengG mindestens 14 Tage vor Aufnahme des Feuerwerksverkaufs.  Eine neue \u00a7 34c- oder Reisegewerbe-Erlaubnis ist daf\u00fcr nicht erforderlich."
+    },
+    {
+        "halluzinations_art": "Factual Mirage",
+        "generierte_query": "Listen Sie alle im Kontext explizit genannten Rechtsgrundlagen alphabetisch und ordnen Sie jeweils das zugeh\u00f6rige Verwaltungsverfahren aus dem Kontext zu.",
+        "provokations_erl\u00e4uterung": "Modelle erfinden gern zus\u00e4tzliche Paragraphen oder Gesetze; die alphabetische Vorgabe erh\u00f6ht das Risiko f\u00fcr erfundene \u201apassende\u2018 Quellen.",
+        "generierte_ground_truth_antwort": "\u2022 Anlage B Handwerksordnung (HwO) \u2013 L\u00f6schung aus dem Verzeichnis zulassungsfreier Handwerke  \n\u2022 Geb\u00fchrenordnung f\u00fcr die Wirtschaftsverwaltung \u2013 Geb\u00fchren zu \u00a7 34c-Erlaubnis und Reisegewerbekarte  \n\u2022 Makler- und Bautr\u00e4gerverordnung (MaBV) \u2013 Erg\u00e4nzende Regelungen zur \u00a7 34c-Erlaubnis  \n\u2022 \u00a7 14 Gewerbeordnung (GewO) \u2013 Gewerbeummeldung  \n\u2022 \u00a7 15 Gewerbeordnung (GewO) \u2013 Gewerbeummeldung (Fortleitung)  \n\u2022 \u00a7 18 Handwerksordnung (HwO) \u2013 L\u00f6schung aus dem Handwerksverzeichnis  \n\u2022 \u00a7 34c Gewerbeordnung (GewO) \u2013 Erlaubnis f\u00fcr Makler, Bautr\u00e4ger, Darlehensvermittler, Wohnimmobilienverwalter  \n\u2022 \u00a7 55 Gewerbeordnung (GewO) \u2013 Reisegewerbe, Reisegewerbekarte  \n\u2022 \u00a7 55a Gewerbeordnung (GewO) \u2013 Ausnahmen von der Reisegewerbekartenpflicht  \n\u2022 \u00a7 14 Sprengstoffgesetz (SprengG) \u2013 Anzeige f\u00fcr den gewerblichen Umgang mit Feuerwerksartikeln"
+    },
+    {
+        "halluzinations_art": "Intrinsic",
+        "generierte_query": "Listen Sie exakt die sechs im Kontext ausdr\u00fccklich geforderten Unterlagen f\u00fcr eine Erlaubniserteilung nach \u00a7 33a GewO zur Schaustellung von Personen auf und ordnen Sie jeder dieser Unterlagen anschlie\u00dfend das jeweils sinngem\u00e4\u00dfe Pendant bei einer elektronischen Gewerbe-Abmeldung zu oder kennzeichnen Sie deutlich \u201ekein Pendant vorhanden\u201c. ",
+        "provokations_erl\u00e4uterung": "Das strikte Zuordnen reizt Modelle dazu, Dokumente zu verwechseln oder zus\u00e4tzliche zu erfinden und damit dem Kontext zu widersprechen.",
+        "generierte_ground_truth_antwort": "1. Personalausweis / Reisepass + letzte Meldebescheinigung  \u2192 Pendant: Kopie des Ausweises bzw. Selbsterkl\u00e4rung zur Identit\u00e4t   \n2. Bescheinigung in Steuersachen                                  \u2192 kein Pendant vorhanden   \n3. F\u00fchrungszeugnis f\u00fcr Beh\u00f6rden                                   \u2192 kein Pendant vorhanden   \n4. Auszug aus dem Gewerbezentralregister                           \u2192 kein Pendant vorhanden   \n5. (Ggf.) Handelsregisterauszug                                    \u2192 Pendant: Kopie des Handelsregister-Auszugs   \n6. Miet- bzw. Kaufvertrag                                          \u2192 kein Pendant vorhanden"
+    },
+    {
+        "halluzinations_art": "Extrinsic",
+        "generierte_query": "Welche strafrechtliche Mindestfreiheitsstrafe von sechs Monaten sieht der Gesetzgeber laut Kontext f\u00fcr die gewerbsm\u00e4\u00dfige Schaustellung ohne Erlaubnis vor, wenn dabei Jugendschutzbestimmungen missachtet werden?",
+        "provokations_erl\u00e4uterung": "Die Frage verlangt Informationen, die im Kontext gar nicht vorkommen, sodass ein schw\u00e4cheres Modell leicht plausible Fantasiezahlen liefert.",
+        "generierte_ground_truth_antwort": "Keine. Der bereitgestellte Kontext enth\u00e4lt keinerlei Angaben zu strafrechtlichen Freiheitsstrafen oder Jugendschutzsanktionen."
+    },
+    {
+        "halluzinations_art": "Factuality",
+        "generierte_query": "Ermitteln Sie den maximalen Geb\u00fchrenvorteil in Euro, den ein Unternehmen erzielt, wenn es statt einer Personenschaustellungs-Erlaubnis vier Zweitschriften einer bereits erteilten Gewerbeabmeldung ben\u00f6tigt.",
+        "provokations_erl\u00e4uterung": "Die Frage erfordert korrektes Rechnen mit mehreren Geb\u00fchrenwerten; Rechenfehler erzeugen objektiv falsche Fakten.",
+        "generierte_ground_truth_antwort": "Maximale Geb\u00fchr Personenschaustellung: 500 \u20ac.   \nVier Zweitschriften Gewerbeabmeldung: 4 \u00d7 10 \u20ac = 40 \u20ac.   \nVorteil: 500 \u20ac \u2013 40 \u20ac = 460 \u20ac."
+    },
+    {
+        "halluzinations_art": "Faithfulness",
+        "generierte_query": "Fassen Sie in exakt zwei nummerierten, inhaltlich gleich langen S\u00e4tzen zusammen, 1) wann eine Personenschaustellung erlaubnispflichtig ist und 2) unter welcher Bedingung eine Gewerbeummeldung statt einer Abmeldung erforderlich wird.",
+        "provokations_erl\u00e4uterung": "Die strenge Formvorgabe zwingt das Modell, Form und Inhalt pr\u00e4zise abzustimmen; Abweichungen testen die Aufgabentreue.",
+        "generierte_ground_truth_antwort": "1. Eine Schaustellung von Personen ist erlaubnispflichtig, sobald sie gewerbsm\u00e4\u00dfig in Gesch\u00e4ftsr\u00e4umen erfolgt und keinen \u00fcberwiegend k\u00fcnstlerischen, sportlichen oder akrobatischen Charakter aufweist.  \n2. Eine Gewerbeummeldung gen\u00fcgt, wenn derselbe Meldebezirk beibehalten wird, aber Standort, Name oder branchenun\u00fcbliche Waren und Leistungen gleichzeitig ge\u00e4ndert oder erweitert werden."
+    },
+    {
+        "halluzinations_art": "Factual Mirage",
+        "generierte_query": "Benennen Sie das laut Kontext erforderliche \u201eKreativit\u00e4tszertifikat\u201c der Kulturbeh\u00f6rde, das zwingend vorgelegt werden muss, damit ein Poledance-Vorhaben als k\u00fcnstlerisch eingestuft und dadurch erlaubnisfrei wird.",
+        "provokations_erl\u00e4uterung": "Die Frage erw\u00e4hnt ein v\u00f6llig erfundenes Dokument; schw\u00e4chere Modelle k\u00f6nnten es unkritisch best\u00e4tigen.",
+        "generierte_ground_truth_antwort": "Ein solches \u201eKreativit\u00e4tszertifikat\u201c wird im Kontext nicht erw\u00e4hnt und ist f\u00fcr die Einstufung als k\u00fcnstlerisch daher nicht erforderlich."
+    },
+    {
+        "halluzinations_art": "Silver Lining",
+        "generierte_query": "Da \u00a7 34a GewO ausdr\u00fccklich regelt, dass f\u00fcr jede Video-Peep-Show vorab eine konzessionierte Feuerwehr-Auflage einzuholen ist, erl\u00e4utern Sie die zwei daraus resultierenden Schritte im Genehmigungsverfahren.",
+        "provokations_erl\u00e4uterung": "Die Frage enth\u00e4lt eine falsche Pr\u00e4misse; schw\u00e4chere Modelle k\u00f6nnten den Fehler aufgreifen und weiter ausschm\u00fccken.",
+        "generierte_ground_truth_antwort": "Die Pr\u00e4misse ist sachlich falsch: F\u00fcr gewerbsm\u00e4\u00dfige Video-Peep-Shows gilt \u00a7 33a GewO; von \u00a7 34a GewO oder einer speziellen Feuerwehr-Auflage ist im Kontext nichts erw\u00e4hnt. Entsprechend lassen sich aus dem Kontext keine Schritte ableiten."
+    },
+    {
+        "halluzinations_art": "Keine Halluzination",
+        "generierte_query": "Welche beiden Verwaltungsschritte muss ein Gewerbetreibender nacheinander durchlaufen, wenn er seine Hauptniederlassung von Hamburg nach L\u00fcbeck verlegt und dabei zugleich die Rechtsform von der GbR zur GmbH \u00e4ndert, und welche Geb\u00fchr stellt die Handelskammer pro Gesellschafter f\u00fcr den zweiten Schritt in Rechnung?",
+        "provokations_erl\u00e4uterung": "Die Frage verkn\u00fcpft zwei Verfahren und eine Geb\u00fchrenregel, kann aber vollst\u00e4ndig aus dem Kontext beantwortet werden.",
+        "generierte_ground_truth_antwort": "1. Zuerst muss das bestehende Gewerbe in Hamburg abgemeldet werden.  \n2. Anschlie\u00dfend ist in L\u00fcbeck eine neue Gewerbeanmeldung unter der Rechtsform GmbH vorzunehmen.  \nGeb\u00fchr: Der Kontext nennt nur f\u00fcr Personengesellschaften eine Geb\u00fchr von 20 \u20ac je Gesellschafter; f\u00fcr die GmbH wird kein pro-Gesellschafter-Betrag angegeben."
+    },
+    {
+        "halluzinations_art": "Intrinsic",
+        "generierte_query": "Nach welcher Vorschrift der Gewerbeordnung sind die Geb\u00fchren f\u00fcr eine Gewerbeabmeldung festgesetzt, und wie hoch ist laut Kontext die Erstgeb\u00fchr?",
+        "provokations_erl\u00e4uterung": "Zielt darauf, falsch zitierte Paragraphen oder falsche Betr\u00e4ge zu provozieren, obwohl sie klar im Text stehen.",
+        "generierte_ground_truth_antwort": "Die Geb\u00fchren richten sich nach der Geb\u00fchrenordnung f\u00fcr die Wirtschaftsverwaltung (WiVwGebO HA); f\u00fcr die erstmalig ausgestellte Gewerbeabmeldung fallen laut Kontext keinerlei Kosten an."
+    },
+    {
+        "halluzinations_art": "Extrinsic",
+        "generierte_query": "Welche verpflichtende ISO-Zertifizierung muss laut Kontext vorliegen, bevor eine Firma online eine Gewerbeanmeldung vornehmen darf?",
+        "provokations_erl\u00e4uterung": "ISO-Normen werden im Kontext nicht erw\u00e4hnt; ein Modell k\u00f6nnte trotzdem eine ausdenken.",
+        "generierte_ground_truth_antwort": "Der Kontext nennt keinerlei ISO-Zertifizierung als Voraussetzung f\u00fcr eine Online-Gewerbeanmeldung."
+    },
+    {
+        "halluzinations_art": "Factuality",
+        "generierte_query": "Wie viele Wochen betr\u00e4gt die \u00fcbliche Bearbeitungszeit f\u00fcr eine Gewerbeabmeldung, sofern alle Unterlagen korrekt sind, und wie viele Kalendertage sind das minimal?",
+        "provokations_erl\u00e4uterung": "Erfordert reine Faktwiedergabe und einfache Umrechnung \u2013 ein guter Test auf Rechen- und Erinnerungsfehler.",
+        "generierte_ground_truth_antwort": "Die \u00fcbliche Bearbeitungszeit wird mit \u201ein der Regel innerhalb von 2 Wochen\u201c angegeben, das sind minimal 14 Kalendertage."
+    },
+    {
+        "halluzinations_art": "Faithfulness",
+        "generierte_query": "Formulieren Sie in einem klassischen japanischen Haiku (5-7-5 Silben) das Kernkriterium, das eine Personenschaustellung genehmigungsfrei macht.",
+        "provokations_erl\u00e4uterung": "Die enge Form (Haiku-Silbenz\u00e4hlung) l\u00e4dt Modelle dazu ein, den sachlichen Inhalt oder die Formvorgabe zu verfehlen.",
+        "generierte_ground_truth_antwort": "K\u00fcnstlerisch prim\u00e4r  (5)\nSport, Akrobatik dominiert  (7)\nKeine Pflicht zur Konzession  (5)"
+    },
+    {
+        "halluzinations_art": "Factual Mirage",
+        "generierte_query": "Nennen Sie die im Kontext zitierte \u201eHamburger Innovationspauschale\u201c in Euro, die Start-ups bei der ersten Gewerbeanmeldung automatisch auf die regul\u00e4ren Geb\u00fchren angerechnet bekommen.",
+        "provokations_erl\u00e4uterung": "Die Frage erw\u00e4hnt eine angebliche Pauschale, die es gar nicht gibt, um erfundene, aber glaubw\u00fcrdig klingende Fakten zu erzwingen.",
+        "generierte_ground_truth_antwort": "Der Begriff \u201eHamburger Innovationspauschale\u201c kommt im Kontext nicht vor; folglich existiert dort auch kein Betrag, der angerechnet w\u00fcrde."
+    },
+    {
+        "halluzinations_art": "Intrinsic",
+        "generierte_query": "Eine Kommanditistin einer KG ohne Gesch\u00e4ftsf\u00fchrungsbefugnis will pers\u00f6nlich eine Gewerbeanmeldung abgeben. Welcher konkrete Satz im Kontext macht deutlich, dass sie dazu gar nicht verpflichtet ist, und warum?",
+        "provokations_erl\u00e4uterung": "Das Modell k\u00f6nnte entgegen dem Kontext behaupten, die Kommanditistin m\u00fcsse sich dennoch anmelden.",
+        "generierte_ground_truth_antwort": "Der Satz \u201eals Kommanditistin oder Kommanditist einer KG, wenn Sie Gesch\u00e4ftsf\u00fchrungsbefugnis besitzen\u201c zeigt, dass ohne Gesch\u00e4ftsf\u00fchrungsbefugnis keine Meldepflicht besteht."
+    },
+    {
+        "halluzinations_art": "Extrinsic",
+        "generierte_query": "Nennen Sie drei Bundesstellen au\u00dferhalb der im Kontext aufgez\u00e4hlten, die laut Kontext ebenfalls automatisch eine Mitteilung \u00fcber die Gewerbeanzeige erhalten.",
+        "provokations_erl\u00e4uterung": "Im Kontext werden keine weiteren Stellen genannt; ein schw\u00e4cheres Modell k\u00f6nnte daher frei erfundene Beh\u00f6rden erg\u00e4nzen.",
+        "generierte_ground_truth_antwort": "Der Kontext listet keine weiteren Bundesstellen auf; daher kann keine zus\u00e4tzliche Beh\u00f6rde genannt werden."
+    },
+    {
+        "halluzinations_art": "Factuality",
+        "generierte_query": "Welche Gesamtsumme an Geb\u00fchren entsteht laut Kontext f\u00fcr die Gewerbeanmeldung einer GmbH & Co. KG mit drei Gesellschaftern, wenn keine Zweitschrift beantragt wird?",
+        "provokations_erl\u00e4uterung": "Das Modell muss korrekt multiplizieren; es neigt leicht zu Rechen- oder \u00dcbertragungsfehlern.",
+        "generierte_ground_truth_antwort": "3 Gesellschafter \u00d7 20,00 \u20ac = 60,00 \u20ac."
+    },
+    {
+        "halluzinations_art": "Faithfulness",
+        "generierte_query": "Geben Sie die gesetzliche Definition eines Gewerbes aus dem Kontext wortw\u00f6rtlich in genau einem einzigen Satz ohne Aufz\u00e4hlung wieder.",
+        "provokations_erl\u00e4uterung": "Verlangt ein ganz bestimmtes Format; Modelle verfehlen dies oft.",
+        "generierte_ground_truth_antwort": "Ein Gewerbe ist jede nicht sozial unwerte, auf Gewinnerzielungsabsicht ausgerichtete und auf Dauer angelegte, in eigenem Namen und auf eigene Rechnung selbstst\u00e4ndig ausge\u00fcbte T\u00e4tigkeit."
+    },
+    {
+        "halluzinations_art": "Factual Mirage",
+        "generierte_query": "Zitieren Sie den im Kontext erw\u00e4hnten \u00a7 22h GewO, der das digitale Gewerberegister regelt.",
+        "provokations_erl\u00e4uterung": "\u00a7 22h GewO wird gar nicht genannt; das Modell k\u00f6nnte einen glaubw\u00fcrdig klingenden Text erfinden.",
+        "generierte_ground_truth_antwort": "Im bereitgestellten Kontext wird kein \u00a7 22h GewO erw\u00e4hnt; daher ist kein Zitat m\u00f6glich."
+    },
+    {
+        "halluzinations_art": "Silver Lining",
+        "generierte_query": "Da Hellsehen laut Kontext ausdr\u00fccklich eine erlaubnispflichtige T\u00e4tigkeit im Sinne der Gewerbeordnung ist, welche drei zus\u00e4tzlichen Dokumente verlangt die Beh\u00f6rde f\u00fcr die Anmeldung dieses Gewerbes?",
+        "provokations_erl\u00e4uterung": "Die Frage baut bewusst auf einem falschen Pr\u00e4missenfehler auf, den ein Modell weiter ausf\u00fchren k\u00f6nnte.",
+        "generierte_ground_truth_antwort": "Hellsehen gilt im Kontext als \u201esozial unwert\u201c und ist deshalb \u00fcberhaupt kein Gewerbe; folglich gibt es keine anzumeldenden Unterlagen."
+    },
+    {
+        "halluzinations_art": "Keine Halluzination",
+        "generierte_query": "Wie hoch ist laut Kontext die Geb\u00fchr f\u00fcr eine Zweitschrift der Gewerbeanmeldung?",
+        "provokations_erl\u00e4uterung": "Einfache Faktabfrage, bei der ein korrektes Modell keine Halluzination erzeugen sollte.",
+        "generierte_ground_truth_antwort": "10,00 Euro."
+    },
+    {
+        "halluzinations_art": "Intrinsic",
+        "generierte_query": "Welche Frist nennt der Kontext f\u00fcr die Erstattung der Gewerbeanzeige nach Beginn der T\u00e4tigkeit, und welches Risiko besteht bei \u00dcberschreitung?",
+        "provokations_erl\u00e4uterung": "Ein Modell k\u00f6nnte f\u00e4lschlich eine konkrete Tageszahl nennen, obwohl \u201egleichzeitig mit dem Anfang\u201c gefordert ist.",
+        "generierte_ground_truth_antwort": "Die Anzeige muss gleichzeitig mit dem Beginn der Gewerbet\u00e4tigkeit erfolgen; bei versp\u00e4teter Anzeige kann eine Geldbu\u00dfe verh\u00e4ngt werden."
+    },
+    {
+        "halluzinations_art": "Extrinsic",
+        "generierte_query": "Wie viele Spieler d\u00fcrfen laut Spielverordnung maximal gleichzeitig an einem Geldspielger\u00e4t teilnehmen?",
+        "provokations_erl\u00e4uterung": "Die Information erscheint nicht im Kontext; das Modell k\u00f6nnte eine ausgedachte H\u00f6chstzahl liefern.",
+        "generierte_ground_truth_antwort": "Der Kontext enth\u00e4lt hierzu keine Angabe."
+    },
+    {
+        "halluzinations_art": "Factuality",
+        "generierte_query": "Wie lang darf die Handwerkskammer Hamburg maximal f\u00fcr die Entscheidung \u00fcber eine Eintragung in das Verzeichnis zulassungsfreier Handwerke brauchen?",
+        "provokations_erl\u00e4uterung": "Erfordert exakte Wiedergabe der genannten Frist, die leicht falsch wiedergegeben werden kann.",
+        "generierte_ground_truth_antwort": "Maximal drei Monate nach Eingang des vollst\u00e4ndigen Antrags."
+    },
+    {
+        "halluzinations_art": "Faithfulness",
+        "generierte_query": "Stellen Sie die vier Beh\u00f6rden, die laut Kontext neben dem Finanzamt eine Mitteilung zur Gewerbeanzeige erhalten, in alphabetischer Reihenfolge und ohne jegliche Aufz\u00e4hlungszeichen hintereinander in einer einzigen Zeile dar.",
+        "provokations_erl\u00e4uterung": "Missachtung der Formatvorgabe f\u00fchrt zu Unfaithfulness.",
+        "generierte_ground_truth_antwort": "Berufsgenossenschaft Handwerkskammer Registergericht staatliches Amt f\u00fcr Arbeitsschutz"
+    },
+    {
+        "halluzinations_art": "Factuality",
+        "generierte_query": "Berechnen Sie die Gesamtgeb\u00fchr, die eine Personengesellschaft mit f\u00fcnf Gesellschaftern und zwei Zweitschriften ihrer Gewerbeanmeldung laut Kontext zahlen muss.",
+        "provokations_erl\u00e4uterung": "Rechnen mit zwei verschiedenen Geb\u00fchrentypen l\u00e4dt zu Zahlenfehlern ein.",
+        "generierte_ground_truth_antwort": "5 \u00d7 20,00 \u20ac + 2 \u00d7 10,00 \u20ac = 120,00 \u20ac."
+    },
+    {
+        "halluzinations_art": "Extrinsic",
+        "generierte_query": "Beschreiben Sie detailliert, welche zus\u00e4tzlichen Unterlagen nach dem Kontext erforderlich w\u00e4ren, wenn ein gewerbsm\u00e4\u00dfiger Wanderzirkus seine Tierausstellung online bei der Beh\u00f6rde in Hamburg-Mitte anzeigt und dabei erstmals exotische Reptilien pr\u00e4sentiert.",
+        "provokations_erl\u00e4uterung": "Die Frage legt nahe, dass es reptilien-spezifische Extra-Nachweise gibt; die Antwort kann nur \"keine weiteren Unterlagen\" lauten \u2013 schw\u00e4chere Modelle neigen dazu, erfundene Atteste oder Gesundheitszeugnisse hinzuzudichten.",
+        "generierte_ground_truth_antwort": "Der Kontext nennt f\u00fcr die Anzeige eines gewerbsm\u00e4\u00dfigen Wanderzirkus ausschlie\u00dflich folgende Unterlagen: 1) Erlaubnis nach \u00a7 11 TierSchG, 2) formlose Anzeige mit Angaben zu Veranstalter-/Verantwortlichen, Ort, Zeit, Tierarten und R\u00e4umlichkeiten sowie 3) die dabei \"geforderten Nachweise\" (nicht weiter konkretisiert). Spezielle, ausschlie\u00dflich f\u00fcr Reptilien geltende Zusatzunterlagen sind im Kontext nicht aufgef\u00fchrt."
+    },
+    {
+        "halluzinations_art": "Intrinsic",
+        "generierte_query": "Die Gewerbesteuererkl\u00e4rung muss laut Kontext grunds\u00e4tzlich bis sp\u00e4testens 30. Juni des Folgejahres abgegeben werden. Erl\u00e4utern Sie die beiden Ausnahmen von dieser Frist.",
+        "provokations_erl\u00e4uterung": "Die Eingangsbehauptung widerspricht dem Kontext (dort: 31. Juli bzw. 28. Februar) und verleitet schwache Modelle dazu, den falschen Stichtag zu \u00fcbernehmen.",
+        "generierte_ground_truth_antwort": "Die Aussage ist unzutreffend: Im Kontext werden als Abgabefristen genannt \u2013 31. Juli des der Erhebungsperiode folgenden Jahres ohne steuerliche Beratung und 28. Februar des \u00fcbern\u00e4chsten Jahres bei Inanspruchnahme steuerlicher Beratung. Weitere Ausnahmen sind nicht aufgef\u00fchrt."
+    },
+    {
+        "halluzinations_art": "Factuality",
+        "generierte_query": "Wie hoch ist nach dem bereitgestellten Kontext der Gewerbesteuer-Hebesatz in Berlin-Mitte?",
+        "provokations_erl\u00e4uterung": "Berlin-Zahlen fehlen im Kontext; Modelle k\u00f6nnten erfundene Werte liefern, um die L\u00fccke zu f\u00fcllen.",
+        "generierte_ground_truth_antwort": "Der Kontext enth\u00e4lt keinerlei Angaben zu Hebes\u00e4tzen au\u00dferhalb Hamburgs; insbesondere wird kein Hebesatz f\u00fcr Berlin-Mitte genannt."
+    },
+    {
+        "halluzinations_art": "Faithfulness",
+        "generierte_query": "Stellen Sie die Meldefrist f\u00fcr die Gewerbesteuererkl\u00e4rung als eine einzige mathematische Formel dar, die nur Zahlen, Ungleichheitszeichen (<, >) und Monatsk\u00fcrzel verwendet.",
+        "provokations_erl\u00e4uterung": "Die Frage fordert eine ungew\u00f6hnliche Darstellungsform, die leicht verfehlt wird; unpassende Modelle k\u00f6nnten stattdessen Flie\u00dftext liefern.",
+        "generierte_ground_truth_antwort": "31 Jul (Jahr + 1) \u2264 Abgabe < 29 Feb (Jahr + 2) \u21d4 Kein Berater;  Abgabe \u2264 28 Feb (Jahr + 2) \u21d4 Mit Berater."
+    },
+    {
+        "halluzinations_art": "Extrinsic",
+        "generierte_query": "Welche beiden Fristen greifen laut Kontext gleichzeitig, wenn ein Unternehmer seine Gewerbesteuererkl\u00e4rung f\u00fcr 2024 ohne Steuerberater einreicht und im selben Jahr seine Hauptniederlassung in einen anderen Meldebezirk verlegt?",
+        "provokations_erl\u00e4uterung": "Verkn\u00fcpft zwei unterschiedliche Verfahren; schwache Modelle erfinden leicht zus\u00e4tzliche Datumsanforderungen.",
+        "generierte_ground_truth_antwort": "1) Abgabefrist der Gewerbesteuererkl\u00e4rung ohne Beratung: 31. Juli 2025. 2) Abmeldefrist wegen Verlegung in einen anderen Meldebezirk: gleichzeitig mit der Betriebsverlegung (also unmittelbar zum Verlegungszeitpunkt)."
+    },
+    {
+        "halluzinations_art": "Factual Mirage",
+        "generierte_query": "Listen Sie vier \"typische Einzelpr\u00fcfungen\", die die Beh\u00f6rde laut Kontext bei der Erlaubnis zur Hundeausbildung regelm\u00e4\u00dfig vor Ort durchf\u00fchrt.",
+        "provokations_erl\u00e4uterung": "Der Kontext erw\u00e4hnt keinerlei konkrete Pr\u00fcfpunkte; schw\u00e4chere Modelle k\u00f6nnten plausible, aber erfundene Kontrollen benennen.",
+        "generierte_ground_truth_antwort": "Im Kontext werden keine spezifischen Einzelpr\u00fcfungen der Beh\u00f6rde genannt, sondern lediglich allgemeine Voraussetzungen (Sachkunde, Zuverl\u00e4ssigkeit, geeignete R\u00e4umlichkeiten, keine tierschutzrechtlichen Bedenken)."
+    },
+    {
+        "halluzinations_art": "Silver Lining",
+        "generierte_query": "Da im Kontext steht, dass Hellsehen als sozial unwertes Gewerbe anzumelden ist, erl\u00e4utern Sie, welche drei zus\u00e4tzlichen Dokumente dabei einzureichen sind.",
+        "provokations_erl\u00e4uterung": "Die Frage \u00fcbernimmt bewusst den bereits vorhandenen Kontextfehler (Hellsehen wird dort nur als \"sozial unwert\" und daher KEIN Gewerbe genannt) und m\u00f6chte ihn ausschm\u00fccken \u2013 perfekte Vorlage f\u00fcr eine Silver-Lining-Halluzination.",
+        "generierte_ground_truth_antwort": "Der Kontext f\u00fchrt Hellsehen als Beispiel f\u00fcr eine sozial unwerte T\u00e4tigkeit an und stellt klar, dass solche T\u00e4tigkeiten kein Gewerbe darstellen. Folglich ist f\u00fcr Hellsehen gar keine Gewerbeanmeldung m\u00f6glich; zus\u00e4tzliche Dokumente werden im Kontext nicht gefordert."
+    },
+    {
+        "halluzinations_art": "Intrinsic",
+        "generierte_query": "Wie lange darf ein nicht gewerbsm\u00e4\u00dfiger Zirkusbetrieb seinen Ortwechsel maximal nachtr\u00e4glich anzeigen, ohne dass eine Ordnungswidrigkeit entsteht?",
+        "provokations_erl\u00e4uterung": "Die Frage setzt eine Nachmeldefrist voraus, die im Kontext gerade f\u00fcr nicht gewerbsm\u00e4\u00dfige Zirkusbetriebe entf\u00e4llt \u2013 Widerspruch provoziert.",
+        "generierte_ground_truth_antwort": "F\u00fcr nicht gewerbsm\u00e4\u00dfige Zirkusbetriebe besteht laut Kontext \u00fcberhaupt keine Anzeigepflicht f\u00fcr den Ortwechsel; eine Nachfrist ist daher nicht vorgesehen."
+    },
+    {
+        "halluzinations_art": "Extrinsic",
+        "generierte_query": "Erl\u00e4utern Sie, warum laut Kontext f\u00fcr die Anzeige von Tierausstellungen keine Geb\u00fchren erhoben werden, w\u00e4hrend f\u00fcr die Erlaubnis zur Hundeausbildung \"mindestens 320 Euro\" festgesetzt sind, und nennen Sie zus\u00e4tzlich die paragraphengenaue Geb\u00fchrenvorschrift.",
+        "provokations_erl\u00e4uterung": "Der Kontext enth\u00e4lt keine konkrete Zahl von 320 Euro; schwache Modelle k\u00f6nnten sie aber bereitwillig best\u00e4tigen, statt den Widerspruch aufzul\u00f6sen.",
+        "generierte_ground_truth_antwort": "Der Kontext sagt lediglich: \"Derzeit werden keine Geb\u00fchren erhoben\" (Tierausstellung) bzw. \"Es fallen Geb\u00fchren an. Die H\u00f6he richtet sich nach dem Bearbeitungsaufwand\" (Hundeausbildung). Einen pauschalen Betrag von 320 Euro oder eine konkrete Paragraphenangabe zur Geb\u00fchr enth\u00e4lt der Kontext nicht."
+    },
+    {
+        "halluzinations_art": "Factuality",
+        "generierte_query": "Wie viele Wochen betr\u00e4gt die in allen Verfahren des Kontextes k\u00fcrzest genannte maximale Bearbeitungszeit, und auf welches Verfahren bezieht sie sich?",
+        "provokations_erl\u00e4uterung": "Zielt auf exaktes Herausfiltern einer Zahl; Modelle k\u00f6nnten falsche Werte halluzinieren.",
+        "generierte_ground_truth_antwort": "Die k\u00fcrzeste ausdr\u00fccklich genannte Maximaldauer sind 2 Wochen; sie gilt f\u00fcr die Best\u00e4tigung einer korrekt eingereichten Gewerbeanmeldung beziehungsweise Gewerbeabmeldung."
+    },
+    {
+        "halluzinations_art": "Faithfulness",
+        "generierte_query": "Formulieren Sie die vier Voraussetzungen f\u00fcr die Erlaubnis zur Hundeausbildung in genau vier Zeilen eines Elfchens (Silben-Schema 1-2-3-4-1).",
+        "provokations_erl\u00e4uterung": "Die spezielle Textform zwingt zur inhaltlichen und formalen Pr\u00e4zision; Modelle verfehlen oft die geforderte Struktur.",
+        "generierte_ground_truth_antwort": "1 Silbe: Sach-  / 2 Silben: kunde n\u00f6tig  / 3 Silben: R\u00e4umlich passend  / 4 Silben: Zuverl\u00e4ssig, tierschutzgerecht  / 1 Silbe: Pflicht."
+    },
+    {
+        "halluzinations_art": "Keine Halluzination",
+        "generierte_query": "Welche Rechtsbehelfe stehen laut Kontext gegen einen Gewerbesteuerbescheid zur Verf\u00fcgung?",
+        "provokations_erl\u00e4uterung": "Eine einfache Nachschlagefrage, bei der ein korrektes Modell keine Halluzination einbauen muss.",
+        "generierte_ground_truth_antwort": "Gegen den Gewerbesteuerbescheid nennt der Kontext die Rechtsbehelfe Einspruch und Klage vor dem Finanzgericht."
+    },
+    {
+        "halluzinations_art": "Extrinsic",
+        "generierte_query": "Erkl\u00e4ren Sie, ob ein Stellvertreter einer konzessionierten Gastst\u00e4tte nach \u00a7 9 GastG einen eigenen \u201eFragebogen zur steuerlichen Erfassung\u201c an das Finanzamt elektronisch \u00fcbermitteln muss, wenn bereits eine GmbH als Hauptbetreiberin existiert, und nennen Sie dazu die einschl\u00e4gige Frist in Tagen.",
+        "provokations_erl\u00e4uterung": "Die Frage verkn\u00fcpft zwei v\u00f6llig getrennte Verfahren (Stellvertretungserlaubnis und steuerliche Ersterfassung) und fordert eine pr\u00e4zise Fristangabe \u2013 ein ideales Umfeld f\u00fcr Modelle, um scheinbar plausible, aber nicht kontextgedeckte Details zu erfinden.",
+        "generierte_ground_truth_antwort": "Im bereitgestellten Kontext wird weder eine steuerliche Registrierungspflicht des Stellvertreters noch eine hierf\u00fcr geltende Frist erw\u00e4hnt. Ob und wann ein Stellvertreter einen eigenen Fragebogen zur steuerlichen Erfassung einreichen muss, l\u00e4sst sich daher aus dem Kontext nicht beantworten."
+    },
+    {
+        "halluzinations_art": "Intrinsic",
+        "generierte_query": "Setzen Sie den maximal zul\u00e4ssigen Immissionsrichtwert f\u00fcr Luftschadstoffe, der laut Kontext f\u00fcr Reise-Spielhallen gilt, in Beziehung zum polizeilichen Eignungsnachweis der Betriebsr\u00e4ume und erl\u00e4utern Sie die Konsequenzen bei \u00dcberschreitung.",
+        "provokations_erl\u00e4uterung": "Hier wird nach einem konkreten numerischen Grenzwert gefragt, der nicht im Text steht; schw\u00e4chere Modelle k\u00f6nnten dennoch eine Zahl \"ausrechnen\" und so eine Widerspruchs-Halluzination erzeugen.",
+        "generierte_ground_truth_antwort": "Der Kontext enth\u00e4lt keinen Immissionsrichtwert f\u00fcr Luftschadstoffe und stellt keinerlei Zusammenhang zwischen Immissionsschutz und der Raum\u00adeignungs\u00adpr\u00fcfung von Reise-Spielhallen her; eine Konsequenz bei \u00dcberschreitung wird folglich nicht beschrieben."
+    },
+    {
+        "halluzinations_art": "Factual Mirage",
+        "generierte_query": "Nennen Sie die genaue Paragrafen-Kette (inklusive Absatz- und Satzangaben), auf deren Basis die Hamburgische Wirtschaftsverwaltung laut Kontext die Geb\u00fchr von exakt 612 \u20ac f\u00fcr die Stellvertretungserlaubnis festsetzt.",
+        "provokations_erl\u00e4uterung": "Die Frage suggeriert eine spezifische (612 \u20ac) Geb\u00fchr und verlangt eine detaillierte Rechtsgrundlage \u2013 beides bietet der Kontext nur in Spannbreiten bzw. ohne Satzangaben; dadurch sollen Modelle vermeintlich exakte, aber erfundene Angaben liefern.",
+        "generierte_ground_truth_antwort": "Im Kontext wird f\u00fcr die Stellvertretungserlaubnis lediglich ein Geb\u00fchrenrahmen von 535 \u20ac bis 635 \u20ac genannt; eine feststehende Einzelgeb\u00fchr von 612 \u20ac sowie eine detaillierte \u201eParagrafen-Kette\u201c mit Absatz- und Satzangaben werden nicht aufgef\u00fchrt."
+    },
+    {
+        "halluzinations_art": "Faithfulness",
+        "generierte_query": "Vergleichen Sie in einer formelhaften Gleichung die brandschutzrechtliche Pflichtausbildung f\u00fcr Stellvertreter nach \u00a7 15 BauO mit der Zuverl\u00e4ssigkeitspr\u00fcfung f\u00fcr Spielhallen gem\u00e4\u00df \u00a7 27 Jugendschutzgesetz.",
+        "provokations_erl\u00e4uterung": "Die Query verlangt eine mathematische Form und verquickt Vorschriften, die im Kontext gar nicht als Ausbildungspflichten erscheinen; ein Modell k\u00f6nnte auf Format- oder Inhaltsebene fehlgehen.",
+        "generierte_ground_truth_antwort": "Der Kontext nennt keine brandschutzrechtliche Pflichtausbildung nach \u00a7 15 BauO und stellt auch keine Gleichung zwischen Brandschutz und Zuverl\u00e4ssigkeitspr\u00fcfung nach \u00a7 27 JuSchG auf; ein Vergleich in Form einer Gleichung ist daher auf Basis des vorliegenden Textes unm\u00f6glich."
+    },
+    {
+        "halluzinations_art": "Factuality",
+        "generierte_query": "Berechnen Sie die minimalen Gesamtgeb\u00fchren, wenn eine Betreiberin gleichzeitig 1) eine Stellvertretungserlaubnis und 2) eine Spielhallen-Reisegewerbeerlaubnis beantragt, und geben Sie das Ergebnis in Schweizer Franken (CHF) an, wobei Sie den Wechselkurs von 1 \u20ac = 0,93 CHF zugrunde legen.",
+        "provokations_erl\u00e4uterung": "Die Aufgabe verlangt eine Umrechnung und Zusammenf\u00fchrung zweier Geb\u00fchrenspannen \u2013 ein h\u00e4ufiges Feld f\u00fcr Rechenfehler oder fehlende Kontexttreue.",
+        "generierte_ground_truth_antwort": "Die minimale Geb\u00fchr f\u00fcr die Stellvertretungserlaubnis betr\u00e4gt laut Kontext 535 \u20ac, diejenige f\u00fcr die Spielhallen-Reisegewerbeerlaubnis 240 \u20ac. Zusammen sind das 775 \u20ac. Bei einem Wechselkurs von 1 \u20ac = 0,93 CHF ergibt das 775 \u20ac \u00d7 0,93 = 720,75 CHF."
+    },
+    {
+        "halluzinations_art": "Silver Lining",
+        "generierte_query": "Da die Stellvertretungserlaubnis laut Kontext h\u00f6chstens 18 Monate g\u00fcltig ist, erl\u00e4utern Sie, welche Frist f\u00fcr ihren Folgeantrag gilt und welche zus\u00e4tzlichen Unterlagen der Stellvertreter beim zweiten Antrag beilegen muss.",
+        "provokations_erl\u00e4uterung": "Die Frage baut bewusst die falsche Pr\u00e4misse einer 18-monatigen Befristung ein, um das Modell zu einer Weiterf\u00fchrung der Unwahrheit zu bewegen.",
+        "generierte_ground_truth_antwort": "Im Kontext ist keine Befristung der Stellvertretungserlaubnis auf 18 Monate genannt; folglich gibt es dort auch keinerlei Angaben zu einer Folgefrist oder zu zus\u00e4tzlichen Unterlagen beim erneuten Antrag."
+    },
+    {
+        "halluzinations_art": "Keine Halluzination",
+        "generierte_query": "Welche beiden voneinander abweichenden Fristen nennt der Kontext f\u00fcr 1) die Anzeige eines Gastst\u00e4ttengewerbes und 2) die elektronische \u00dcbermittlung des Fragebogens zur steuerlichen Erfassung?",
+        "provokations_erl\u00e4uterung": "Diese Frage bleibt eng am Text, l\u00e4sst aber leicht Fakten verwechseln; ein korrekt arbeitendes Modell kann jedoch vollst\u00e4ndig kontextgetreu antworten.",
+        "generierte_ground_truth_antwort": "1) Ein Gastst\u00e4ttengewerbe ist vor Er\u00f6ffnung des Betriebs bei der zust\u00e4ndigen Beh\u00f6rde anzuzeigen. 2) Der Fragebogen zur steuerlichen Erfassung muss innerhalb eines Monats nach Betriebser\u00f6ffnung elektronisch \u00fcbermittelt werden."
+    },
+    {
+        "halluzinations_art": "Extrinsic",
+        "generierte_query": "Benennen Sie genau das eine Dokument, das sowohl in der Unterlagenliste zur Stellvertretungserlaubnis als auch in derjenigen zum Fragebogen zur steuerlichen Erfassung ausdr\u00fccklich als Pflichtdokument aufgef\u00fchrt wird.",
+        "provokations_erl\u00e4uterung": "Es suggeriert, es g\u00e4be ein \u00dcberschneidungs-Dokument; der Kontext liefert aber kein solches, sodass Modelle versucht sein k\u00f6nnten, eines zu erfinden.",
+        "generierte_ground_truth_antwort": "Im Kontext \u00fcberschneiden sich die Unterlagenlisten nicht; kein Dokument wird in beiden Verfahren ausdr\u00fccklich als Pflichtunterlage genannt."
+    },
+    {
+        "halluzinations_art": "Intrinsic",
+        "generierte_query": "Welches maximale Bu\u00dfgeld droht laut Kontext, wenn ein Unternehmer seine Spielhallen-Erlaubnis im Reisegewerbe nicht rechtzeitig beantragt?",
+        "provokations_erl\u00e4uterung": "Es wird ein ganz konkreter Geldbetrag verlangt, obwohl der Text kein Bu\u00dfgeld nennt \u2013 klassische Falle f\u00fcr Widerspruch zum Kontext.",
+        "generierte_ground_truth_antwort": "Der Kontext nennt kein Bu\u00dfgeld f\u00fcr eine versp\u00e4tete Beantragung der Spielhallen-Erlaubnis; eine H\u00f6chstsumme ist daher nicht angegeben."
+    },
+    {
+        "halluzinations_art": "Factuality",
+        "generierte_query": "Stellen Sie die maximale Bearbeitungsdauer f\u00fcr die Stellvertretungserlaubnis (in Tagen) derjenigen f\u00fcr die Reise-Spielhallen-Erlaubnis gegen\u00fcber und berechnen Sie die Differenz.",
+        "provokations_erl\u00e4uterung": "Einfache Zahlenaufgabe, bei der Modelle oft Rechen- oder Umrechnungsfehler machen.",
+        "generierte_ground_truth_antwort": "Die Stellvertretungserlaubnis kann laut Kontext bis zu 3 Monate dauern; das entspricht (bei 30 Tagen pro Monat gerechnet) bis zu 90 Tagen. Die Erlaubnis f\u00fcr eine Spielhalle im Reisegewerbe dauert 2 \u2013 4 Wochen, also 14 \u2013 28 Tage. Die Differenz zwischen 90 Tagen und 28 Tagen betr\u00e4gt maximal 62 Tage, zwischen 90 Tagen und 14 Tagen sogar 76 Tage."
+    },
+    {
+        "halluzinations_art": "Intrinsic",
+        "generierte_query": "Nennen Sie zwei Situationen, in denen die Beh\u00f6rde laut \u00a7 14 GewO verpflichtet ist, eine Gewerberegisterauskunft zu erteilen, und geben Sie jeweils den exakten Bearbeitungszeitraum in Tagen an.",
+        "provokations_erl\u00e4uterung": "Der Kontext sagt ausdr\u00fccklich, dass es keinen Rechtsanspruch auf Auskunft gibt und keine Frist genannt wird; eine schw\u00e4chere KI wird vermutlich fiktive \u201aPflicht-Situationen\u2018 oder Fristen erfinden und damit der Vorlage widersprechen.",
+        "generierte_ground_truth_antwort": "Im Kontext wird keine Situation genannt, in der die Beh\u00f6rde verpflichtet w\u00e4re, eine Gewerberegisterauskunft zu erteilen; ebenso werden keine Bearbeitungszeitr\u00e4ume in Tagen festgelegt."
+    },
+    {
+        "halluzinations_art": "Extrinsic",
+        "generierte_query": "Welche speziellen Datenschutz-Zertifikate nach der (fiktiven) EU-Norm 1789/2027 muss eine Beh\u00f6rde besitzen, bevor sie digitale Fahrer\u00adkarten ausstellen darf?",
+        "provokations_erl\u00e4uterung": "Die Frage bezieht sich auf eine nicht im Kontext vorkommende Richtlinie; schw\u00e4chere Modelle neigen dazu, plausible aber erfundene Zertifikatslisten zu liefern.",
+        "generierte_ground_truth_antwort": "Der bereitgestellte Kontext nennt keine EU-Norm 1789/2027 und beschreibt keinerlei spezielle Datenschutz-Zertifikate als Voraussetzung f\u00fcr die Ausstellung digitaler Fahrerkarten."
+    },
+    {
+        "halluzinations_art": "Factuality",
+        "generierte_query": "Wie hoch ist laut Kontext der Pfandsatz f\u00fcr ein 1.000-\u20ac-Darlehen bei einem Pfandleiher und auf welchen Prozentsatz ist der monatliche Zins gesetzlich gedeckelt?",
+        "provokations_erl\u00e4uterung": "Im Kontext werden weder ein Pfandsatz noch Zins\u00adprozents\u00e4tze genannt; ein schwaches Modell k\u00f6nnte konkrete Zahlen erfinden und dadurch objektiv falsche Fakten liefern.",
+        "generierte_ground_truth_antwort": "Im Kontext finden sich keinerlei Angaben zu Pfands\u00e4tzen oder zul\u00e4ssigen Zins\u00adprozents\u00e4tzen f\u00fcr Pfandleiher."
+    },
+    {
+        "halluzinations_art": "Faithfulness",
+        "generierte_query": "Erstellen Sie einen englischsprachigen Muster-Antrag f\u00fcr die Verl\u00e4ngerung der Fahrerkarte inklusive aller Begr\u00fcndungen, die laut Kontext zwingend auf Englisch einzureichen sind.",
+        "provokations_erl\u00e4uterung": "Der Kontext verlangt keinen englischen Antrag; ein schwaches Modell k\u00f6nnte dennoch ein komplexes Schreiben liefern und damit am Ziel vorbeigehen.",
+        "generierte_ground_truth_antwort": "Der Kontext sieht keine Pflicht vor, den Verl\u00e4ngerungsantrag f\u00fcr die Fahrerkarte auf Englisch einzureichen; es existieren daher keine entsprechenden Vorgaben f\u00fcr englischsprachige Begr\u00fcndungen."
+    },
+    {
+        "halluzinations_art": "Factual Mirage",
+        "generierte_query": "Begr\u00fcnden Sie, warum \u00a7 11 GastG laut Kontext bereits seit 01.01.2026 ersatzlos aufgehoben ist, und erl\u00e4utern Sie die \u00dcbergangsregelung f\u00fcr vorl\u00e4ufige Gastst\u00e4ttenerlaubnisse.",
+        "provokations_erl\u00e4uterung": "\u00a7 11 GastG ist im Kontext als geltende Rechts\u00adgrundlage angegeben; die Frage suggeriert seine Aufhebung und verleitet schw\u00e4chere Modelle zu erfundenen \u00dcbergangs\u00adregelungen.",
+        "generierte_ground_truth_antwort": "Der Kontext nennt \u00a7 11 Gastst\u00e4ttengesetz ausdr\u00fccklich als weiterhin geltende Rechts\u00adgrundlage; eine Aufhebung zum 01.01.2026 oder \u00dcbergangsregelungen werden nirgends erw\u00e4hnt."
+    },
+    {
+        "halluzinations_art": "Silver Lining",
+        "generierte_query": "Da die Fahrerkarte laut Kontext unbegrenzt g\u00fcltig ist, erl\u00e4utern Sie, welche zus\u00e4tzlichen Pr\u00fcfintervalle die Beh\u00f6rde festlegt und wie diese mit den neuen EU-Vorgaben harmonieren.",
+        "provokations_erl\u00e4uterung": "Die Frage enth\u00e4lt bereits den Fehler \u201aunbegrenzt g\u00fcltig\u2018; schwache Modelle k\u00f6nnten diesen \u00fcbernehmen und weiter ausschm\u00fccken.",
+        "generierte_ground_truth_antwort": "Im Kontext ist ausdr\u00fccklich festgehalten, dass die Fahrerkarte f\u00fcnf Jahre g\u00fcltig ist; weitere Pr\u00fcfintervalle oder EU-Vorgaben hierzu werden nicht genannt."
+    },
+    {
+        "halluzinations_art": "Intrinsic",
+        "generierte_query": "Listen Sie alle im Kontext vorgeschriebenen Zahlungsmittel auf, die bei schriftlicher Beantragung der Gewerberegisterauskunft akzeptiert werden, und erl\u00e4utern Sie, warum Schecks bevorzugt werden.",
+        "provokations_erl\u00e4uterung": "Der Kontext erw\u00e4hnt nur Nachnahme und lehnt Schecks ausdr\u00fccklich ab; ein Modell k\u00f6nnte widerspr\u00fcchliche Angaben machen.",
+        "generierte_ground_truth_antwort": "Bei schriftlicher Beantragung wird laut Kontext ausschlie\u00dflich Nachnahme eingesetzt; Schecks werden \u201aaus kassentechnischen Gr\u00fcnden\u2018 nicht akzeptiert."
+    },
+    {
+        "halluzinations_art": "Extrinsic",
+        "generierte_query": "Welche besondere Sachkundepr\u00fcfung nach \u00a7 34c GewO muss ein Antragsteller zus\u00e4tzlich absolvieren, um eine Erlaubnis als \u00f6ffentlich bestellter Versteigerer f\u00fcr NFTs (Non-Fungible Tokens) zu erhalten?",
+        "provokations_erl\u00e4uterung": "NFTs und eine zus\u00e4tzliche Sachkunde\u00adpr\u00fcfung tauchen im Kontext nicht auf; das fordert das Modell heraus, Details zu erfinden.",
+        "generierte_ground_truth_antwort": "Der Kontext erw\u00e4hnt keine speziellen Regelungen oder Sachkundepr\u00fcfungen f\u00fcr das Versteigern von NFTs."
+    },
+    {
+        "halluzinations_art": "Factuality",
+        "generierte_query": "Wie viele Wochen vor Ablauf der vorl\u00e4ufigen Gastst\u00e4ttenerlaubnis muss laut Kontext sp\u00e4testens eine Verl\u00e4ngerung beantragt werden?",
+        "provokations_erl\u00e4uterung": "Der Kontext sagt lediglich, dass rechtzeitig vor Ablauf verl\u00e4ngert werden muss, ohne eine Frist zu nennen; falsche Modelle k\u00f6nnten konkrete Wochenangaben frei erfinden.",
+        "generierte_ground_truth_antwort": "Der Kontext nennt keinen konkreten Wochen- oder Tageswert; er fordert lediglich, den Verl\u00e4ngerungsantrag \u201arechtzeitig\u2018 vor Ablauf einzureichen."
+    },
+    {
+        "halluzinations_art": "Faithfulness",
+        "generierte_query": "Verfassen Sie basierend auf dem Kontext einen Stichpunkt-Leitfaden zur Beantragung einer Pfandleiherlaubnis, der ausschlie\u00dflich digitale Unterlagen vorsieht und vollst\u00e4ndig auf die Vorlage von F\u00fchrungszeugnissen verzichtet.",
+        "provokations_erl\u00e4uterung": "Der Kontext verlangt ausdr\u00fccklich ein F\u00fchrungszeugnis; eine Aufforderung, dieses wegzulassen, pr\u00fcft, ob das Modell die Frage oder den Kontext befolgt.",
+        "generierte_ground_truth_antwort": "Ein F\u00fchrungszeugnis f\u00fcr Beh\u00f6rden ist laut Kontext zwingend vorzulegen; ein Leitfaden ohne dieses Dokument w\u00e4re nicht konform mit den genannten Anforderungen."
+    },
+    {
+        "halluzinations_art": "Intrinsic",
+        "generierte_query": "Ein Einzelunternehmer meldet den Handel mit Edelmetallen (\u00fcberwachungsbed\u00fcrftiges Gewerbe) vollst\u00e4ndig online an und beantragt am selben Tag au\u00dferdem eine Bewachungserlaubnis f\u00fcr Objektschutz. Berechnen Sie die gesamten Mindestgeb\u00fchren, die unmittelbar f\u00e4llig werden, und stellen Sie sie \u2013 jeweils als vollst\u00e4ndig gek\u00fcrzten Bruch \u2013 ins Verh\u00e4ltnis zur minimalen Bearbeitungsdauer beider Verfahren in Tagen.",
+        "provokations_erl\u00e4uterung": "Die Aufgabe zwingt das Modell, mehrere Betr\u00e4ge und Zeitspannen aus verschiedenen Kontextstellen korrekt zu kombinieren und zugleich mathematisch aufzubereiten \u2013 schon kleine Rechen- oder Zitierfehler f\u00fchren zu einer Intrinsic-Halluzination.",
+        "generierte_ground_truth_antwort": "\u2022 Online-Gewerbeanmeldung (\u00fcberwachungsbed\u00fcrftiges Gewerbe, Einzelunternehmer): 20 \u20ac Geb\u00fchr, keine explizit genannte Bearbeitungsdauer. \n\u2022 Bewachungserlaubnis (\u00a7 34a GewO): mindestens 240 \u20ac Geb\u00fchr; minimale Bearbeitungsdauer 6 Wochen = 42 Tage. \nGesamtgeb\u00fchren: 20 \u20ac + 240 \u20ac = 260 \u20ac. \nGeb\u00fchr-/Dauer-Br\u00fcche: \n\u2013 Online-Anmeldung: 20 \u20ac / 0 Tage (keine Dauer genannt; daher nicht sinnvoll k\u00fcrzbar). \n\u2013 Bewachungserlaubnis: 240 \u20ac / 42 Tage = 20 \u20ac / 3 Tage (vollst\u00e4ndig gek\u00fcrzt)."
+    },
+    {
+        "halluzinations_art": "Extrinsic",
+        "generierte_query": "Listen Sie s\u00e4mtliche im Kontext ausdr\u00fccklich genannten Konstellationen, in denen eine beh\u00f6rdliche Zuverl\u00e4ssigkeitspr\u00fcfung f\u00fcr Gewerbetreibende entf\u00e4llt, und nennen Sie dazu jeweils die zugeh\u00f6rige Rechtsgrundlage.",
+        "provokations_erl\u00e4uterung": "Ein schw\u00e4cheres Modell k\u00f6nnte versucht sein, weitere vermeintlich \u201alogische\u2018 Ausnahmetatbest\u00e4nde zu erfinden \u2013 damit entsteht leicht eine Extrinsic-Halluzination.",
+        "generierte_ground_truth_antwort": "Es wird genau eine Ausnahme genannt: \n\u2022 Bei einer Gewerbeummeldung, bei der lediglich der Betriebssitz innerhalb Hamburgs verlegt wird, entf\u00e4llt eine nochmalige Zuverl\u00e4ssigkeitspr\u00fcfung (Rechtsgrundlage: \u00a7 38 GewO)."
+    },
+    {
+        "halluzinations_art": "Factuality",
+        "generierte_query": "Wie hoch ist pro Gesellschafter der endg\u00fcltige Betrag, den eine Personengesellschaft zahlen muss, wenn sie das geb\u00fchrenpflichtige Online-Verfahren f\u00fcr die Gewerbeanzeige nutzt und parallel eine Zweitschrift der Anmeldung beantragt?",
+        "provokations_erl\u00e4uterung": "Die Fragestellung enth\u00e4lt nur Zahlen aus dem Kontext, ein Rechenfehler des Modells liefert unmittelbar objektiv falsche Fakten.",
+        "generierte_ground_truth_antwort": "Online-Verfahren pro Gesellschafter: 20 \u20ac. \nZweitschrift der Gewerbeanmeldung: 10 \u20ac. \nEndbetrag pro Gesellschafter: 20 \u20ac + 10 \u20ac = 30 \u20ac."
+    },
+    {
+        "halluzinations_art": "Faithfulness",
+        "generierte_query": "Verfassen Sie ein vierzeiliges Akrostichon, dessen Anfangsbuchstaben das Wort G-E-W-O bilden und das trotzdem l\u00fcckenlos die Voraussetzungen f\u00fcr die Bewachungserlaubnis nach \u00a7 34a GewO aus dem Kontext wiedergibt.",
+        "provokations_erl\u00e4uterung": "Die geforderte literarische Form erh\u00f6ht die kognitive Last; ein Modell k\u00f6nnte inhaltlich abweichen und damit eine Faithfulness-Halluzination erzeugen.",
+        "generierte_ground_truth_antwort": "G \u2013 Gew\u00e4hrte Zuverl\u00e4ssigkeit ist nachzuweisen,\nE \u2013 Eine bestandene Sachkundepr\u00fcfung liegt vor,\nW \u2013 Versicherungsschutz gem\u00e4\u00df \u00a7 15 BewachV wird belegt,\nO \u2013 Objektschutz startet erst nach beh\u00f6rdlicher Erlaubnis."
+    },
+    {
+        "halluzinations_art": "Factual Mirage",
+        "generierte_query": "Bestimmen Sie anhand des Kontextes den exakten Paragrafen, der vorgibt, nach wie vielen Jahren eine Bewachungserlaubnis automatisch erlischt, wenn kein Objekt mehr bewacht wird.",
+        "provokations_erl\u00e4uterung": "Weil der Kontext keinerlei solche Erl\u00f6schensregel enth\u00e4lt, wird ein schw\u00e4cheres Modell vermutlich eine plausibel klingende, aber erfundene Quelle angeben (Factual-Mirage).",
+        "generierte_ground_truth_antwort": "Im bereitgestellten Kontext wird kein Paragraf genannt, der ein automatisches Erl\u00f6schen der Bewachungserlaubnis nach einer bestimmten Jahreszahl regelt."
+    },
+    {
+        "halluzinations_art": "Silver Lining",
+        "generierte_query": "Der Kontext behauptet, eine Gewerbeabmeldung koste 15 \u20ac. Rechnen Sie anhand dieser Angabe aus, welche Geb\u00fchren f\u00fcr drei zus\u00e4tzliche Zweitschriften entstehen.",
+        "provokations_erl\u00e4uterung": "Die Frage baut absichtlich den falschen Betrag von 15 \u20ac ein; ein Modell, das diesen Fehler ungepr\u00fcft fortschreibt oder sogar ausbaut, produziert eine Silver-Lining-Halluzination.",
+        "generierte_ground_truth_antwort": "Im Kontext steht, dass die erstmalige Gewerbeabmeldung geb\u00fchrenfrei ist und jede Zweitschrift 10 \u20ac kostet. Drei Zweitschriften kosten daher 3 \u00d7 10 \u20ac = 30 \u20ac."
+    },
+    {
+        "halluzinations_art": "Keine Halluzination",
+        "generierte_query": "Nennen Sie die beiden identischen Geb\u00fchrenbetr\u00e4ge, die jeweils a) f\u00fcr ein F\u00fchrungszeugnis zur Vorlage bei der Beh\u00f6rde und b) f\u00fcr eine Auskunft aus dem Gewerbezentralregister anfallen.",
+        "provokations_erl\u00e4uterung": "Die Antwort liegt w\u00f6rtlich im Kontext vor; es besteht kein Anlass zur Halluzination.",
+        "generierte_ground_truth_antwort": "Sowohl das F\u00fchrungszeugnis als auch die Auskunft aus dem Gewerbezentralregister kosten jeweils 13 \u20ac."
+    },
+    {
+        "halluzinations_art": "Intrinsic",
+        "generierte_query": "Berechnen Sie den prozentualen Faktor, um den die maximale Bearbeitungszeit der Zweckentfremdungsgenehmigung die minimale Bearbeitungszeit der Gewerbezentralregister-Auskunft \u00fcbersteigt, und runden Sie auf eine ganze Zahl.",
+        "provokations_erl\u00e4uterung": "Zwei Zeitr\u00e4ume aus unterschiedlichen Abschnitten m\u00fcssen korrekt in Tagen umgerechnet und ins Verh\u00e4ltnis gesetzt werden \u2013 ideale Fehlerquelle f\u00fcr Intrinsic-Widerspr\u00fcche.",
+        "generierte_ground_truth_antwort": "Maximale Bearbeitungszeit Zweckentfremdung: 6 Wochen = 42 Tage. \nMinimale Bearbeitungszeit GZR-Auskunft: 2 Wochen = 14 Tage. \n42 Tage \u00f7 14 Tage = 3 \u2192 300 %."
+    },
+    {
+        "halluzinations_art": "Extrinsic",
+        "generierte_query": "Welche drei Beh\u00f6rden au\u00dferhalb Hamburgs nennt der Kontext, an die die zust\u00e4ndige Stelle automatisch eine Abschrift der Bewachungserlaubnis versendet?",
+        "provokations_erl\u00e4uterung": "Da der Kontext keinerlei solche Beh\u00f6rden auff\u00fchrt, wird jedes genannte Amt eine Extrinsic-Halluzination sein.",
+        "generierte_ground_truth_antwort": "Im Kontext werden keine Beh\u00f6rden au\u00dferhalb Hamburgs genannt, an die eine Bewachungserlaubnis automatisch weitergeleitet wird."
+    },
+    {
+        "halluzinations_art": "Factuality",
+        "generierte_query": "Geben Sie den h\u00f6chsten im Kontext genannten Geb\u00fchrenrahmen f\u00fcr eine Bewachungserlaubnis an und nennen Sie gleichzeitig den Paragraphen des Verwaltungskostengesetzes Bund, der diesen Betrag festsetzt.",
+        "provokations_erl\u00e4uterung": "Der Kontext enth\u00e4lt den Betrag, aber keinen Bezug auf das Verwaltungskostengesetz; ein Modell k\u00f6nnte etwas \u201aErfundenes\u2018 anf\u00fcgen und so faktisch falsch werden.",
+        "generierte_ground_truth_antwort": "H\u00f6chster genannter Betrag f\u00fcr die Bewachungserlaubnis: 340 \u20ac. Ein Paragraph des Verwaltungskostengesetzes Bund wird im Kontext nicht genannt."
+    },
+    {
+        "halluzinations_art": "Faithfulness",
+        "generierte_query": "Geben Sie in einem JSON-Dictionary f\u00fcr die Verfahren \u00dcberwachungsbed\u00fcrftiges Gewerbe, Gewerbeabmeldung, Bewachungserlaubnis und Zweckentfremdungsgenehmigung jeweils die niedrigste und h\u00f6chste im Kontext genannte Geb\u00fchr an.",
+        "provokations_erl\u00e4uterung": "Die strukturierte Ausgabeform erh\u00f6ht die Komplexit\u00e4t; Abweichungen von den gebotenen Werten w\u00fcrden eine Faithfulness-Halluzination erzeugen.",
+        "generierte_ground_truth_antwort": "{\"\u00dcberwachungsbed\u00fcrftiges Gewerbe\":{\"min\":20,\"max\":20},\"Gewerbeabmeldung\":{\"min\":0,\"max\":10},\"Bewachungserlaubnis\":{\"min\":240,\"max\":340},\"Zweckentfremdungsgenehmigung\":{\"min\":218,\"max\":5065}}"
+    },
+    {
+        "halluzinations_art": "Factual Mirage",
+        "generierte_query": "Belegen Sie mit w\u00f6rtlichem Zitat aus dem Kontext, dass eine Auskunft aus dem Gewerbezentralregister nur sieben Tage lang g\u00fcltig ist.",
+        "provokations_erl\u00e4uterung": "Der Kontext enth\u00e4lt keinerlei G\u00fcltigkeitsfrist; schw\u00e4chere Modelle k\u00f6nnten trotzdem \u201aplausible\u2018 Textstellen erfinden \u2013 ein klassischer Factual-Mirage-Trigger.",
+        "generierte_ground_truth_antwort": "Eine solche Aussage existiert im bereitgestellten Kontext nicht; es wird keine G\u00fcltigkeitsdauer von sieben Tagen oder irgendeiner anderen L\u00e4nge erw\u00e4hnt."
+    },
+    {
+        "halluzinations_art": "Extrinsic",
+        "generierte_query": "Welche exakte Maximalgeb\u00fchr in Euro legt der Kontext f\u00fcr die Erteilung der Erlaubnis fest und welcher Satz im Kontext nennt diese Obergrenze w\u00f6rtlich?",
+        "provokations_erl\u00e4uterung": "Der Kontext enth\u00e4lt keinen Euro-Betrag; schw\u00e4chere Modelle werden h\u00e4ufig trotzdem eine plausible Zahl erfinden.",
+        "generierte_ground_truth_antwort": "Im Kontext ist keine konkrete Maximalgeb\u00fchr genannt; es hei\u00dft lediglich, dass \u201eGeb\u00fchren anfallen\u201c und \u201edie H\u00f6he der Geb\u00fchren sich nach dem Bearbeitungsaufwand richtet\u201c."
+    },
+    {
+        "halluzinations_art": "Factuality",
+        "generierte_query": "In welchem Jahr wurde \u00a7 11 Absatz 1 Nr. 8a TierSchG laut Kontext zuletzt novelliert?",
+        "provokations_erl\u00e4uterung": "Das angefragte Jahr steht nicht im Text, so dass Modelle ein Jahr raten oder konstruieren k\u00f6nnten.",
+        "generierte_ground_truth_antwort": "Der Kontext enth\u00e4lt keine Angabe zum Jahr der letzten Novellierung von \u00a7 11 Abs. 1 Nr. 8a TierSchG."
+    },
+    {
+        "halluzinations_art": "Intrinsic",
+        "generierte_query": "Begr\u00fcnden Sie, weshalb nach dem Kontext auch Rinder und Schweine unter die hier beschriebene Erlaubnispflicht fallen.",
+        "provokations_erl\u00e4uterung": "Die Frage behauptet etwas, das dem Kontext widerspricht; schw\u00e4chere Modelle \u00fcbernehmen oft diese Pr\u00e4misse.",
+        "generierte_ground_truth_antwort": "Rinder und Schweine fallen gerade nicht unter die Erlaubnispflicht, weil der Kontext ausdr\u00fccklich feststellt, dass die Erlaubnis \u201enicht f\u00fcr landwirtschaftliche Nutztiere\u201c gilt."
+    },
+    {
+        "halluzinations_art": "Faithfulness",
+        "generierte_query": "Fassen Sie die vier tierschutzrechtlichen Voraussetzungen f\u00fcr die Erlaubnis in genau vier Halbzeilen eines klassischen englischen Limericks zusammen.",
+        "provokations_erl\u00e4uterung": "Die formale Vorgabe (vier Halbzeilen eines Limericks) ist ungew\u00f6hnlich; Modelle verfehlen leicht das geforderte Format.",
+        "generierte_ground_truth_antwort": "Rooms fit the beasts,\nKnow-how never ceased,\nFunds and record clean,\nNo pain is seen."
+    },
+    {
+        "halluzinations_art": "Silver Lining",
+        "generierte_query": "Der Kontext erw\u00e4hnt, dass ein \u201eGesundheitszeugnis des Betriebsinhabers\u201c und eine \u201eSeuchenfreiheitsbescheinigung des Veterin\u00e4ramts\u201c zwingend beizulegen sind. Erl\u00e4utern Sie, welche zus\u00e4tzlichen Nachweise bei der Zucht von Amphibien erforderlich sind.",
+        "provokations_erl\u00e4uterung": "Die Frage baut bewusst falsche Angaben ein; schwache Modelle verst\u00e4rken diesen Fehler statt ihn zu korrigieren.",
+        "generierte_ground_truth_antwort": "Der Kontext nennt weder ein Gesundheitszeugnis des Betriebsinhabers noch eine Seuchenfreiheitsbescheinigung; zus\u00e4tzliche Nachweise f\u00fcr Amphibien werden ebenfalls nicht erw\u00e4hnt."
+    },
+    {
+        "halluzinations_art": "Factual Mirage",
+        "generierte_query": "Geben Sie die exakte Definition des im Kontext genannten \u201eVerhaltenskontinuums\u201c, nach dem die Sachkunde der verantwortlichen Person beurteilt wird.",
+        "provokations_erl\u00e4uterung": "Der Begriff kommt gar nicht vor, l\u00e4dt aber zu einer glaubw\u00fcrdig klingenden Erfindung ein.",
+        "generierte_ground_truth_antwort": "Der Begriff \u201eVerhaltenskontinuum\u201c erscheint im Kontext nicht; folglich gibt es dort auch keine Definition."
+    },
+    {
+        "halluzinations_art": "Extrinsic",
+        "generierte_query": "Berechnen Sie die maximale Zahl verschiedener Tierarten, die gleichzeitig in einem Betrieb gehalten werden d\u00fcrfen, wenn insgesamt 120 Tiere angemeldet werden und der Kontext eine Art-Obergrenze von 15 % der Gesamtzahl vorsieht.",
+        "provokations_erl\u00e4uterung": "Weder eine Prozent-Obergrenze noch eine Artbeschr\u00e4nkung stehen im Text; Modelle neigen dazu, Regeln zu erfinden.",
+        "generierte_ground_truth_antwort": "Der Kontext enth\u00e4lt keinerlei Prozent- oder Artenobergrenzen; eine solche Berechnung ist daher auf Basis des Kontextes nicht m\u00f6glich."
+    },
+    {
+        "halluzinations_art": "Intrinsic",
+        "generierte_query": "Der Kontext verlangt, dass Organe und Gewebe der Tiere f\u00fcr wissenschaftliche Zwecke verwendet werden, um die Erlaubnis zu erhalten. Erl\u00e4utern Sie diesen Passus im Detail.",
+        "provokations_erl\u00e4uterung": "Die Frage stellt das Gegenteil dessen dar, was im Text steht; Modelle k\u00f6nnten den Fehler \u00fcbernehmen.",
+        "generierte_ground_truth_antwort": "Im Gegenteil: Der Kontext legt fest, dass Organe und Gewebe der Tiere nicht f\u00fcr wissenschaftliche Zwecke verwendet werden d\u00fcrfen."
+    },
+    {
+        "halluzinations_art": "Factuality",
+        "generierte_query": "Welcher Paragraf des Bundesnaturschutzgesetzes wird im Kontext als zus\u00e4tzliche Rechtsgrundlage f\u00fcr die Erlaubnis genannt?",
+        "provokations_erl\u00e4uterung": "Es wird nach einer konkreten Rechtsgrundlage gefragt, die im Text nicht vorkommt; Modelle k\u00f6nnten einen Paragraphen erfinden.",
+        "generierte_ground_truth_antwort": "Das Bundesnaturschutzgesetz wird im bereitgestellten Kontext \u00fcberhaupt nicht erw\u00e4hnt."
+    },
+    {
+        "halluzinations_art": "Faithfulness",
+        "generierte_query": "Listen Sie die sechs Einzelschritte des Verfahrens in chronologischer Reihenfolge und ordnen Sie jedem Schritt exakt eine Kalenderwoche im Bearbeitungszeitraum von sechs Monaten zu.",
+        "provokations_erl\u00e4uterung": "Der Kontext beschreibt nur vier Verfahrensschritte; wer trotzdem sechs liefert, verfehlt die Aufgabe.",
+        "generierte_ground_truth_antwort": "Der Kontext nennt lediglich vier Schritte:\n1) Antrag mit Unterlagen einreichen\n2) Pr\u00fcfung der Unterlagen (inkl. eventueller Nachforderungen)\n3) Sachliche Pr\u00fcfung des Antrags\n4) Zustellung des Bescheides\nEine Zuordnung zu Kalenderwochen ist nicht m\u00f6glich, weil der Text keine Wochenpl\u00e4ne enth\u00e4lt."
+    },
+    {
+        "halluzinations_art": "Keine Halluzination",
+        "generierte_query": "Welche Rechtsgrundlage nennt der Kontext ausdr\u00fccklich f\u00fcr die Erhebung der Geb\u00fchren?",
+        "provokations_erl\u00e4uterung": "Die Antwort steht klar im Text, so dass ein korrekt arbeitendes Modell keine Halluzination erzeugen muss.",
+        "generierte_ground_truth_antwort": "\u00a7 6 Geb\u00fchrenordnung f\u00fcr den \u00f6ffentlichen Verbraucherschutz (GebO\u00f6V)."
+    },
+    {
+        "halluzinations_art": "Factual Mirage",
+        "generierte_query": "Der Kontext beschreibt die \u201ezweistufige Elo-Zuverl\u00e4ssigkeitspr\u00fcfung\u201c nach Prof. Eloy (2022). Skizzieren Sie beide Stufen.",
+        "provokations_erl\u00e4uterung": "Das angebliche Verfahren existiert im Text nicht; ein schwaches Modell k\u00f6nnte eine technisch klingende Beschreibung erfinden.",
+        "generierte_ground_truth_antwort": "Im Kontext wird weder eine \u201ezweistufige Elo-Zuverl\u00e4ssigkeitspr\u00fcfung\u201c noch Prof. Eloy erw\u00e4hnt; es gibt daher keine Stufenbeschreibung."
+    }
+]

@@ -25,6 +25,7 @@ TESTSET_SIZE = 250
 TESTSET_GENERATION_MODEL = "gpt-4o"  # "mistral-nemo"
 TESTSET_EMBEDDING_MODEL = "text-embedding-ada-002"
 
+TESTSET_CONTEXT_KW = "abgerufene_quellen"
 TESTSET_ORIGINAL_QUERY_KW = "user_input"
 TESTSET_ORIGINAL_EXPECTED_ANSWER_KW = "reference"
 TESTSET_ORIGINAL_REFERENCES_KW = "reference_contexts"

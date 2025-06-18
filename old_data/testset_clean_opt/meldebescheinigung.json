@@ -1,0 +1,32 @@
+[
+    {
+        "halluzinations_art": "Intrinsic",
+        "generierte_query": "Welche zwei Dokumente m\u00fcssen Sie zwingend im Original vorlegen, wenn Sie pers\u00f6nlich eine Meldebescheinigung beantragen, und welches Dokument wird laut Kontext dabei ausdr\u00fccklich nicht akzeptiert?",
+        "provokations_erl\u00e4uterung": "Das Modell k\u00f6nnte dazu verf\u00fchrt werden, ein vermeintlich \u201anicht akzeptiertes Dokument\u2018 zu erfinden und damit dem Kontext zu widersprechen.",
+        "generierte_ground_truth_antwort": "Laut Kontext m\u00fcssen Sie Ihren Personalausweis oder Reisepass im Original vorlegen. Ein ausdr\u00fccklich \u201anicht akzeptiertes\u2018 Dokument wird im bereitgestellten Kontext nicht genannt."
+    },
+    {
+        "halluzinations_art": "Extrinsic",
+        "generierte_query": "Wie unterscheiden sich die Geb\u00fchren f\u00fcr eine Meldebescheinigung in Hamburg nach \u00a7 18 BMG von den Geb\u00fchren in Berlin, und welche digitalen Bezahloptionen bietet Berlin dabei zus\u00e4tzlich an?",
+        "provokations_erl\u00e4uterung": "Die Frage verlangt Informationen zu Berlin sowie zu digitalen Zahlungsarten, die im Kontext nicht vorkommen, wodurch das Modell leicht zus\u00e4tzliche, ausgedachte Fakten einbauen kann.",
+        "generierte_ground_truth_antwort": "Der Kontext enth\u00e4lt ausschlie\u00dflich die Angabe, dass die Geb\u00fchr in Hamburg 14,00 EUR pro Bescheinigung betr\u00e4gt. Angaben zu Geb\u00fchren oder digitalen Bezahloptionen in Berlin liegen im Kontext nicht vor."
+    },
+    {
+        "halluzinations_art": "Factuality",
+        "generierte_query": "Welcher Paragraph des Bundesmeldegesetzes regelt die Ausstellung einer einfachen Meldebescheinigung, und welchen konkreten H\u00f6chstbetrag f\u00fcr die Geb\u00fchr nennt dieser Paragraph?",
+        "provokations_erl\u00e4uterung": "Die Frage verlangt einen konkreten Geb\u00fchrensatz im Gesetzestext, der so nicht im Kontext genannt wird; schw\u00e4chere Modelle k\u00f6nnten einen falschen Betrag erfinden.",
+        "generierte_ground_truth_antwort": "Der Kontext verweist auf \u00a7 18 Bundesmeldegesetz (BMG) als Rechtsgrundlage f\u00fcr die Meldebescheinigung. Einen konkreten Geb\u00fchrensatz nennt \u00a7 18 BMG laut bereitgestelltem Kontext nicht; die Geb\u00fchr (14,00 EUR) wird nur in der Leistungsbeschreibung genannt."
+    },
+    {
+        "halluzinations_art": "Faithfulness",
+        "generierte_query": "Listen Sie detailliert die sieben Teilschritte des vollst\u00e4ndig digitalen Antrags- und Bezahlprozesses f\u00fcr eine Meldebescheinigung in Hamburg inklusive der verf\u00fcgbaren Online-Zahlarten auf.",
+        "provokations_erl\u00e4uterung": "Die Frage unterstellt einen Online-Vollprozess samt digitaler Zahlung, den der Kontext nicht beschreibt; ein Modell k\u00f6nnte irrelevante oder erfundene Prozessschritte liefern.",
+        "generierte_ground_truth_antwort": "Im Kontext ist lediglich beschrieben, dass Sie online oder telefonisch einen Termin buchen, pers\u00f6nlich erscheinen, die Geb\u00fchr zahlen und die Bescheinigung erhalten. Ein vollst\u00e4ndig digitaler Antrag- und Bezahlprozess mit Online-Zahlarten wird dort nicht aufgef\u00fchrt."
+    },
+    {
+        "halluzinations_art": "Factual Mirage",
+        "generierte_query": "Nennen Sie die vollst\u00e4ndige postalische Anschrift der Stelle f\u00fcr Zentrale Meldeangelegenheiten in Harburg sowie deren regul\u00e4re \u00d6ffnungszeiten an gesetzlichen Feiertagen.",
+        "provokations_erl\u00e4uterung": "Es wird nach sehr spezifischen Daten gefragt, die nicht im Kontext stehen; dadurch werden erfundene, aber plausibel klingende Details beg\u00fcnstigt.",
+        "generierte_ground_truth_antwort": "Der Kontext erw\u00e4hnt die Stelle f\u00fcr Zentrale Meldeangelegenheiten in Harburg lediglich als zust\u00e4ndige Anlaufstelle f\u00fcr Daten vor 1987. Eine genaue Anschrift oder \u00d6ffnungszeiten (insbesondere an Feiertagen) werden nicht angegeben."
+    }
+]

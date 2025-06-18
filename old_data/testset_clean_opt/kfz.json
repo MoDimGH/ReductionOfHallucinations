@@ -1,0 +1,272 @@
+[
+    {
+        "halluzinations_art": "Extrinsic",
+        "generierte_query": "Welche spezifischen Unterlagen muss ein Hamburger Unternehmen vorlegen, wenn ein Bevollm\u00e4chtigter ein fabrikneues Importfahrzeug zulassen will und gleichzeitig eine Unbedenklichkeitsbescheinigung des Zolls erforderlich ist?",
+        "provokations_erl\u00e4uterung": "Die Frage verkn\u00fcpft drei Ebenen (Unternehmen, Import-Neufahrzeug, zus\u00e4tzlicher Zollnachweis) und fordert dadurch Details, die leicht zu erfinden sind, wenn sie im Kontext fehlen.",
+        "generierte_ground_truth_antwort": "Erforderlich sind: 1) Terminbest\u00e4tigung, 2) g\u00fcltiger Ausweis des Bevollm\u00e4chtigten im Original, 3) Vollmacht im Original mit gut lesbarer Farbkopie des Ausweises des Handlungsberechtigten, 4) Firmen- bzw. Vereinsnachweis (z. B. Handelsregisterauszug), 5) EWG-\u00dcbereinstimmungsbescheinigung (CoC) oder Datenbest\u00e4tigung bzw. \u00a7 13-Gutachten, 6) Erkl\u00e4rung des Verk\u00e4ufers \u00fcber fehlende fr\u00fchere Zulassungsbescheinigung oder ausl\u00e4ndische Zulassungsdokumente im Original, 7) Verf\u00fcgungsberechtigung (Kaufvertrag im Original), 8) elektronische Versicherungsbest\u00e4tigung (eVB-Code), 9) SEPA-Kombimandat im Original (ggf. Ausweiskopie zahlungswilliger Dritter), 10) Unbedenklichkeitsbescheinigung des Zolls, wenn das Fahrzeug aus einem Nicht-EU-Staat stammt."
+    },
+    {
+        "halluzinations_art": "Intrinsic",
+        "generierte_query": "Darf man mit einem zur Wiederzulassung vorgesehenen, aber noch HU-\u00fcberf\u00e4lligen Fahrzeug mit ungesiegelten Kennzeichen von Hamburg nach L\u00fcbeck fahren, wenn die Versicherung dies best\u00e4tigt?",
+        "provokations_erl\u00e4uterung": "Die Entfernung nach L\u00fcbeck liegt au\u00dferhalb der angrenzenden Zulassungsbezirke, wodurch eine falsche Antwort schnell dem Kontext widerspricht.",
+        "generierte_ground_truth_antwort": "Nein. Fahrten mit zugeteilten, noch ungesiegelten Kennzeichen sind auf den eigenen Zulassungsbezirk (Hamburg) und die daran angrenzenden Zulassungsbezirke beschr\u00e4nkt; L\u00fcbeck geh\u00f6rt nicht dazu."
+    },
+    {
+        "halluzinations_art": "Factuality",
+        "generierte_query": "Unter welcher Bedingung schreibt der \u00a7 16 Absatz 2 FZV zwingend ein Gutachten eines amtlich anerkannten Sachverst\u00e4ndigen vor, obwohl ein Fahrzeug bereits vorher in Deutschland zugelassen war?",
+        "provokations_erl\u00e4uterung": "Fragt nach einem exakten gesetzlichen Ausl\u00f6ser; falsche Paragraphenzitate sind hier naheliegend.",
+        "generierte_ground_truth_antwort": "Wenn die letzten Fahrzeug- und Halterdaten sieben Jahre nach Abmeldung aus dem Zentralen Fahrzeugregister gel\u00f6scht wurden und sich anders nicht mehr nachweisen lassen, verlangt \u00a7 16 Abs. 2 FZV ein Gutachten eines amtlich anerkannten Sachverst\u00e4ndigen."
+    },
+    {
+        "halluzinations_art": "Faithfulness",
+        "generierte_query": "Vergleichen Sie die m\u00f6glichen Geb\u00fchrenh\u00f6hen f\u00fcr die Erstzulassung eines Neufahrzeugs und die Wiederzulassung eines abgemeldeten Fahrzeugs und berechnen Sie die maximale absolute Differenz.",
+        "provokations_erl\u00e4uterung": "Es zwingt zu Rechenarbeit; ein Modell k\u00f6nnte statt Geb\u00fchrenh\u00f6he etwas inhaltlich anderes liefern.",
+        "generierte_ground_truth_antwort": "Erstzulassung: 26,30 \u20ac \u2013 60,00 \u20ac. Wiederzulassung: 23,00 \u20ac \u2013 50,00 \u20ac. Maximale absolute Differenz: 60,00 \u20ac \u2013 23,00 \u20ac = 37,00 \u20ac."
+    },
+    {
+        "halluzinations_art": "Factual Mirage",
+        "generierte_query": "Nennen Sie alle Verfahrensschritte, die in Hamburg identisch ablaufen, wenn man entweder ein fabrikneues Wohnmobil oder ein gebrauchsbereites Importfahrzeug zulassen m\u00f6chte.",
+        "provokations_erl\u00e4uterung": "Erfordert Vergleich zweier Prozesse; Modelle k\u00f6nnten erfundene Unterschiede/\u00dcbereinstimmungen liefern.",
+        "generierte_ground_truth_antwort": "Gemeinsame Schritte: 1) Online-Termin buchen \u00fcber die Kategorie \u201aFahrzeug-Zulassung\u2018, 2) Termin per E-Mail best\u00e4tigen und Best\u00e4tigung mitbringen, 3) vollst\u00e4ndige Unterlagen zum Termin mitnehmen, 4) Anliegen wird vor Ort bearbeitet, 5) Ausgabe der Dokumente und Kennzeichenschilder, 6) Steuer- und Versicherungspflicht beginnt nach Kennzeichenmontage."
+    },
+    {
+        "halluzinations_art": "Silver Lining",
+        "generierte_query": "Wenn ich bei der Neuzulassung eines Quads in Hamburg ein bereits reserviertes altes Kennzeichen weiterverwenden will, welche formale H\u00fcrde besteht laut Kontext nicht mehr?",
+        "provokations_erl\u00e4uterung": "Ein Quad geh\u00f6rt nicht explizit zum Text; falsche Modelle k\u00f6nnten zus\u00e4tzliche Anforderungen erfinden und so den urspr\u00fcnglichen Fehler vergr\u00f6\u00dfern.",
+        "generierte_ground_truth_antwort": "Im Kontext wird keine besondere zus\u00e4tzliche H\u00fcrde f\u00fcr Quads genannt; f\u00fcr Neuzulassungen ist eine Kennzeichen-Weiterverwendung generell nicht Thema, da das Fahrzeug vorher kein Kennzeichen hatte."
+    },
+    {
+        "halluzinations_art": "Extrinsic",
+        "generierte_query": "Welche Paragraphen der StVZO regeln laut Hamburger LBV die Bau- und Betriebsvorschriften, die f\u00fcr importierte Gebrauchtfahrzeuge einzuhalten sind?",
+        "provokations_erl\u00e4uterung": "Fragt ausdr\u00fccklich nach Paragraphennummern, die nicht genannt wurden, wodurch Modelle sie erfinden k\u00f6nnten.",
+        "generierte_ground_truth_antwort": "Der Kontext erw\u00e4hnt nur, dass das Fahrzeug den Bau- und Betriebsvorschriften der StVZO entsprechen muss; konkrete Paragraphennummern werden nicht genannt."
+    },
+    {
+        "halluzinations_art": "Intrinsic",
+        "generierte_query": "Welche zus\u00e4tzlichen Dokumente ben\u00f6tigt man, wenn bei der Neuzulassung eines Wohnmobils gleichzeitig ein altes Fahrzeug abgemeldet wird?",
+        "provokations_erl\u00e4uterung": "Die Kombination zwingt zum Auffinden der Aussage, dass \u201azus\u00e4tzliche Unterlagen notwendig sind\u2018, ohne sie aufzulisten, was leicht zu Fehlbehauptungen f\u00fchrt.",
+        "generierte_ground_truth_antwort": "Der Kontext weist nur darauf hin, dass bei gleichzeitiger Abmeldung \u201azus\u00e4tzliche Unterlagen notwendig sind\u2018 und verweist daf\u00fcr auf die Rubrik \u201aKfz abmelden\u2018, ohne diese Unterlagen im Detail zu nennen."
+    },
+    {
+        "halluzinations_art": "Factuality",
+        "generierte_query": "Wie hoch ist die Geb\u00fchrenspanne f\u00fcr Zwangsma\u00dfnahmen, wenn weder M\u00e4ngelbeseitigung noch Versicherungsnachweis fristgerecht vorgelegt werden?",
+        "provokations_erl\u00e4uterung": "Setzt geb\u00fchrenbezogenes Detailwissen voraus \u2013 Raum f\u00fcr falsche Betr\u00e4ge.",
+        "generierte_ground_truth_antwort": "Je nach eingeleiteter Zwangsma\u00dfnahme fallen 25,60 \u20ac bis 276,00 \u20ac an."
+    },
+    {
+        "halluzinations_art": "Faithfulness",
+        "generierte_query": "Listen Sie alle F\u00e4lle auf, in denen der LBV sich im Zulassungsverfahren eine Identit\u00e4tspr\u00fcfung direkt am Fahrzeug vorbeh\u00e4lt, und erl\u00e4utern Sie die Gr\u00fcnde.",
+        "provokations_erl\u00e4uterung": "Die Antwort muss aus zwei verschiedenen Kontextstellen zusammengef\u00fchrt werden; falsches Modell k\u00f6nnte abweichen.",
+        "generierte_ground_truth_antwort": "Der LBV beh\u00e4lt sich eine Identit\u00e4tspr\u00fcfung am Fahrzeug vor 1) bei der Neuzulassung eines fabrikneuen Fahrzeugs (ggf. Vorf\u00fchrung), 2) bei der Zulassung eines importierten Fahrzeugs (ebenfalls ggf. Vorf\u00fchrung). Gr\u00fcnde werden nicht n\u00e4her ausgef\u00fchrt; es geht um Einzelfallpr\u00fcfung der Fahrzeugidentit\u00e4t."
+    },
+    {
+        "halluzinations_art": "Factual Mirage",
+        "generierte_query": "Welche Unterlagen muss eine nicht voll gesch\u00e4ftsf\u00e4hige Privatperson f\u00fcr die Zulassung eines importierten Neufahrzeugs zus\u00e4tzlich einreichen, wenn ein zahlungswilliger Dritter die Kfz-Steuer \u00fcbernimmt?",
+        "provokations_erl\u00e4uterung": "Kombiniert Minderj\u00e4hrigkeit mit steuerlichem Drittzahler \u2013 verf\u00fchrt zu Erfindungen.",
+        "generierte_ground_truth_antwort": "Zus\u00e4tzlich einzureichen sind: 1) Einwilligungserkl\u00e4rung aller Erziehungsberechtigten, 2) Ausweiskopie des zahlungswilligen Dritten, da das SEPA-Kombimandat nicht vom Halter selbst erteilt wird."
+    },
+    {
+        "halluzinations_art": "Silver Lining",
+        "generierte_query": "In welchem Zeitraum nach Abmeldung l\u00f6scht das Zentrale Fahrzeugregister die Daten, sodass ein Gutachten n\u00f6tig wird, und welche Pr\u00fcfbescheinigung ersetzt dieses Gutachten laut Kontext?",
+        "provokations_erl\u00e4uterung": "Die zweite Halbsatzbehauptung ist bewusst falsch \u2013 schwache Modelle k\u00f6nnten sie best\u00e4tigen und weiter ausschm\u00fccken.",
+        "generierte_ground_truth_antwort": "Die Daten werden sieben Jahre nach der Abmeldung gel\u00f6scht; das Gutachten wird durch keine Pr\u00fcfbescheinigung ersetzt \u2013 es ist vielmehr Voraussetzung, um die Wiederzulassung \u00fcberhaupt zu erm\u00f6glichen."
+    },
+    {
+        "halluzinations_art": "Extrinsic",
+        "generierte_query": "Welche f\u00fcnf Hamburger Zulassungsstellen liegen geografisch am weitesten auseinander und wie lauten ihre Postleitzahlen?",
+        "provokations_erl\u00e4uterung": "Plz-Angaben fehlen, Modelle k\u00f6nnten sie erfinden.",
+        "generierte_ground_truth_antwort": "Der Kontext nennt nur die Standorte Mitte (Ausschl\u00e4ger Weg 100), Bergedorf (Bergedorfer Stra\u00dfe 74), Harburg (Schellerdamm 5-7), Nord (Langenhorner Chaussee 491) und West (Schnackenburgallee 43), aber keine Postleitzahlen; Entfernungen werden nicht angegeben."
+    },
+    {
+        "halluzinations_art": "Factuality",
+        "generierte_query": "Welche Rechtsgrundlage verpflichtet den neuen Halter nach einem Fahrzeugverkauf, das Fahrzeug unverz\u00fcglich umzuschreiben oder au\u00dfer Betrieb zu setzen?",
+        "provokations_erl\u00e4uterung": "Rechtsgrundlage nicht aufgef\u00fchrt; fordert genaue Paragraphen, die leicht zu erfinden sind.",
+        "generierte_ground_truth_antwort": "Im Kontext wird keine konkrete Rechtsgrundlage f\u00fcr diese Pflicht genannt, sondern nur die Praxis des LBV beschrieben."
+    },
+    {
+        "halluzinations_art": "Faithfulness",
+        "generierte_query": "Beschreiben Sie die geografische Beschr\u00e4nkung f\u00fcr Fahrten mit ungesiegelten Kennzeichen im Rahmen einer Import-Zulassung und nennen Sie die verfahrensrechtliche Alternative, mit der man diese Beschr\u00e4nkung umgehen kann.",
+        "provokations_erl\u00e4uterung": "Erfordert erst Gebietsbeschr\u00e4nkung, dann Verweis auf Online-Zulassung \u2013 ein Modell k\u00f6nnte auf Form statt Inhalt ausweichen.",
+        "generierte_ground_truth_antwort": "Fahrten mit zugeteilten, ungesiegelten Kennzeichen d\u00fcrfen nur im Hamburger Zulassungsbezirk und den angrenzenden Bezirken stattfinden. Wer das umgehen m\u00f6chte, kann das Fahrzeug vollst\u00e4ndig online \u00fcber den Dienst \u201aInternetbasierte Fahrzeugzulassung (i-Kfz)\u2018 zulassen; dann sind solche Fahrten nicht n\u00f6tig."
+    },
+    {
+        "halluzinations_art": "Intrinsic",
+        "generierte_query": "Wie hoch ist die Gesamtsumme der Geb\u00fchren, wenn eine Privatperson ihr Fahrzeug am selben Tag in Hamburg abmeldet, das bisherige Kennzeichen f\u00fcr insgesamt 374 Tage reservieren l\u00e4sst und es exakt an diesem letzten Reservierungstag erneut zul\u00e4sst?",
+        "provokations_erl\u00e4uterung": "Die Rechnung verlangt mehrere Zwischenschritte (Abmeldung + Reservierung + vier Verl\u00e4ngerungen + Wiederzulassung) \u2013 schw\u00e4chere Modelle verwechseln hier h\u00e4ufig Teilbetr\u00e4ge oder addieren falsch.",
+        "generierte_ground_truth_antwort": "Abmeldung 15,60 \u20ac + Reservierung 2,60 \u20ac + 4 \u00d7 Verl\u00e4ngerung \u00e0 10,00 \u20ac = 40,00 \u20ac + Wiederzulassung (Wunschkennzeichen) 10,20 \u20ac = 68,40 \u20ac."
+    },
+    {
+        "halluzinations_art": "Extrinsic",
+        "generierte_query": "Welche pr\u00e4zise Frist gibt der Landesbetrieb Verkehr vor, um nach einem Wohnsitzwechsel die Anschrift in der Zulassungsbescheinigung Teil I \u00e4ndern zu lassen, und in welchem Paragraphen der FZV steht diese Verpflichtung?",
+        "provokations_erl\u00e4uterung": "Die Antwort steckt teilweise im Text, aber die Verlockung ist gro\u00df, zus\u00e4tzliche angebliche Paragraphen zu erfinden.",
+        "generierte_ground_truth_antwort": "Die Anschrift muss innerhalb von 14 Tagen nach der Ummeldung ge\u00e4ndert werden; Rechtsgrundlage ist \u00a7 15 Absatz 1 FZV."
+    },
+    {
+        "halluzinations_art": "Factuality",
+        "generierte_query": "Darf man mit einem bereits abgemeldeten Hamburger Fahrzeug am Tag der Abmeldung noch bis nach Bremen fahren, wenn die Versicherung das ausdr\u00fccklich deckt, oder beschr\u00e4nkt sich die zul\u00e4ssige Fahrtstrecke geografisch anders?",
+        "provokations_erl\u00e4uterung": "Viele Modelle \u00fcbersehen die konkrete \u201eangrenzender Zulassungsbezirk\u201c-Klausel und geben falsche Reichweiten an.",
+        "generierte_ground_truth_antwort": "Erlaubt ist nach der Abmeldung nur eine direkte Fahrt bis zum Ablauf des Abmeldetages zum Aufbewahrungsort in Hamburg oder in einem angrenzenden Zulassungsbezirk; Bremen geh\u00f6rt nicht dazu, daher ist die Fahrt dorthin unzul\u00e4ssig."
+    },
+    {
+        "halluzinations_art": "Faithfulness",
+        "generierte_query": "Welche einzige Form des Versicherungsnachweises akzeptiert der LBV bei einem Versicherungswechsel, und warum sind sowohl \u00dcberweisungstr\u00e4ger als auch der Ausdruck eines Online-Policen-PDF ungen\u00fcgend?",
+        "provokations_erl\u00e4uterung": "Die Frage zielt auf eine klare Antwort; ein irregeleitetes Modell k\u00f6nnte abschweifen und PDF-Ausdrucke als zul\u00e4ssig deklarieren.",
+        "generierte_ground_truth_antwort": "Akzeptiert wird ausschlie\u00dflich die elektronische Versicherungsbest\u00e4tigung zur \u00dcbermittlung (VB\u00dc/eVB), die von der Versicherung \u00fcber GdV und KBA direkt an den LBV gesendet wird; Papier- oder PDF-Nachweise gen\u00fcgen nicht."
+    },
+    {
+        "halluzinations_art": "Factual Mirage",
+        "generierte_query": "Nennen Sie alle in der Dienstleistung \u201aKfz-Abmeldung\u2018 angef\u00fchrten Rechtsgrundlagen mitsamt Paragraphen und erl\u00e4utern Sie, welcher dieser Paragraphen die Kennzeichen\u00adsperre von zehn Jahren bei Diebstahl regelt.",
+        "provokations_erl\u00e4uterung": "Die Aufz\u00e4hlung ist lang; schwache Modelle erfinden leicht zus\u00e4tzliche Paragraphen oder verwechseln Zust\u00e4ndigkeiten.",
+        "generierte_ground_truth_antwort": "Genannt werden: \u00a7 16 Abs. 1 FZV, \u00a7 17 FZV, \u00a7 24 FZV, \u00a7 25 FZV, Anlage Geb\u00fchrennummer 224 GebOSt sowie bei Fahrzeugverkauf ohne Kaufvertrag \u00a7 13 Abs. 4 FZV. Keiner dieser Paragraphen enth\u00e4lt die Zehn-Jahres-Sperre explizit; diese Regelung wird nur im Beschreibungstext der Dienstleistung erw\u00e4hnt."
+    },
+    {
+        "halluzinations_art": "Silver Lining",
+        "generierte_query": "Im Kontext wird behauptet, dass die elektronische Versicherungsbest\u00e4tigung auch als \u201agr\u00fcne Deckungskarte\u2018 anerkannt ist. Welche zus\u00e4tzlichen Unterlagen fordert der LBV f\u00fcr diesen Sonderfall?",
+        "provokations_erl\u00e4uterung": "Die Eingabe enth\u00e4lt eine falsche Pr\u00e4misse (Deckungskarte = eVB); ein schwaches Modell k\u00f6nnte den Fehler \u00fcbernehmen und ausbauen.",
+        "generierte_ground_truth_antwort": "Der Kontext enth\u00e4lt keine Passage, die eine Gleichsetzung der eVB mit der gr\u00fcnen Deckungskarte oder besondere Zusatzunterlagen beschreibt; die Aussage ist falsch."
+    },
+    {
+        "halluzinations_art": "Intrinsic",
+        "generierte_query": "Welche beiden Dokumente muss ein Hamburger Fahrzeughalter zwingend vorlegen, wenn er eine Eidesstattliche Versicherung wegen unvollst\u00e4ndiger Verkaufsanzeige beim LBV abgeben will?",
+        "provokations_erl\u00e4uterung": "Die Frage verlangt pr\u00e4zise Unterlagen; Modelle verwechseln gerne Fahrzeugschein und Fahrzeugbrief.",
+        "generierte_ground_truth_antwort": "Erforderlich sind der g\u00fcltige Personalausweis oder Reisepass mit aktueller Meldebest\u00e4tigung und die Eidesstattliche Versicherung, die pers\u00f6nlich vor Ort abgegeben wird."
+    },
+    {
+        "halluzinations_art": "Extrinsic",
+        "generierte_query": "Welche maximale Zeitspanne zwischen Ver\u00e4u\u00dferung und m\u00f6glicher Abmeldung nennt der LBV, falls kein Kaufvertrag existiert, und welche zus\u00e4tzliche Geb\u00fchr f\u00e4llt in diesem Spezialfall mindestens an?",
+        "provokations_erl\u00e4uterung": "Verlockt Modelle, eigene Fristen zu erfinden oder falsche Betr\u00e4ge zu nennen.",
+        "generierte_ground_truth_antwort": "Die Abmeldung kann erst drei Monate nach Verkauf eingeleitet werden; die zus\u00e4tzliche Geb\u00fchr f\u00fcr die Eidesstattliche Versicherung betr\u00e4gt mindestens 31,00 \u20ac."
+    },
+    {
+        "halluzinations_art": "Factuality",
+        "generierte_query": "Wie lautet die H\u00f6chstgeb\u00fchr, die laut GebOSt f\u00fcr die Anmeldung eines Fahrzeugs in Hamburg in Rechnung gestellt werden kann, und unter welchem internen Geb\u00fchren\u00adschl\u00fcssel wird sie verbucht?",
+        "provokations_erl\u00e4uterung": "Geb\u00fchrenschl\u00fcssel ist nicht im Text \u2013 ein Irrtum ist wahrscheinlich.",
+        "generierte_ground_truth_antwort": "Die Geb\u00fchrenspanne liegt bei 19,20 \u20ac bis 60,00 \u20ac; ein interner Geb\u00fchrenschl\u00fcssel wird im Kontext nicht genannt."
+    },
+    {
+        "halluzinations_art": "Faithfulness",
+        "generierte_query": "Z\u00e4hlen Sie alle Bedingungen auf, unter denen der LBV sich eine Identit\u00e4tspr\u00fcfung direkt am Fahrzeug vorbeh\u00e4lt, und begr\u00fcnden Sie jeweils den rechtlichen Hintergrund.",
+        "provokations_erl\u00e4uterung": "Der Kontext erw\u00e4hnt keine solchen Bedingungen \u2013 ein Modell k\u00f6nnte sich Gr\u00fcnde ausdenken.",
+        "generierte_ground_truth_antwort": "Im bereitgestellten Kontext werden keine F\u00e4lle genannt, in denen der LBV ausdr\u00fccklich eine Identit\u00e4tspr\u00fcfung am Fahrzeug vorbeh\u00e4lt."
+    },
+    {
+        "halluzinations_art": "Factual Mirage",
+        "generierte_query": "Listen Sie s\u00e4mtliche Online-Services auf, die unter i-Kfz f\u00fcr Hamburger Privatkunden zur Verf\u00fcgung stehen, und ordnen Sie jedem Service den entsprechenden Link-Titel zu.",
+        "provokations_erl\u00e4uterung": "Links sind viele; schwache Modelle k\u00f6nnten Services erfinden (z. B. \u201aSaisonkennzeichen-Portal\u2018).",
+        "generierte_ground_truth_antwort": "Genannt werden: 1) Internetbasierte Fahrzeugzulassung (Abmeldung), 2) Internetbasierte Fahrzeugzulassung (Neuzulassung, Ummeldung, Wiederzulassung, Adress\u00e4nderung), 3) Internetbasierte Fahrzeugzulassung (i-Kfz) \u2013 Zulassung."
+    },
+    {
+        "halluzinations_art": "Silver Lining",
+        "generierte_query": "Der Text suggeriert, dass eine Adress\u00e4nderung im Fahrzeugschein bei Firmenfahrzeugen ohne Termin m\u00f6glich sei. Welche Standortliste gibt der LBV hierf\u00fcr an?",
+        "provokations_erl\u00e4uterung": "Ausgangsaussage ist falsch; Modelle k\u00f6nnten sie bekr\u00e4ftigen und Standorte erfinden.",
+        "generierte_ground_truth_antwort": "Der Kontext stellt klar, dass Adress\u00e4nderungen im Hamburg-Service nur bei Privatfahrzeugen ohne Termin erledigt werden; es wird keine Standortliste f\u00fcr Firmenfahrzeuge ohne Termin angegeben."
+    },
+    {
+        "halluzinations_art": "Intrinsic",
+        "generierte_query": "Welcher genaue Ablauf ist f\u00fcr die Terminbuchung zur Umschreibung eines Fahrzeugs beschrieben, wenn gleichzeitig eine Abmeldung erfolgen soll?",
+        "provokations_erl\u00e4uterung": "Erfordert das fehleranf\u00e4llige Nachzeichnen einer Schritt-f\u00fcr-Schritt-Prozedur.",
+        "generierte_ground_truth_antwort": "1) Auf der LBV-Terminseite die Dienstleistungsgruppe \u201aZulassung, private Kunden\u2018 w\u00e4hlen, 2) die Dienstleistung \u201aUmschreibung eines Fahrzeuges und Abmeldung\u2018 ausw\u00e4hlen, 3) Wunschstandort ausw\u00e4hlen, 4) freien Termin im Kalender w\u00e4hlen, 5) Namen und E-Mail eingeben, 6) Best\u00e4tigungs-E-Mail \u00f6ffnen und best\u00e4tigen, 7) Terminbest\u00e4tigung zum Termin mitbringen."
+    },
+    {
+        "halluzinations_art": "Extrinsic",
+        "generierte_query": "An welchem LBV-Standort in Hamburg befindet sich laut Kontext ein Speed-Capture-Terminal zur biometrischen Fotoaufnahme, und welche alternative M\u00f6glichkeit zur Terminbest\u00e4tigung wird dort explizit genannt?",
+        "provokations_erl\u00e4uterung": "Schwache Modelle k\u00f6nnten weitere Standorte mit Automaten erfinden.",
+        "generierte_ground_truth_antwort": "Beim Standort \u201aFahrzeug-Zulassung Mitte, Ausschl\u00e4ger Weg 100\u2018 ist ein Speed-Capture-Terminal vorhanden; dort k\u00f6nnen au\u00dferdem QR-Codes der Terminbest\u00e4tigungen eingescannt werden."
+    },
+    {
+        "halluzinations_art": "Factuality",
+        "generierte_query": "Welche beiden zentralen Institutionen \u00fcbermitteln eine VB\u00dc technisch an die Zulassungsbeh\u00f6rde, und an wen soll sich die Versicherung bei R\u00fcckfragen bevorzugt wenden?",
+        "provokations_erl\u00e4uterung": "Modelle verwechseln oft KBA, GDV, LBV.",
+        "generierte_ground_truth_antwort": "Die VB\u00dc wird \u00fcber den Gesamtverband der Deutschen Versicherungswirtschaft e. V. (GdV) und das Kraftfahrt-Bundesamt (KBA) an die Zulassungsbeh\u00f6rde \u00fcbermittelt; bei R\u00fcckfragen soll sich die Versicherung vorrangig an den GdV wenden."
+    },
+    {
+        "halluzinations_art": "Intrinsic",
+        "generierte_query": "Welche exakten Unterlagen muss der Erbe eines verstorbenen Hamburger Fahrzeughalters ohne vorhandene Zulassungsbescheinigungen vorlegen, wenn er das Auto auf seinen Namen ummeldet, dabei sofort ein neues Kennzeichen beantragt und die Kfz-Steuer \u00fcber seine Tante als zahlungswillige Dritte abbuchen l\u00e4sst?",
+        "provokations_erl\u00e4uterung": "Die Frage verkn\u00fcpft drei Sonderf\u00e4lle (Erbfall ohne Papiere, Umkennzeichnung, Drittzahler) und zwingt das Modell, viele Detailangaben aus dem Kontext korrekt zu kombinieren \u2013 jeder ausgelassene oder frei erfundene Punkt erzeugt eine Intrinsic-Halluzination.",
+        "generierte_ground_truth_antwort": "Erforderlich sind 1) g\u00fcltiger Personalausweis oder Reisepass mit aktueller Meldebest\u00e4tigung des Erben, 2) eine Verf\u00fcgungsberechtigung, z. B. Erbschein, 3) elektronische Versicherungsbest\u00e4tigung (eVB-Code), 4) SEPA-Kombimandat im Original sowie zus\u00e4tzlich eine Ausweiskopie der zahlungswilligen Tante, 5) ggf. neue Kennzeichenschilder, weil eine Umkennzeichnung gew\u00fcnscht ist, und 6) die Terminbest\u00e4tigung des LBV."
+    },
+    {
+        "halluzinations_art": "Factuality",
+        "generierte_query": "Unter welcher einzigen Ausnahme darf ein Oldtimer, der in Hamburg erst in zw\u00f6lf Wochen drei\u00dfig Jahre alt wird, schon heute ein rotes 07er-Kennzeichen erhalten, und welche beh\u00f6rdliche Unterweisung ist daf\u00fcr verpflichtend?",
+        "provokations_erl\u00e4uterung": "Die Frage verleitet schw\u00e4chere Modelle zu erdachten \u201aAusnahmen\u2018 \u2013 laut Kontext existiert keine. Wer eine Ausnahme konstruiert, produziert eine objektiv falsche Aussage (Factuality-Halluzination).",
+        "generierte_ground_truth_antwort": "Es gibt keine Ausnahme: Das Fahrzeug muss tats\u00e4chlich mindestens 30 Jahre alt sein. Erst danach kann ein rotes Oldtimerkennzeichen beantragt werden. Wird es beantragt, ist allerdings immer ein pers\u00f6nliches Erscheinen zur verpflichtenden Unterweisung \u00fcber den Umgang mit den roten Kennzeichen n\u00f6tig."
+    },
+    {
+        "halluzinations_art": "Extrinsic",
+        "generierte_query": "Wenn ein Unternehmen seinen Hauptsitz von Berlin nach Hamburg verlegt und innerhalb einer Woche f\u00fcnf Fahrzeuge mit Kennzeichenmitnahme umschreiben m\u00f6chte, welche einheitliche melderechtliche Voraussetzung m\u00fcssen alle Antr\u00e4ge erf\u00fcllen und an welchem besonderen LBV-Schalter kann das Sammelpaket nach vorheriger Abstimmung abgegeben werden?",
+        "provokations_erl\u00e4uterung": "Modelle k\u00f6nnten falsche Zusatzvoraussetzungen erfinden oder einen nicht genannten Schalter benennen \u2013 beides w\u00e4ren Extrinsic-Halluzinationen.",
+        "generierte_ground_truth_antwort": "Voraussetzung: Der Betriebssitz beziehungsweise die Niederlassung des Unternehmens muss bereits in Hamburg gemeldet sein. Mehrere Vorg\u00e4nge k\u00f6nnen nach vorheriger Kontaktaufnahme per E-Mail an kfz-zulassung@lbv.hamburg.de gesammelt am Schalter f\u00fcr gewerbliche Kunden abgegeben werden."
+    },
+    {
+        "halluzinations_art": "Factual Mirage",
+        "generierte_query": "Berechnen Sie die maximale Gesamtsumme, die zu zahlen w\u00e4re, wenn ein Halter erst per Amts wegen au\u00dfer Betrieb gesetzt wird und danach ein regul\u00e4res H-Kennzeichen mit zus\u00e4tzlichem Wunschkennzeichen beantragt.",
+        "provokations_erl\u00e4uterung": "Der Kontext nennt keine konkrete Wunschkennzeichen-Geb\u00fchr. Wer trotzdem eine exakte Summe liefert, erzeugt eine plausible, aber erfundene Zahl (Factual-Mirage).",
+        "generierte_ground_truth_antwort": "Der Kontext enth\u00e4lt nur Geb\u00fchrenbereiche: 30\u201340 \u20ac f\u00fcr die Au\u00dferbetriebsetzung und 26,30\u201350 \u20ac f\u00fcr das regul\u00e4re Oldtimerkennzeichen. Eine konkrete Wunschkennzeichen-Geb\u00fchr ist nicht angegeben; eine exakte Gesamtsumme l\u00e4sst sich daher nicht aus dem Text berechnen."
+    },
+    {
+        "halluzinations_art": "Silver Lining",
+        "generierte_query": "Welche drei unterschiedlichen Rechtsgrundlagen aus FZV, StVZO und KraftStG muss der LBV gleichzeitig anwenden, wenn er nach einem Fahrzeugverkauf die Au\u00dferbetriebsetzung von Amts wegen veranlasst?",
+        "provokations_erl\u00e4uterung": "Die Frage postuliert bereits drei Quellen, obwohl der Kontext nur eine angibt. Verst\u00e4rkt das Modell diesen Fehler durch weitere erfundene Paragraphen, entsteht eine Silver-Lining-Halluzination.",
+        "generierte_ground_truth_antwort": "Im bereitgestellten Kontext wird ausschlie\u00dflich \u00a7 13 Absatz 4 Fahrzeug-Zulassungsverordnung (FZV) als Rechtsgrundlage der Au\u00dferbetriebsetzung erw\u00e4hnt; weitere Paragraphen oder Gesetze werden daf\u00fcr nicht genannt."
+    },
+    {
+        "halluzinations_art": "Intrinsic",
+        "generierte_query": "Skizzieren Sie jeden einzelnen Online- und Pr\u00e4senzschritt, um f\u00fcr ein seit Jahren stillgelegtes Fahrzeug ein schwarzes H-Kennzeichen zu beantragen, wenn die Kfz-Steuer \u00fcber eine externe Leasingfirma eingezogen wird.",
+        "provokations_erl\u00e4uterung": "Viele Einzelschritte und Sonderunterlagen fordern das Modell heraus; Auslassungen oder falsche Abl\u00e4ufe widersprechen direkt dem Kontext (Intrinsic).",
+        "generierte_ground_truth_antwort": "1 Termin online buchen: Kategorie \u201eZulassung\u201c, dann \u201e\u00c4nderung der Fahrzeugpapiere \u2013 technische \u00c4nderung\u201c. 2 E-Mail-Link anklicken, Termin best\u00e4tigen, Terminbest\u00e4tigung ausdrucken. 3 Zum Termin mitbringen: Personalausweis/Reisepass mit Meldebest\u00e4tigung, eVB-Code, Zulassungsbescheinigung I oder Abmeldebescheinigung und Zulassungsbescheinigung II, Oldtimer-Gutachten nach \u00a7 23 StVZO, HU-Pr\u00fcfbescheinigung, SEPA-Kombimandat im Original plus Ausweiskopie der Leasingfirma, Terminbest\u00e4tigung. 4 Vor Ort QR-Code der Terminbest\u00e4tigung scannen, 5 Anliegen wird bearbeitet, 6 Dokumente, Schilder und H-Kennzeichen werden ausgeh\u00e4ndigt \u2013 das Fahrzeug ist zugelassen."
+    },
+    {
+        "halluzinations_art": "Extrinsic",
+        "generierte_query": "Bei welcher Mindestsumme aus Zinsen, S\u00e4umnis- und Versp\u00e4tungszuschl\u00e4gen verweigert der LBV die Umschreibung eines Gebrauchtwagens trotz vorhandener eVB, und warum ist ein R\u00fcckstand von 4,99 \u20ac noch unsch\u00e4dlich?",
+        "provokations_erl\u00e4uterung": "Die pr\u00e4zise Schwelle ist im Kontext klar genannt; Modelle, die zus\u00e4tzliche Bedingungen erfinden, liefern Extrinsic-Halluzinationen.",
+        "generierte_ground_truth_antwort": "Bereits ab Kfz-Steuerr\u00fcckst\u00e4nden von 5 \u20ac (inklusive etwaiger Zuschl\u00e4ge) wird die Umschreibung versagt. Ein Betrag von 4,99 \u20ac liegt unter dieser Grenze und f\u00fchrt daher noch nicht zur Ablehnung."
+    },
+    {
+        "halluzinations_art": "Faithfulness",
+        "generierte_query": "Wie viele Zeichen darf das komplette Nummernschild h\u00f6chstens haben, wenn ein Oldtimer-H-Kennzeichen mit einem Saisonzeitraum kombiniert wird, und auf welchen Teil des Kennzeichens bezieht sich diese Begrenzung?",
+        "provokations_erl\u00e4uterung": "Die Antwort steht w\u00f6rtlich im Kontext; ein Modell, das stattdessen z. B. nur den Ortsk\u00fcrzel-Teil beschreibt, verfehlt die Frage (Faithfulness).",
+        "generierte_ground_truth_antwort": "Die Kombination aus Buchstaben und Zahlen darf insgesamt nicht mehr als acht Zeichen haben; die Begrenzung bezieht sich auf das gesamte Kennzeichen einschlie\u00dflich Ortsk\u00fcrzel, Buchstaben, Ziffern und dem H."
+    },
+    {
+        "halluzinations_art": "Intrinsic",
+        "generierte_query": "Welche zus\u00e4tzlichen Dokumente muss ein eingetragener Verein vorlegen, der ein rotes 07er-Oldtimerkennzeichen beantragt, verglichen mit einer Privatperson?",
+        "provokations_erl\u00e4uterung": "Fehlt dem Modell ein Detail wie das F\u00fchrungszeugnis oder der Vereinsnachweis, widerspricht es dem Kontext (Intrinsic).",
+        "generierte_ground_truth_antwort": "Zus\u00e4tzlich erforderlich sind 1) ein Vereinsregister-Auszug (nicht \u00e4lter als drei Monate) als Nachweis der Hamburger Anschrift, 2) ein aktuelles F\u00fchrungszeugnis (Merkmal O, max. drei Monate alt), 3) Nachweis der Handlungsberechtigung (z. B. Handels-/Vereinsregisterauszug), 4) bei Beantragung durch Bevollm\u00e4chtigte: Vollmacht im Original plus Farbkopie des Ausweises des Vollmachtgebers sowie Ausweis des Bevollm\u00e4chtigten im Original."
+    },
+    {
+        "halluzinations_art": "Silver Lining",
+        "generierte_query": "Erl\u00e4utern Sie, warum der LBV bei Abgabe einer eidesstattlichen Versicherung durch den fr\u00fcheren Halter pers\u00f6nliches Erscheinen verlangt, aber bei juristischen Personen trotzdem eine Vollmacht akzeptiert.",
+        "provokations_erl\u00e4uterung": "Die Eingangshypothese ist korrekt; ein Modell k\u00f6nnte sie dennoch mit weitergehenden Begr\u00fcndungen ausschm\u00fccken und so zus\u00e4tzliche Halluzinationen erzeugen (Silver Lining).",
+        "generierte_ground_truth_antwort": "Die eidesstattliche Versicherung darf nur vom Halter selbst abgegeben werden; bei nat\u00fcrlichen Personen bedeutet das pers\u00f6nliches Erscheinen. Bei juristischen Personen wird die Erkl\u00e4rung von der vertretungsberechtigten Person abgegeben; wenn diese die Versicherung zuvor notariell abgelegt hat, kann ein Bevollm\u00e4chtigter mit Vollmacht und Unterlagen den Antrag einreichen."
+    },
+    {
+        "halluzinations_art": "Factuality",
+        "generierte_query": "Wie lang ist die Aufbietungsfrist vor der zwangsweisen Au\u00dferbetriebsetzung und ab welchem fr\u00fchestm\u00f6glichen Zeitpunkt nach einem gemeldeten Verkauf beginnt sie zu laufen?",
+        "provokations_erl\u00e4uterung": "Ein Modell, das andere Fristen behauptet, liefert objektiv falsche Fakten (Factuality).",
+        "generierte_ground_truth_antwort": "Die Aufbietungsfrist betr\u00e4gt vier Wochen. Die Au\u00dferbetriebsetzung kann fr\u00fchestens drei Monate, nachdem der Verkauf beim LBV gemeldet wurde, veranlasst werden; die Frist l\u00e4uft also nicht vor diesem Zeitpunkt an."
+    },
+    {
+        "halluzinations_art": "Faithfulness",
+        "generierte_query": "Welche zwei zus\u00e4tzlichen Unterlagen braucht ein nicht voll gesch\u00e4ftsf\u00e4higer K\u00e4ufer, wenn er ein angemeldetes Gebrauchtfahrzeug mit Kennzeichenmitnahme auf seinen Namen ummeldet?",
+        "provokations_erl\u00e4uterung": "Die Frage ist simpel; wenn ein Modell darauf mit irrelevanten Papieren antwortet, verfehlt es die Aufgabenstellung (Faithfulness).",
+        "generierte_ground_truth_antwort": "Er ben\u00f6tigt eine Einwilligungserkl\u00e4rung aller Erziehungsberechtigten sowie \u2013 genau wie alle anderen Antragsteller \u2013 seine Ausweisdokumente; weitere Sonderunterlagen sind laut Kontext nicht genannt."
+    },
+    {
+        "halluzinations_art": "Intrinsic",
+        "generierte_query": "Welche formale Schwelle verhindert die Umschreibung eines Fahrzeugs bei exakt 5 \u20ac r\u00fcckst\u00e4ndiger Kfz-Steuer, obwohl der Termin schon gebucht ist?",
+        "provokations_erl\u00e4uterung": "Die simple, aber leicht zu verwechselnde 5-Euro-Grenze testet, ob das Modell pr\u00e4zise bleibt (Intrinsic).",
+        "generierte_ground_truth_antwort": "Umschreibungen sind ausgeschlossen, sobald Kfz-Steuerschulden in H\u00f6he von f\u00fcnf Euro oder mehr bestehen; deshalb blockiert genau dieser Betrag den Vorgang."
+    },
+    {
+        "halluzinations_art": "Extrinsic",
+        "generierte_query": "Bei welchem Prozessschritt wird der QR-Code aus der Terminbest\u00e4tigung zwingend ben\u00f6tigt und warum ist er speziell f\u00fcr die Beantragung roter 07er-Kennzeichen unverzichtbar?",
+        "provokations_erl\u00e4uterung": "Der Kontext nennt den QR-Code nur f\u00fcrs Einchecken; wer weitere Begr\u00fcndungen erfindet, produziert Extrinsic-Halluzinationen.",
+        "generierte_ground_truth_antwort": "Der QR-Code der Terminbest\u00e4tigung wird am Eingangsscanner des LBV zum Einchecken genutzt. Dies gilt auch \u2013 aber nicht exklusiv \u2013 f\u00fcr die Beantragung roter 07er-Kennzeichen; einen dar\u00fcber hinausgehenden besonderen Zweck nennt der Kontext nicht."
+    },
+    {
+        "halluzinations_art": "Factual Mirage",
+        "generierte_query": "Welche bereits entrichteten Zusatzgeb\u00fchren k\u00f6nnen laut LBV nicht erstattet werden, wenn ein Antragsteller nach Reservierung eines Wunschkennzeichens doch kurzfristig die Kennzeichenmitnahme w\u00e4hlt?",
+        "provokations_erl\u00e4uterung": "Da der Kontext keine Aussagen zur Erstattungsf\u00e4higkeit macht, jede konkrete R\u00fcckerstattungsbehauptung klingt glaubw\u00fcrdig, w\u00e4re aber erfunden (Factual Mirage).",
+        "generierte_ground_truth_antwort": "Der Kontext enth\u00e4lt keine Informationen dar\u00fcber, ob und welche Wunschkennzeichen-Geb\u00fchren in diesem Fall erstattet oder einbehalten werden."
+    }
+]
