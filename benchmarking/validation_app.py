@@ -4,6 +4,7 @@ from benchmarking.manual_validation.utils import get_status_color
 from benchmarking.datahandler import DataHandler
 from benchmarking.llm_validation_helper import check_query
 from rag_pipeline.constants import (
+    TESTSET_PATH,
     TESTSET_HELPER_PROMPT_PARAM_IS_QUERY_SUPPORTED_KW,
     TESTSET_HELPER_PROMPT_PARAM_ALTERNATIVE_QUERIES_KW
 )
@@ -46,6 +47,7 @@ def generate_helper_data(usecase, item_i, original_item):
     DataHandler.set_query_check(usecase, item_i, is_query_supported_list, query_supported_message_list)
 
 
+
 def main():
     # init
     DataHandler.init()
@@ -80,9 +82,10 @@ def main():
                 handle_forward_button()
 
     with st.container():
-        frage_title = "❓ Frage:"
+        frage_title = "❓ Query:"
         frage_text = original_item.query
-        draw_div(frage_title, frage_text)
+        text_input
+        # draw_div(frage_title, frage_text)
         
     is_query_supported_list, alternative_queries = DataHandler.get_query_check(usecase, item_i)
     print("after_datahandler: ", is_query_supported_list)
