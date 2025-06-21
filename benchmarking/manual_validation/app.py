@@ -3,7 +3,7 @@ import streamlit as st
 from rag_pipeline.constants import TESTSET_VALIDATION_EXPECTED_ANSWER_KW, TESTSET_VALIDATION_REFERENCES_KW
 
 from benchmarking.manual_validation.utils import get_status_color
-from benchmarking.manual_validation.io import init_validated_data_item, get_validated_data_item, save_validated_expected_answer, save_validated_references
+from benchmarking.io import init_validated_data_item, get_validated_data_item, save_validated_expected_answer, save_validated_references
 from benchmarking.datahandler import DataHandler
 from benchmarking.llm_validation_helper import check_for_incorrect, check_for_unsupported
 

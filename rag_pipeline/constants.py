@@ -17,7 +17,7 @@ TESTSET_DB_PATH = "./benchmarking/dbs"
 USECASES_PERSONAS_PATH = "./benchmarking/use_case_personas.json"
 # KNOWLEDGE_GRAPH_PATH = './benchmarking/knowledge_graph.json'
 TESTSET_TEST_ITEM_TEMPLATE_PATH = './benchmarking/manual_validation/data/test_item_template.json'
-TESTSET_VALIDATED_PATH = './benchmarking/manual_validation/data/validated_testset.json'
+TESTSET_VALIDATED_PATH = './benchmarking/data/validated_testset.json'
 TESTSET_HELPER_DATA = './benchmarking/manual_validation/data/generated_helper_data.json'
 TESTSET_HELPER_DATA_ITEM_TEMPLATE_PATH = './benchmarking/manual_validation/data/helper_data_item_template.json'
 
@@ -30,9 +30,11 @@ TESTSET_ORIGINAL_QUERY_KW = "user_input"
 TESTSET_ORIGINAL_EXPECTED_ANSWER_KW = "reference"
 TESTSET_ORIGINAL_REFERENCES_KW = "reference_contexts"
 
-TESTSET_VALIDATION_QUERY_KW = "user_input"
-TESTSET_VALIDATION_EXPECTED_ANSWER_KW = "expected_answer"
-TESTSET_VALIDATION_REFERENCES_KW = "references"
+TESTSET_HALLUCINATIONS_ART_KW = "halluzinations_art"
+TESTSET_GENERIERTE_QUERY_KW = "generierte_query"
+TESTSET_PROVOKATIONS_ERLAEUTERUNG_KW = "provokations_erläuterung"
+TESTSET_GROUND_TRUTH_ANTWORT_KW = "generierte_ground_truth_antwort"
+TESTSET_ABGERUFENE_QUELLEN_KW = "abgerufene_quellen"
 
 TESTSET_HELPER_IS_QUERY_SUPPORTED_KW = "isQuerySupported"
 TESTSET_HELPER_ALTERNATIVE_QUERIES_KW = "alternativeQueries"

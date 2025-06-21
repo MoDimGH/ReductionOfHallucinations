@@ -6,42 +6,19 @@ from langchain_openai import ChatOpenAI
 
 from rag_pipeline.populate_database import load_db
 from rag_pipeline.constants import (
-    GENERATION_MODEL,
     TESTSET_GENERATION_MODEL, TESTSET_EMBEDDING_MODEL, 
     TESTSET_DB_PATH,
-    TESTSET_ORIGINAL_QUERY_KW,
-    TESTSET_ORIGINAL_EXPECTED_ANSWER_KW,
-    TESTSET_ORIGINAL_REFERENCES_KW,
-    TESTSET_VALIDATION_QUERY_KW,
-    TESTSET_VALIDATION_EXPECTED_ANSWER_KW,
-    TESTSET_VALIDATION_REFERENCES_KW,
-    TESTSET_HELPER_SOURCES_KW,
-    TESTSET_HELPER_ALTERNATIVE_ANSWERS_KW,
-    TESTSET_HELPER_ANSWER_EXTRACTIONWISE_HALLUCINATED_MESSAGES_KW,
-    TESTSET_HELPER_IS_ANSWER_EXTRACTIONWISE_HALLUCINATED_KW,
-    TESTSET_HELPER_ANSWER_CONTEXTUALLY_HALLUCINATED_MESSAGES_KW,
-    TESTSET_HELPER_IS_ANSWER_CONTEXTUALLY_HALLUCINATED_KW,
-    TESTSET_HELPER_ANSWER_CITATIONWISE_HALLUCINATED_MESSAGES_KW,
-    TESTSET_HELPER_IS_ANSWER_CITATIONWISE_HALLUCINATED_KW,
-    TESTSET_HELPER_ANSWER_REASONING_HALLUCINATED_MESSAGES_KW,
-    TESTSET_HELPER_IS_ANSWER_REASONING_HALLUCINATED_KW,
-    TESTSET_HELPER_ANSWER_SEMANTICALLY_HALLUCINATED_MESSAGES_KW,
-    TESTSET_HELPER_IS_ANSWER_SEMANTICALLY_HALLUCINATED_KW,
-    TESTSET_HELPER_ANSWER_STRUCTURALLY_HALLUCINATED_MESSAGES_KW,
-    TESTSET_HELPER_IS_ANSWER_STRUCTURALLY_HALLUCINATED_KW,
-    TESTSET_HELPER_ANSWER_FACTUALLY_WRONG_MESSAGES_KW,
-    TESTSET_HELPER_IS_ANSWER_FACTUALLY_HALLUCINATED_KW,
-    TESTSET_HELPER_ALTERNATIVE_QUERIES_KW,
-    TESTSET_HELPER_IS_QUERY_SUPPORTED_KW
+    TESTSET_HALLUCINATIONS_ART_KW,
+    TESTSET_GENERIERTE_QUERY_KW,
+    TESTSET_PROVOKATIONS_ERLAEUTERUNG_KW,
+    TESTSET_GROUND_TRUTH_ANTWORT_KW,
+    TESTSET_ABGERUFENE_QUELLEN_KW
 )
 
-from benchmarking.manual_validation.testset_item import TestsetItem
-from benchmarking.manual_validation.io import (
+from benchmarking.testset_item import TestsetItem
+from benchmarking.io import (
     load_original_testsets,
-    load_validated_testsets, save_validated_testsets,
-    load_testset_item_template,
-    load_helper_data, save_helper_data,
-    load_helper_data_item_template
+    load_validated_testsets, save_validated_testsets
 )
 
 
@@ -50,12 +27,8 @@ class DataHandler:
     dbs = {}
     generation_model = None
     embedding_model = None
-    output_formatting_model = None
     original_testsets = []
     validated_testsets = {}
-    helper_data = {}
-    testset_item_template = {}
-    helper_data_item_template = {}
 
     @classmethod
     def init(cls, reinit=False):
@@ -78,17 +51,8 @@ class DataHandler:
             testsets = load_original_testsets()
             cls.original_testsets = list(testsets.items())
 
-        if reinit or not cls.testset_item_template:
-            cls.testset_item_template = load_testset_item_template()
-
-        if reinit or not cls.helper_data_item_template:
-            cls.helper_data_item_template = load_helper_data_item_template()
-
         if reinit or not cls.validated_testsets:
             cls.validated_testsets = load_validated_testsets()
-        
-        if reinit or not cls.helper_data:
-            cls.helper_data = load_helper_data()
     
 
     @classmethod
@@ -113,11 +77,13 @@ class DataHandler:
 
     @classmethod
     def get_original_testset_item(cls, testset_i, item_i) -> TestsetItem:
-        raw_testset_item = cls.original_testsets[testset_i][1][item_i]
+        raw_item = cls.original_testsets[testset_i][1][item_i]
         return TestsetItem(
-            raw_testset_item.get(TESTSET_ORIGINAL_QUERY_KW), 
-            raw_testset_item.get(TESTSET_ORIGINAL_EXPECTED_ANSWER_KW), 
-            raw_testset_item.get(TESTSET_ORIGINAL_REFERENCES_KW)
+            raw_item.get(TESTSET_HALLUCINATIONS_ART_KW), 
+            raw_item.get(TESTSET_GENERIERTE_QUERY_KW), 
+            raw_item.get(TESTSET_PROVOKATIONS_ERLAEUTERUNG_KW),
+            raw_item.get(TESTSET_GROUND_TRUTH_ANTWORT_KW),
+            raw_item.get(TESTSET_ABGERUFENE_QUELLEN_KW)
         )
 
     @classmethod
@@ -131,174 +97,33 @@ class DataHandler:
     # Validated Testset -----------------------------------------
     
     @classmethod
-    def init_validated_testset_item(cls, usecase, i):
+    def get_validated_testset_item(cls, usecase, i):
         if usecase not in cls.validated_testsets:
             raise Exception(f"Invalid Usecase \"{ usecase }\".")
         
         if not cls.validated_testsets.get(usecase).get(str(i)):
-            cls.validated_testsets[usecase][str(i)] = cls.testset_item_template
+            return None
+        
+        raw_item = cls.validated_testsets.get(usecase).get(str(i))
+
+        return TestsetItem(
+            raw_item.get(TESTSET_HALLUCINATIONS_ART_KW), 
+            raw_item.get(TESTSET_GENERIERTE_QUERY_KW), 
+            raw_item.get(TESTSET_PROVOKATIONS_ERLAEUTERUNG_KW),
+            raw_item.get(TESTSET_GROUND_TRUTH_ANTWORT_KW),
+            raw_item.get(TESTSET_ABGERUFENE_QUELLEN_KW)
+        )
     
+    @classmethod
+    def save_validated_testset_item(cls, usecase, i, item):
+        if usecase not in cls.validated_testsets:
+            raise Exception(f"Invalid Usecase \"{ usecase }\".")
+        
+        cls.validated_testsets[usecase][str(i)] = {}
+        cls.validated_testsets[usecase][str(i)][TESTSET_HALLUCINATIONS_ART_KW] = item.halluzinations_art
+        cls.validated_testsets[usecase][str(i)][TESTSET_GENERIERTE_QUERY_KW] = item.generierte_query
+        cls.validated_testsets[usecase][str(i)][TESTSET_PROVOKATIONS_ERLAEUTERUNG_KW] = item.provokations_erlaeuterung
+        cls.validated_testsets[usecase][str(i)][TESTSET_GROUND_TRUTH_ANTWORT_KW] = item.generierte_ground_truth_antwort
+        cls.validated_testsets[usecase][str(i)][TESTSET_ABGERUFENE_QUELLEN_KW] = item.abgerufene_quellen
+
         save_validated_testsets(cls.validated_testsets)
-    
-    @classmethod
-    def get_validated_query(cls, usecase, i):
-        return cls.validated_testset.get(usecase).get(str(i)).get(TESTSET_VALIDATION_QUERY_KW)
-    
-    @classmethod
-    def get_validated_expected_answer(cls, usecase, i):
-        return cls.validated_testset.get(usecase).get(str(i)).get(TESTSET_VALIDATION_EXPECTED_ANSWER_KW)
-    
-    @classmethod
-    def get_validated_references(cls, usecase, i):
-        return cls.validated_testset.get(usecase).get(str(i)).get(TESTSET_VALIDATION_REFERENCES_KW)
-    
-    @classmethod
-    def set_validated_query(cls, usecase, i, query):
-        cls.validated_testset[usecase][str(i)][TESTSET_VALIDATION_QUERY_KW] = query
-        save_validated_testsets(cls.validated_testset)
-    
-    @classmethod
-    def set_validated_expected_answer(cls, usecase, i, validated_answer):
-        cls.validated_testset[usecase][str(i)][TESTSET_VALIDATION_EXPECTED_ANSWER_KW] = validated_answer
-        save_validated_testsets(cls.validated_testset)
-    
-    @classmethod
-    def set_validated_references(cls, usecase, i, validated_ids):
-        cls.validated_testset[usecase][str(i)][TESTSET_VALIDATION_REFERENCES_KW] = validated_ids
-        save_validated_testsets(cls.validated_testset)
-
-    # Helper Data --------------------------------------------------------------
-
-    @classmethod
-    def init_helper_data_item(cls, usecase, i):
-        if usecase not in cls.helper_data:
-            raise Exception("Invalid Usecase.")
-        
-        if not cls.helper_data.get(usecase).get(str(i)):
-            cls.helper_data[usecase][str(i)] = cls.helper_data_item_template
-        
-        save_helper_data(cls.helper_data)
-    
-    @classmethod
-    def get_query_check(cls, usecase, i) -> tuple[list[bool], list[str]]:
-        return (
-            cls.helper_data.get(usecase).get(str(i)).get(TESTSET_HELPER_IS_QUERY_SUPPORTED_KW),
-            cls.helper_data.get(usecase).get(str(i)).get(TESTSET_HELPER_ALTERNATIVE_QUERIES_KW)
-        )
-
-    @classmethod
-    def get_factual_hallucination_check(cls, usecase, i) -> tuple[list[bool], list[str]]:
-        return (
-            cls.helper_data.get(usecase).get(str(i)).get(TESTSET_HELPER_IS_ANSWER_FACTUALLY_HALLUCINATED_KW),
-            cls.helper_data.get(usecase).get(str(i)).get(TESTSET_HELPER_ANSWER_FACTUALLY_WRONG_MESSAGES_KW)
-        )
-    
-    @classmethod
-    def get_structural_hallucination_check(cls, usecase, i) -> tuple[list[bool], list[str]]:
-        return (
-            cls.helper_data.get(usecase).get(str(i)).get(TESTSET_HELPER_IS_ANSWER_STRUCTURALLY_HALLUCINATED_KW),
-            cls.helper_data.get(usecase).get(str(i)).get(TESTSET_HELPER_ANSWER_STRUCTURALLY_HALLUCINATED_MESSAGES_KW)
-        )
-
-    @classmethod
-    def get_semantic_hallucination_check(cls, usecase, i) -> tuple[list[bool], list[str]]:
-        return (
-            cls.helper_data.get(usecase).get(str(i)).get(TESTSET_HELPER_IS_ANSWER_SEMANTICALLY_HALLUCINATED_KW),
-            cls.helper_data.get(usecase).get(str(i)).get(TESTSET_HELPER_ANSWER_SEMANTICALLY_HALLUCINATED_MESSAGES_KW)
-        )
-
-    @classmethod
-    def get_reasoning_error_hallucination_check(cls, usecase, i) -> tuple[list[bool], list[str]]:
-        return (
-            cls.helper_data.get(usecase).get(str(i)).get(TESTSET_HELPER_IS_ANSWER_REASONING_HALLUCINATED_KW),
-            cls.helper_data.get(usecase).get(str(i)).get(TESTSET_HELPER_ANSWER_REASONING_HALLUCINATED_MESSAGES_KW)
-        )
-    
-    @classmethod
-    def get_citation_hallucination_check(cls, usecase, i) -> tuple[list[bool], list[str]]:
-        return (
-            cls.helper_data.get(usecase).get(str(i)).get(TESTSET_HELPER_IS_ANSWER_CITATIONWISE_HALLUCINATED_KW),
-            cls.helper_data.get(usecase).get(str(i)).get(TESTSET_HELPER_ANSWER_CITATIONWISE_HALLUCINATED_MESSAGES_KW)
-        )
-    
-    @classmethod
-    def get_contextual_hallucination_check(cls, usecase, i) -> tuple[list[bool], list[str]]:
-        return (
-            cls.helper_data.get(usecase).get(str(i)).get(TESTSET_HELPER_IS_ANSWER_CONTEXTUALLY_HALLUCINATED_KW),
-            cls.helper_data.get(usecase).get(str(i)).get(TESTSET_HELPER_ANSWER_CONTEXTUALLY_HALLUCINATED_MESSAGES_KW)
-        )
-    
-    @classmethod
-    def get_extraction_hallucination_check(cls, usecase, i) -> tuple[list[bool], list[str]]:
-        return (
-            cls.helper_data.get(usecase).get(str(i)).get(TESTSET_HELPER_IS_ANSWER_EXTRACTIONWISE_HALLUCINATED_KW),
-            cls.helper_data.get(usecase).get(str(i)).get(TESTSET_HELPER_ANSWER_EXTRACTIONWISE_HALLUCINATED_MESSAGES_KW)
-        )
-    
-    @classmethod
-    def get_alternative_answers(cls, usecase, i) -> list[str]:
-        return cls.helper_data.get(usecase).get(str(i)).get(TESTSET_HELPER_ALTERNATIVE_ANSWERS_KW)
-
-    @classmethod
-    def get_get_sources(cls, usecase, i) -> list:
-        return cls.helper_data.get(usecase).get(str(i)).get(TESTSET_HELPER_SOURCES_KW)
-    
-    @classmethod
-    def set_query_check(cls, usecase, i, isQuerySupported_list: list[bool], alternativeQueries_list: list[str]):
-        print(isQuerySupported_list)
-        print("################################")
-        cls.helper_data[usecase][str(i)][TESTSET_HELPER_IS_QUERY_SUPPORTED_KW] = isQuerySupported_list
-        cls.helper_data[usecase][str(i)][TESTSET_HELPER_ALTERNATIVE_QUERIES_KW] = alternativeQueries_list
-        save_helper_data(cls.helper_data)
-
-    @classmethod
-    def set_factual_hallucination_check(cls, usecase, i, isAnswerFactuallyHallucinated, answerFactuallyWrongMessages):
-        cls.helper_data[usecase][str(i)][TESTSET_HELPER_IS_ANSWER_FACTUALLY_HALLUCINATED_KW] = isAnswerFactuallyHallucinated
-        cls.helper_data[usecase][str(i)][TESTSET_HELPER_ANSWER_FACTUALLY_WRONG_MESSAGES_KW] = answerFactuallyWrongMessages
-        save_helper_data(cls.helper_data)
-    
-    @classmethod
-    def set_structural_hallucination_check(cls, usecase, i, isAnswerStructurallyHallucinated, answerStructurallyHallucinatedMessages):
-        cls.helper_data[usecase][str(i)][TESTSET_HELPER_IS_ANSWER_STRUCTURALLY_HALLUCINATED_KW] = isAnswerStructurallyHallucinated
-        cls.helper_data[usecase][str(i)][TESTSET_HELPER_ANSWER_STRUCTURALLY_HALLUCINATED_MESSAGES_KW] = answerStructurallyHallucinatedMessages
-        save_helper_data(cls.helper_data)
-
-    @classmethod
-    def set_semantic_hallucination_check(cls, usecase, i, isAnswerSemanticallyHallucinated, answerSemanticallyHallucinatedMessages):
-        cls.helper_data[usecase][str(i)][TESTSET_HELPER_IS_ANSWER_SEMANTICALLY_HALLUCINATED_KW] = isAnswerSemanticallyHallucinated
-        cls.helper_data[usecase][str(i)][TESTSET_HELPER_ANSWER_SEMANTICALLY_HALLUCINATED_MESSAGES_KW] = answerSemanticallyHallucinatedMessages
-        save_helper_data(cls.helper_data)
-    
-    @classmethod
-    def set_reasoning_error_hallucination_check(cls, usecase, i, isAnswerReasoningHallucinated, answerReasoningHallucinatedMessages):
-        cls.helper_data[usecase][str(i)][TESTSET_HELPER_IS_ANSWER_REASONING_HALLUCINATED_KW] = isAnswerReasoningHallucinated
-        cls.helper_data[usecase][str(i)][TESTSET_HELPER_ANSWER_REASONING_HALLUCINATED_MESSAGES_KW] = answerReasoningHallucinatedMessages
-        save_helper_data(cls.helper_data)
-    
-    @classmethod
-    def set_citation_hallucination_check(cls, usecase, i, isAnswerCitationwiseHallucinated, answerCitationwiseHallucinatedMessages):
-        cls.helper_data[usecase][str(i)][TESTSET_HELPER_IS_ANSWER_CITATIONWISE_HALLUCINATED_KW] = isAnswerCitationwiseHallucinated
-        cls.helper_data[usecase][str(i)][TESTSET_HELPER_ANSWER_CITATIONWISE_HALLUCINATED_MESSAGES_KW] = answerCitationwiseHallucinatedMessages
-        save_helper_data(cls.helper_data)
-    
-    @classmethod
-    def set_contextual_hallucination_check(cls, usecase, i, isAnswerContextuallyHallucinated, answerContextuallyHallucinatedMessages):
-        cls.helper_data[usecase][str(i)][TESTSET_HELPER_IS_ANSWER_CONTEXTUALLY_HALLUCINATED_KW] = isAnswerContextuallyHallucinated
-        cls.helper_data[usecase][str(i)][TESTSET_HELPER_ANSWER_CONTEXTUALLY_HALLUCINATED_MESSAGES_KW] = answerContextuallyHallucinatedMessages
-        save_helper_data(cls.helper_data)
-    
-    @classmethod
-    def set_extraction_hallucination_check(cls, usecase, i, isAnswerExtractionwiseHallucinated, answerExtractionwiseHallucinatedMessages):
-        cls.helper_data[usecase][str(i)][TESTSET_HELPER_IS_ANSWER_EXTRACTIONWISE_HALLUCINATED_KW] = isAnswerExtractionwiseHallucinated
-        cls.helper_data[usecase][str(i)][TESTSET_HELPER_ANSWER_EXTRACTIONWISE_HALLUCINATED_MESSAGES_KW] = answerExtractionwiseHallucinatedMessages
-        save_helper_data(cls.helper_data)
-    
-    @classmethod
-    def set_alternative_answers(cls, usecase, i, alternativeAnswers):
-        cls.helper_data[usecase][str(i)][TESTSET_HELPER_ALTERNATIVE_ANSWERS_KW] = alternativeAnswers
-        save_helper_data(cls.helper_data)
-    
-    @classmethod
-    def set_sources(cls, usecase, i, sources):
-        cls.helper_data[usecase][str(i)][TESTSET_HELPER_SOURCES_KW] = sources
-        save_helper_data(cls.helper_data)

@@ -3,6 +3,7 @@ import json
 
 from rag_pipeline.constants import (
     TESTSET_PATH,
+    USECASES_PERSONAS_PATH,
     TESTSET_VALIDATED_PATH, 
     TESTSET_TEST_ITEM_TEMPLATE_PATH, 
     TESTSET_HELPER_DATA,
@@ -20,6 +21,15 @@ def load_original_testsets() -> dict[str, list]:
     return data
 
 def load_validated_testsets() -> dict[str, list]:
+    if not os.path.exists(TESTSET_VALIDATED_PATH):
+        usecases = []
+        with open(USECASES_PERSONAS_PATH) as f:
+            usecase_personas = json.load(f)
+            usecases = [usecase for usecase in usecase_personas]
+                
+        with open(TESTSET_VALIDATED_PATH, "w", encoding="utf-8") as f:
+            json.dump({usecase: {} for usecase in usecases}, f)
+
     with open(TESTSET_VALIDATED_PATH, "r", encoding="utf-8") as f:
         return json.load(f)
 
